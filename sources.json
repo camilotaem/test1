@@ -16,7 +16,30 @@
       }
     ]
   },
-    {
+  {
+    "platform": "google",
+    "items": [
+      {
+        "name": "denuncias_juris",
+        "url": "https://support.google.com/youtube/answer/9996224?hl=pt-BR",
+        "content_selector": ".article-container",
+        "title_selector": ""
+      },
+      {
+        "name": "politicas_denuncia",
+        "url": "https://support.google.com/youtube/answer/9563682?hl=pt-BR",
+        "content_selector": ".article-container",
+        "title_selector": ""
+      },
+      {
+        "name": "politicas_orgs_crimes",
+        "url": "https://support.google.com/youtube/answer/9229472?hl=pt-BR",
+        "content_selector": ".article-container",
+        "title_selector": ""
+      }
+    ]
+  },  
+  {
     "platform": "kwai",
     "items": [
       {
@@ -34,19 +57,19 @@
       {
         "name": "verif_contas",
         "url": "https://www.kwai.com/pt-BR/safety?id=verify",
-        "content_selector": "#app",
+        "content_selector": "[data-slot-id='u_Ke2BP']",
         "title_selector": "#u_EoSlk"
       },
       {
         "name": "politica_eleitoral",
         "url": "https://www.kwai.com/pt-BR/safety?id=election",
-        "content_selector": "#app",
+        "content_selector": ".common-rich-text",
         "title_selector": ""
       },
       {
         "name": "diretrizes_comuni",
         "url": "https://www.kwai.com/pt-BR/safety?id=community",
-        "content_selector": "#app",
+        "content_selector": ".common-rich-text",
         "title_selector": ""
       }
     ]
