@@ -30,9 +30,171 @@
         "url": "https://www.tiktok.com/safety/pt-BR/community-support/countering-hate",
         "content_selector": ".space-LGbj21.space-5xl-Mse6I5.article-container-ft09ib",
         "title_selector": ".space-LGbj21.space-lg-nZfVPU"
+      },
+      {
+        "name": "contas_recursos",
+        "url": "https://www.tiktok.com/safety/pt-BR/policies-and-engagement/accounts-features",
+        "content_selector": ".space-LGbj21.space-5xl-Mse6I5.article-container-ft09ib",
+        "title_selector": ".space-LGbj21.space-lg-nZfVPU"
+      },
+      {
+        "name": "combate_odio",
+        "url": "https://www.tiktok.com/safety/pt-BR/policies-and-engagement/combating-hate",
+        "content_selector": ".space-LGbj21.space-5xl-Mse6I5.article-container-ft09ib",
+        "title_selector": ".space-LGbj21.space-lg-nZfVPU"
+      },
+      {
+        "name": "combater_infos",
+        "url": "https://www.tiktok.com/safety/pt-BR/policies-and-engagement/combating-misinformation",
+        "content_selector": ".space-LGbj21.space-5xl-Mse6I5.article-container-ft09ib",
+        "title_selector": ".space-LGbj21.space-lg-nZfVPU"
+      },
+      {
+        "name": "combate_online",
+        "url": "https://www.tiktok.com/safety/pt-BR/policies-and-engagement/combating-violent-extremism",
+        "content_selector": ".space-LGbj21.space-5xl-Mse6I5.article-container-ft09ib",
+        "title_selector": ".space-LGbj21.space-lg-nZfVPU"
+      },
+      {
+        "name": "principio_comunidade",
+        "url": "https://www.tiktok.com/safety/pt-BR/policies-and-engagement/community-principles",
+        "content_selector": ".space-LGbj21.space-5xl-Mse6I5.article-container-ft09ib",
+        "title_selector": ".space-LGbj21.space-lg-nZfVPU"
+      },
+      {
+        "name": "abordagem_moderacao_conteudo",
+        "url": "https://www.tiktok.com/safety/pt-BR/policies-and-engagement/content-moderation",
+        "content_selector": ".space-LGbj21.space-5xl-Mse6I5.article-container-ft09ib",
+        "title_selector": ".space-LGbj21.space-lg-nZfVPU"
+      },
+      {
+        "name": "combatendo_influencia",
+        "url": "https://www.tiktok.com/safety/pt-BR/policies-and-engagement/countering-influence-operations",
+        "content_selector": ".space-LGbj21.space-5xl-Mse6I5.article-container-ft09ib",
+        "title_selector": ".space-LGbj21.space-lg-nZfVPU"
+      },
+      {
+        "name": "aplicacao",
+        "url": "https://www.tiktok.com/safety/pt-BR/policies-and-engagement/enforcement",
+        "content_selector": ".space-LGbj21.space-5xl-Mse6I5.article-container-ft09ib",
+        "title_selector": ".space-LGbj21.space-lg-nZfVPU"
+      },
+      {
+        "name": "integridade_autenticidade",
+        "url": "https://www.tiktok.com/safety/pt-BR/policies-and-engagement/integrity-authenticity",
+        "content_selector": ".space-LGbj21.space-5xl-Mse6I5.article-container-ft09ib",
+        "title_selector": ".space-LGbj21.space-lg-nZfVPU"
+      },
+      {
+        "name": "diretrizes_comunidade",
+        "url": "https://www.tiktok.com/safety/pt-BR/policies-and-engagement/overview",
+        "content_selector": ".space-LGbj21.space-5xl-Mse6I5.article-container-ft09ib",
+        "title_selector": ".space-LGbj21.space-lg-nZfVPU"
+      },
+      {
+        "name": "proteg_integrid_eleicoes",
+        "url": "https://www.tiktok.com/safety/pt-BR/policies-and-engagement/protecting-elections",
+        "content_selector": ".space-LGbj21.space-5xl-Mse6I5.article-container-ft09ib",
+        "title_selector": ".space-LGbj21.space-lg-nZfVPU"
+      },
+      {
+        "name": "seguranca_civilidade",
+        "url": "https://www.tiktok.com/safety/pt-BR/policies-and-engagement/safety-civility",
+        "content_selector": ".space-LGbj21.space-5xl-Mse6I5.article-container-ft09ib",
+        "title_selector": ".space-LGbj21.space-lg-nZfVPU"
+      },
+      {
+        "name": "guia_desinfo",
+        "url": "https://www.tiktok.com/safety/pt-BR/tools-and-guides/harmful-misinformation-guide",
+        "content_selector": ".space-LGbj21.space-5xl-Mse6I5.article-container-ft09ib",
+        "title_selector": ".space-LGbj21.space-lg-nZfVPU"
+      },
+      {
+        "name": "integridade_eleitoral",
+        "url": "https://www.tiktok.com/safety/pt-BR/transparency/br-election-hub",
+        "content_selector": ".space-LGbj21.space-5xl-Mse6I5.article-container-ft09ib",
+        "title_selector": ".space-LGbj21.space-lg-nZfVPU"
+      },
+      {
+        "name": "centro_transp_resp",
+        "url": "https://www.tiktok.com/safety/pt-BR/transparency/tac-dublin",
+        "content_selector": ".space-LGbj21.space-5xl-Mse6I5.article-container-ft09ib",
+        "title_selector": ".space-LGbj21.space-lg-nZfVPU"
+      },
+      {
+        "name": "comportamentos_enganosos",
+        "url": "https://www.tiktok.com/safety/pt-BR/transparency/tc-blog-3",
+        "content_selector": ".space-LGbj21.space-5xl-Mse6I5.article-container-ft09ib",
+        "title_selector": ".space-LGbj21.space-lg-nZfVPU"
+      },
+      {
+        "name": "politica_gov_eleicoes",
+        "url": "https://ads.tiktok.com/help/article/tiktok-ads-policy-politics-government-and-elections/?lang=pt-BR",
+        "content_selector": ".article_wrapper_slug_content",
+        "title_selector": ".article_wrapper_slug_title"
+      },
+      {
+        "name": "politica_cont_enganoso",
+        "url": "https://ads.tiktok.com/help/article/tiktok-ads-policy-misleading-and-false-content?lang=pt-BR",
+        "content_selector": ".article_wrapper_slug_content",
+        "title_selector": ".article_wrapper_slug_title"
+      },
+      {
+        "name": "desinfo",
+        "url": "https://ads.tiktok.com/help/article/tiktok-ads-policy-misinformation?lang=pt-BR",
+        "content_selector": ".article_wrapper_slug_content",
+        "title_selector": ".article_wrapper_slug_title"
+      },
+      {
+        "name": "praticas_enganosas",
+        "url": "https://ads.tiktok.com/help/article/tiktok-ads-policy-deceptive-practices?lang=pt-BR",
+        "content_selector": ".article_wrapper_slug_content",
+        "title_selector": ".article_wrapper_slug_title"
+      },
+      {
+        "name": "discriminacao_assedio_intimidacao",
+        "url": "https://ads.tiktok.com/help/article/discrimination-harassment-bullying?lang=pt-BR",
+        "content_selector": ".article_wrapper_slug_content",
+        "title_selector": ".article_wrapper_slug_title"
+      },
+      {
+        "name": "anunciantes_ags_gov",
+        "url": "https://ads.tiktok.com/help/article/government-agency-advertisers?lang=pt-BR",
+        "content_selector": ".article_wrapper_slug_content",
+        "title_selector": ".article_wrapper_slug_title"
+      },
+      {
+        "name": "anunciantes_estado",
+        "url": "https://ads.tiktok.com/help/article/state-affiliated-media-advertisers?lang=pt-BR",
+        "content_selector": ".article_wrapper_slug_content",
+        "title_selector": ".article_wrapper_slug_title"
+      },
+      {
+        "name": "politica_shop",
+        "url": "https://seller-br.tiktok.com/university/essay?identity=1&role=2&knowledge_id=1413208980588305&from=policy",
+        "content_selector": ".converted-html",
+        "title_selector": ".article-title"
+      },
+      {
+        "name": "conteudo_proibido_plataforma",
+        "url": "https://seller-br.tiktok.com/university/essay?identity=1&role=2&knowledge_id=4557942784296721&from=policy",
+        "content_selector": ".converted-html",
+        "title_selector": ".article-title"
+      },
+      {
+        "name": "violacoes_banimento",
+        "url": "https://www.tiktok.com/support/faq_detail?category=web_privacy_user_safety&id=7543604781940791864",
+        "content_selector": ".rt_root-MuMiEM",
+        "title_selector": ".main_title-Vhewzi"
+      },
+      {
+        "name": "codigo_conduta",
+        "url": "https://www.tiktok.com/support/faq_detail?category=web_privacy_user_safety&id=7543604783417137669",
+        "content_selector": ".rt_root-MuMiEM",
+        "title_selector": ".main_title-Vhewzi"
       }
     ]
-  },  
+  },
   {
     "platform": "twitter_x",
     "items": [
