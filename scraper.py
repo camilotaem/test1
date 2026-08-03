@@ -67,7 +67,7 @@ def run_scraper():
                 # -------------------------
                 # 1. SNAPSHOT (HTML bruto)
                 # -------------------------
-                snapshot_path = f"snapshots/{platform}/{name}_{timestamp}.html"
+                snapshot_path = f"snapshots/{platform}/{name}/{name}_{timestamp}.html"
                 with open(snapshot_path, "w", encoding="utf-8") as f:
                     f.write(html)
     
@@ -92,7 +92,7 @@ def run_scraper():
                 clean_html += str(content)
                 clean_html += "</div>"
     
-                rendered_path = f"rendered/{platform}/{name}_{timestamp}.html"
+                rendered_path = f"rendered/{platform}/{name}/{name}_{timestamp}.html"
                 with open(rendered_path, "w", encoding="utf-8") as f:
                     f.write(clean_html)
     
@@ -101,7 +101,7 @@ def run_scraper():
                 # -------------------------
                 markdown_content = md(clean_html, heading_style="ATX").strip()
     
-                version_path = f"versions/{platform}/{name}.md"
+                version_path = f"versions/{platform}/{name}/{name}.md"
                 with open(version_path, "w", encoding="utf-8") as f:
                     f.write(markdown_content)
     
