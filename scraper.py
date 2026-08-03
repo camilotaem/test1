@@ -19,10 +19,10 @@ def run_scraper():
 
         for source in sources:
             platform = source["platform"]
-            name = source["name"]
-            url = source["url"]
-            content_selector = source["content_selector"]
-            title_selector = source.get("title_selector")
+            name = source["items"]["name"]
+            url = source["items"]["url"]
+            content_selector = source["items"]["content_selector"]
+            title_selector = source["items"]["title_selector"]
 
             print(f"Rodando: {platform} - {name}")
 
