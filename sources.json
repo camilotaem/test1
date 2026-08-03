@@ -36,9 +36,123 @@
         "url": "https://support.google.com/youtube/answer/9229472?hl=pt-BR",
         "content_selector": ".article-container",
         "title_selector": ""
+      },
+      {
+        "name": "politicas_links_externos",
+        "url": "https://support.google.com/youtube/answer/9054257?hl=pt-BR",
+        "content_selector": ".article-container",
+        "title_selector": ""
+      },
+      {
+        "name": "resolver_probs",
+        "url": "https://support.google.com/youtube/answer/6395024?hl=pt-BR",
+        "content_selector": ".article-container",
+        "title_selector": ""
+      },
+      {
+        "name": "politica_engaj_falso",
+        "url": "https://support.google.com/youtube/answer/3399767?hl=pt-BR",
+        "content_selector": ".article-container",
+        "title_selector": ""
+      },
+      {
+        "name": "politica_assedio_bullying",
+        "url": "https://support.google.com/youtube/answer/2802268?hl=pt-BR",
+        "content_selector": ".article-container",
+        "title_selector": ""
+      },
+      {
+        "name": "encerrar_conta",
+        "url": "https://support.google.com/youtube/answer/2802168?hl=pt-BR",
+        "content_selector": ".article-container",
+        "title_selector": ""
+      },
+      {
+        "name": "conceitos_comunis",
+        "url": "https://support.google.com/youtube/answer/2802032?hl=pt-BR",
+        "content_selector": ".article-container",
+        "title_selector": ""
+      },
+      {
+        "name": "denunciar_conteudos",
+        "url": "https://support.google.com/youtube/answer/2802027?hl=pt-BR",
+        "content_selector": ".article-container",
+        "title_selector": ""
+      },
+      {
+        "name": "politicas_cont_violento",
+        "url": "https://support.google.com/youtube/answer/2802008?hl=pt-BR",
+        "content_selector": ".article-container",
+        "title_selector": ""
+      },
+      {
+        "name": "politica_spam",
+        "url": "https://support.google.com/youtube/answer/2801973?hl=pt-BR",
+        "content_selector": ".article-container",
+        "title_selector": ""
+      },
+      {
+        "name": "politica_cont_perigoso",
+        "url": "https://support.google.com/youtube/answer/2801964?hl=pt-BR",
+        "content_selector": ".article-container",
+        "title_selector": ""
+      },
+      {
+        "name": "politica_disc_odio",
+        "url": "https://support.google.com/youtube/answer/2801939?hl=pt-BR",
+        "content_selector": ".article-container",
+        "title_selector": ""
+      },
+      {
+        "name": "difamacao",
+        "url": "https://support.google.com/youtube/answer/6154230?hl=pt-BR",
+        "content_selector": ".article-container",
+        "title_selector": ""
+      },
+      {
+        "name": "contest_diretrizes_comunis",
+        "url": "https://support.google.com/youtube/answer/185111?hl=pt-BR",
+        "content_selector": ".article-container",
+        "title_selector": ""
+      },
+      {
+        "name": "detec_semelhanca",
+        "url": "https://support.google.com/youtube/answer/16440338?hl=pt-BR",
+        "content_selector": ".article-container",
+        "title_selector": ""
+      },
+      {
+        "name": "politica_desinfo_saude",
+        "url": "https://support.google.com/youtube/answer/13813322?hl=pt-BR",
+        "content_selector": ".article-container",
+        "title_selector": ""
+      },
+      {
+        "name": "resp_restricoes",
+        "url": "https://support.google.com/youtube/answer/13304628?hl=pt-BR",
+        "content_selector": ".article-container",
+        "title_selector": ""
+      },
+      {
+        "name": "politica_desinfo_eleicoes",
+        "url": "https://support.google.com/youtube/answer/10835034?hl=pt-BR",
+        "content_selector": ".article-container",
+        "title_selector": ""
+      },
+      {
+        "name": "politica_desinfo",
+        "url": "https://support.google.com/youtube/answer/10834785?hl=pt-BR",
+        "content_selector": ".article-container",
+        "title_selector": ""
+      },
+      {
+        "name": "denunciar_anuncios",
+        "url": "https://support.google.com/youtube/answer/10684207?hl=pt-BR",
+        "content_selector": ".article-container",
+        "title_selector": ""
       }
     ]
-  },  
+  },
   {
     "platform": "kwai",
     "items": [
