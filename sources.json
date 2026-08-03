@@ -17,6 +17,23 @@
     ]
   },
   {
+    "platform": "meta_fb",
+    "items": [
+      {
+        "name": "bullying_assedio",
+        "url": "https://transparency.meta.com/pt-br/policies/community-standards/bullying-harassment/",
+        "content_selector": ".x1motxo8",
+        "title_selector": ".x1motxo8.x1dg8jwx.x1makfk1.x1yxlzaz.xsp84uj.x128awbb.x1366vqa.x1u49cmg.xakorsv.xcxolhg.x1t02irq.xml9wff.x17di7lz.x1hhp1i.x1i6xp69.xrm5b87.x12429cg.x6tc29j.xbq7h4v.x6jdkww.xq9mrsl.x1a2a7pz.x6094ms"
+      },
+      {
+        "name": "orgs_inds_perigosos",
+        "url": "https://transparency.meta.com/pt-br/policies/community-standards/dangerous-individuals-organizations/",
+        "content_selector": ".x1motxo8",
+        "title_selector": ".x1motxo8.x1dg8jwx.x1makfk1.x1yxlzaz.xsp84uj.x128awbb.x1366vqa.x1u49cmg.xakorsv.xcxolhg.x1t02irq.xml9wff.x17di7lz.x1hhp1i.x1i6xp69.xrm5b87.x12429cg.x6tc29j.xbq7h4v.x6jdkww.xq9mrsl.x1a2a7pz.x6094ms"
+      }
+    ]
+  },  
+  {
     "platform": "tiktok",
     "items": [
       {
