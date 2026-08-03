@@ -22,7 +22,7 @@
       {
         "name": "uso_indevido_nomeusuario",
         "url": "https://help.x.com/pt/rules-and-policies/x-username-squatting",
-        "content_selector": ".b02-rich-text-v2 twtr-rte-v2 twtr-component twtr-component--first",
+        "content_selector": "[class='b02-rich-text-v2 twtr-rte-v2 twtr-component twtr-component--first']",
         "title_selector": ".b01__item"
       },
       {
