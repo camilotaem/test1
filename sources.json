@@ -8,7 +8,7 @@
   },
   {
     "platform": "telegram",
-    "name": "pol_privacy",
+    "name": "privacy_policy",
     "url": "https://telegram.org/privacy/br",
     "content_selector": "#dev_page_content",
     "title_selector": "#dev_page_title"
