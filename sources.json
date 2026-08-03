@@ -90,6 +90,18 @@
         "url": "https://about.fb.com/news/2019/03/combatting-vaccine-misinformation/",
         "content_selector": "div.entry-content",
         "title_selector": "h1.entry-title uk-margin-remove-top ui-display2"
+      },
+      {
+        "name": "conteudo_interessante",
+        "url": "https://transparency.meta.com/pt-br/features/approach-to-newsworthy-content/",
+        "content_selector": "div#mdc-main-content",
+        "title_selector": "h1.x1motxo8.x1dg8jwx.x1makfk1.x1yxlzaz.xsp84uj.x128awbb.x1366vqa.x1u49cmg.xakorsv.xcxolhg.x1t02irq.xml9wff.x17di7lz.x1hhp1i.x1i6xp69.xrm5b87.x12429cg.x6tc29j.xbq7h4v.x6jdkww.xq9mrsl.x1mzt3pk.x1vvkbs.x1a2a7pz.x6094ms"
+      },
+      {
+        "name": "anuncios_politica",
+        "url": "https://transparency.meta.com/pt-br/policies/ad-standards/SIEP-advertising/SIEP/",
+        "content_selector": "div#Hoje-tabpanel",
+        "title_selector": "h1.x1motxo8.x1dg8jwx.x1makfk1.x1yxlzaz.xsp84uj.x128awbb.x1366vqa.x1u49cmg.xakorsv.xcxolhg.x1t02irq.xml9wff.x17di7lz.x1hhp1i.x1i6xp69.xrm5b87.x12429cg.x6tc29j.xbq7h4v.x6jdkww.xq9mrsl.x1a2a7pz.x6094ms"
       }      
     ]
   },  
