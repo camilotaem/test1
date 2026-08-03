@@ -2,7 +2,7 @@ name: Run Scraper
 
 on:
   schedule:
-    - cron: "25 6 * * *" # 11:00 no Brasil (UTC-3)
+    - cron: "30 6 * * *" # 11:00 no Brasil (UTC-3)
   workflow_dispatch:
 
 permissions:
