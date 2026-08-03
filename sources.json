@@ -60,7 +60,7 @@
         "url": "https://www.linkedin.com/help/linkedin/answer/a1425416?lang=pt-BR",
         "content_selector": "[data-test-selector='article']",
         "title_selector": "[data-test-selector='heading-container']"
-      },      
+      }
     ]
   }
 ]
