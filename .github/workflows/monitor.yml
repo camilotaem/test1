@@ -1,0 +1,52 @@
+name: Run Scraper
+
+on:
+  schedule:
+    - cron: "40 5 * * *" # 11:00 no Brasil (UTC-3)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run-scraper:
+    runs-on: self-hosted
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Prepare venv and install dependencies
+        run: |
+          if [ ! -d ".venv" ]; then
+            python3 -m venv .venv
+          fi
+
+          source .venv/bin/activate
+
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
+          python -m playwright install chromium
+
+      - name: Run scraper
+        run: |
+          source .venv/bin/activate
+          python scraper.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "actions@github.com"
+          git config --local commit.gpgsign false
+
+          # força HTTPS 
+          git remote set-url origin https://github.com/${{ github.repository }}.git
+
+          git add snapshots/ rendered/ versions/
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Daily audit: $(date +'%Y-%m-%d')"
+            git push
+          fi
