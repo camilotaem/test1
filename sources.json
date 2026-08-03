@@ -9,10 +9,21 @@
         "title_selector": "#dev_page_title"
       },
       {
-        "name": "privacy_policy",
+        "name": "politica_privacidade",
         "url": "https://telegram.org/privacy/br",
         "content_selector": "#dev_page_content",
         "title_selector": "#dev_page_title"
+      }
+    ]
+  },
+  {
+    "platform": "linkedin",
+    "items": [
+      {
+        "name": "assedio_cont_abusivo",
+        "url": "https://www.linkedin.com/help/linkedin/answer/a1342756/",
+        "content_selector": "#page-width-content article-details-content",
+        "title_selector": "#heading-title"
       }
     ]
   }
