@@ -17,6 +17,125 @@
     ]
   },
   {
+    "platform": "twitter_x",
+    "items": [
+      {
+        "name": "uso_indevido_nomeusuario",
+        "url": "https://help.x.com/pt/rules-and-policies/x-username-squatting",
+        "content_selector": ".b02-rich-text-v2 twtr-rte-v2 twtr-component twtr-component--first",
+        "title_selector": ".b01__item"
+      },
+      {
+        "name": "regras_x",
+        "url": "https://help.x.com/pt/rules-and-policies/x-rules",
+        "content_selector": ".b02-rich-text-v2 twtr-rte-v2 twtr-component twtr-component--first",
+        "title_selector": ".b01__item"
+      },
+      {
+        "name": "etiquetas_gov_x",
+        "url": "https://help.x.com/pt/rules-and-policies/state-affiliated",
+        "content_selector": ".b02-rich-text-v2 twtr-rte-v2 twtr-component twtr-component--first",
+        "title_selector": ".b01__item"
+      },
+      {
+        "name": "conteudo_retido",
+        "url": "https://help.x.com/pt/rules-and-policies/post-withheld-by-country",
+        "content_selector": ".b02-rich-text-v2 twtr-rte-v2 twtr-component twtr-component--first",
+        "title_selector": ".b01__item"
+      },
+      {
+        "name": "politica_infoprivada_midia",
+        "url": "https://help.x.com/pt/rules-and-policies/personal-information",
+        "content_selector": ".b02-rich-text-v2 twtr-rte-v2 twtr-component twtr-component--first",
+        "title_selector": ".b01__item"
+      },
+      {
+        "name": "bloq_links",
+        "url": "https://help.x.com/pt/safety-and-security/phishing-spam-and-malware-links",
+        "content_selector": ".b02-rich-text-v2 twtr-rte-v2 twtr-component twtr-component--first",
+        "title_selector": ".b01__item"
+      },
+      {
+        "name": "medidas_corretivas",
+        "url": "https://help.x.com/pt/rules-and-policies/enforcement-options",
+        "content_selector": ".b02-rich-text-v2 twtr-rte-v2 twtr-component twtr-component--first",
+        "title_selector": ".b01__item"
+      },
+      {
+        "name": "politica_falsificacao",
+        "url": "https://help.x.com/pt/rules-and-policies/counterfeit-goods-policy",
+        "content_selector": ".b02-rich-text-v2 twtr-rte-v2 twtr-component--last twtr-component",
+        "title_selector": ".b01__item"
+      },
+      {
+        "name": "abuso_assedio",
+        "url": "https://help.x.com/pt/rules-and-policies/abusive-behavior",
+        "content_selector": ".b02-rich-text-v2 twtr-rte-v2 twtr-component twtr-component--first",
+        "title_selector": ".b01__item"
+      },
+      {
+        "name": "info_perfil_abusiva",
+        "url": "https://help.x.com/pt/rules-and-policies/abusive-profile",
+        "content_selector": ".b02-rich-text-v2 twtr-rte-v2 twtr-component twtr-component--first",
+        "title_selector": ".b01__item"
+      },
+      {
+        "name": "excecoes_x",
+        "url": "https://help.x.com/pt/rules-and-policies/public-interest",
+        "content_selector": ".b02-rich-text-v2 twtr-rte-v2 twtr-component twtr-component--first",
+        "title_selector": ".b01__item"
+      },
+      {
+        "name": "politica_ataques_violentos",
+        "url": "https://help.x.com/pt/rules-and-policies/perpetrators-of-violent-attacks",
+        "content_selector": ".b02-rich-text-v2 twtr-rte-v2 twtr-component twtr-component--first",
+        "title_selector": ".b01__item"
+      },
+      {
+        "name": "politica_infoenganosa_covid",
+        "url": "https://help.x.com/pt/rules-and-policies/medical-misinformation-policy",
+        "content_selector": ".b02-rich-text-v2 twtr-rte-v2 twtr-component twtr-component--first",
+        "title_selector": ".b01__item"
+      },
+      {
+        "name": "conduta_propag_odio",
+        "url": "https://help.x.com/pt/rules-and-policies/hateful-conduct-policy",
+        "content_selector": ".b02-rich-text-v2 twtr-rte-v2 twtr-component twtr-component--first",
+        "title_selector": ".b01__item"
+      },
+      {
+        "name": "politica_entidades_odio",
+        "url": "https://help.x.com/pt/rules-and-policies/violent-entities",
+        "content_selector": ".b02-rich-text-v2 twtr-rte-v2 twtr-component twtr-component--first",
+        "title_selector": ".b01__item"
+      },
+      {
+        "name": "politica_orgs_violentas",
+        "url": "https://help.x.com/pt/rules-and-policies/violent-groups",
+        "content_selector": ".b02-rich-text-v2 twtr-rte-v2 twtr-component twtr-component--first",
+        "title_selector": ".b01__item"
+      },
+      {
+        "name": "integridade_civica",
+        "url": "https://help.x.com/pt/rules-and-policies/election-integrity-policy",
+        "content_selector": ".ct01__wrapper    ",
+        "title_selector": ".twtr-type--bold-700r"
+      },
+      {
+        "name": "conteudo_violento",
+        "url": "https://help.x.com/pt/rules-and-policies/violent-content",
+        "content_selector": ".ct01__wrapper    ",
+        "title_selector": ".twtr-type--bold-700r"
+      },
+      {
+        "name": "autenticidade",
+        "url": "https://help.x.com/pt/rules-and-policies/authenticity",
+        "content_selector": ".ct01__wrapper    ",
+        "title_selector": ".twtr-type--bold-700r"
+      }
+    ]
+  },  
+  {
     "platform": "google",
     "items": [
       {
