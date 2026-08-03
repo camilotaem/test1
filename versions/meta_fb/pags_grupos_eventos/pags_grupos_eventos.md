@@ -1,0 +1,36 @@
+1. [#### Criação e uso](https://www.facebook.com/policies_center/pages_groups_events/creation_and_use)
+
+   Não crie Páginas, Grupos ou Eventos para finalidades que violem nossos [Padrões da Comunidade](/communitystandards/). Você deve garantir que o conteúdo que cria ou permite que seja criado esteja em conformidade com esses padrões. Usar repetidamente o conteúdo de outras pessoas sem a atribuição devida não é permitido. Poderemos tomar [medidas](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fenforcement%2Ftaking-action%2Fremoving-pages-groups&h=AUA-XJSYukxTX4MhUhMIXQ-wjsVegmsSNJL3IZ57M7MabnuLOHqutG3rM8RPg5HYL7bTyqRSJIxXG8xm0LH2hr_1s2TyxsVOVgZ_kgYgYN9Nn74vMw7YIZt6AlEql5d82Gc_nDae36JSQQ) contra Páginas, Grupos e Eventos se eles parecerem ter sido criados para finalidades que violam nossas políticas ou quando são usados para violá-las de forma recorrente ou grave. Quando removemos uma Página, um Grupo ou um Evento por violar nossas políticas, seus administradores não podem criar novas Páginas, novos Grupos ou novos Eventos com o mesmo assunto ou assuntos semelhantes no futuro.
+2. [#### Nomes](https://www.facebook.com/policies_center/pages_groups_events/names)
+
+   Não dê à sua Página, ao seu Grupo ou ao seu Evento um nome ou nome de usuário que contenha linguagem ofensiva ou que viole nossos [Padrões da Comunidade](/communitystandards/). Não altere o nome da sua Página, do seu Grupo ou do seu Evento de maneira que mude significativamente a finalidade deles. Não mescle duas Páginas caso tenham finalidades diferentes. Observe que existem restrições adicionais nos nomes de [Páginas](https://www.facebook.com/help/519912414718764) e [Eventos](https://www.facebook.com/help/152853131746337).
+3. #### Verificação
+
+   Não coloque uma marca de verificação autenticada na foto do perfil ou foto da capa em sua Página, seu Grupo ou seu Evento ou algo que, de qualquer outra forma, represente falsamente que o Facebook verificou ou autenticou sua Página, seu Grupo ou seu Evento.
+4. #### Jogos de azar
+
+   Não use uma Página, um Grupo ou um Evento para promover [jogos de azar online](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fad-standards%2Fcontent-specific-restrictions%2Fgambling&h=AUBoOPPrhQksLO7NJCMINUzkZtZca2bFEyNtRuOrklbpnNxffca3-cOY85LKQpS9PNkgTfURj4B_hnw8cmVlzJtHmP1Pbxrw32UBcTCYn5QTL2kqZsocli81e80dEnEhtCzqlBK1vJ7yPg) sem nossa permissão prévia por escrito. Essa proibição também é aplicável a jogos em que qualquer valor monetário seja exigido para jogar e que constitua parte do prêmio. Tipos comuns de atividades de jogos de azar ou de jogos em geral incluem apostas, loterias, rifas, cassinos, esportes de fantasia, bingo e pôquer.
+5. #### Tratamento para dependência de drogas e álcool
+
+   Não use uma Página, um Grupo ou um Evento para promover [clínicas de tratamento para dependência de drogas e álcool](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fad-standards%2Frestricted-goods-services%2Fdrug-alcohol-addiction-treatment&h=AUB-UncvrB7HAB1j-P8vjVm3apamT5mnKm5YcR1YnXJoySD14wn4OMgTSo6AG1JWqus6iixEr95B58Vdgx9731OJiYS1bK12qlbuAidlC9683gcgIN_lDOYcOvbxHDkRWbEYcLGCjkVLUA) sem nossa permissão prévia por escrito. Exigimos que as clínicas de tratamento de dependência de drogas e álcool sejam devidamente licenciadas antes de se qualificarem para serem promovidas no Facebook.
+6. #### Farmácias online
+
+   Não use uma Página, um Grupo ou um Evento para promover a venda de medicamentos de venda sob prescrição médica por meio de uma [farmácia online](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fad-standards%2Fcontent-specific-restrictions%2Fonline-pharmacies&h=AUARJa6dPK8KMFfheyTlq6XAT2V8ZRLmPgsYXrAMH1sbJ2qGhzoJtCO2Z77p3WsCMnt8olmK_8lTH-iApVzI4VpDSHsENp8jlhpbc6tnRKLMfKaSVOgyjp8XD-EdvOpleGnzdTQ36DjDZQ) sem nossa permissão prévia por escrito. Exigimos que as farmácias online sejam devidamente licenciadas antes de se qualificarem para serem promovidas no Facebook.
+7. #### Promoções
+
+   Se você usar sua Página, seu Grupo ou seu Evento para anunciar ou administrar uma promoção, como um concurso ou sorteio, você deve garantir que sua promoção esteja em conformidade com os requisitos legais e regulamentares aplicáveis (por exemplo: fornecer aos participantes uma cópia das regras oficiais da promoção, divulgar os termos da oferta e os requisitos de qualificação e registrar sua promoção junto às autoridades competentes). Você também deve exigir que os participantes (a) isentem totalmente a Meta de responsabilidades e (b) reconheçam que a promoção não é, de forma alguma, patrocinada, endossada, administrada por ou associada à Meta. Sua promoção não deve exigir ou incentivar os participantes a compartilhar, repostar, marcar outras pessoas ou, de qualquer outra forma, divulgá-la. Observe que a Meta não auxiliará você a veicular uma promoção. Se você usar nossos serviços para veicular sua promoção, fará isso por sua conta e risco.
+8. #### Coleta de dados
+
+   Caso queira coletar conteúdo ou informações de pessoas que interagem com sua Página, seu Grupo ou seu Evento (exemplo: informações obtidas com um botão de chamada para ação), você deve primeiro enviar um aviso a elas. As pessoas de quem você coleta conteúdos ou informações devem dar o consentimento explícito para seu uso dos dados delas. Você deve explicar claramente que você (e não a Meta) está coletando esses dados.
+9. #### Insights sobre a Página
+
+   O tratamento de dados para os Insights sobre a Página no Espaço Econômico Europeu ou no Reino Unido pode estar sujeito ao [Adendo do Controlador dos Insights sobre a Página (Page Insights Controller Addendum)](https://www.facebook.com/legal/terms/page_controller_addendum/), que está incorporado a estas políticas por referência.
+10. #### Conteúdo de marca
+
+    Se você recebeu algo de valor para promover produtos ou serviços de outra pessoa em sua Página, seu Grupo ou seu Evento, é necessário cumprir nossas [Políticas de Conteúdo de Marca](https://www.facebook.com/business/help/150067102332664) para divulgar a natureza comercial do seu conteúdo.
+11. #### Convites e custos de eventos
+
+    Você deve divulgar, de forma clara e evidente, quaisquer ações ou despesas necessárias para comparecer a um Evento ou participar dele, incluindo quaisquer taxas ou encargos incidentais relacionados ao custo declarado de entrada. Os convites para eventos não devem ser gerados por meios automatizados.
+12. #### Conformidade legal
+
+    Páginas, Grupos e Eventos não devem promover atividades, produtos ou serviços ilegais. Você é responsável por garantir que sua Página, seu Grupo ou seu Evento cumpram todas as leis, estatutos e regulamentos aplicáveis, incluindo aqueles relacionados à promoção de atividades e substâncias com restrição de idade. Você é a única pessoa responsável por incluir todas as divulgações necessárias em sua Página, seu Grupo ou seu Evento, incluindo aquelas exigidas para indicar a natureza comercial do conteúdo que você pode publicar.
