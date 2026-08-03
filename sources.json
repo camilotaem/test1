@@ -16,6 +16,41 @@
       }
     ]
   },
+    {
+    "platform": "kwai",
+    "items": [
+      {
+        "name": "relat_transp",
+        "url": "https://www.kwai.com/pt-BR/safety?id=transparency_8",
+        "content_selector": ".trans",
+        "title_selector": ".common__big-title"
+      },
+      {
+        "name": "gerenciar_conteudo",
+        "url": "https://www.kwai.com/pt-BR/safety?id=content_con",
+        "content_selector": ".right-main",
+        "title_selector": ".controls-r-top-title"
+      },
+      {
+        "name": "verif_contas",
+        "url": "https://www.kwai.com/pt-BR/safety?id=verify",
+        "content_selector": "#app",
+        "title_selector": "#u_EoSlk"
+      },
+      {
+        "name": "politica_eleitoral",
+        "url": "https://www.kwai.com/pt-BR/safety?id=election",
+        "content_selector": "#app",
+        "title_selector": ""
+      },
+      {
+        "name": "diretrizes_comuni",
+        "url": "https://www.kwai.com/pt-BR/safety?id=community",
+        "content_selector": "#app",
+        "title_selector": ""
+      },
+    ]
+  },
   {
     "platform": "linkedin",
     "items": [
