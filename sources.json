@@ -22,9 +22,45 @@
       {
         "name": "assedio_cont_abusivo",
         "url": "https://www.linkedin.com/help/linkedin/answer/a1342756/",
-        "content_selector": "#page-width-content article-details-content",
-        "title_selector": "#heading-title"
-      }
+        "content_selector": "[data-test-selector='article']",
+        "title_selector": "[data-test-selector='heading-title']"
+      },
+      {
+        "name": "cont_falso_enganoso",
+        "url": "https://www.linkedin.com/help/linkedin/answer/137371",
+        "content_selector": "[data-test-selector='article']",
+        "title_selector": "[data-test-selector='heading-title']"
+      },
+      {
+        "name": "spam",
+        "url": "https://www.linkedin.com/help/linkedin/answer/a1338787/",
+        "content_selector": "[data-test-selector='article']",
+        "title_selector": "[data-test-selector='heading-title']"
+      },
+      {
+        "name": "cont_violento_grafico",
+        "url": "https://www.linkedin.com/help/linkedin/answer/a1336770?lang=pt-BR",
+        "content_selector": "[data-test-selector='article']",
+        "title_selector": "[data-test-selector='heading-title']"
+      },
+      {
+        "name": "orgs_inds_perigosos",
+        "url": "https://www.linkedin.com/help/linkedin/answer/a1342780/",
+        "content_selector": "[data-test-selector='article']",
+        "title_selector": "[data-test-selector='heading-container']"
+      },
+      {
+        "name": "cont_odio_depreciativo",
+        "url": "https://www.linkedin.com/help/linkedin/answer/a1339812/",
+        "content_selector": "[data-test-selector='article']",
+        "title_selector": "[data-test-selector='heading-container']"
+      },
+      {
+        "name": "desinfo_comp_enganoso",
+        "url": "https://www.linkedin.com/help/linkedin/answer/a1425416?lang=pt-BR",
+        "content_selector": "[data-test-selector='article']",
+        "title_selector": "[data-test-selector='heading-container']"
+      },      
     ]
   }
 ]
