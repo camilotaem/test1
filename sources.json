@@ -22,14 +22,14 @@
       {
         "name": "prevencao_bullying",
         "url": "https://www.tiktok.com/safety/pt-BR/community-support/bullying-prevention",
-        "content_selector": ".space-LGbj21 space-5xl-Mse6I5 article-container-ft09ib",
-        "title_selector": ".space-LGbj21 space-lg-nZfVPU"
+        "content_selector": ".space-LGbj21.space-5xl-Mse6I5.article-container-ft09ib",
+        "title_selector": ".space-LGbj21.space-lg-nZfVPU"
       },
       {
         "name": "combater_odio",
         "url": "https://www.tiktok.com/safety/pt-BR/community-support/countering-hate",
-        "content_selector": ".space-LGbj21 space-5xl-Mse6I5 article-container-ft09ib",
-        "title_selector": ".space-LGbj21 space-lg-nZfVPU"
+        "content_selector": ".space-LGbj21.space-5xl-Mse6I5.article-container-ft09ib",
+        "title_selector": ".space-LGbj21.space-lg-nZfVPU"
       }
     ]
   },  
@@ -39,13 +39,13 @@
       {
         "name": "uso_indevido_nomeusuario",
         "url": "https://help.x.com/pt/rules-and-policies/x-username-squatting",
-        "content_selector": "div.b02-rich-text-v2 twtr-rte-v2 twtr-component twtr-component--first",
+        "content_selector": ".b02-rich-text-v2.twtr-rte-v2.twtr-component.twtr-component--first",
         "title_selector": ".b01__item"
       },
       {
         "name": "regras_x",
         "url": "https://help.x.com/pt/rules-and-policies/x-rules",
-        "content_selector": "div.b02-rich-text-v2 twtr-rte-v2 twtr-component twtr-component--first",
+        "content_selector": ".b02-rich-text-v2.twtr-rte-v2.twtr-component.twtr-component--first",
         "title_selector": ".b01__item"
       },
       {
