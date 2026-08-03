@@ -5,5 +5,12 @@
     "url": "https://telegram.org/tos/br",
     "content_selector": "#dev_page_content",
     "title_selector": "#dev_page_title"
+  },
+  {
+    "platform": "telegram",
+    "name": "pol_privacy",
+    "url": "https://telegram.org/privacy/br",
+    "content_selector": "#dev_page_content",
+    "title_selector": "#dev_page_title"
   }
 ]
