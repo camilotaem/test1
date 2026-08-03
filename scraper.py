@@ -59,9 +59,9 @@ def run_scraper():
             # -------------------------
             # Cria estrutura de pastas
             # -------------------------
-            os.makedirs(f"snapshots/{platform}", exist_ok=True)
-            os.makedirs(f"rendered/{platform}", exist_ok=True)
-            os.makedirs(f"versions/{platform}", exist_ok=True)
+            os.makedirs(f"snapshots/{platform}/{name}", exist_ok=True)
+            os.makedirs(f"rendered/{platform}/{name}", exist_ok=True)
+            os.makedirs(f"versions/{platform}/{name}", exist_ok=True)
 
             # -------------------------
             # 1. SNAPSHOT (HTML bruto)
