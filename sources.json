@@ -2,18 +2,18 @@
   {
     "platform": "telegram",
     "items": [
-        {
-          "name": "terms",
-          "url": "https://telegram.org/tos/br",
-          "content_selector": "#dev_page_content",
-          "title_selector": "#dev_page_title"
-        },
-        {
-          "name": "privacy_policy",
-          "url": "https://telegram.org/privacy/br",
-          "content_selector": "#dev_page_content",
-          "title_selector": "#dev_page_title"
-        }
+      {
+        "name": "terms",
+        "url": "https://telegram.org/tos/br",
+        "content_selector": "#dev_page_content",
+        "title_selector": "#dev_page_title"
+      },
+      {
+        "name": "privacy_policy",
+        "url": "https://telegram.org/privacy/br",
+        "content_selector": "#dev_page_content",
+        "title_selector": "#dev_page_title"
+      }
     ]
   }
 ]
