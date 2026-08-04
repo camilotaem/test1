@@ -17,6 +17,17 @@
     ]
   },
   {
+    "platform": "youtube",
+    "items": [
+      {
+        "name": "expand_deteccao_semelhanca",
+        "url": "https://blog.youtube/intl/pt-br/news-and-events/expandindo-deteccaodesemelhancas/",
+        "content_selector": "div.yt-article-main-content",
+        "title_selector": "h1#jump-content"
+      },
+    ]
+  },
+  {
     "platform": "meta_fb",
     "items": [
       {
@@ -126,6 +137,36 @@
         "url": "https://transparency.meta.com/pt-br/policies/community-standards/authentic-identity-representation/",
         "content_selector": "div#Hoje-tabpanel",
         "title_selector": "h1.x1motxo8 x1dg8jwx x1makfk1.x1yxlzaz.xsp84uj.x128awbb.x1366vqa.x1u49cmg.xakorsv.xcxolhg.x1t02irq.xml9wff.x17di7lz.x1hhp1i.x1i6xp69.xrm5b87.x12429cg.x6tc29j.xbq7h4v.x6jdkww.xq9mrsl.x1a2a7pz.x6094ms"
+      },
+      {
+        "name": "expansao_engaj_desinfo_transp",
+        "url": "https://transparency.meta.com/pt-br/policies/improving/expanding-engagement-misinformation-and-transparency/",
+        "content_selector": "main#mdc-main-content",
+        "title_selector": "h1.x1motxo8.x1dg8jwx.x1makfk1.x1yxlzaz.xsp84uj.x128awbb.x1366vqa.x1u49cmg.xakorsv.xcxolhg.x1t02irq.xml9wff.x17di7lz.x1hhp1i.x1i6xp69.xrm5b87.x12429cg.x6tc29j.xbq7h4v.x6jdkww.xq9mrsl.x1a2a7pz.x6094ms"
+      },
+      {
+        "name": "violacao_priv",
+        "url": "https://transparency.meta.com/pt-br/policies/ad-standards/objectionable-content/privacy-violations-personal-attributes/",
+        "content_selector": "div#Hoje-tabpanel",
+        "title_selector": "h1.x1motxo8.x1dg8jwx.x1makfk1.x1yxlzaz.xsp84uj,x128awbb.x1366vqa.x1u49cmg.xakorsv.xcxolhg.x1t02irq.xml9wff.x17di7lz.x1hhp1i.x1i6xp69.xrm5b87.x12429cg.x6tc29j.xbq7h4v.x6jdkww.xq9mrsl.x1a2a7pz.x6094ms"
+      },
+      {
+        "name": "coord_atos_crime",
+        "url": "https://transparency.meta.com/pt-br/policies/community-standards/coordinating-harm-promoting-crime/",
+        "content_selector": "div#Hoje-tabpanel",
+        "title_selector": "h1.x1motxo8.x1dg8jwx.x1makfk1.x1yxlzaz.xsp84uj.x128awbb.x1366vqa.x1u49cmg.xakorsv.xcxolhg.x1t02irq.xml9wff.x17di7lz.x1hhp1i.x1i6xp69.xrm5b87.x12429cg.x6tc29j.xbq7h4v.x6jdkww.xq9mrsl.x1a2a7pz.x6094ms"
+      },
+      {
+        "name": "conduta_odio",
+        "url": "https://transparency.meta.com/pt-br/policies/community-standards/hateful-conduct/",
+        "content_selector": "div#Hoje-tabpanel",
+        "title_selector": "h1.x1motxo8.x1dg8jwx.x1makfk1.x1yxlzaz.xsp84uj.x128awbb.x1366vqa.x1u49cmg.xakorsv.xcxolhg.x1t02irq.xml9wff.x17di7lz.x1hhp1i.x1i6xp69.xrm5b87.x12429cg.x6tc29j.xbq7h4v.x6jdkww.xq9mrsl.x1a2a7pz.x6094ms"
+      },
+      {
+        "name": "desinfo",
+        "url": "https://transparency.meta.com/pt-br/policies/community-standards/misinformation/",
+        "content_selector": "div#Hoje-tabpanel",
+        "title_selector": "h1.x1motxo8.x1dg8jwx.x1makfk1.x1yxlzaz.xsp84uj.x128awbb.x1366vqa.x1u49cmg.xakorsv.xcxolhg.x1t02irq.xml9wff.x17di7lz.x1hhp1i.x1i6xp69.xrm5b87.x12429cg.x6tc29j.xbq7h4v.x6jdkww.xq9mrsl.x1a2a7pz.x6094ms"
       }      
     ]
   },  
