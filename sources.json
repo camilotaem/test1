@@ -24,7 +24,7 @@
         "url": "https://blog.youtube/intl/pt-br/news-and-events/expandindo-deteccaodesemelhancas/",
         "content_selector": "div.yt-article-main-content",
         "title_selector": "h1#jump-content"
-      },
+      }
     ]
   },
   {
