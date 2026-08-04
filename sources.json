@@ -53,6 +53,78 @@
         "url": "https://faq.whatsapp.com/3379690015658337/?helpref=hc_fnav&cms_platform=web",
         "content_selector": "div.x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x2lah0s.x193iq5w.x13ihpsm.x1xzm06s.xqui205",
         "title_selector": "h1.html-h1.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x1vvkbs.x1heor9g.x1qlqyl8.x1pd3egz.x1a2a7pz"
+      },
+      {
+        "name": "deunciar_bloq_conta_whatsapp",
+        "url": "https://faq.whatsapp.com/414631957536067/?helpref=hc_fnav&cms_platform=web",
+        "content_selector": "div.x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x2lah0s.x193iq5w.x13ihpsm.x1xzm06s.xqui205",
+        "title_selector": "h1.html-h1.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x1vvkbs.x1heor9g.x1qlqyl8.x1pd3egz.x1a2a7pz"
+      },
+      {
+        "name": "seg_grupo_whatsapp",
+        "url": "https://faq.whatsapp.com/424124173736394/?helpref=hc_fnav&cms_platform=web",
+        "content_selector": "div.x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x2lah0s.x193iq5w.x13ihpsm.x1xzm06s.xqui205",
+        "title_selector": "h1.html-h1.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x1vvkbs.x1heor9g.x1qlqyl8.x1pd3egz.x1a2a7pz"
+      },
+      {
+        "name": "disseminacao_desinfo",
+        "url": "https://faq.whatsapp.com/431498999157251/?helpref=uf_share",
+        "content_selector": "div.x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x2lah0s.x193iq5w.x13ihpsm.x1xzm06s.xqui205",
+        "title_selector": "h1.html-h1.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x1vvkbs.x1heor9g.x1qlqyl8.x1pd3egz.x1a2a7pz"
+      },
+      {
+        "name": "comunidades_seguras_privadas",
+        "url": "https://faq.whatsapp.com/458610306367976/",
+        "content_selector": "div.x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x2lah0s.x193iq5w.x13ihpsm.x1xzm06s.xqui205",
+        "title_selector": "h1.html-h1.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x1vvkbs.x1heor9g.x1qlqyl8.x1pd3egz.x1a2a7pz"
+      },
+      {
+        "name": "banimento_contas",
+        "url": "https://faq.whatsapp.com/465883178708358/?locale=pt_BR&category=5245246",
+        "content_selector": "div.x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x2lah0s.x193iq5w.x13ihpsm.x1xzm06s.xqui205",
+        "title_selector": "h1.html-h1.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x1vvkbs.x1heor9g.x1qlqyl8.x1pd3egz.x1a2a7pz"
+      },
+      {
+        "name": "whatsapp_eleicoes",
+        "url": "https://faq.whatsapp.com/518562649771533/?locale=pt_BR",
+        "content_selector": "div.x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x2lah0s.x193iq5w.x13ihpsm.x1xzm06s.xqui205",
+        "title_selector": "h1.html-h1.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x1vvkbs.x1heor9g.x1qlqyl8.x1pd3egz.x1a2a7pz"
+      },
+      {
+        "name": "envio_msg_automatica_massa",
+        "url": "https://faq.whatsapp.com/5957850900902049/?helpref=uf_share",
+        "content_selector": "div.x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x2lah0s.x193iq5w.x13ihpsm.x1xzm06s.xqui205",
+        "title_selector": "h1.html-h1.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x1vvkbs.x1heor9g.x1qlqyl8.x1pd3egz.x1a2a7pz"
+      },
+      {
+        "name": "dados_pessoais_gov",
+        "url": "https://faq.whatsapp.com/808280033839222/?helpref=uf_share",
+        "content_selector": "div.x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x2lah0s.x193iq5w.x13ihpsm.x1xzm06s.xqui205",
+        "title_selector": "h1.html-h1.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x1vvkbs.x1heor9g.x1qlqyl8.x1pd3egz.x1a2a7pz"
+      },
+      {
+        "name": "bloq_admins_grupo",
+        "url": "https://faq.whatsapp.com/841324506880320/?helpref=hc_fnav&cms_platform=web",
+        "content_selector": "div.x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x2lah0s.x193iq5w.x13ihpsm.x1xzm06s.xqui205",
+        "title_selector": "h1.html-h1.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x1vvkbs.x1heor9g.x1qlqyl8.x1pd3egz.x1a2a7pz"
+      },
+      {
+        "name": "diretrizes_canal",
+        "url": "https://www.whatsapp.com/legal/channels-guidelines/",
+        "content_selector": "div._9t2g _9t2c _a1fe",
+        "title_selector": ""
+      },
+      {
+        "name": "diretrizes_msg",
+        "url": "https://www.whatsapp.com/legal/messaging-guidelines/",
+        "content_selector": "div._9t2c _afhu",
+        "title_selector": ""
+      },
+      {
+        "name": "pol_whatsapp_business",
+        "url": "https://whatsappbusiness.com/pt-br/policy/",
+        "content_selector": "div.wp-block-group.alignfull.wp-pattern-content-left-aligned-header.is-style-default.is-layout-flow wp-block-group-is-layout-flow",
+        "title_selector": "h2#visao-geral"
       }      
     ]
   },  
