@@ -2,8 +2,6 @@
 
 Esse recurso permite que criadores encontrem vídeos no YouTube em que o rosto deles foi modificado ou gerado por IA. Quando algum conteúdo relevante é encontrado, os criadores podem analisar e decidir o que fazer, inclusive pedir a remoção pelo [processo para denúncia de violação de privacidade](/youtube/answer/142443). A Detecção de Semelhanças dá aos criadores mais controle sobre a própria imagem, protege a identidade deles e cuida do público.
 
-[Likeness Detection on YouTube](//www.youtube.com/watch?v=UcZth960DqM)
-
 ## Requisitos de qualificação
 
 No momento, a Detecção de Semelhanças é um recurso experimental e não está disponível em alguns países. Além disso, os criadores precisam atender aos seguintes critérios:
