@@ -1,0 +1,130 @@
+# Termos de Uso do Threads
+
+Boas-vindas ao Threads. Estes Termos de Uso do Threads (os “**Termos**”) regem seu uso do Serviço Threads (conforme definido abaixo) e complementam e emendam os [Termos de Uso do Instagram](https://help.instagram.com/581066165581870?helpref=faq_content) e os [Padrões da Comunidade da Meta](https://transparency.meta.com/policies/community-standards/) que estão incorporados a estes Termos por referência. O Serviço Threads foi criado pelo Instagram e é um dos **[Produtos da Meta](https://www.facebook.com/help/1561485474074139?helpref=faq_content)**, fornecido pela Meta Platforms, Inc. (“**Meta**”). Dependendo do seu país de residência, alguns aspectos do Serviço Threads podem ser de propriedade da Meta Platforms, Inc., da Meta Platforms Ireland Limited ou de suas afiliadas ou ainda operados ou controlados por elas. Os termos “conosco”, “nós” e “nosso” fazem referência à Meta Platforms, Inc., à Meta Platforms Ireland Limited ou às suas afiliadas, conforme apropriado. Todos os termos com letra inicial maiúscula usados, mas não definidos neste documento, têm os significados atribuídos nos Termos do Instagram. No caso de qualquer conflito entre estes Termos e termos separados que possam se aplicar a você, os primeiros Termos regerão unicamente seu uso do Serviço Threads e apenas na medida do conflito. Pelo uso do Serviço Threads, você concorda com estes Termos.
+
+**Resolução de conflitos caso a caso:** você e nós concordamos em resolver todas os conflitos decorrentes de ou relacionados a estes Termos ou ao Serviço Threads de acordo com a arbitragem e/ou com as cláusulas de eleição de foro competente em vigor nos [Termos de Uso do Instagram](https://help.instagram.com/581066165581870?helpref=faq_content) na data em que você ou nós iniciarmos o conflito.
+
+As definições a seguir referem-se a estes Termos:
+
+* “**Instagram**” refere-se ao “Serviço”, conforme definido nos Termos do Instagram.
+* “**Termos do Instagram**” refere-se aos [Termos de Uso do Instagram](https://help.instagram.com/581066165581870?helpref=faq_content).
+* “**Protocolo**” refere-se a um protocolo interoperável que permite que a rede social e outros serviços interajam com uma rede de servidores para facilitar a troca de conteúdo e de informações entre os usuários desses servidores e dessas interfaces. Para esclarecer, o Protocolo não faz parte do Serviço Threads nem de outros Produtos da Meta.
+* “**Conteúdo de Terceiros**” refere-se ao conteúdo e às informações compartilhados com um Servidor de Terceiros por usuários finais de um Serviço de Terceiros, mesmo que possa haver visualização ou interação com esse conteúdo no Serviço Threads.
+* “**Servidor de Terceiros**” refere-se a um servidor operado ou controlado por terceiros que esteja integrado ao Protocolo e que armazene conteúdo e informações carregados ou compartilhados por usuários dos Serviços de Terceiros. Para esclarecer, como o Protocolo é interoperável, o conteúdo e as informações em um Servidor de Terceiros poderão ser acessados e armazenados pelo Serviço Threads por meio do Protocolo como resultado da interação com o Serviço Threads.
+* “**Serviço de Terceiros**” refere-se a um serviço operado por terceiros que também interaja com o Protocolo para permitir que os usuários desse serviço carreguem, acessem, interajam com e compartilhem conteúdo e informações com uma comunidade de pessoas que usam os serviços integrados ao Protocolo.
+* “**Usuários de Terceiros**” refere-se aos usuários finais que acessam um Serviço de Terceiros por sites ou apps desse serviço.
+* “**Conteúdo do Threads**” refere-se ao conteúdo e às informações carregados ou enviados para um Servidor do Threads por um Usuário do Threads.
+* “**Servidor do Threads**” refere-se a um servidor operado ou controlado pela Meta que armazena conteúdo e informações carregados ou compartilhados por usuários do Serviço Threads e que pode ser integrado ao Protocolo. Para esclarecer, como o Protocolo é interoperável, se os recursos interoperáveis estiverem habilitados, o conteúdo e as informações em um Servidor do Threads poderão ser acessados e armazenados por Serviços de Terceiros como resultado do uso do Serviço Threads.
+* “**Serviço Threads**” refere-se ao app ou ao site do Threads que permite que Usuários do Threads compartilhem, visualizem e interajam com informações de outros Usuários do Threads e com qualquer conteúdo fornecido diretamente pela Meta por meio desse app ou site. O Serviço Threads tem recursos interoperáveis que, se habilitados, permitem que o Serviço Threads funcione como uma interface com o Protocolo para que os Usuários do Threads possam interagir com Usuários de Terceiros e Serviços de Terceiros também integrados ao Protocolo.
+* “**Usuários do Threads**” refere-se aos usuários finais que acessam o Serviço Threads pelo site ou app do serviço.
+
+1. **Entendendo o Serviço Threads**
+
+
+   a. **Funcionalidade não interoperável**
+
+
+   i. Com o Serviço Threads, você pode carregar, acessar e compartilhar conteúdo e informações com outras pessoas que o usam. Se você não tiver habilitado os recursos interoperáveis, o conteúdo ou as informações que você compartilhar serão armazenados nos Servidores do Threads, e a Meta não os compartilhará com Serviços de Terceiros, embora o conteúdo público ainda possa ser visto fora do Threads.
+
+   b. **Recursos interoperáveis**
+
+
+   i. O Serviço Threads tem recursos interoperáveis que, se habilitados, permitem que o Serviço Threads funcione como uma interface para você carregar, acessar, compartilhar e interagir com conteúdo e informações da comunidade de pessoas que usam os Serviços de Terceiros por meio do Protocolo. Os recursos interoperáveis continuarão a evoluir e nem sempre estarão disponíveis pelo Serviço Threads.
+
+   ii. Se você habilitar os recursos interoperáveis, a Meta compartilhará seu conteúdo, suas informações e suas interações com os Serviços de Terceiros. Lembre-se de que você está nos instruindo a fornecer suas informações para serviços não controlados pela Meta, conforme necessário para a integração com o Protocolo. Portanto, suas informações podem ser armazenadas e processadas pelos Serviços de Terceiros.
+
+   iii. Embora determinadas atividades no Serviço Threads possam depender do uso do Protocolo, ele é separado e independente do Serviço Threads e não é um Produto da Meta. A Meta não fornece, possui nem controla parte alguma do Protocolo e não terá nenhuma responsabilidade ou obrigação perante você por quaisquer elementos do Protocolo ou quaisquer Serviços de Terceiros com os quais você venha a interagir por meio dele. O Protocolo ou quaisquer Serviços de Terceiros relacionados podem estar sujeitos a termos e condições e/ou a políticas de privacidade diferentes. Leia-os com atenção se for usar ou acessar o Protocolo ou Serviços de Terceiros relacionados independentemente.
+2. **Quem pode usar o Serviço Threads**
+
+
+   a. Para usar o Serviço Threads, você deve estar em conformidade com estes Termos e com os demais [Termos do Instagram](https://help.instagram.com/581066165581870?helpref=faq_content). Para esclarecer, quaisquer disposições nos Termos do Instagram sobre quem pode usar o Instagram também se aplicarão ao seu uso do Serviço Threads.
+
+   b. Você se cadastrará e fará login no Serviço Threads usando sua conta do Instagram, do Facebook ou qualquer outra conta que escolher habilitar futuramente. Você é a única pessoa responsável por qualquer atividade no seu perfil e por manter a confidencialidade e a segurança da sua senha.
+
+   c. Para usar o Serviço Threads, podemos solicitar que forneça informações adicionais ou documentos referentes ao seu uso do Serviço Threads, conforme necessário para fornecer o serviço ou conforme as leis aplicáveis. Você concorda em fornecer essas informações ou documentos e declara e garante que todas as informações que fornecer à Meta serão precisas e atualizadas. Você reconhece que, durante esses procedimentos de verificação de identidade, poderemos fazer consultas, incluindo por meio de terceiros, para confirmar sua identidade.
+3. **O que não é permitido no Serviço Threads**
+
+
+   a. Você concorda que não deve, nem deve fazer com que ou permitir que terceiros o façam, ou tentar realizar uma das ações a seguir em relação ao seu uso do Serviço Threads: (i) explorar o Serviço Threads para fins comerciais de qualquer natureza; (ii) introduzir vírus, cavalos de Troia, worms, bombas lógicas ou outros materiais mal-intencionados ou tecnologicamente prejudiciais nos nossos sistemas; (iii) contornar, remover, alterar, desativar, degradar ou impedir qualquer medida tecnológica ou proteção de conteúdo do Serviço Threads; e (iv) usar robô, spider, rastreador, scraper ou outro dispositivo, processo, software ou consulta automático que intercepte, explore, extraia ou acesse o Serviço Threads para monitorar, extrair, copiar ou coletar informações ou dados desse serviço, nem se envolver em qualquer processo manual para fazer o mesmo.
+
+   b. Além disso, você concorda que os [Termos de Uso](https://help.instagram.com/581066165581870/?helpref=faq_content) do Instagram, incluindo a seção “Seus Compromissos”, também se aplica ao seu uso do Serviço Threads.
+4. **Conteúdo**
+
+
+   **a. Recursos e Ferramentas do Serviço Threads:**
+
+
+   i. Se você carregar ou compartilhar qualquer Conteúdo do Threads, por meio deste, você concede a nós uma licença internacional não exclusiva, livre de royalties, transferível e sublicenciável para hospedar, usar, distribuir, modificar, executar, copiar, apresentar ou exibir publicamente, traduzir e criar trabalhos derivados do seu Conteúdo do Threads (de acordo com a Política de Privacidade da Meta e com a Política de Privacidade Suplementar do Threads). Você também declara e garante que: (i) tem ou obteve todos os direitos, licenças, consentimentos, permissões, poder e/ou autoridade necessários (incluindo todos os direitos de propriedade intelectual) para conceder à Meta os direitos de uso do seu Conteúdo do Threads e (ii) seu Conteúdo do Threads não conterá materiais que violem os direitos de terceiros, incluindo todos os direitos de propriedade intelectual, nem qualquer lei aplicável, salvo em caso de exceção ou limitação da lei aplicável. Essa licença expirará quando seu Conteúdo do Threads for excluído do Servidor do Threads, sujeito às limitações de exclusão mencionadas a seguir.
+
+   ii. Ao usar o Serviço Threads, todo o conteúdo que você carregar ou compartilhar deverá estar em conformidade com os [Padrões da Comunidade da Meta](https://help.instagram.com/477434105621119?ref=igtos&helpref=faq_content).
+
+   b. **Recursos interoperáveis:** Se você habilitar recursos interoperáveis, a licença concedida na Seção 4(a) inerente ou relacionada ao seu Conteúdo do Threads também deverá incluir o direito de disponibilizar e compartilhar seu Conteúdo do Threads com Usuários de Terceiros e nos Serviços de Terceiros que também estejam integrados ao Protocolo. Você reconhece que, se você habilitar recursos interoperáveis, o Conteúdo do Threads poderá ser hospedado em um Servidor do Threads ou em um Servidor de Terceiros e que a Meta será a única responsável por esse conteúdo hospedado em um Servidor do Threads. Se você habilitar recursos interoperáveis, também reconhecerá que, após a exclusão, o Conteúdo do Threads poderá continuar armazenado e/ou arquivado em Servidores de Terceiros que tenham acessado esse conteúdo por meio do Protocolo, sobre os quais a Meta não tem controle.
+5. **Exclusão de conteúdo e desativação ou encerramento do uso do Serviço Threads**
+
+
+   a. **Recursos e Ferramentas do Serviço Threads:**
+
+
+   i. A Meta terá o direito de: (i) remover qualquer Conteúdo do Threads armazenado nos Servidores do Threads para que não seja acessado no Serviço Threads, se acreditar que esse conteúdo viola estes Termos ou os Termos do Instagram ou se tiver permissão ou necessidade para tal perante a lei aplicável, (ii) avisar os Servidores de Terceiros sobre as medidas de monitoramento tomadas em relação ao Conteúdo do Threads e (iii) tomar qualquer medida que julgar necessária ou apropriada se acreditar que algum Conteúdo do Threads viola os direitos de outros e/ou poderá gerar responsabilidade ou implicações legais ou regulatórias adversas para a Meta ou para outros Usuários do Threads.
+
+   ii. Até o limite permitido pela legislação aplicável, poderemos nos recusar a fornecer ou parar de fornecer, parcial ou integralmente, o Serviço Threads a você (incluindo encerrar ou desabilitar seu acesso ao Serviço Threads) sem aviso (ou após aviso cabível, quando exigido pela legislação aplicável), por qualquer motivo, incluindo para proteger nossa comunidade ou nossos serviços, incluindo outros Produtos da Meta, se você violar estes Termos ou os Termos do Instagram ou se tivermos permissão ou necessidade para tal perante a lei. Também podemos encerrar ou alterar o Serviço Threads ou parar de fornecê-lo, parcial ou integralmente, a nosso critério.
+
+   iii. Se você acreditar que seu acesso ao Serviço Threads foi encerrado por engano ou se quiser desabilitá-lo ou excluí-lo permanentemente, acesse nossa [Central de Ajuda](https://help.instagram.com/?ref=igtos).
+
+   iv. Quando você desativa seu perfil do Threads, suas informações do Threads não podem mais ser vistas pelos outros usuários, mas elas são mantidas nos Servidores do Threads. Para excluir suas informações, você pode localizar e excluir conteúdos individuais ou excluir seu perfil do Threads. Quando você solicita a [exclusão do seu perfil do Threads](https://help.instagram.com/313703828012423?helpref=faq_content), o processo de exclusão se inicia automaticamente até 30 dias após a solicitação. É possível que a exclusão das suas informações do Threads ocorra em até 90 dias após o início do processo de exclusão. Sujeitas à Seção 5(b) (Recursos interoperáveis) a seguir, durante o processo de exclusão, as informações excluídas não serão mais visíveis no Serviço Threads pelos Usuários do Threads, mas continuarão sujeitas a estes Termos e à Política de Privacidade Suplementar do Threads. Após a exclusão do Conteúdo do Threads dos Servidores do Threads, talvez demore mais 90 dias para removê-lo dos nossos sistemas de backup e de recuperação de desastres.
+
+   v. Se você optar por excluir suas informações, elas poderão não ser removidas dos servidores do Threads dentro do prazo de 90 dias se: 
+
+
+   a. seu Conteúdo do Threads tiver sido usado, copiado, repostado ou compartilhado por outras pessoas de acordo com estes Termos e elas não o tiverem excluído. Nesse caso, a licença continuará aplicável até que esse conteúdo seja excluído;
+
+   b. não puder ocorrer em até 90 dias devido a limitações técnicas dos nossos sistemas, incluindo os Servidores do Threads. Nesse caso, concluiremos a exclusão assim que for possível tecnicamente;
+
+   c. a exclusão restringir nossa capacidade de: (I) investigar ou identificar atividade ilegal ou violações dos nossos termos e políticas (por exemplo, para identificar ou investigar o uso indevido dos nossos produtos ou sistemas); (II) assegurar a proteção dos nossos produtos, sistemas e Usuários do Threads; (III) cumprir uma obrigação legal, como a preservação de provas; ou (IV) atender a uma solicitação de uma autoridade judicial ou administrativa, da polícia ou de um órgão público. Nesse caso, o conteúdo será mantido apenas pelo tempo necessário para os fins para os quais foi retido (a duração exata variará conforme o caso).
+
+   vi. Se você excluir ou se desabilitarmos seu perfil do Threads ou a conta do Instagram, do Facebook ou outra conta usada para se cadastrar no Serviço Threads, estes Termos levarão à dissolução do acordo entre nós e você. Contudo, esta seção e a seção contida nos Termos do Instagram denominada “Nosso Acordo e o que acontecerá se nós discordarmos” continuarão aplicáveis após o encerramento, a desabilitação ou a exclusão do seu perfil ou da sua conta.
+
+   **b. Recursos interoperáveis**
+
+
+   i. A Meta terá o direito de: (i) remover qualquer Conteúdo de Terceiros armazenado nos Servidores do Threads para que não seja acessado no Serviço Threads (a) se acreditar que esse conteúdo viola estes Termos ou os Termos do Instagram, (b) se tiver permissão ou necessidade para tal perante a legislação aplicável ou (c) por qualquer motivo, a seu critério exclusivo; (ii) tomar qualquer medida que julgar necessária ou apropriada se acreditar que algum Conteúdo de Terceiros viola os direitos de outros e/ou poderá gerar responsabilidade ou implicações legais ou regulatórias adversas para a Meta ou para outros Usuários do Threads.
+
+   ii. Você reconhece que qualquer Conteúdo do Threads ou de Terceiros removido ou tornado inacessível no Serviço Threads pela Meta, enquanto o Serviço Threads estiver integrado ao Protocolo, ainda poderá ser: (i) visualizado nos Serviços de Terceiros que acessaram tal conteúdo por meio do Protocolo ou (ii) armazenado nos Servidores de Terceiros, pois a Meta não tem controle sobre esses Serviços ou Servidores de Terceiros. Para dirimir dúvidas, você reconhece que a Meta só poderá excluir Conteúdo do Threads hospedado nos Servidores do Threads e não poderá remover nem excluir qualquer Conteúdo do Threads de quaisquer Serviços de Terceiros ou Servidores de Terceiros.
+6. **Privacidade**
+
+
+   a. Nossa [Política de Privacidade da Meta](https://privacycenter.instagram.com/policy/) e a [Política de Privacidade Suplementar do Threads](https://help.instagram.com/515230437301944?helpref=faq_content) explicam como coletamos, usamos e compartilhamos informações nos Produtos da Meta, incluindo no Serviço Threads. Para usar o Serviço Threads, você deve concordar com a Política de Privacidade e a Política de Privacidade Suplementar do Threads.
+7. **Política sobre a DMCA**
+
+
+   a. De acordo com a Digital Millennium Copyright Act (Lei dos Direitos Autorais do Milênio Digital, “**DMCA**”, pelas siglas em inglês) e outras leis aplicáveis, se você postar repetidamente conteúdo que viole os direitos de propriedade intelectual de outra pessoa, como direitos autorais ou marcas comerciais, seu acesso ao Serviço Threads poderá ser encerrado ou desabilitado, a nosso exclusivo critério, de acordo com a política para infratores reincidentes do Serviço Threads. Segundo essa política, você também poderá perder o acesso a determinados recursos ou funcionalidades do Serviço Threads. Também poderemos limitar e/ou encerrar o acesso ao Serviço Threads de quaisquer Usuários do Threads que violarem qualquer direito de propriedade intelectual de outras pessoas, mesmo que não seja uma violação recorrente. Essas providências, tomadas de acordo com essas políticas, podem depender da natureza do conteúdo denunciado e de onde foi postado.
+
+   b. Se você acreditar que algum Conteúdo do Threads ou de Terceiros disponível no Serviço Threads viola algum direito autoral que possui ou controla, apresente uma notificação sobre essa violação ao nosso agente designado, para o endereço a seguir:  
+     
+   Threads Designated Agent  
+    Meta Platforms, Inc.  
+   1 Meta Way  
+   Menlo Park, CA 94025  
+   Telefone: 1 (650) 543-4800  
+   Email: ip@instagram.com
+
+   c. Se você alegar consciente e indevidamente em sua notificação que o material ou atividade viola direitos autorais, poderá ter que se responsabilizar por quaisquer danos, incluindo custos e honorários advocatícios, incorridos por nós ou pelo suposto violador como resultado de nossa confiança nessa falsidade ideológica ao remover ou desativar o acesso ao material ou atividade considerada violadora de direitos autorais.
+8. **Propriedade**
+
+
+   a. Você reconhece e concorda que a Meta e seus licenciadores possuem todos os direitos, títulos e interesses inerentes ou relacionados ao Serviço Threads (que não seja qualquer Conteúdo do Threads). Você concorda que não removerá, alterará nem esconderá nenhum aviso de direito autoral, marca comercial, marca de serviço ou outros avisos de direitos proprietários incorporados ou que acompanhem o Serviço Threads. Para esclarecer, a Meta não possui nem controla o Protocolo ou quaisquer Serviços de Terceiros acessíveis por meio dele.
+9. **Responsabilidade da Meta perante você**
+
+
+   **a. A Meta não terá responsabilidade ou obrigação alguma perante você por (i) qualquer interação que você tenha com Usuários do Threads ou, dentro do limite aplicável, suas atividades em quaisquer Serviços de Terceiros ou interações com Usuários de Terceiros; (ii) qualquer Conteúdo do Threads que seja enviado a Serviços de Terceiros pelo Serviço Threads ou Conteúdo de Terceiros que seja enviado de Serviços de Terceiros para o Serviço Threads, incluindo qualquer obrigação de analisar ou remover esse conteúdo; e (iii) todas as atividades que ocorram fora do Serviço Threads, incluindo em quaisquer Serviços de Terceiros, referentes a dados ou informações acessados por meio do Serviço Threads.**
+10. **Indenização**
+
+
+    a. Você concorda em indenizar a Meta e suas controladoras, afiliadas, executivos, diretores, funcionários, agentes, representantes, sócios e licenciadores e defendê-los de toda e qualquer alegação, custo, danos, perdas, obrigações e despesas (incluindo honorários advocatícios) decorrentes de ou relacionados à sua interação com ou atividades nos Serviços de Terceiros por meio do Protocolo, se aplicável, incluindo qualquer Conteúdo do Threads que tenha sido enviado a qualquer Serviço de Terceiros ou armazenado em qualquer Servidor de Terceiros.
+11. **Atualizações**
+
+
+    a. Periodicamente, podemos modificar estes Termos. Nesse caso, atualizaremos a “Data da última atualização” no final destes Termos. Se fizermos mudanças substanciais, faremos o possível para fornecer a você um aviso por email e/ou um aviso no Serviço Threads antes de fazermos alterações nestes Termos, a menos que as alterações sejam necessárias para fins de segurança ou proteção ou para cumprir a legislação aplicável (nesse caso, avisaremos assim que for razoavelmente possível). Entretanto, é sua responsabilidade ler este Termos periodicamente para se informar sobre essas alterações. Os Termos atualizados entrarão em vigor na data da postagem ou em data posterior, conforme neles especificado. Seu acesso ou uso contínuo do Serviço Threads após a entrada em vigor das modificações será considerado sua aceitação dos Termos modificados.
+  
+
+Última atualização: 28 de maio de 2025

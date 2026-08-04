@@ -2,7 +2,7 @@
 
 ***Update on September 4, 2019 at 8AM PT:***We are starting to roll out more ways to connect people with authoritative information about vaccines on Facebook and Instagram.
 
-![](https://about.fb.com/wp-content/uploads/2019/03/updated-nrp-mocks.png?resize=960%2C793)![](https://about.fb.com/wp-content/plugins/post-media-zip/assets/downloadicon_arrowimg.png)Download image
+![](https://about.fb.com/wp-content/uploads/2019/03/updated-nrp-mocks.png?resize=960%2C793)![](https://about.fb.com/wp-content/plugins/post-media-zip/assets/downloadicon_arrow.png)Download image
 
 ***Originally published on March 7, 2019 at 12PM PT:***
 
