@@ -13,7 +13,13 @@
         "url": "https://telegram.org/privacy/br",
         "content_selector": "#dev_page_content",
         "title_selector": "#dev_page_title"
-      }
+      },
+      {
+        "name": "faq",
+        "url": "https://telegram.org/faq",
+        "content_selector": "div#dev_page_content",
+        "title_selector": "h1#dev_page_title"
+      }      
     ]
   },
   {
@@ -285,7 +291,13 @@
         "url": "https://transparency.meta.com/pt-br/policies/community-standards/misinformation/",
         "content_selector": "div#Hoje-tabpanel",
         "title_selector": "h1.x1motxo8.x1dg8jwx.x1makfk1.x1yxlzaz.xsp84uj.x128awbb.x1366vqa.x1u49cmg.xakorsv.xcxolhg.x1t02irq.xml9wff.x17di7lz.x1hhp1i.x1i6xp69.xrm5b87.x12429cg.x6tc29j.xbq7h4v.x6jdkww.xq9mrsl.x1a2a7pz.x6094ms"
-      }      
+      },
+      {
+        "name": "proc_analise_anuncio",
+        "url": "https://transparency.meta.com/policies/ad-standards/",
+        "content_selector": "div.xg0jo4d",
+        "title_selector": "div.x1motxo8.x1dg8jwx.x1makfk1.x1yxlzaz.xsp84uj.x128awbb.x1366vqa.x1u49cmg.xakorsv.xcxolhg.x1t02irq.xml9wff.x17di7lz.x1hhp1i.x1i6xp69.xrm5b87.x12429cg.x6tc29j.xbq7h4v.x6jdkww.xq9mrsl.x1a2a7pz.x6094ms"
+      }
     ]
   },  
   {
@@ -683,7 +695,25 @@
         "url": "https://www.linkedin.com/help/linkedin/answer/a1425416?lang=pt-BR",
         "content_selector": "[data-test-selector='article']",
         "title_selector": "[data-test-selector='heading-container']"
-      }
+      },
+      {
+        "name": "conteudo_proibido",
+        "url": "https://br.linkedin.com/legal/ads-policy?#D",
+        "content_selector": "div#D",
+        "title_selector": ""
+      },
+      {
+        "name": "conteudo_restrito",
+        "url": "https://br.linkedin.com/legal/ads-policy?#E",
+        "content_selector": "div#E",
+        "title_selector": ""
+      },
+      {
+        "name": "seguranca_privacidade",
+        "url": "https://br.linkedin.com/legal/ads-policy?#F",
+        "content_selector": "div#F",
+        "title_selector": ""
+      }      
     ]
   }
 ]
