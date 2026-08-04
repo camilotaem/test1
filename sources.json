@@ -111,19 +111,19 @@
       {
         "name": "diretrizes_canal",
         "url": "https://www.whatsapp.com/legal/channels-guidelines/",
-        "content_selector": "div._9t2g _9t2c _a1fe",
+        "content_selector": "div._9t2g._9t2c._a1fe",
         "title_selector": ""
       },
       {
         "name": "diretrizes_msg",
         "url": "https://www.whatsapp.com/legal/messaging-guidelines/",
-        "content_selector": "div._9t2c _afhu",
+        "content_selector": "div._9t2c._afhu",
         "title_selector": ""
       },
       {
         "name": "pol_whatsapp_business",
         "url": "https://whatsappbusiness.com/pt-br/policy/",
-        "content_selector": "div.wp-block-group.alignfull.wp-pattern-content-left-aligned-header.is-style-default.is-layout-flow wp-block-group-is-layout-flow",
+        "content_selector": "div.wp-block-group.alignfull.wp-pattern-content-left-aligned-header.is-style-default.is-layout-flow.wp-block-group-is-layout-flow",
         "title_selector": "h2#visao-geral"
       }      
     ]
