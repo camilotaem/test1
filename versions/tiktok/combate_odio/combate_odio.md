@@ -40,7 +40,7 @@ Investimos em ajudar as pessoas a personalizar sua experiência no TikTok e a ma
 
 + **Correspondência de palavras-chave:** fornecemos aos criadores a capacidade de filtrar facilmente comentários de ódio, simplesmente identificando palavras-chave de ódio que desejam remover em seu recurso de configuração.
 
-[![](//p16-ttark-useast8.tiktokcdn-us.com/tos-useast8-i-zr23xo8qx2-tx2/c14074a9a9e9e0b47b3b83e7498637aa.gif~tplv-zr23xo8qx2-default:0:0:q75.image)](https://p16-ttark-useast8.tiktokcdn-us.com/tos-useast8-i-zr23xo8qx2-tx2/c14074a9a9e9e0b47b3b83e7498637aa.gif~tplv-zr23xo8qx2-default:0:0:q75.image)
+[![](//p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/c14074a9a9e9e0b47b3b83e7498637aa.gif~tplv-1rzkm2vceq-default:0:0:q75.image)](https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/c14074a9a9e9e0b47b3b83e7498637aa.gif~tplv-1rzkm2vceq-default:0:0:q75.image)
 
 + [Modo Comentário Moderado](https://support.tiktok.com/en/safety-hc/account-and-user-safety/comment-care-mode): este recurso oferece aos criadores mais controle sobre a sua experiência, aplicando filtros adicionais para comentários que sejam:
 
@@ -48,20 +48,20 @@ Investimos em ajudar as pessoas a personalizar sua experiência no TikTok e a ma
 - Parecidos com os comentários que as pessoas já denunciaram, excluíram ou descurtiram.
 - Sinalizados ou denunciados por diversos indivíduos.
 
-[![](//p16-ttark-useast8.tiktokcdn-us.com/tos-useast8-i-zr23xo8qx2-tx2/b1065b98ef02b0d677e90b19cb32d0d3.png~tplv-zr23xo8qx2-default:0:0:q75.image)](https://p16-ttark-useast8.tiktokcdn-us.com/tos-useast8-i-zr23xo8qx2-tx2/b1065b98ef02b0d677e90b19cb32d0d3.png~tplv-zr23xo8qx2-default:0:0:q75.image)
+[![](//p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/b1065b98ef02b0d677e90b19cb32d0d3.png~tplv-1rzkm2vceq-default:0:0:q75.image)](https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/b1065b98ef02b0d677e90b19cb32d0d3.png~tplv-1rzkm2vceq-default:0:0:q75.image)
 
 * **Bloqueio em massa:** o TikTok permite aos criadores excluírem ou denunciarem vários comentários facilmente, ou bloquearem várias contas, pressionando e segurando um comentário ou tocando no ícone de lápis no canto superior esquerdo.
 
-[![](//p16-ttark-useast8.tiktokcdn-us.com/tos-useast8-i-zr23xo8qx2-tx2/accb235e6db699ac1401e0551c4b8169.png~tplv-zr23xo8qx2-default:0:0:q75.image)](https://p16-ttark-useast8.tiktokcdn-us.com/tos-useast8-i-zr23xo8qx2-tx2/accb235e6db699ac1401e0551c4b8169.png~tplv-zr23xo8qx2-default:0:0:q75.image)
+[![](//p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/accb235e6db699ac1401e0551c4b8169.png~tplv-1rzkm2vceq-default:0:0:q75.image)](https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/accb235e6db699ac1401e0551c4b8169.png~tplv-1rzkm2vceq-default:0:0:q75.image)
 
 * **Formas de ajustar [as recomendações de conteúdo](https://newsroom.tiktok.com/en-us/more-ways-for-our-community-to-enjoy-what-they-love):** esta ferramenta permite filtrar vídeos automaticamente com palavras ou hashtags que as pessoas não queiram visualizar nos feeds Para você ou Seguindo, inclusive linguagem que achem ofensiva ou de ódio.
 
-[![](//p16-ttark-useast8.tiktokcdn-us.com/tos-useast8-i-zr23xo8qx2-tx2/f629aa1c9af72c83ade677016df08e54.gif~tplv-zr23xo8qx2-default:0:0:q75.image)](https://p16-ttark-useast8.tiktokcdn-us.com/tos-useast8-i-zr23xo8qx2-tx2/f629aa1c9af72c83ade677016df08e54.gif~tplv-zr23xo8qx2-default:0:0:q75.image)
+[![](//p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/f629aa1c9af72c83ade677016df08e54.gif~tplv-1rzkm2vceq-default:0:0:q75.image)](https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/f629aa1c9af72c83ade677016df08e54.gif~tplv-1rzkm2vceq-default:0:0:q75.image)
 
 * [Guias](https://www.tiktok.com/safety/pt-BR/tools-and-guides) para ajudar nossa comunidade a aproveitar ao máximo esses recursos
 * **Rethink feature:** lançado em [2021](https://newsroom.tiktok.com/en-africa/filter-all-comments-rethink-feature-launch) e atualizado em 2025, esse recurso identifica quando um comentário pode ser ofensivo ou contraventor e exibe um pop-up para o autor, sugerindo uma abordagem mais gentil antes da publicação.
 
-[![](//p16-ttark-useast8.tiktokcdn-us.com/tos-useast8-i-zr23xo8qx2-tx2/cde05cfb79d7087d1a7bf58e4c55a0d0.png~tplv-zr23xo8qx2-default:0:0:q75.image)](https://p16-ttark-useast8.tiktokcdn-us.com/tos-useast8-i-zr23xo8qx2-tx2/cde05cfb79d7087d1a7bf58e4c55a0d0.png~tplv-zr23xo8qx2-default:0:0:q75.image)
+[![](//p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/cde05cfb79d7087d1a7bf58e4c55a0d0.png~tplv-1rzkm2vceq-default:0:0:q75.image)](https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/cde05cfb79d7087d1a7bf58e4c55a0d0.png~tplv-1rzkm2vceq-default:0:0:q75.image)
 
 ## **Conforme aprendemos mais, fazemos mais**
 
