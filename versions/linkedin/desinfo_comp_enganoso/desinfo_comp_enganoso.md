@@ -1,6 +1,6 @@
 # Desinformação e comportamento enganoso
 
-Última atualização: há há 1 dia
+Última atualização: há há 2 dias
 
 Para ajudar a manter o LinkedIn seguro, confiável e profissional, a nossa equipe interna de redatores de notícias experientes fornece notícias confiáveis sobre fatos atuais de fontes verificadas. Também trabalhamos para identificar e excluir a desinformação e o comportamento enganoso da nossa plataforma. Na medida em que continuamos a nos aprimorar, estamos empenhados em ajudar nossos membros a tomar decisões informadas sobre o conteúdo que encontram no LinkedIn; por isso, trabalhamos com a Microsoft para fornecer ferramentas que ajudem nossos membros a identificar conteúdos confiáveis, relevantes, autênticos e diversificados.
 
