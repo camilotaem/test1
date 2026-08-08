@@ -25,7 +25,6 @@ Se você acredita que você ou qualquer outra pessoa está em perigo iminente, e
 
 * Você não receberá ligações nem mensagens de números ou contatos bloqueados.
 * Caso você se preocupe que os contatos bloqueados saibam que você os bloqueou, leia [este artigo](https://faq.whatsapp.com/666362298345682?helpref=faq_content).
-* Se você mudar de número de telefone, mas continuar usando a mesma conta do WhatsApp, as pessoas que você bloqueou anteriormente continuarão bloqueadas. Saiba como mudar seu número de telefone [neste artigo](https://faq.whatsapp.com/498754122134583?helpref=faq_content).
 * Se você criar uma nova conta do WhatsApp, será necessário bloquear essas pessoas manualmente.
 * O contato bloqueado continua aparecendo na sua lista de contatos e você continua aparecendo na lista de contatos dessa pessoa. Para apagar um contato, você precisa apagá-lo da agenda de contatos do seu celular.
 
