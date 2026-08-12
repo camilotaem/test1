@@ -1,0 +1,738 @@
+<!DOCTYPE html><html data-tux-color-scheme="light" dir="ltr"><head><title>TikTok Support</title><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no,viewport-fit=cover,minimum-scale=1,maximum-scale=1,user-scalable=no"><meta http-equiv="x-ua-compatible" content="ie=edge"><meta name="renderer" content="webkit"><meta name="layoutmode" content="standard"><meta name="imagemode" content="force"><meta name="wap-font-scale" content="no"><meta name="format-detection" content="telephone=no"><script src="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok_privacy_protection_framework/loader/2.0.0.314/index.js" data-region="us-ttp" data-env="production" data-business="goofy-deploy-app-3651" async="" crossorigin="anonymous" data-sw="/sw.js" data-sw_version="1.0.0.89,2.0.0.4" nonce=""></script><script id="tiktok-environment" type="application/json">{"mssdk":{"js":"https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk/2.0.0.514/webmssdk.js","reportDomain":"mssdk.tiktokw.us"},"regionInfo":{"isBoe":false,"vgeo":"VGeo-US","vregion":"US-TTP"},"slardar":{"geckoPluginPrefix":"https://lf16-tiktok-common.tiktokcdn-us.com/obj/tiktok-web-common-tx/tiktok/fe/common/gando_libs/slardar-web/usttp/sdk/plugins","pluginPrefix":"https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/slardar/fe/sdk-web/plugins","reportDomain":"mon16-normal-useast5.tiktokv.us"},"starling":{"cdn":"https://sf-i18n-resources.tiktokcdn-us.com/obj/tiktok-webarch-solution-i18n-tx","zoneHost":"https://starling.tiktokv.us"},"tea":{"abDomain":"https://libraweb.tiktokw.us","reportDomain":"https://mcs.tiktokw.us"},"idc":"useast5","vdc":"useast5","region":"US-TTP","vregion":"US-TTP"}</script><script id="gfdatav1" type="application/json">{"env":"prod","envName":"prod","runtime":"node","ver":"2.0.0.242","canary":0,"idc":"useast5","region":"ttp","vdc":"useast5","vregion":"US-TTP","extra":{"canaryType":null}}</script><script defer="defer" src="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_csp_feedback/static/js/builder-runtime.08fdac20.js"></script><script defer="" src="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_csp_feedback/static/js/route-manifest-main.5208b84d.js"></script><script defer="defer" src="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_csp_feedback/static/js/lib-react.c6359eb0.js"></script><script defer="defer" src="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_csp_feedback/static/js/lib-router.5bab7404.js"></script><script defer="defer" src="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_csp_feedback/static/js/lib-axios.bab48645.js"></script><script defer="defer" src="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_csp_feedback/static/js/lib-polyfill.ce1ffc04.js"></script><script defer="defer" src="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_csp_feedback/static/js/argus-builder-strategy.16e3ad5e.js"></script><script defer="defer" src="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_csp_feedback/static/js/468.dc7c42df.js"></script><script defer="defer" src="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_csp_feedback/static/js/main.54f2991a.js"></script><link href="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_csp_feedback/static/css/468.c5e99ec8.css" rel="stylesheet"><link href="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_csp_feedback/static/css/main.656bf851.css" rel="stylesheet"><script type="application/json" id="_REGION_DATA_">{"_REGION_DATA_REGION_":"us","_REGION_DATA_PUBLIC_PATH_":"https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_csp_feedback/","_REGION_DATA_ENV_":"production","_REGION_DATA_SLARDAR_":{"bid":"tiktok_fe_csp_feedback","domain":"mon16-normal-useast5.tiktokv.us","pluginPathPrefix":"https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/slardar/fe/sdk-web/plugins","release":"2.0.0.242","env":"production"},"_REGION_DATA_TEA_":{"channel_domain":"https://mcs.tiktokw.us","config":{"release":"2.0.0.242"}},"_REGION_DATA_I18N_":{"version":"2.0.0.242","fallbackLangs":[],"apiZoneHost":"https://starling.tiktokv.us","dynamicCdn":"https://sf-i18n-resources.tiktokcdn-us.com/obj/tiktok-webarch-solution-i18n-tx","mode":"dynamic","namespaces":[{"spaceId":"2524","projectId":"71","spaceName":"Webapp"}]}}</script><script type="application/json" id="slardar-config">{"sdkUrl":"https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/slardar/fe/sdk-web/browser.oci.js","disableInit":true,"slardarClient":"SlardarWeb","bid":"tiktok_fe_csp_feedback"}</script><script src="https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/tiktok-infra/csp/sdk-pre/slardar.web.pre.js"></script><script src="https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/slardar/fe/sdk-web/browser.oci.js?bid=tiktok_fe_csp_feedback&amp;globalName=SlardarWeb" crossorigin="anonymous"></script><script src="https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/tiktok-infra/csp/sdk-pre/tea.pre.js"></script><script async="" src="https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/log-sdk/collect/5.2/collect.js"></script><link rel="stylesheet" type="text/css" href="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_csp_feedback/static/css/async/support/faq_detail/layout.b4834e28.css"><script src="https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/slardar/fe/sdk-web/plugins/common-monitors.1.16.8.js" crossorigin="anonymous"></script><link rel="stylesheet" type="text/css" href="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_csp_chatbot_vmok/static/css/async/lib-semi.05e84e4b.css"><link rel="stylesheet" type="text/css" href="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_csp_chatbot_vmok/static/css/async/767.bc84f707.css"><link rel="stylesheet" type="text/css" href="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_csp_chatbot_vmok/static/css/async/881.43b21f71.css"><style id="vmok-webapp-header-skeleton-keyframes">
+@keyframes vmok-webapp-header-skeleton-shine-anim {
+  0% {
+    left: -40%;
+  }
+  100% {
+    left: 100%;
+  }
+}
+</style><style type="text/css">.cookie-banner-toast {
+  font-family: "tiktok-text-medium", PingFangSC, sans-serif;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 130%;
+  letter-spacing: 0%;
+  position: fixed;
+  left: 0;
+  top: 70px;
+  right: 0;
+  text-align: center;
+  padding: 12px 20px;
+  background: rgba(84, 84, 84, 0.92);
+  color: #fff;
+  box-sizing: border-box;
+  z-index: 10003;
+  transition: opacity 0.3s;
+  opacity: 0;
+}
+.cookie-banner-toast.show {
+  opacity: 1;
+}</style><style type="text/css">.tiktok-cookie-banner.paas_lemon8 {
+  box-shadow: 0px -0.5px 0px 0px rgba(0, 0, 0, 0.05);
+}
+
+.tiktok-cookie-banner {
+  font-family: "tiktok-text-regular", PingFangSC, sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 130%;
+  letter-spacing: -0.16%;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: var(--banner-background-color--, #10a2c5);
+  z-index: 10001;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  color: #fff;
+  padding: 24px 64px 32px;
+  box-sizing: border-box;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.12);
+  -moz-text-size-adjust: 100%;
+       text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+}
+.tiktok-cookie-banner .cookie-content .cookie-title {
+  font-family: "tiktok-display-bold", PingFangSC, sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 125%;
+  letter-spacing: 1%;
+  margin-top: 0;
+  margin-bottom: 0;
+  color: var(--banner-title-color--, #fff);
+}
+.tiktok-cookie-banner .cookie-content .cookie-desc {
+  font-family: "tiktok-text-regular", PingFangSC, sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 130%;
+  letter-spacing: 0.19%;
+  margin-top: 8px;
+  margin-bottom: 0;
+  color: var(--banner-desc-color--, #fff);
+}
+.tiktok-cookie-banner .cookie-content .cookie-desc a {
+  font-family: "tiktok-text-medium", PingFangSC, sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 130%;
+  letter-spacing: 0.19%;
+  text-decoration: none;
+  color: var(--banner-link-color--, #fff);
+}
+.tiktok-cookie-banner .cookie-content .cookie-desc a:hover {
+  text-decoration: underline;
+  color: var(--banner-link-hover-color--, #fff);
+}
+.tiktok-cookie-banner .button-wrapper {
+  display: flex;
+  margin-left: 64px;
+}
+.tiktok-cookie-banner .button-wrapper a,
+.tiktok-cookie-banner .button-wrapper button {
+  font-family: "tiktok-text-bold", PingFangSC, sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 130%;
+  letter-spacing: 0.19%;
+  box-sizing: border-box;
+  padding: 0 24px;
+  height: 46px;
+  min-width: 153px;
+  white-space: nowrap;
+  border-radius: 4px;
+  border: 1px solid rgba(22, 24, 35, 0.12);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  cursor: pointer;
+  background: #fff;
+  color: #161823;
+  outline: none;
+  text-decoration: none;
+  border: 1px solid rgba(22, 24, 35, 0.12);
+}
+.tiktok-cookie-banner .button-wrapper a:hover,
+.tiktok-cookie-banner .button-wrapper button:hover {
+  background: #f8f8f8;
+}
+.tiktok-cookie-banner .button-wrapper button {
+  margin-left: 16px;
+  background: var(--banner-button-background-color--, #fff);
+  color: var(--banner-button-text-color--, #161823);
+}
+.tiktok-cookie-banner .button-wrapper button:hover {
+  background: var(--banner-button-hover-background-color--, #f8f8f8);
+}
+@media (min-width: 768px) and (max-width: 1200px) {
+  .tiktok-cookie-banner .special-button-wrapper button {
+    height: auto;
+    min-height: 44px;
+    white-space: pre-wrap;
+  }
+}
+.tiktok-cookie-banner.is-rtl {
+  direction: rtl;
+}
+.tiktok-cookie-banner.is-rtl .button-wrapper {
+  margin-left: unset;
+  margin-right: 64px;
+}
+.tiktok-cookie-banner.is-rtl .button-wrapper button {
+  margin-left: unset;
+  margin-right: 16px;
+}
+@media (max-width: 991px) {
+  .tiktok-cookie-banner.is-rtl .button-wrapper button {
+    margin-right: 8px;
+  }
+}
+@media (max-width: 991px) {
+  .tiktok-cookie-banner {
+    flex-direction: column;
+    height: auto;
+    padding: 16px 16px 20px;
+    box-shadow: none;
+  }
+  .tiktok-cookie-banner .cookie-content .cookie-title {
+    font-family: "tiktok-text-bold", PingFangSC, sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 130%;
+    letter-spacing: 0.19%;
+    text-align: center;
+    color: var(--banner-title-color--, #fff);
+  }
+  .tiktok-cookie-banner .cookie-content .cookie-desc {
+    font-family: "tiktok-text-regular", PingFangSC, sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 130%;
+    letter-spacing: 1.34%;
+    width: auto;
+    text-align: center;
+    color: var(--banner-desc-color--, #fff);
+  }
+  .tiktok-cookie-banner .cookie-content .cookie-desc a {
+    font-family: "tiktok-text-medium", PingFangSC, sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 130%;
+    letter-spacing: 1.34%;
+    text-decoration: none;
+    color: var(--banner-link-color--, #fff);
+  }
+  .tiktok-cookie-banner .cookie-content .cookie-desc a:hover {
+    text-decoration: underline;
+    color: var(--banner-link-hover-color--, #fff);
+  }
+  .tiktok-cookie-banner .button-wrapper {
+    align-self: flex-end;
+    margin-top: 16px;
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+  }
+  .tiktok-cookie-banner .button-wrapper a,
+  .tiktok-cookie-banner .button-wrapper button {
+    font-family: "tiktok-text-medium", PingFangSC, sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 130%;
+    letter-spacing: 0.4%;
+    min-width: unset;
+    padding: 0 6px;
+    width: 100%;
+    height: 44px;
+    border-radius: 2px;
+    white-space: pre-wrap;
+    margin: 0;
+  }
+  .tiktok-cookie-banner .button-wrapper button {
+    margin-left: 8px;
+    height: auto;
+    min-height: 44px;
+  }
+}</style><style type="text/css">:root body.disable-scroll {
+  overflow: hidden;
+}
+
+.tiktok-cookie-setting-portal {
+  font-family: "tiktok-text-regular", PingFangSC, sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 130%;
+  letter-spacing: 0.67%;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 0;
+  height: 0;
+  color: rgb(22, 24, 35);
+  -webkit-font-smoothing: antialiased;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-backdrop {
+  background-color: rgba(0, 0, 0, 0.5);
+  transition: opacity 300ms linear;
+  opacity: 0;
+  position: fixed;
+  inset: 0;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-backdrop.visible {
+  opacity: 1;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-modal-container {
+  position: fixed;
+  inset: 0;
+  left: 0;
+  top: 32px;
+  bottom: 32px;
+  left: 16px;
+  right: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  transform: scale(0.8);
+  transition: opacity 300ms cubic-bezier(0.65, 0, 0.35, 1), transform 300ms cubic-bezier(0.65, 0, 0.35, 1);
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-modal-container.visible {
+  opacity: 1;
+  transform: scale(1);
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-modal-container .tiktok-cookie-setting-modal {
+  position: relative;
+  max-width: 700px;
+  max-height: 100%;
+  background-color: var(--setting-modal-background-color--, #fff);
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: rgba(0, 0, 0, 0.12) 0 2px 12px;
+  outline: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+@media (max-width: 700px) {
+  .tiktok-cookie-setting-portal .tiktok-cookie-setting-modal-container .tiktok-cookie-setting-modal {
+    width: calc(100vw - 32px);
+  }
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-header-container {
+  font-family: "tiktok-display-bold", PingFangSC, sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 125%;
+  letter-spacing: 1%;
+  padding: 24px 29px 16px 24px;
+  color: var(--setting-modal-title-color--, #161823);
+  border-bottom: 0.5px solid rgba(22, 24, 35, 0.2);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex: 0;
+}
+@media (max-width: 468px) {
+  .tiktok-cookie-setting-portal .tiktok-cookie-setting-header-container {
+    border-bottom: none;
+    padding: 32px 24px 24px;
+    font-family: "tiktok-display-bold", PingFangSC, sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 125%;
+    letter-spacing: 1.5%;
+    justify-content: center;
+  }
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-modal-close {
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-modal-close svg {
+  fill: var(--setting-modal-close-icon-color--, rgba(22, 24, 35, 0.6));
+}
+@media (max-width: 468px) {
+  .tiktok-cookie-setting-portal .tiktok-cookie-setting-modal-close {
+    position: absolute;
+    top: 14px;
+    right: 14px;
+    transform: scale(0.8);
+  }
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-modal-description-container {
+  background-color: rgba(22, 24, 35, 0.03);
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-modal-description-container .tiktok-cookie-setting-modal-description {
+  font-family: "tiktok-text-regular", PingFangSC, sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 130%;
+  letter-spacing: 0.19%;
+  margin: 20px 24px;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-content {
+  padding: 12px 40px 12px 24px;
+  overflow-y: auto;
+  flex: 1 1 auto;
+}
+@media (max-width: 700px) {
+  .tiktok-cookie-setting-portal .tiktok-cookie-setting-content {
+    width: calc(100% - 48px);
+  }
+}
+@media (max-width: 468px) {
+  .tiktok-cookie-setting-portal .tiktok-cookie-setting-content {
+    padding: 6px 16px 0 16px;
+  }
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-content::-webkit-scrollbar {
+  width: 6px;
+  margin-right: 8px;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-content:hover::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.15);
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-content::-webkit-scrollbar-track {
+  background: transparent;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-content::-webkit-scrollbar-thumb {
+  border-radius: 3px;
+  background: rgba(0, 0, 0, 0.15);
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-content .tiktok-cookie-setting-info-icon {
+  margin-left: auto;
+  justify-content: flex-end;
+  height: 48px;
+  cursor: pointer;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-content .tiktok-cookie-setting-info-icon.hide {
+  transform: rotate(180deg);
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-content .tiktok-cookie-setting-info-icon svg {
+  width: 14px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 17px;
+  fill: var(--setting-modal-arrow-icon-color--, #161823);
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-content .tiktok-cookie-vertical-info-icon {
+  margin-left: auto;
+  margin-right: 20px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-content .tiktok-cookie-vendor-group-name {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  font-family: "tiktok-text-medium", PingFangSC, sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 130%;
+  letter-spacing: 0.19%;
+  margin-top: 0;
+  margin-bottom: 0;
+  color: var(--setting-modal-text-color--, #161823);
+  flex: 1 1 0;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-content .tiktok-cookie-vendor-group-name .tiktok-cookie-vendor-group-name-outside {
+  display: flex;
+  align-items: center;
+  flex-shrink: 1;
+  flex-grow: 1;
+}
+@media (max-width: 468px) {
+  .tiktok-cookie-setting-portal .tiktok-cookie-setting-content .tiktok-cookie-vendor-group-name {
+    font-family: "tiktok-text-medium", PingFangSC, sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 130%;
+    letter-spacing: 0.4%;
+  }
+}
+.tiktok-cookie-setting-portal cookie-setting-switch {
+  line-height: 0;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-footer {
+  padding: 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 0.5px solid rgba(22, 24, 35, 0.2);
+  flex: 0 0 auto;
+}
+@media (max-width: 468px) {
+  .tiktok-cookie-setting-portal .tiktok-cookie-setting-footer {
+    border-top: none;
+    padding: 20px;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: stretch;
+  }
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-footer .tiktok-cookie-setting-footer-btn-text,
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-footer .tiktok-cookie-setting-footer-btn-primary {
+  font-family: "tiktok-text-medium", PingFangSC, sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 130%;
+  letter-spacing: 0.19%;
+  min-width: 100px;
+  border-radius: 4px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+  cursor: pointer;
+  box-sizing: border-box;
+  height: 36px;
+  outline: none;
+  border: none;
+  text-align: center;
+}
+@media (max-width: 468px) {
+  .tiktok-cookie-setting-portal .tiktok-cookie-setting-footer .tiktok-cookie-setting-footer-btn-text,
+  .tiktok-cookie-setting-portal .tiktok-cookie-setting-footer .tiktok-cookie-setting-footer-btn-primary {
+    height: 44px;
+    margin-left: 0;
+    border-radius: 2px;
+  }
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-footer .tiktok-cookie-setting-footer-btn-text {
+  color: #fe2c55;
+  background-color: #fff;
+  text-decoration: none;
+  padding-left: 0;
+  padding-right: 0;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-footer .tiktok-cookie-setting-footer-btn-primary {
+  background-color: var(--setting-modal-button-background-color--, rgb(254, 44, 85));
+  color: var(--setting-modal-button-text-color--, #fff);
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-footer .tiktok-cookie-setting-footer-btn-primary:hover {
+  background: var(--setting-modal-button-hover-background-color--, linear-gradient(0deg, rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.06)), #fe2c55);
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-vendor-group {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-vendor-group.show-detail {
+  margin-bottom: 16px;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-vendor {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-vendor .tiktok-cookie-vendor-label-outside {
+  display: flex;
+  flex-shrink: 1;
+  flex-grow: 1;
+  color: var(--setting-modal-text-color--, #161823);
+  cursor: pointer;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-vendor .tiktok-cookie-vendor-label-outside .tiktok-cookie-vendor-label {
+  margin-left: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex: 1 1 0;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-manage-tip-context {
+  padding: 0;
+  margin: 0;
+  margin-bottom: 8px;
+  padding-left: -16px;
+  color: var(--setting-modal-desc-color--, rgba(0, 0, 0, 0.7));
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-manage-tip-context .tiktok-cookie-manage-tip-context-ref {
+  text-decoration: none;
+  color: var(--setting-modal-link-color--, #fe2c55);
+  font-weight: bold;
+  text-decoration: none;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-manage-tip-context .tiktok-cookie-manage-tip-context-ref:hover {
+  text-decoration: underline;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-vendor-context-ref {
+  text-decoration: none;
+  color: var(--setting-modal-link-color--, #fe2c55);
+  font-weight: bold;
+  text-decoration: none;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-vendor-context-ref:hover {
+  text-decoration: underline;
+  color: var(--setting-modal-link-hover-color--, #fe2c55);
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-vendor-context {
+  padding: 0;
+  margin-top: 4px;
+  margin-bottom: 8px;
+  padding-left: 16px;
+  color: var(--setting-modal-text-color--, rgba(0, 0, 0, 0.56));
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-vendor-group p,
+.tiktok-cookie-setting-portal .tiktok-cookie-vendor p {
+  font-family: "tiktok-text-regular", PingFangSC, sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 130%;
+  letter-spacing: 0.19%;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+@media (max-width: 468px) {
+  .tiktok-cookie-setting-portal .tiktok-cookie-vendor-group p,
+  .tiktok-cookie-setting-portal .tiktok-cookie-vendor p {
+    font-family: "tiktok-text-regular", PingFangSC, sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 130%;
+    letter-spacing: 0.4%;
+  }
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-desc {
+  color: var(--setting-modal-text-color--, rgba(0, 0, 0, 0.56));
+  font-family: "tiktok-text-regular", PingFangSC, sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 130%;
+  letter-spacing: 0.67%;
+  margin-bottom: 24px;
+}
+.tiktok-cookie-setting-portal .cookie-setting-switch {
+  line-height: 0;
+  padding-left: 36px;
+  flex-grow: 0;
+  flex-shrink: 0;
+}
+.tiktok-cookie-setting-portal .cookie-setting-switch.checked {
+  background-color: var(--setting-modal-switch-toggle-color--, #0be09b);
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-footer-desc {
+  font-family: "tiktok-text-medium", PingFangSC, sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 130%;
+  letter-spacing: 0.19%;
+  padding: 0;
+  margin: 0 16px 0 0;
+  color: var(--setting-modal-link-color--, #fe2c55);
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-footer-desc a {
+  font-family: "tiktok-text-medium", PingFangSC, sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 130%;
+  letter-spacing: 0.19%;
+  text-decoration: none;
+  color: var(--setting-modal-link-color--, #fe2c55);
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-footer-desc a:hover {
+  text-decoration: underline;
+  color: var(--setting-modal-link-color--, #fe2c55);
+}
+@media (max-width: 468px) {
+  .tiktok-cookie-setting-portal .tiktok-cookie-setting-footer-desc {
+    margin: 16px 0 0 0;
+    text-align: center;
+  }
+}
+.tiktok-cookie-setting-portal.is-rtl {
+  direction: rtl;
+}
+.tiktok-cookie-setting-portal.is-rtl .tiktok-cookie-setting-content {
+  padding: 12px 24px 12px 40px;
+}
+.tiktok-cookie-setting-portal.is-rtl .tiktok-cookie-vertical-info-icon {
+  margin-left: 20px;
+  margin-right: auto;
+}
+.tiktok-cookie-setting-portal.is-rtl .tiktok-cookie-setting-info-icon {
+  margin-right: auto;
+  margin-left: 0;
+}
+.tiktok-cookie-setting-portal.is-rtl .tiktok-cookie-vendor .tiktok-cookie-vendor-label-outside .tiktok-cookie-vendor-label {
+  margin-left: 0;
+  margin-right: 16px;
+}
+.tiktok-cookie-setting-portal.is-rtl .tiktok-cookie-vendor-context {
+  padding-left: 0;
+  padding-right: 16px;
+}
+.tiktok-cookie-setting-portal.is-rtl .tiktok-cookie-setting-footer-desc {
+  margin: 0 0 0 16px;
+}
+@media (max-width: 468px) {
+  .tiktok-cookie-setting-portal.is-rtl .tiktok-cookie-setting-footer-desc {
+    margin: 16px 0 0 0;
+    text-align: center;
+  }
+}</style><style type="text/css">:root body.global_module_disableScroll__472ccca3 {
+  overflow: hidden;
+}</style><style type="text/css">.tiktok-cookie-setting-switch {
+  box-sizing: border-box;
+  display: inline-block;
+  border-radius: 12px;
+  border: 1px rgba(0, 0, 0, 0) solid;
+  position: relative;
+  cursor: pointer;
+  background-color: var(--setting-modal-switch-toggle-color--, rgba(46, 50, 56, 0.05));
+  transition: background-color 200ms ease-in-out;
+  width: 40px;
+  height: 24px;
+}
+.tiktok-cookie-setting-switch.checked {
+  background-color: var(--setting-modal-switch-toggle-checked-color--, #0be09b);
+}
+.tiktok-cookie-setting-switch.checked .tiktok-cookie-setting-switch-knob {
+  transform: translateX(18px);
+}
+.tiktok-cookie-setting-switch.disabled {
+  opacity: 0.34;
+  cursor: not-allowed;
+}
+
+.tiktok-cookie-setting-switch-knob {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 0 0 1px rgba(0, 0, 0, 0.08);
+  cursor: pointer;
+  border-radius: 9px;
+  background-color: #fff;
+  box-sizing: border-box;
+  position: absolute;
+  left: 0;
+  right: auto;
+  transition: transform 200ms ease-in-out, width 200ms ease-in-out;
+  width: 18px;
+  height: 18px;
+  top: 2px;
+  transform: translateX(2px);
+}
+
+.tiktok-cookie-setting-switch-native-control {
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  cursor: inherit;
+  pointer-events: auto;
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+}</style><style data-tiktok-cookie-banner-font="tiktok-display-bold">
+  @font-face {
+    font-family: "tiktok-display-bold";
+    src: url("https://lf16-tiktok-common.tiktokcdn-us.com/obj/tiktok-web-common-tx/tiktok_fonts/TikTokDisplayFont-Bold.woff2?_default_font=1&v=2");
+    font-display: swap;
+  }
+    </style><style data-tiktok-cookie-banner-font="tiktok-display-regular">
+  @font-face {
+    font-family: "tiktok-display-regular";
+    src: url("https://lf16-tiktok-common.tiktokcdn-us.com/obj/tiktok-web-common-tx/tiktok_fonts/TikTokDisplayFont-Regular.woff2?_default_font=1&v=2");
+    font-display: swap;
+  }
+    </style><style data-tiktok-cookie-banner-font="tiktok-display-medium">
+  @font-face {
+    font-family: "tiktok-display-medium";
+    src: url("https://lf16-tiktok-common.tiktokcdn-us.com/obj/tiktok-web-common-tx/tiktok_fonts/TikTokDisplayFont-Semibold.woff2?_default_font=1&v=2");
+    font-display: swap;
+  }
+    </style><style data-tiktok-cookie-banner-font="tiktok-text-bold">
+  @font-face {
+    font-family: "tiktok-text-bold";
+    src: url("https://lf16-tiktok-common.tiktokcdn-us.com/obj/tiktok-web-common-tx/tiktok_fonts/TikTokFont-Bold.woff2?_default_font=1&v=2");
+    font-display: swap;
+  }
+    </style><style data-tiktok-cookie-banner-font="tiktok-text-regular">
+  @font-face {
+    font-family: "tiktok-text-regular";
+    src: url("https://lf16-tiktok-common.tiktokcdn-us.com/obj/tiktok-web-common-tx/tiktok_fonts/TikTokFont-Regular.woff2?_default_font=1&v=2");
+    font-display: swap;
+  }
+    </style><style data-tiktok-cookie-banner-font="tiktok-text-medium">
+  @font-face {
+    font-family: "tiktok-text-medium";
+    src: url("https://lf16-tiktok-common.tiktokcdn-us.com/obj/tiktok-web-common-tx/tiktok_fonts/TikTokFont-SEMIBOLD.woff2?_default_font=1&v=2");
+    font-display: swap;
+  }
+    </style><script src="https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/slardar/fe/sdk-web/plugins/common-monitors.1.14.5.js" crossorigin="anonymous"></script><script src="https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/slardar/fe/sdk-web/plugins/common-monitors.1.14.5.js" crossorigin="anonymous"></script><meta name="pumbaa-ctx" content="cb_enabled=0"><link charset="utf-8" rel="prefetch" as="script" href="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_header_vmok/static/js/async/7712.39228e91.js"><link charset="utf-8" rel="prefetch" as="script" href="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_header_vmok/static/js/async/7707.cb92b6e7.js"><link charset="utf-8" rel="prefetch" as="script" href="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_header_vmok/static/js/async/5490.82716c0b.js"><style data-emotion="css" data-s=""></style><style type="text/css">:where(html[dir="ltr"]),:where([data-sonner-toaster][dir="ltr"]){--toast-icon-margin-start: -3px;--toast-icon-margin-end: 4px;--toast-svg-margin-start: -1px;--toast-svg-margin-end: 0px;--toast-button-margin-start: auto;--toast-button-margin-end: 0;--toast-close-button-start: 0;--toast-close-button-end: unset;--toast-close-button-transform: translate(-35%, -35%)}:where(html[dir="rtl"]),:where([data-sonner-toaster][dir="rtl"]){--toast-icon-margin-start: 4px;--toast-icon-margin-end: -3px;--toast-svg-margin-start: 0px;--toast-svg-margin-end: -1px;--toast-button-margin-start: 0;--toast-button-margin-end: auto;--toast-close-button-start: unset;--toast-close-button-end: 0;--toast-close-button-transform: translate(35%, -35%)}:where([data-sonner-toaster]){position:fixed;width:var(--width);font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;--gray1: hsl(0, 0%, 99%);--gray2: hsl(0, 0%, 97.3%);--gray3: hsl(0, 0%, 95.1%);--gray4: hsl(0, 0%, 93%);--gray5: hsl(0, 0%, 90.9%);--gray6: hsl(0, 0%, 88.7%);--gray7: hsl(0, 0%, 85.8%);--gray8: hsl(0, 0%, 78%);--gray9: hsl(0, 0%, 56.1%);--gray10: hsl(0, 0%, 52.3%);--gray11: hsl(0, 0%, 43.5%);--gray12: hsl(0, 0%, 9%);--border-radius: 8px;box-sizing:border-box;padding:0;margin:0;list-style:none;outline:none;z-index:999999999;transition:transform .4s ease}:where([data-sonner-toaster][data-lifted="true"]){transform:translateY(-10px)}@media (hover: none) and (pointer: coarse){:where([data-sonner-toaster][data-lifted="true"]){transform:none}}:where([data-sonner-toaster][data-x-position="right"]){right:var(--offset-right)}:where([data-sonner-toaster][data-x-position="left"]){left:var(--offset-left)}:where([data-sonner-toaster][data-x-position="center"]){left:50%;transform:translate(-50%)}:where([data-sonner-toaster][data-y-position="top"]){top:var(--offset-top)}:where([data-sonner-toaster][data-y-position="bottom"]){bottom:var(--offset-bottom)}:where([data-sonner-toast]){--y: translateY(100%);--lift-amount: calc(var(--lift) * var(--gap));z-index:var(--z-index);position:absolute;opacity:0;transform:var(--y);filter:blur(0);touch-action:none;transition:transform .4s,opacity .4s,height .4s,box-shadow .2s;box-sizing:border-box;outline:none;overflow-wrap:anywhere}:where([data-sonner-toast][data-styled="true"]){padding:16px;background:var(--normal-bg);border:1px solid var(--normal-border);color:var(--normal-text);border-radius:var(--border-radius);box-shadow:0 4px 12px #0000001a;width:var(--width);font-size:13px;display:flex;align-items:center;gap:6px}:where([data-sonner-toast]:focus-visible){box-shadow:0 4px 12px #0000001a,0 0 0 2px #0003}:where([data-sonner-toast][data-y-position="top"]){top:0;--y: translateY(-100%);--lift: 1;--lift-amount: calc(1 * var(--gap))}:where([data-sonner-toast][data-y-position="bottom"]){bottom:0;--y: translateY(100%);--lift: -1;--lift-amount: calc(var(--lift) * var(--gap))}:where([data-sonner-toast]) :where([data-description]){font-weight:400;line-height:1.4;color:inherit}:where([data-sonner-toast]) :where([data-title]){font-weight:500;line-height:1.5;color:inherit}:where([data-sonner-toast]) :where([data-icon]){display:flex;height:16px;width:16px;position:relative;justify-content:flex-start;align-items:center;flex-shrink:0;margin-left:var(--toast-icon-margin-start);margin-right:var(--toast-icon-margin-end)}:where([data-sonner-toast][data-promise="true"]) :where([data-icon])>svg{opacity:0;transform:scale(.8);transform-origin:center;animation:sonner-fade-in .3s ease forwards}:where([data-sonner-toast]) :where([data-icon])>*{flex-shrink:0}:where([data-sonner-toast]) :where([data-icon]) svg{margin-left:var(--toast-svg-margin-start);margin-right:var(--toast-svg-margin-end)}:where([data-sonner-toast]) :where([data-content]){display:flex;flex-direction:column;gap:2px}[data-sonner-toast][data-styled=true] [data-button]{border-radius:4px;padding-left:8px;padding-right:8px;height:24px;font-size:12px;color:var(--normal-bg);background:var(--normal-text);margin-left:var(--toast-button-margin-start);margin-right:var(--toast-button-margin-end);border:none;cursor:pointer;outline:none;display:flex;align-items:center;flex-shrink:0;transition:opacity .4s,box-shadow .2s}:where([data-sonner-toast]) :where([data-button]):focus-visible{box-shadow:0 0 0 2px #0006}:where([data-sonner-toast]) :where([data-button]):first-of-type{margin-left:var(--toast-button-margin-start);margin-right:var(--toast-button-margin-end)}:where([data-sonner-toast]) :where([data-cancel]){color:var(--normal-text);background:rgba(0,0,0,.08)}:where([data-sonner-toast][data-theme="dark"]) :where([data-cancel]){background:rgba(255,255,255,.3)}:where([data-sonner-toast]) :where([data-close-button]){position:absolute;left:var(--toast-close-button-start);right:var(--toast-close-button-end);top:0;height:20px;width:20px;display:flex;justify-content:center;align-items:center;padding:0;color:var(--gray12);border:1px solid var(--gray4);transform:var(--toast-close-button-transform);border-radius:50%;cursor:pointer;z-index:1;transition:opacity .1s,background .2s,border-color .2s}[data-sonner-toast] [data-close-button]{background:var(--gray1)}:where([data-sonner-toast]) :where([data-close-button]):focus-visible{box-shadow:0 4px 12px #0000001a,0 0 0 2px #0003}:where([data-sonner-toast]) :where([data-disabled="true"]){cursor:not-allowed}:where([data-sonner-toast]):hover :where([data-close-button]):hover{background:var(--gray2);border-color:var(--gray5)}:where([data-sonner-toast][data-swiping="true"]):before{content:"";position:absolute;left:-50%;right:-50%;height:100%;z-index:-1}:where([data-sonner-toast][data-y-position="top"][data-swiping="true"]):before{bottom:50%;transform:scaleY(3) translateY(50%)}:where([data-sonner-toast][data-y-position="bottom"][data-swiping="true"]):before{top:50%;transform:scaleY(3) translateY(-50%)}:where([data-sonner-toast][data-swiping="false"][data-removed="true"]):before{content:"";position:absolute;inset:0;transform:scaleY(2)}:where([data-sonner-toast]):after{content:"";position:absolute;left:0;height:calc(var(--gap) + 1px);bottom:100%;width:100%}:where([data-sonner-toast][data-mounted="true"]){--y: translateY(0);opacity:1}:where([data-sonner-toast][data-expanded="false"][data-front="false"]){--scale: var(--toasts-before) * .05 + 1;--y: translateY(calc(var(--lift-amount) * var(--toasts-before))) scale(calc(-1 * var(--scale)));height:var(--front-toast-height)}:where([data-sonner-toast])>*{transition:opacity .4s}:where([data-sonner-toast][data-expanded="false"][data-front="false"][data-styled="true"])>*{opacity:0}:where([data-sonner-toast][data-visible="false"]){opacity:0;pointer-events:none}:where([data-sonner-toast][data-mounted="true"][data-expanded="true"]){--y: translateY(calc(var(--lift) * var(--offset)));height:var(--initial-height)}:where([data-sonner-toast][data-removed="true"][data-front="true"][data-swipe-out="false"]){--y: translateY(calc(var(--lift) * -100%));opacity:0}:where([data-sonner-toast][data-removed="true"][data-front="false"][data-swipe-out="false"][data-expanded="true"]){--y: translateY(calc(var(--lift) * var(--offset) + var(--lift) * -100%));opacity:0}:where([data-sonner-toast][data-removed="true"][data-front="false"][data-swipe-out="false"][data-expanded="false"]){--y: translateY(40%);opacity:0;transition:transform .5s,opacity .2s}:where([data-sonner-toast][data-removed="true"][data-front="false"]):before{height:calc(var(--initial-height) + 20%)}[data-sonner-toast][data-swiping=true]{transform:var(--y) translateY(var(--swipe-amount-y, 0px)) translate(var(--swipe-amount-x, 0px));transition:none}[data-sonner-toast][data-swiped=true]{user-select:none}[data-sonner-toast][data-swipe-out=true][data-y-position=bottom],[data-sonner-toast][data-swipe-out=true][data-y-position=top]{animation-duration:.2s;animation-timing-function:ease-out;animation-fill-mode:forwards}[data-sonner-toast][data-swipe-out=true][data-swipe-direction=left]{animation-name:swipe-out-left}[data-sonner-toast][data-swipe-out=true][data-swipe-direction=right]{animation-name:swipe-out-right}[data-sonner-toast][data-swipe-out=true][data-swipe-direction=up]{animation-name:swipe-out-up}[data-sonner-toast][data-swipe-out=true][data-swipe-direction=down]{animation-name:swipe-out-down}@keyframes swipe-out-left{0%{transform:var(--y) translate(var(--swipe-amount-x));opacity:1}to{transform:var(--y) translate(calc(var(--swipe-amount-x) - 100%));opacity:0}}@keyframes swipe-out-right{0%{transform:var(--y) translate(var(--swipe-amount-x));opacity:1}to{transform:var(--y) translate(calc(var(--swipe-amount-x) + 100%));opacity:0}}@keyframes swipe-out-up{0%{transform:var(--y) translateY(var(--swipe-amount-y));opacity:1}to{transform:var(--y) translateY(calc(var(--swipe-amount-y) - 100%));opacity:0}}@keyframes swipe-out-down{0%{transform:var(--y) translateY(var(--swipe-amount-y));opacity:1}to{transform:var(--y) translateY(calc(var(--swipe-amount-y) + 100%));opacity:0}}@media (max-width: 600px){[data-sonner-toaster]{position:fixed;right:var(--mobile-offset-right);left:var(--mobile-offset-left);width:100%}[data-sonner-toaster][dir=rtl]{left:calc(var(--mobile-offset-left) * -1)}[data-sonner-toaster] [data-sonner-toast]{left:0;right:0;width:calc(100% - var(--mobile-offset-left) * 2)}[data-sonner-toaster][data-x-position=left]{left:var(--mobile-offset-left)}[data-sonner-toaster][data-y-position=bottom]{bottom:var(--mobile-offset-bottom)}[data-sonner-toaster][data-y-position=top]{top:var(--mobile-offset-top)}[data-sonner-toaster][data-x-position=center]{left:var(--mobile-offset-left);right:var(--mobile-offset-right);transform:none}}[data-sonner-toaster][data-theme=light]{--normal-bg: #fff;--normal-border: var(--gray4);--normal-text: var(--gray12);--success-bg: hsl(143, 85%, 96%);--success-border: hsl(145, 92%, 91%);--success-text: hsl(140, 100%, 27%);--info-bg: hsl(208, 100%, 97%);--info-border: hsl(221, 91%, 91%);--info-text: hsl(210, 92%, 45%);--warning-bg: hsl(49, 100%, 97%);--warning-border: hsl(49, 91%, 91%);--warning-text: hsl(31, 92%, 45%);--error-bg: hsl(359, 100%, 97%);--error-border: hsl(359, 100%, 94%);--error-text: hsl(360, 100%, 45%)}[data-sonner-toaster][data-theme=light] [data-sonner-toast][data-invert=true]{--normal-bg: #000;--normal-border: hsl(0, 0%, 20%);--normal-text: var(--gray1)}[data-sonner-toaster][data-theme=dark] [data-sonner-toast][data-invert=true]{--normal-bg: #fff;--normal-border: var(--gray3);--normal-text: var(--gray12)}[data-sonner-toaster][data-theme=dark]{--normal-bg: #000;--normal-bg-hover: hsl(0, 0%, 12%);--normal-border: hsl(0, 0%, 20%);--normal-border-hover: hsl(0, 0%, 25%);--normal-text: var(--gray1);--success-bg: hsl(150, 100%, 6%);--success-border: hsl(147, 100%, 12%);--success-text: hsl(150, 86%, 65%);--info-bg: hsl(215, 100%, 6%);--info-border: hsl(223, 100%, 12%);--info-text: hsl(216, 87%, 65%);--warning-bg: hsl(64, 100%, 6%);--warning-border: hsl(60, 100%, 12%);--warning-text: hsl(46, 87%, 65%);--error-bg: hsl(358, 76%, 10%);--error-border: hsl(357, 89%, 16%);--error-text: hsl(358, 100%, 81%)}[data-sonner-toaster][data-theme=dark] [data-sonner-toast] [data-close-button]{background:var(--normal-bg);border-color:var(--normal-border);color:var(--normal-text)}[data-sonner-toaster][data-theme=dark] [data-sonner-toast] [data-close-button]:hover{background:var(--normal-bg-hover);border-color:var(--normal-border-hover)}[data-rich-colors=true][data-sonner-toast][data-type=success],[data-rich-colors=true][data-sonner-toast][data-type=success] [data-close-button]{background:var(--success-bg);border-color:var(--success-border);color:var(--success-text)}[data-rich-colors=true][data-sonner-toast][data-type=info],[data-rich-colors=true][data-sonner-toast][data-type=info] [data-close-button]{background:var(--info-bg);border-color:var(--info-border);color:var(--info-text)}[data-rich-colors=true][data-sonner-toast][data-type=warning],[data-rich-colors=true][data-sonner-toast][data-type=warning] [data-close-button]{background:var(--warning-bg);border-color:var(--warning-border);color:var(--warning-text)}[data-rich-colors=true][data-sonner-toast][data-type=error],[data-rich-colors=true][data-sonner-toast][data-type=error] [data-close-button]{background:var(--error-bg);border-color:var(--error-border);color:var(--error-text)}.sonner-loading-wrapper{--size: 16px;height:var(--size);width:var(--size);position:absolute;inset:0;z-index:10}.sonner-loading-wrapper[data-visible=false]{transform-origin:center;animation:sonner-fade-out .2s ease forwards}.sonner-spinner{position:relative;top:50%;left:50%;height:var(--size);width:var(--size)}.sonner-loading-bar{animation:sonner-spin 1.2s linear infinite;background:var(--gray11);border-radius:6px;height:8%;left:-10%;position:absolute;top:-3.9%;width:24%}.sonner-loading-bar:nth-child(1){animation-delay:-1.2s;transform:rotate(.0001deg) translate(146%)}.sonner-loading-bar:nth-child(2){animation-delay:-1.1s;transform:rotate(30deg) translate(146%)}.sonner-loading-bar:nth-child(3){animation-delay:-1s;transform:rotate(60deg) translate(146%)}.sonner-loading-bar:nth-child(4){animation-delay:-.9s;transform:rotate(90deg) translate(146%)}.sonner-loading-bar:nth-child(5){animation-delay:-.8s;transform:rotate(120deg) translate(146%)}.sonner-loading-bar:nth-child(6){animation-delay:-.7s;transform:rotate(150deg) translate(146%)}.sonner-loading-bar:nth-child(7){animation-delay:-.6s;transform:rotate(180deg) translate(146%)}.sonner-loading-bar:nth-child(8){animation-delay:-.5s;transform:rotate(210deg) translate(146%)}.sonner-loading-bar:nth-child(9){animation-delay:-.4s;transform:rotate(240deg) translate(146%)}.sonner-loading-bar:nth-child(10){animation-delay:-.3s;transform:rotate(270deg) translate(146%)}.sonner-loading-bar:nth-child(11){animation-delay:-.2s;transform:rotate(300deg) translate(146%)}.sonner-loading-bar:nth-child(12){animation-delay:-.1s;transform:rotate(330deg) translate(146%)}@keyframes sonner-fade-in{0%{opacity:0;transform:scale(.8)}to{opacity:1;transform:scale(1)}}@keyframes sonner-fade-out{0%{opacity:1;transform:scale(1)}to{opacity:0;transform:scale(.8)}}@keyframes sonner-spin{0%{opacity:1}to{opacity:.15}}@media (prefers-reduced-motion){[data-sonner-toast],[data-sonner-toast]>*,.sonner-loading-bar{transition:none!important;animation:none!important}}.sonner-loader{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);transform-origin:center;transition:opacity .2s,transform .2s}.sonner-loader[data-visible=false]{opacity:0;transform:scale(.8) translate(-50%,-50%)}
+</style><style data-emotion="css" data-s=""></style><script type="application/json" id="script-manager">{"imports":{"acrawler":"https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk/2.0.0.514/webmssdk.js","secsdk_sg":"https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/secsdk/secsdk-lastest.umd.js","secsdk_va":"https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/secsdk/secsdk-lastest.umd.js","secsdk_ttp":"https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/secsdk/secsdk-lastest.umd.js"}}</script></head><body><div id="root"><div class="csp-root"><div style="position: relative; height: 60px;"><div style="position: fixed; top: 0px; left: 0px; width: 100%; height: 60px; background: rgba(255, 255, 255, 0.8); box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 1px; overflow: hidden; z-index: 9999;"><div style="position: absolute; top: 0px; left: 0px; width: 40%; height: 100%; background: linear-gradient(90deg, rgba(0, 0, 0, 0) 0%, rgba(180, 180, 180, 0.18) 50%, rgba(0, 0, 0, 0) 100%); animation: 1.2s ease 0s infinite normal none running vmok-webapp-header-skeleton-shine-anim; pointer-events: none;"></div></div></div><main style="height: calc(100% - 60px);"><div class="page-container"><div class="faq_detail_container-yHzO3U"><div class="navigation-container-jNI5L7"><div class="navigation-header-tUlsFJ"><svg fill="currentColor" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" font-size="24" class="flip-rtl " style="flex: 0 0 auto;"><path d="m16.59 22.59 9.29-9.3a1 1 0 0 1 1.41 0l1.42 1.42a1 1 0 0 1 0 1.41L20.83 24l7.88 7.88a1 1 0 0 1 0 1.41l-1.42 1.42a1 1 0 0 1-1.41 0l-9.3-9.3a2 2 0 0 1 0-2.82Z"></path><path d="M24 2a22 22 0 1 0 0 44 22 22 0 0 0 0-44ZM6 24a18 18 0 1 1 36 0 18 18 0 0 1-36 0Z"></path></svg><div class="title-text-iU0yIo">Privacidade e segurança do usuário</div></div><div class="navigation-content-snrnLK"><div class="navigation-item-oaniE7"><div class="title-container-UdiaPw title-container-child-ArXYGP"><div class="title-text-iU0yIo" style="font-size: 17px; padding-left: 0px; padding-right: 0px;">Como denunciar</div><div class="title-icon-JJp4uX"><svg fill="currentColor" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="m24 29.45 14.02-14.02a1 1 0 0 1 1.41 0l1.13 1.13a1 1 0 0 1 0 1.42L24.71 33.83a1 1 0 0 1-1.42 0L7.43 17.98a1 1 0 0 1 0-1.42l1.13-1.13a1 1 0 0 1 1.42 0L24 29.45Z"></path></svg></div></div></div><div class="navigation-item-oaniE7"><div class="title-container-UdiaPw title-container-child-ArXYGP"><div class="title-text-iU0yIo" style="font-size: 17px; padding-left: 0px; padding-right: 0px;">Privacidade</div><div class="title-icon-JJp4uX"><svg fill="currentColor" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="m24 29.45 14.02-14.02a1 1 0 0 1 1.41 0l1.13 1.13a1 1 0 0 1 0 1.42L24.71 33.83a1 1 0 0 1-1.42 0L7.43 17.98a1 1 0 0 1 0-1.42l1.13-1.13a1 1 0 0 1 1.42 0L24 29.45Z"></path></svg></div></div></div><div class="navigation-item-oaniE7"><div class="title-container-UdiaPw title-container-child-ArXYGP title-container-expanded-aY1OyA"><div class="title-text-iU0yIo" style="font-size: 17px; padding-left: 0px; padding-right: 0px;">Segurança da conta e do usuário</div><div class="title-icon-JJp4uX"><svg fill="currentColor" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="m24 29.45 14.02-14.02a1 1 0 0 1 1.41 0l1.13 1.13a1 1 0 0 1 0 1.42L24.71 33.83a1 1 0 0 1-1.42 0L7.43 17.98a1 1 0 0 1 0-1.42l1.13-1.13a1 1 0 0 1 1.42 0L24 29.45Z"></path></svg></div></div><div class="navigation-item-oaniE7"><div class="title-container-UdiaPw"><div class="title-text-iU0yIo" style="font-size: 16px; padding-left: 16px; padding-right: 16px;">Segurança no TikTok</div></div></div><div class="navigation-item-oaniE7"><div class="title-container-UdiaPw"><div class="title-text-iU0yIo" style="font-size: 16px; padding-left: 16px; padding-right: 16px;">Segurança da conta</div></div></div><div class="navigation-item-oaniE7"><div class="title-container-UdiaPw"><div class="title-text-iU0yIo" style="font-size: 16px; padding-left: 16px; padding-right: 16px;">Status da sua conta</div></div></div><div class="navigation-item-oaniE7"><div class="title-container-UdiaPw"><div class="title-text-iU0yIo" style="font-size: 16px; padding-left: 16px; padding-right: 16px;">Sincronização Familiar</div></div></div><div class="navigation-item-oaniE7"><div class="title-container-UdiaPw"><div class="title-text-iU0yIo" style="font-size: 16px; padding-left: 16px; padding-right: 16px;">Diretrizes da Comunidade</div></div></div><div class="navigation-item-oaniE7"><div class="title-container-UdiaPw"><div class="title-text-iU0yIo" style="font-size: 16px; padding-left: 16px; padding-right: 16px;">Violações de conteúdo e banimentos</div></div></div><div class="navigation-item-oaniE7"><div class="title-container-UdiaPw"><div class="title-text-iU0yIo" style="font-size: 16px; padding-left: 16px; padding-right: 16px;">Por que minha conta não está sendo recomendada?</div></div></div><div class="navigation-item-oaniE7"><div class="title-container-UdiaPw title-container-selected-RrMj4G title-container-expanded-aY1OyA"><div class="title-text-iU0yIo" style="font-size: 16px; padding-left: 16px; padding-right: 16px;">Código de Conduta do Criador</div></div></div><div class="navigation-item-oaniE7"><div class="title-container-UdiaPw"><div class="title-text-iU0yIo" style="font-size: 16px; padding-left: 16px; padding-right: 16px;">Violações da política de transações e banimentos</div></div></div><div class="navigation-item-oaniE7"><div class="title-container-UdiaPw"><div class="title-text-iU0yIo" style="font-size: 16px; padding-left: 16px; padding-right: 16px;">Modo restrito</div></div></div><div class="navigation-item-oaniE7"><div class="title-container-UdiaPw"><div class="title-text-iU0yIo" style="font-size: 16px; padding-left: 16px; padding-right: 16px;">Níveis de conteúdo nas publicações do TikTok</div></div></div><div class="navigation-item-oaniE7"><div class="title-container-UdiaPw"><div class="title-text-iU0yIo" style="font-size: 16px; padding-left: 16px; padding-right: 16px;">Conteúdo com restrição de idade no TikTok LIVE</div></div></div><div class="navigation-item-oaniE7"><div class="title-container-UdiaPw"><div class="title-text-iU0yIo" style="font-size: 16px; padding-left: 16px; padding-right: 16px;">Evite phishing no TikTok</div></div></div><div class="navigation-item-oaniE7"><div class="title-container-UdiaPw"><div class="title-text-iU0yIo" style="font-size: 16px; padding-left: 16px; padding-right: 16px;">Conexão com apps de terceiros</div></div></div><div class="navigation-item-oaniE7"><div class="title-container-UdiaPw"><div class="title-text-iU0yIo" style="font-size: 16px; padding-left: 16px; padding-right: 16px;">Ferramentas de desenvolvedor do TikTok e termos relacionados</div></div></div><div class="navigation-item-oaniE7"><div class="title-container-UdiaPw"><div class="title-text-iU0yIo" style="font-size: 16px; padding-left: 16px; padding-right: 16px;">Ferramentas de Pesquisa do TikTok</div></div></div><div class="navigation-item-oaniE7"><div class="title-container-UdiaPw"><div class="title-text-iU0yIo" style="font-size: 16px; padding-left: 16px; padding-right: 16px;">Direitos autorais</div></div></div><div class="navigation-item-oaniE7"><div class="title-container-UdiaPw"><div class="title-text-iU0yIo" style="font-size: 16px; padding-left: 16px; padding-right: 16px;">Marcas registradas e falsificação</div></div></div><div class="navigation-item-oaniE7"><div class="title-container-UdiaPw"><div class="title-text-iU0yIo" style="font-size: 16px; padding-left: 16px; padding-right: 16px;">Diretrizes de solicitação de dados pela polícia</div></div></div><div class="navigation-item-oaniE7"><div class="title-container-UdiaPw"><div class="title-text-iU0yIo" style="font-size: 16px; padding-left: 16px; padding-right: 16px;">Para pais, mães e responsáveis legais</div></div></div><div class="navigation-item-oaniE7"><div class="title-container-UdiaPw"><div class="title-text-iU0yIo" style="font-size: 16px; padding-left: 16px; padding-right: 16px;">Recursos de idade mínima no TikTok</div></div></div><div class="navigation-item-oaniE7"><div class="title-container-UdiaPw"><div class="title-text-iU0yIo" style="font-size: 16px; padding-left: 16px; padding-right: 16px;">Recursos por estar abaixo da idade mínima no TikTok</div></div></div><div class="navigation-item-oaniE7"><div class="title-container-UdiaPw"><div class="title-text-iU0yIo" style="font-size: 16px; padding-left: 16px; padding-right: 16px;">Experiência do TikTok para menores de 13 anos</div></div></div><div class="navigation-item-oaniE7"><div class="title-container-UdiaPw"><div class="title-text-iU0yIo" style="font-size: 16px; padding-left: 16px; padding-right: 16px;">Portal para os jovens</div></div></div></div></div></div><div class="detail_root-Z0eBRo"><div class="rich_text_wrapper-hA7umN"><div class="left-JQwb7X"><div class="main_title-Vhewzi">Código de Conduta do Criador</div><div class="rt_root-MuMiEM"><h3 id="" align="" style=""><strong style=""><span style="">Pular para uma seção</span></strong></h3><p style=""><br style=""></p><h3 id="" align="" style=""><span style=""><a href="#1" rel="nofollow noreferrer" class="syl-link rt_anchor_hash" data-href-mobile="" data-entry-id="" data-anchor-id="" style="">O que é o Código de Conduta do Criador?</a> • <a href="#2" rel="nofollow noreferrer" class="syl-link rt_anchor_hash" style="">O que acontece com sua conta do TikTok em caso de violação?</a> • <a href="#3" rel="nofollow noreferrer" class="syl-link rt_anchor_hash" style="">Sua conta está com restrição. Como recorrer?</a></span></h3><p style=""><br style=""></p><p style=""><br style=""></p><h3 id="1" align="" style=""><strong style=""><span style="">O que é o Código de Conduta do Criador?</span></strong></h3><p style=""><br style="">O Código de Conduta do Criador delineia o comportamento padrão que os criadores no TikTok precisam ter para participarem dos programas promocionais e de monetização no TikTok. Nossa expectativa é que os criadores, tanto on-line quanto fora da plataforma, se comportem de tal maneira que não coloquem em risco a segurança de outras pessoas ou a integridade da nossa plataforma. Todos os criadores devem seguir não só o Código de Conduta do Criador, mas também as <a href="https://www.tiktok.com/community-guidelines" rel="nofollow noreferrer" class="syl-link" target="_blank" style="">Diretrizes da Comunidade</a>, os <a href="https://www.tiktok.com/legal/terms-of-service" rel="nofollow noreferrer" class="syl-link" target="_blank" style="">Termos de Serviço</a> e quaisquer outras políticas aplicáveis aos nossos produtos de monetização (TikTok Shop, Programa de Recompensas do Criador, TikTok LIVE etc).</p><p style=""><br style=""></p><p style="">Acesse a <a href="https://www.tiktok.com/creator-academy/article/creator-code-of-conduct" rel="nofollow noreferrer" class="syl-link" target="_blank" style="">Academia de Criadores</a> para aprender mais sobre o Código de Conduta do Criador.</p><p style=""><br style=""></p><p style=""><br style=""></p><h3 id="2" align="" style=""><strong style=""><span style="">O que acontece com sua conta do TikTok em caso de violação?</span></strong></h3><p style=""><br style="">Vamos enviar uma notificação para você se acreditarmos que sua conta violou o Código de Conduta do Criador. Também poderemos aplicar restrições. Você poderá recorrer da decisão caso acredite que seja um engano.</p><p style=""><br style=""></p><p style="">Serão aplicadas diferentes restrições a depender da gravidade e da repetição das violações, incluindo proibir sua conta de participar de programas de criadores e de outras atividades de monetização, seja apenas por um determinado período ou com um banimento permanente.</p><p style=""><br style=""></p><p style="">Com o objetivo de impedir a repetição do comportamento que levou à violação, nos reservamos o direito de restringir temporariamente seu acesso a alguns recursos de criador até que terminemos de avaliar sua conta.</p><p style=""><br style=""></p><p style=""><br style=""></p><h3 id="3" align="" style=""><strong style=""><span style="">Como recorrer em caso de restrição na sua conta</span></strong></h3><p style=""><br style="">Se acreditar que a restrição na sua conta é um engano, você poderá enviar um recurso questionando nossa decisão através da notificação que receber sobre a violação. Outra opção é nos contatar <a href="https://www.tiktok.com/support/faq_detail?id=7581820702655978040" rel="nofollow noreferrer" class="syl-link" target="_blank" style="">pelo app</a>.</p><p style=""><br style=""></p><p style="">Para enviar um recurso:</p><p style="">1. Toque em <strong style="">Caixa de entrada</strong> no app TikTok.</p><p style="">2. Toque em <strong style="">Notificações do sistema</strong>.</p><p style="">3. Toque em <strong style="">Atualizações de conta</strong>. Se for preciso, role a tela até encontrar essa opção.</p><p style="">4. Toque na notificação referente à restrição da conta.</p><p style="">5. Toque em <strong style="">Recurso</strong> e siga as etapas para recorrer da decisão.</p><p style=""><br style=""></p><p style=""><a href="https://www.tiktok.com/support/faq_detail?id=7543604781940791864" rel="nofollow noreferrer" class="syl-link" target="_blank" style="">Saiba mais sobre violações de conteúdo e banimentos no TikTok.</a></p></div><div class="eva_wrapper-fdTaKJ"><div class="text-atmYVb">Isso foi útil?</div><div class="btn-KDG3dm"><svg fill="currentColor" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" class="icon-PFAEtO"><path fill-rule="evenodd" clip-rule="evenodd" d="M31.52 2.2a5.76 5.76 0 0 0-6.98 1.14l-8.45 9.08-.4.42a15 15 0 0 0-2.19 3.22H9.54a6.4 6.4 0 0 0-5.99 4.13 24.03 24.03 0 0 0-.13 16.76l.1.29a6.57 6.57 0 0 0 6.18 4.32h5.78a9.34 9.34 0 0 0 5.69 2.24l10.47.43c1.33.06 2.44.1 3.36.08a8.1 8.1 0 0 0 2.73-.5 8 8 0 0 0 3.47-2.6 8.1 8.1 0 0 0 1.23-2.48c.28-.88.55-1.96.87-3.26l1.74-7.12c.4-1.61.72-2.95.89-4.05a7.27 7.27 0 0 0-.12-3.33 7 7 0 0 0-3.06-3.9 7.27 7.27 0 0 0-3.2-.91c-1.12-.1-2.5-.1-4.15-.1h-3.95l2.67-6.65a5.76 5.76 0 0 0-2.6-7.2Zm-4.05 3.86a1.76 1.76 0 0 1 2.93 1.86l-3.76 9.4a2 2 0 0 0 1.86 2.74h6.8c1.78 0 2.98 0 3.89.08.9.08 1.27.22 1.49.35a3 3 0 0 1 1.31 1.67c.08.24.12.65-.01 1.53-.14.9-.43 2.07-.85 3.8l-1.7 6.96a47.09 47.09 0 0 1-.8 3.04c-.23.7-.42 1.05-.6 1.3a4 4 0 0 1-1.74 1.3c-.3.11-.69.2-1.42.22-.75.02-1.71-.02-3.14-.08l-10.4-.43a5.36 5.36 0 0 1-5.02-4.28 39.39 39.39 0 0 1-.5-12.66l.13-1.08.06-.52a11 11 0 0 1 3.04-6.14l8.43-9.06Zm-14.74 31.5c-.14-.4-.25-.81-.34-1.24a43.38 43.38 0 0 1-.56-13.95l.14-1.1a27.57 27.57 0 0 1 .18-1.21H9.54c-1 0-1.9.62-2.25 1.55a20.03 20.03 0 0 0-.1 13.97l.1.29a2.57 2.57 0 0 0 2.41 1.69h3.03Z"></path></svg><span>Sim</span></div><div class="btn-KDG3dm"><svg fill="currentColor" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" class="icon-PFAEtO"><path fill-rule="evenodd" clip-rule="evenodd" d="M16.48 45.8a5.76 5.76 0 0 0 6.98-1.14l8.45-9.08.4-.43a15 15 0 0 0 2.18-3.21h3.97a6.4 6.4 0 0 0 5.99-4.13c2.05-5.4 2.1-11.34.13-16.76l-.1-.29a6.57 6.57 0 0 0-6.18-4.32h-5.78a9.34 9.34 0 0 0-5.69-2.24l-10.47-.44c-1.33-.05-2.44-.1-3.36-.07a8.1 8.1 0 0 0-2.73.49 8 8 0 0 0-3.47 2.6 8.1 8.1 0 0 0-1.23 2.49c-.28.87-.55 1.95-.87 3.25l-1.74 7.13c-.4 1.6-.72 2.95-.89 4.05a7.27 7.27 0 0 0 .12 3.32 7 7 0 0 0 3.06 3.9c.98.6 2.07.82 3.2.92 1.12.1 2.5.1 4.15.1h3.95l-2.67 6.65a5.76 5.76 0 0 0 2.6 7.2Zm4.05-3.87a1.76 1.76 0 0 1-2.93-1.85l3.76-9.4a2 2 0 0 0-1.86-2.74h-6.8c-1.78 0-2.98 0-3.89-.09a3.47 3.47 0 0 1-1.49-.35 3 3 0 0 1-1.31-1.67c-.08-.24-.12-.64.01-1.53.14-.9.43-2.07.85-3.8l1.7-6.95c.34-1.4.57-2.33.8-3.05.23-.69.42-1.04.6-1.3a4 4 0 0 1 1.74-1.3c.3-.1.69-.19 1.42-.21.75-.03 1.71.01 3.14.07l10.4.43a5.36 5.36 0 0 1 5.02 4.29c.85 4.16 1.02 8.44.5 12.66l-.13 1.08-.06.52a11 11 0 0 1-3.04 6.13l-8.43 9.06Zm14.74-31.5c.14.4.25.82.34 1.25.94 4.59 1.12 9.3.56 13.94l-.14 1.1a27.57 27.57 0 0 1-.18 1.22h2.61c1 0 1.9-.62 2.25-1.55 1.71-4.5 1.75-9.46.1-13.98l-.1-.28a2.57 2.57 0 0 0-2.41-1.7h-3.03Z"></path></svg><span>Não</span></div></div><div class="related_questions_wrapper-d7nYWK"><div class="title-Yxr1vl">Artigos relacionados</div><div><div class="question-iV8rzn"><span class="name-gcAF2_">Como aumentar seu público</span></div></div><div><div class="question-iV8rzn"><span class="name-gcAF2_">Por que minha conta não está sendo recomendada?</span></div></div></div></div><div></div></div></div></div></div></main></div></div><!--<?- chunksMap.js ?>--><!--<?- SSRDataScript ?>--><script id="tiktok-cookie-banner-config" type="application/json">{"i18n":{"cookieBannerTitle":"Permitir cookies do TikTok neste navegador?","cookieBannerSubTitle":"O TikTok utiliza cookies e tecnologias semelhantes para fornecer, melhorar, proteger e analisar os nossos serviços. Os cookies essenciais são necessários para que o nosso site funcione conforme esperado. Ao selecionar \"Permitir todos\", você nos permite usar cookies opcionais para fins adicionais, como medir a eficácia e a relevância dos anúncios, incluindo anúncios personalizados no TikTok.com, dependendo das suas configurações. Os cookies opcionais também nos ajudam a fazer outras coisas, como medir melhor o desempenho das nossas campanhas publicitárias fora do TikTok.com. Saiba mais sobre como usamos cookies e gerenciamos suas escolhas em nossa <a href=\"https://www.tiktok.com/legal/tiktok-website-cookies-policy?lang=pt-BR\" target=\"_blank\" rel=\"noopener noreferrer\">Política de Cookies</a>.","cookieBannerBtnAccept":"Permitir todos","cookieBannerBtnDecline":"Recusar cookies opcionais","cookieBannerSaveToast":"Salvo!","cookieSettingSaveBtn":"Salvar","cookieSettingsTitle":"Gerenciar cookies","cookieSettingsSubTitle":"Altere suas configurações de cookies para permitir ou recusar cookies opcionais.","cookieSettingsFooter":"Saiba mais em nossa <a href=\"https://www.tiktok.com/legal/tiktok-website-cookies-policy?lang=pt-BR\" target=\"_blank\" rel=\"noopener noreferrer\">Política de Cookies</a>"},"appProps":{"region":"US","user":{"ftcUser":false,"region":""},"idcRegion":"TTP"},"cookieBanner":{"resource":{"esm":"/pns/tiktok-cookie-banner/2.0.0.77/default.ttp.esm.js","nomodule":"/pns/tiktok-cookie-banner/2.0.0.77/default.ttp.js","baseUrl":"https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx","version":"2.0.0.77"},"settings":[{"groupName":"Cookies opcionais","groupDescription":"Com o seu consentimento, utilizamos cookies opcionais para outras finalidades, como medir a eficácia e a relevância dos anúncios, incluindo anúncios personalizados no TikTok.com, dependendo das suas configurações. Os cookies opcionais também nos ajudam a medir melhor o desempenho das nossas campanhas publicitárias fora do TikTok.com.","disabled":false,"items":{},"groupEntityKeys":[{"entityKey":"optional"},{"entityKey":"ga"},{"entityKey":"af"},{"entityKey":"fbp"},{"entityKey":"lip"},{"entityKey":"bing"},{"entityKey":"ttads"},{"entityKey":"reddit"},{"entityKey":"hubspot"}]},{"groupName":"Cookies essenciais","groupDescription":"Os cookies essenciais são necessários para que o TikTok funcione conforme esperado. Isto inclui cookies necessários para fornecer, melhorar, proteger e analisar os nossos serviços.","disabled":true,"items":{}}],"disabled":false,"isEffective":false,"version":"v10","disabledAccessKeys":[{"path":".","accessKeys":["*"]}]},"consent":{"domain":"https://www.tiktok.com","appId":1988,"entityKeys":{"optional":["data-cookie-optional"]},"mode":"production","fetchDataAtInit":false,"api":{"consent":{"fetch":{"version":"v2"},"update":{"version":"v2"}}},"wid":"7673092788523582989","collectionPointId":"737326081028"},"tea":{"channel_type":"ttp","channel_domain":"https://mcs.tiktokv.us"},"tenantId":"paas_tiktok","monitorConfig":{"slardar":{"domain":"https://mon16-normal-useast5.tiktokv.us","pluginPathPrefix":"https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/slardar/fe/sdk-web/plugins"}},"consentApiDomain":"https://www.tiktok.com","customTheme":[]}</script><script src="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/pns/tiktok-cookie-banner/2.0.0.77/default.ttp.esm.js" crossorigin="anonymous"></script><tiktok-cookie-banner locale="pt-BR" user-config-ele-id="tiktok-cookie-banner-config" disabled="false" disabled-access-key=""></tiktok-cookie-banner><script id="api-domains" type="application/json">{"kind":"us","captcha":"//verification.tiktokw.us","imApi":"https://im-api.tiktok.com","imFrontier":"wss://im-ws.tiktok.com/ws/v2","mTApi":"https://www.tiktok.com","rootApi":"https://www.tiktok.com","secSDK":"","slardar":"mon16-normal-useast5.tiktokv.us","starling":"https://starling.tiktokv.us","tea":"https://mcs.tiktokw.us","teaChannel":"va","teaChannelType":"ttp","libraWebSDK":"https://libraweb.tiktokw.us","webcastApi":"https://webcast.us.tiktok.com","webcastRootApi":"https://webcast.us.tiktok.com","tcc":"https://lf16-config.tiktokcdn-us.com/obj/tcc-config-web-tx/","locationApi":"https://location.tiktokw.us"}</script></body><iframe id="__JSBridgeIframe__" src="bytedance://dispatch_message/" style="display: none;"></iframe><iframe id="__JSBridgeIframe_SetResult__" style="display: none;"></iframe></html>
