@@ -34,8 +34,9 @@
 * [O que os traços verdes significam no Telegram?](#p-o-que-os-tracos-verdes-significam)
 * [Posso esconder meu 'visto por último'?](#p-posso-esconder-o-meu-status-visto-por-ultimo)
 * [Quem pode me ver ‘online’?](#p-quem-pode-me-ver-online)
+* [Posso apagar minhas mensagens?](#p-eu-posso-apagar-minhas-mensagens)
 * [Chamadas de voz, vídeo e em grupo](#p-eu-posso-fazer-chamadas-via-telegram)
-* [Usando emoticons no iOS](#p-como-eu-posso-usar-emoticons-no-telegram-em-meu-iphone)
+* [Usando emojis](#p-como-posso-usar-emojis)
 
 [**Grupos e Canais**](#grupos-e-canais)
 
@@ -96,7 +97,7 @@
 * [Como eu crio um bot?](#p-como-eu-crio-um-bot)
 * [Como parar um bot?](#p-um-bot-esta-me-enviando-mensagens-como-para-lo)
 * [Os bots são seguros?](#p-os-bots-sao-seguros)
-* [Onde posso encontrar mais bots?](#p-onde-posso-encontrar-mais-bots)
+* [O que são miniapps?](#p-o-que-sao-miniapps)
 
 [**Questões Profundas**](#questoes-profundas)
 
@@ -135,7 +136,7 @@
 
 O Telegram é um aplicativo de mensagens com foco em velocidade e segurança, é super-rápido, simples e gratuito. Você pode usar o Telegram em todos os seus dispositivos **ao mesmo tempo** — suas mensagens são sincronizadas perfeitamente em qualquer quantidade de seus telefones, tablets ou computadores. O Telegram tem mais de **1 bilhão** de usuários ativos mensais e é um dos **5 aplicativos mais baixados** do mundo.
 
-Com o Telegram, você pode enviar mensagens, fotos, vídeos e [**arquivos**](/blog/shared-files) de qualquer tipo (doc, zip, mp3, etc), além de criar grupos de até  **200.000** pessoas ou [canais](/blog/channels) para transmitir para públicos **ilimitados**. Você pode escrever para seus contatos da agenda e encontrar pessoas pelos [**nomes de usuário**](#nomes-de-usuario-e-t-me) delas. Como resultado, o Telegram é como SMS e e-mail combinados – e pode cuidar de todas as suas necessidades de mensagens pessoais ou comerciais. Além disso, oferecemos suporte a [**chamadas de voz**](https://telegram.org/blog/calls) e [**videochamadas**](https://telegram.org/blog/video-calls/pt-br) criptografadas de ponta a ponta, bem como [**chats de voz em grupos**](https://telegram.org/blog/voice-chats) para milhares de participantes.
+Com o Telegram, você pode enviar mensagens, fotos, vídeos e [**arquivos**](/blog/shared-files) de qualquer tipo (doc, zip, mp3, etc), além de criar grupos de até  **200.000** pessoas ou [canais](/blog/channels) para transmitir para públicos **ilimitados**. Você pode escrever para seus contatos da agenda e encontrar pessoas pelos [**nomes de usuário**](#nomes-de-usuario-e-t-me) delas. Como resultado, o Telegram é como SMS e e-mail combinados – e pode cuidar de todas as suas necessidades de mensagens pessoais ou comerciais. Além disso, oferecemos suporte a [**chamadas de voz**](https://telegram.org/blog/calls) e [**videochamadas**](https://telegram.org/blog/video-calls/pt-br) criptografadas de ponta a ponta, [**chamadas em grupo**](https://telegram.org/blog/group-calls-made-easy/pt-br) para até 200 participantes, e [**chats de voz**](https://telegram.org/blog/voice-chats/pt-br) em grupos que os membros podem entrar quando quiserem.
 
 > Siga nosso [**Canal de Dicas**](https://t.me/TelegramTipsBR) para saber mais sobre os recursos do Telegram.
 
@@ -153,15 +154,17 @@ Aqueles que procuram privacidade adicional podem verificar nossas [configuraçõ
 
 #### P: Qual a diferença do Telegram para o WhatsApp?
 
-Ao contrário do WhatsApp, o Telegram é um mensageiro baseado em nuvem com sincronização contínua. Como resultado, você pode acessar suas mensagens de vários dispositivos ao mesmo tempo, incluindo tablets e computadores, e compartilhar um número ilimitado de fotos, vídeos e arquivos (doc, zip, mp3, etc.) de até 2 GB *cada*. E se você não quiser armazenar todos os dados no seu dispositivo, você pode sempre [mantê-los na nuvem](https://telegram.org/blog/cache-and-stickers).
+Ao contrário do WhatsApp, o Telegram é um mensageiro baseado em nuvem com sincronização contínua. Como resultado, você pode acessar suas mensagens de vários dispositivos ao mesmo tempo, incluindo tablets e computadores, e compartilhar um número ilimitado de fotos, vídeos e arquivos (doc, zip, mp3, etc.) de até **2 GB** *cada*.
 
 O Telegram precisa de menos de **100 MB** no seu dispositivo – você pode manter **todas as suas mídias** na nuvem sem precisar apagar nada – basta [limpar o cache para liberar espaço](https://t.me/TelegramTipsBR/242).
 
 Graças à nossa infraestrutura de múltiplos data centers e criptografia, o Telegram é mais rápido e muito mais [seguro](#seguranca). Além disso, conversas privadas no Telegram são gratuitas e continuarão gratuitas — sem anúncios, sem taxas de assinatura, para sempre.
 
-Nossa API é aberta e nós damos as boas-vindas aos desenvolvedores para criar seus próprios aplicativos do Telegram. Também temos a [Bot API](https://core.telegram.org/bots), uma plataforma para desenvolvedores que permite a qualquer pessoa construir facilmente ferramentas especializadas para o Telegram, [integrar quaisquer serviços](https://telegram.org/blog/inline-bots) e até mesmo [aceitar pagamentos](https://telegram.org/blog/payments) de usuários de todo o mundo.
+A API e o código do Telegram são abertos, e os desenvolvedores são bem-vindos para criar seus próprios aplicativos do Telegram. Também temos a [Bot API](https://core.telegram.org/bots), uma plataforma para desenvolvedores que permite a qualquer pessoa construir facilmente ferramentas especializadas para o Telegram, [integrar quaisquer serviços](https://telegram.org/blog/inline-bots) e até mesmo [aceitar pagamentos](https://telegram.org/blog/payments) de usuários de todo o mundo.
 
-E essa é apenas a ponta do iceberg. Não se esqueça de conferir [este parágrafo](#p-para-quem-o-telegram) para ainda mais exclusividades.
+E essa é apenas a ponta do iceberg.
+
+> Siga nosso [**Canal de Dicas**](https://t.me/TelegramTipsBR) para saber mais sobre os recursos do Telegram.
 
 #### P: Há quanto tempo existe o Telegram?
 
@@ -169,15 +172,15 @@ O Telegram para iOS foi lançado em 14 de agosto de 2013. A versão alfa do Tele
 
 #### P: Quais dispositivos são compatíveis?
 
-Você pode usar o Telegram em celulares, tablets e até mesmo em computadores. Temos aplicativos para [iOS](https://telegram.org/dl/ios) (11.0 e superior), [Android](https://telegram.org/dl/android) (6.0 e superior), um aplicativo nativo para [macOS](https://macos.telegram.org) e um aplicativo universal para desktop ([disponível aqui](https://desktop.telegram.org)) para Windows, macOS e Linux. O [Telegram Web](https://web.telegram.org) também pode ajudar você a fazer o que precisar rapidamente em qualquer lugar.
+Você pode usar o Telegram em celulares, tablets e até mesmo em computadores. Temos aplicativos para [iOS](https://telegram.org/dl/ios) (13.0 e superior), [Android](https://telegram.org/dl/android) (5.0 e superior), um aplicativo nativo para [macOS](https://macos.telegram.org) e um aplicativo universal para desktop ([disponível aqui](https://desktop.telegram.org)) para Windows, macOS e Linux. O [Telegram Web](https://web.telegram.org) também pode ajudar você a fazer o que precisar rapidamente em qualquer lugar.
 
-> Você pode fazer login no Telegram a partir de quantos dispositivos desejar — tudo **ao mesmo tempo**. Basta usar o número do seu celular para fazer login em todos os lugares.
+> Você pode fazer login no Telegram a partir de quantos dispositivos desejar — tudo **ao mesmo tempo**. Basta usar o número do seu celular para fazer login em todos os lugares, e suas conversas na nuvem serão sincronizadas instantaneamente.
 
 Nossa [API](https://core.telegram.org/api) é aberta para desenvolvedores, caso você queira criar seus próprios aplicativos para outras plataformas.
 
 #### P: Quem são as pessoas por trás do Telegram?
 
-O Telegram é apoiado por Pavel e Nikolai Durov. Pavel apoia financeiramente e ideologicamente o Telegram, enquanto a contribuição de Nikolai é tecnológica. Para tornar o Telegram possível, Nikolai desenvolveu um protocolo de dados personalizado e exclusivo, que é aberto, seguro e otimizado para o trabalho com vários data centers. Como resultado, o Telegram combina segurança, confiabilidade e velocidade em qualquer rede.
+O Telegram é apoiado por [Pavel Durov](https://en.wikipedia.org/wiki/Pavel_Durov) e seu irmão Nikolai. Pavel apoia financeiramente e ideologicamente o Telegram, enquanto a contribuição de Nikolai é tecnológica. Para tornar o Telegram possível, Nikolai desenvolveu um protocolo de dados personalizado e exclusivo, que é aberto, seguro e otimizado para o trabalho com vários data centers. Como resultado, o Telegram combina segurança, confiabilidade e velocidade em qualquer rede.
 
 > Veja também: [artigos sobre o Telegram](https://telegram.org/press).
 
@@ -204,20 +207,20 @@ Seguindo esse plano, o Telegram implementou formas sustentáveis de monetizaçã
 
 Esses fluxos de receita nos ajudam a pagar os custos de infraestrutura e os salários dos desenvolvedores; no entanto, obter lucros nunca será o objetivo final do Telegram.
 
-#### P: Quais seus pensamentos sobre a privacidade na internet?
+> Saiba mais sobre assinaturas na [FAQ do Telegram Premium](https://telegram.org/faq_premium?setln=pt-br).
 
-Grandes empresas de internet como o Facebook ou o Google efetivamente sequestraram o discurso de privacidade nos últimos anos. Seus profissionais de marketing conseguiram convencer o público de que as coisas mais importantes sobre privacidade são ferramentas superficiais que permitem ocultar suas postagens públicas das pessoas ao seu redor. A adição dessas ferramentas superficiais permite que as empresas acalmem o público e não mudem nada em relação à forma como estão entregando dados privados a profissionais de marketing e outros terceiros.
+#### P: Quais seus pensamentos sobre a privacidade na internet?
 
 No Telegram, acreditamos que os dois componentes mais importantes da privacidade na Internet devem ser:
 
 1. Proteger suas conversas privadas de terceiros bisbilhoteiros, como funcionários, empregadores, etc.
 2. Proteger seus dados pessoais de terceiros, como profissionais de marketing, anunciantes, etc.
 
-É com isso que todos devem se preocupar, e essas são algumas das nossas principais prioridades. O objetivo do Telegram é criar um mensageiro verdadeiramente livre, [sem os contrapontos habituais](https://telegram.org/privacy). Isso significa que, em vez de desviar a atenção do público com configurações de baixo impacto, podemos nos dar ao luxo de nos concentrar nos problemas reais de privacidade existentes no mundo moderno.
+O objetivo do Telegram é criar um mensageiro verdadeiramente livre, com uma [política de privacidade](https://telegram.org/privacy) revolucionária.
 
 #### P: E sobre o GDPR?
 
-Novas regulamentações relativas à privacidade de dados, denominada Regulação Geral de Proteção de Dados (GDPR), entraram em vigor na Europa em 25 de maio de 2018. Como o direito à privacidade foi o motivo pelo qual fizemos o Telegram, não tínhamos muito o que mudar. Não usamos seus dados para a segmentação de anúncios, não os vendemos para outras pessoas e não fazemos parte de nenhuma ~~máfia~~ “família de empresas”.
+A Regulação Geral de Proteção de Dados (GDPR) entrou em vigor na Europa em 25 de maio de 2018. Como o direito à privacidade foi o motivo pelo qual fizemos o Telegram, não tínhamos muito o que mudar. Não usamos seus dados para a segmentação de anúncios, não os vendemos para outras pessoas e não fazemos parte de nenhuma ~~máfia~~ “família de empresas”.
 
 O Telegram mantém apenas as informações necessárias para funcionar como um serviço em nuvem rico em recursos — por exemplo, seus chats na nuvem para que você possa acessá-los de qualquer dispositivo sem usar backups de terceiros, ou seus contatos para poder facilitar o envio de mensagens para seus amigos e familiares no Telegram. Por favor, consulte nossa [Política de Privacidade](https://telegram.org/privacy) para mais informações.
 
@@ -225,8 +228,6 @@ Você pode usar o [**@EURegulation**](https://t.me/EURegulation) para:
 
 * Solicitar uma cópia de todos os seus dados que o Telegram armazena.
 * Entrar em contato conosco sobre privacidade de dados.
-
-Usuários do [Android](https://play.google.com/store/apps/details?id=org.telegram.messenger) receberam uma atualização GDPR com a versão 4.8.9, que permite mais controle sobre contatos sincronizados e adiciona outras configurações de privacidade. Em 1 de junho, a Apple [aprovou](https://t.me/durov/88) o Telegram v.4.8.2 para iOS com esses recursos.
 
 #### P: Há conteúdo ilegal no Telegram. Como faço para remover?
 
@@ -283,11 +284,11 @@ Até hoje, divulgamos 0 bytes de mensagens de usuários para terceiros, incluind
 
 ### O Básico do Telegram
 
+> Siga nosso [**Canal de Dicas**](https://t.me/TelegramTipsBR) para saber mais sobre os recursos do Telegram.
+
 #### P: Para quem posso enviar mensagens?
 
-Você pode escrever para as pessoas que estão nos contatos do seu telefone e usam o Telegram. Outra maneira de entrar em contato com as pessoas é digitar o [nome de usuário](#nomes-de-usuario-e-t-me) do Telegram delas no campo de busca.
-
-Você também pode definir um [nome de usuário](#nomes-de-usuario-e-t-me), que é público, para a sua conta do Telegram. Outras pessoas poderão pesquisar e encontrar você por esse nome de usuário, e enviar mensagens para você mesmo que não elas saibam seu número. Você pode aprender mais sobre nomes de usuários [aqui](#nomes-de-usuario-e-t-me).
+Você pode escrever para as pessoas que estão nos contatos do seu telefone e usam o Telegram. Outra maneira de entrar em contato com as pessoas é digitar o [nome de usuário](#nomes-de-usuario-e-t-me) do Telegram delas no campo de busca — você não precisa saber o número de telefone delas para isso.
 
 #### P: Quem pode me enviar mensagens?
 
@@ -322,9 +323,7 @@ Seus contatos que têm o Telegram são mostrados no topo da lista de Contatos. E
 
 *iOS:* Os convites básicos são mensagens SMS simples. O envio de SMS é cobrado de acordo com o seu plano na sua operadora (a menos que seja enviado via iMessage). Naturalmente, você tem outras opções para trazer seus amigos para cá. Envie um link de download através de qualquer outro serviço de mensagens: email, Facebook, WhatsApp, um telegrama real — a escolha é sua. O link: **<https://telegram.org/dl/>**
 
-*Android:* Abra o menu lateral do aplicativo (deslize para a direita na lista de chats) > Convidar Amigos. Em seguida, escolha o aplicativo através do qual você gostaria de enviar os convites.
-
-*Windows Phone:* Vá para *Contatos > Convidar Amigos*. Em seguida, escolha o aplicativo através do qual você gostaria de enviar os convites.
+*Android:* Abra o menu do aplicativo (deslize para a direita na lista de chats) > Convidar Amigos. Em seguida, escolha o aplicativo através do qual você gostaria de enviar os convites.
 
 > Você pode informar a seus amigos um link [t.me](#p-como-os-links-t-me-funcionam) com o seu nome de usuário para que eles possam encontrá-lo facilmente no Telegram, mesmo que eles não tenham o seu número de telefone.
 
@@ -333,7 +332,7 @@ Seus contatos que têm o Telegram são mostrados no topo da lista de Contatos. E
 *Um traço* — mensagem entregue à nuvem do Telegram e seu amigo foi notificado, se ele permitir notificações.  
 *Dois traços* — mensagem lida (seu amigo abriu o Telegram e abriu a conversa com a mensagem).
 
-Não temos um status de “mensagem entregue ao dispositivo” porque o Telegram pode ser usado em quantos dispositivos você desejar ao mesmo tempo. Como saber qual dispositivo seu amigo vai usar para ler a mensagem?
+Não temos um status de “mensagem entregue ao dispositivo” porque o Telegram pode ser usado em quantos dispositivos você desejar ao mesmo tempo. Como saber qual dispositivo em particular seria esse?
 
 #### P: Posso esconder o meu status ‘visto por último’?
 
@@ -356,15 +355,27 @@ Existem algumas exceções porque às vezes é óbvio que você está online. In
 * Ler uma mensagem que eles te enviaram em um chat privado.
 * Transmitir um status “digitando…” para o chat privado com eles ou em um grupo no qual ambos são membros.
 
-Se você não está compartilhando seu Visto por Último com alguém e não fizer nenhuma das ações acima, eles nunca verão você online. Outra maneira de nunca aparecer online para alguém é bloquear essa pessoa.
+Se você não está compartilhando seu Visto por Último com alguém e não fizer nenhuma das ações acima, eles nunca verão você online. Outra maneira de conseguir isso é bloquear essa pessoa.
+
+#### P: Eu posso apagar minhas mensagens?
+
+Sim. Você sempre pode apagar qualquer mensagem que **enviou** ou **recebeu** para *ambos os lados* em *qualquer* conversa individual (em grupos, ainda são apenas as suas próprias mensagens). Você também pode limpar o histórico inteiro do chat para ambas as partes. No Telegram, mensagens apagadas não deixam rastros no chat.
+
+Junto com as configurações de privacidade para [mensagens encaminhadas](/blog/unsend-privacy-emoji#anonymous-forwarding), isso torna a troca de mensagens no Telegram parecida com uma conversa cara a cara (sem gravador). Como resultado, os usuários não precisam mais se preocupar com o acúmulo de dados em seus chats ao longo dos anos. Ambas as partes de uma conversa têm controle total sobre o que pertence, ou não, à sua identidade online.
 
 #### P: Eu posso fazer chamadas via Telegram?
 
-Sim! [Chamadas de voz](https://telegram.org/blog/calls) estão disponíveis para os usuários em todo o mundo.
+Sim. Você pode fazer [Chamadas de Voz](https://telegram.org/blog/calls) e [Chamadas de Vídeo](https://telegram.org/blog/video-calls/pt-br?ln=a) criptografadas de ponta a ponta, e pode transformar qualquer chamada em uma [Chamada em Grupo](https://telegram.org/blog/group-calls-made-easy/pt-br?setln=pt-br#chamadas-seguras-em-grupo-facilitadas) com até **200 participantes** — também protegida por criptografia de ponta a ponta, que você pode verificar a qualquer momento.
 
-#### P: Como eu posso usar emoticons no Telegram em meu iPhone?
+Os participantes podem [enviar comentários e reações](https://telegram.org/blog/comments-in-video-chats-threads-for-bots/pt-br?setln=pt-br#comentarios-e-reacoes-em-chamadas-em-grupo) diretamente dentro da chamada, sem interromper o áudio.
 
-Temos suporte aos emoticons emoji. Habilite o teclado emoji nos Ajustes do iOS (*Geral > Teclados > Adicionar Novo Teclado > Emoji*), e então troque para este teclado sempre que você estiver sem palavras.
+Se você quiser um chat de áudio contínuo que os membros de um grupo possam entrar quando quiserem, você também pode iniciar um [Chat de Voz](https://telegram.org/blog/voice-chats) em qualquer grupo — útil como um escritório virtual ou um bate-papo informal.
+
+#### P: Como posso usar emojis?
+
+Digite **uma palavra** no seu campo de digitação para receber [sugestões de emoji](https://t.me/TelegramTipsBR/115) relevantes. Você também pode digitar “:” seguido de qualquer palavra-chave para abrir a **busca de emojis** – como *:coracao*.
+
+Você pode sugerir palavras-chave que faltam para emojis no seu idioma usando [esta interface](https://translations.telegram.org/pt-br/emoji).
 
 ### Grupos e Canais
 
@@ -388,22 +399,34 @@ Mantenha facilmente uma conversa e tenha uma comunicação eficiente, não impor
 Silencie o grupo para receber notificações apenas quando as pessoas mencionarem você ou responderem às suas mensagens.
 
 **Mensagens fixadas**  
-Administradores e membros com permissão podem fixar qualquer mensagem para ser exibida na parte superior da tela do chat. Todos os membros receberão uma notificação, mesmo que ignorem as mensagens comuns do grupo.
+Você pode fixar qualquer mensagem para ser exibida na parte superior da tela do chat. Todos os membros receberão uma notificação — mesmo que tenham silenciado as mensagens comuns do seu grupo.
 
 **Ferramentas de moderação**  
 Adicione administradores que podem apagar mensagens em massa, controlar a entrada de usuários e fixar mensagens importantes. Defina os privilégios de administrador com precisão granular.
+
+**Ferramentas antispam**  
+Em grupos grandes, ative o [Antispam Agressivo](/blog/ultimate-privacy-topics-2-0#aggressive-anti-spam) para usar o conjunto completo de ferramentas antispam do Telegram no seu chat.
 
 **Permissões do grupo**  
 Defina permissões padrão para impedir que os membros publiquem tipos específicos de conteúdo. Ou até mesmo restringir os membros de enviarem mensagens completamente — e permitir que os administradores conversem entre si enquanto todos os outros assistem.
 
 **Compartilhamento de arquivos**  
-Envie e receba arquivos de qualquer tipo, com até 2 GB de tamanho cada, e acesse-os instantaneamente em seus outros dispositivos.
+Envie e receba arquivos de qualquer tipo, com até 2 GB de tamanho cada (ou 4 GB com o [Premium](/faq_premium)), e acesse-os instantaneamente em seus outros dispositivos.
+
+**Tópicos**  
+Divida as discussões do grupo em [tópicos](/blog/topics-in-groups-collectible-usernames#topics-in-groups) — cada um com seu próprio histórico de chat, mídia compartilhada e configurações de notificação, como fóruns clássicos.
 
 **Grupos públicos**  
 Receba um [link curto](#nomes-de-usuario-e-t-me) para o seu grupo e torne-o público, como o [t.me/publictestgroup](https://t.me/publictestgroup). Dessa forma, qualquer pessoa pode visualizar todo o histórico de chat do grupo e participar para postar mensagens.
 
+**Impulsos de grupo**  
+Os membros podem impulsionar um grupo com a [assinatura Premium](/faq_premium) para desbloquear recursos para todos — como [postar stories](https://telegram.org/blog/february2024/pt-br?setln=pt-br#stories-de-grupos), [pacotes de emoji personalizados](https://telegram.org/blog/february2024/pt-br?setln=pt-br#pacotes-de-emojis-de-grupos), [voz para texto](https://telegram.org/blog/february2024/pt-br?setln=pt-br#transcricao-de-voz-e-mais) e [aparência de grupo personalizada](https://telegram.org/blog/february2024/pt-br?setln=pt-br#emojis-de-status-capas-papeis-de-parede-e-estilos-de-link).
+
 **Customização via bots**  
 Crie ferramentas personalizadas para qualquer necessidade específica usando nossa [Bot API](https://core.telegram.org/bots) e [Bots Inline](https://core.telegram.org/bots/inline).
+
+**Saindo de um grupo de forma organizada**  
+Se você é o dono e quer sair do grupo, [escolha um novo dono](https://telegram.org/blog/crafting-android-design-and-more/pt-br?ln=a#deixando-grupos-para-um-novo-admin) enquanto faz isso, para que o grupo continue funcionando.
 
 #### P: Qual é a diferença entre grupos e canais?
 
@@ -437,6 +460,12 @@ Qualquer pessoa que tenha o Telegram instalado poderá participar do seu grupo s
 
 > [Leia mais sobre links de convite em nosso blog »](https://telegram.org/blog/invite-links)
 
+#### P: Canais e assinantes podem conversar entre si?
+
+Sim. Donos de canais podem ativar as [Mensagens Diretas](https://telegram.org/blog/direct-to-channel-trim-voice-and-more/pt-br?ln=a#envie-mensagens-diretas-para-canais) para que os assinantes possam enviar mensagens privadas a eles — sem que o dono do canal precise compartilhar sua conta pessoal.
+
+Os assinantes também podem [sugerir publicações](https://telegram.org/blog/checklists-suggested-posts/pt-br?ln=a#sugerir-posts-nos-canais) para o canal — inclusive sugestões pagas. O dono pode revisá-las, editá-las, agendá-las ou rejeitá-las. Isso dá aos canais uma forma clara de obter conteúdo colaborativo ou trabalhar com marcas.
+
 ### Nomes de Usuário e t.me
 
 #### P: O que são Nomes de Usuário? Como obtenho um?
@@ -451,6 +480,8 @@ Nomes de Usuário Colecionáveis funcionam exatamente como os [nomes de usuário
 
 Eles podem ser comprados e vendidos por meio de plataformas de terceiros, como [Fragment](https://fragment.com/), oferecendo uma maneira **simples** e **segura** de adquirir e trocar domínios valiosos do Telegram. A aquisição de um nome de usuário colecionável fornece propriedade permanente, verificada pelo blockchain TON. Os proprietários de nomes de usuário colecionáveis podem livremente **atribuí-los** a chats, **vendê-los** ou **guardá-los** para uso posterior.
 
+Um único usuário, grupo ou canal pode ter vários nomes de usuário colecionáveis apontando para ele ao mesmo tempo. Cada um tem seu próprio link `t.me/nomedeusuario` e endereço `nomedeusuario.t.me`.
+
 #### P: Como os links t.me funcionam?
 
 Depois de configurar um nome de usuário, você pode fornecer às pessoas um link como este: [t.me/NomesDeUsuario](https://t.me/NomesDeUsuario). Abrir esse link no telefone abrirá automaticamente o aplicativo do Telegram e abrirá um chat com você. Você pode compartilhar links de nome de usuário com amigos, escrevê-los em cartões de visita ou colocá-los em seu site.
@@ -461,7 +492,7 @@ Se não quiser criar um nome de usuário público e não se importar em comparti
 
 #### P: O que posso usar como meu nome de usuário?
 
-Você pode usar a-z, 0-9 e sublinhados (letras, números e underline). Os nomes de usuário não diferenciam maiúsculas de minúsculas, mas o Telegram armazenará suas preferências de capitalização (por exemplo, Telegram e TeleGram são o mesmo usuário). O nome de usuário deve ter pelo menos cinco caracteres.
+Você pode usar a-z, 0-9 e sublinhados (letras, números e underline). Os nomes de usuário não diferenciam maiúsculas de minúsculas, mas o Telegram armazenará suas preferências de capitalização (por exemplo, Telegram e TeleGram são o mesmo usuário).
 
 #### P: Eu preciso de um nome de usuário?
 
@@ -469,7 +500,7 @@ Você não precisa necessariamente configurar um. Lembre-se de que os nomes de u
 
 #### P: Se alguém me encontrar por nome de usuário, enviar uma mensagem e eu responder, eles saberão o meu número de telefone?
 
-Não. Nenhum dos dois verá o número de telefone do outro. Isso é semelhante ao que acontece quando você envia uma mensagem para uma pessoa que você conheceu em um grupo do Telegram.
+Não. Nenhum dos dois verá o número de telefone do outro (a menos que isso seja permitido pelas suas [configurações de privacidade](#p-quem-pode-ver-meu-numero-de-telefone)). Isso é semelhante ao que acontece quando você envia uma mensagem para uma pessoa que você conheceu em um grupo do Telegram.
 
 #### P: Como faço para apagar o meu nome de usuário?
 
@@ -509,11 +540,11 @@ Não se preocupe. Os [chats secretos](#chats-secretos) especiais do Telegram usa
 
 #### P: Então, como vocês criptografam os dados?
 
-Oferecemos suporte a duas camadas de criptografia segura. A [criptografia cliente-servidor](https://core.telegram.org/mtproto), que é usada em chats na nuvem (chats privados e em grupo). Os chats secretos usam uma camada adicional de [criptografia cliente-cliente](https://core.telegram.org/api/end-to-end). Todos os dados, independentemente do tipo, são criptografados da mesma maneira — seja texto, mídia ou arquivos.
+Oferecemos suporte a duas camadas de criptografia segura. A [criptografia cliente-servidor](https://core.telegram.org/mtproto) é usada em Chats na Nuvem (chats privados e em grupo), os Chats Secretos usam uma camada adicional de [criptografia cliente-cliente](https://core.telegram.org/api/end-to-end). Todos os dados, independentemente do tipo, são criptografados da mesma maneira — seja texto, mídia ou arquivos.
 
 Nossa criptografia é baseada em criptografia AES simétrica de 256 bits, criptografia RSA de 2048 bits e troca de chaves segura Diffie-Hellman. Você pode encontrar mais informações no [FAQ Avançado](https://core.telegram.org/techfaq).
 
-> Veja também: [Vocês processam solicitações de dados?](#p-vocs-processam-solicitaes-de-dados)
+> Veja também: [Vocês processam solicitações de dados?](https://telegram.org/faq#p-voces-processam-solicitacoes-de-dados)
 
 #### P: Por que eu deveria confiar em vocês?
 
@@ -521,13 +552,13 @@ O Telegram é aberto, qualquer um pode verificar nosso [código-fonte](https://t
 
 Encorajamos especialistas em segurança a auditar o nosso sistema e ficamos gratos por qualquer feedback em [security@telegram.org](mailto:security@telegram.org).
 
-Além disso, o foco principal do Telegram não é [gerar lucro](#q-como-vocs-ganharo-dinheiro), por isso os interesses comerciais nunca interferirão em nossa missão.
+Além disso, o foco principal do Telegram não é [gerar lucro](#p-como-voces-farao-dinheiro), por isso os interesses comerciais nunca interferirão em nossa missão.
 
 > Veja também: [artigos sobre o Telegram](https://telegram.org/press).
 
 #### P: Preciso confiar no Telegram para que ele seja seguro?
 
-Quando falamos de [chats secretos](#chats-secretos), você não precisa — apenas garanta que a chave visualizada em seu chat secreto é igual a de seu amigo nas configurações do chat secreto. [Mais sobre isto abaixo.](#p-o-que-a-chave-criptografica)
+Quando falamos de [chats secretos](#chats-secretos), você não precisa — apenas garanta que a chave visualizada em seu chat secreto é igual a de seu amigo nas configurações do chat secreto. [Mais sobre isto abaixo.](#p-o-que-e-a-chave-criptografica)
 
 #### P: E se meu amigo hacker disser que pode decifrar as mensagens do Telegram?
 
@@ -553,6 +584,8 @@ Você pode fazer isso em *Configurações > Privacidade e Segurança > Verifica�
 
 [Veja isso](https://xkcd.com/936/), em Inglês, para dicas sobre como criar uma senha forte que seja fácil de lembrar.
 
+Você também pode configurar uma [Chave de Acesso](#p-o-que-e-uma-chave-de-acesso) para fazer login sem um código SMS, usando o PIN, a impressão digital ou o reconhecimento facial do seu dispositivo.
+
 #### P: Por que jailbreak e root podem ser prejudiciais ao dispositivo?
 
 Usar um dispositivo com root ou jailbreak torna mais fácil para um atacante em potencial obter controle administrativo total sobre seu dispositivo — [acesso root](https://pt.wikipedia.org/wiki/Superusu%C3%A1rio).
@@ -567,9 +600,11 @@ O Telegram desenvolveu a Cocoon e a utiliza para alimentar seus recursos de IA c
 
 #### P: Os recursos de IA do Telegram enviam dados para terceiros?
 
-**Não**. Os recursos de IA do Telegram, como tradução e tons personalizados, dependem da [Cocoon](#p-o-que-e-cocoon) e **nunca enviam dados** para terceiros.
+**Não**. Os recursos de IA do Telegram — incluindo tradução, tons personalizados, [resumos por IA](/blog/new-design-ai-summaries#ai-summaries) de publicações longas de canais e artigos de Instant View, e [busca de figurinhas com IA](/blog/affiliate-programs-ai-sticker-search#ai-powered-sticker-search) — funcionam na [Cocoon](#p-o-que-e-cocoon) e **nunca enviam dados** para terceiros.
 
 Quando você usa um recurso de IA fornecido pelo Telegram, o processamento ocorre em um ambiente altamente seguro, isolado e criptografado – seus dados permanecem inacessíveis.
+
+> Se você usar IA por meio de um [bot](#p-bots-sao-criados-pelo-telegram) ou miniapp de terceiros, você está usando um **serviço de terceiros**, não o Telegram. Consulte a política de privacidade desse bot para mais detalhes.
 
 #### P: Qual modelo de IA o Telegram utiliza?
 
@@ -598,7 +633,7 @@ Lembre-se de que os chats secretos do Telegram são específicos do dispositivo.
 
 #### P: Como mensagens autodestrutivas funcionam?
 
-O Timer de Autodestruição está disponível para **todas as mensagens** em Chats Secretos e para **mídias** em chats privados.
+O Timer de Autodestruição está disponível para **todas as mensagens** em Chats Secretos e para **mídias** em chats privados na nuvem.
 
 Para definir o timer, basta tocar no ícone de relógio (na caixa de texto no iOS, ou na barra superior no Android) e configurar o limite de tempo desejado. O relógio começa a contar no momento em que a mensagem é exibida na tela do destinatário (recebe dois ticks verdes). Assim que o tempo acabar, a mensagem desaparece de **ambos** os dispositivos. Tentaremos enviar uma notificação se uma captura de tela for realizada.
 
@@ -618,11 +653,11 @@ Sempre compare as visualizações usando um canal que é conhecido por ser segur
 
 #### P: Por que não fazer todos os chats ‘secretos’?
 
-Todas as mensagens do Telegram são sempre criptografadas com segurança. Mensagens em Chats Secretos usam criptografia **cliente-cliente**, enquanto os chats na nuvem usam criptografia **cliente-servidor/servidor-cliente** e são armazenadas criptografadamente na Nuvem do Telegram (mais [aqui](https://telegram.org/privacy#2-storing-data)). Isso permite que suas mensagens na nuvem sejam tanto [seguras](#p-vocs-processam-solicitaes-de-dados) quanto imediatamente acessíveis a partir de qualquer um de seus dispositivos — mesmo se você perder completamente o dispositivo.
+Todas as mensagens do Telegram são sempre criptografadas com segurança. Mensagens em Chats Secretos usam criptografia **cliente-cliente**, enquanto os chats na nuvem usam criptografia **cliente-servidor/servidor-cliente** e são armazenadas criptografadamente na Nuvem do Telegram (mais [aqui](https://telegram.org/privacy#4-1-storing-data)). Isso permite que suas mensagens na nuvem sejam tanto [seguras](#p-voces-processam-solicitacoes-de-dados) quanto imediatamente acessíveis a partir de qualquer um de seus dispositivos — mesmo se você perder completamente o dispositivo.
 
-O problema de restaurar o acesso ao seu histórico de chats em um dispositivo recém-conectado (por exemplo, quando você perde seu telefone) não tem uma solução elegante no paradigma de criptografia de ponta a ponta. Ao mesmo tempo, backups confiáveis ​​são um recurso essencial para qualquer mensageiro de mercado de massa. Para resolver este problema, alguns aplicativos (como Whatsapp e Viber) permitem [backups decriptáveis](https://www.eff.org/deeplinks/2016/10/where-whatsapp-went-wrong-effs-four-biggest-security-concerns) que colocam em risco a privacidade de seus usuários — mesmo que eles não habilitem os backups por conta própria. Outros aplicativos ignoram a necessidade de backups e desaparecem antes mesmo de chegar a um milhão de usuários.
+O problema de restaurar o acesso ao seu histórico de chats em um dispositivo recém-conectado (por exemplo, quando você perde seu telefone) não tem uma solução elegante no paradigma de criptografia de ponta a ponta. Ao mesmo tempo, backups confiáveis ​​são um recurso essencial para qualquer mensageiro de mercado de massa. Para resolver este problema, alguns aplicativos (como Whatsapp e Viber) permitem [backups decriptáveis](https://www.eff.org/deeplinks/2016/10/where-whatsapp-went-wrong-effs-four-biggest-security-concerns) que colocam em risco a privacidade de seus usuários — mesmo que eles não habilitem os backups por conta própria. Outros aplicativos ignoram completamente a necessidade de backups e deixam seus usuários vulneráveis à perda de dados.
 
-Optamos por uma terceira abordagem, oferecendo dois tipos distintos de chats. O Telegram desativa os backups padrão do sistema e fornece a todos os usuários uma solução integrada de backup com foco em segurança na forma de Chats na Nuvem. Enquanto isso, separadamente, os Chats Secretos oferecem controle total sobre os dados que você não deseja armazenar.
+Optamos por uma terceira abordagem, oferecendo dois tipos distintos de chats. O Telegram desativa os backups padrão do sistema e fornece a todos os usuários uma solução integrada de backup com foco em segurança na forma de Chats na Nuvem. Enquanto isso, a entidade separada dos Chats Secretos oferece a você controle total sobre os dados que não deseja armazenar.
 
 Isso permite que o Telegram seja amplamente adotado em círculos sociais grandes, não apenas por ativistas e dissidentes, de modo que o simples fato de usar o Telegram não marque os usuários como alvos de vigilância reforçada em certos países. Estamos convencidos de que a separação de conversas em chats na nuvem e secretos representa a solução mais segura atualmente possível para um aplicativo de mensagens altamente popular.
 
@@ -640,9 +675,9 @@ No Telegram, você pode enviar mensagens em chats privados e em grupos sem torna
 
 Cada número de telefone é uma conta **separada** no Telegram. Você tem várias opções se estiver usando vários números de telefone:
 
-* Se você **não vai mais usar o número antigo** (por exemplo, você se mudou para um novo país ou alterou seu número para sempre), simplesmente vá para Configurações e [altere o número](#p-como-eu-altero-o-meu-nmero-de-telefone) conectado à sua conta do Telegram para o novo número. **Importante:** verifique se você tem acesso ao seu número de telefone conectado. Caso contrário, você corre o risco de perder o acesso à sua conta.
+* Se você **não vai mais usar o número antigo** (por exemplo, você se mudou para um novo país ou alterou seu número para sempre), simplesmente vá para Configurações e [altere o número](#p-como-eu-altero-o-meu-numero-de-telefone) conectado à sua conta do Telegram para o novo número. **Importante:** verifique se você tem acesso ao seu número de telefone conectado. Caso contrário, você corre o risco de perder o acesso à sua conta.
 * Se você vai usar o novo número por **tempo limitado** (por exemplo, em uma viagem ou férias), não há necessidade de fazer nada.
-* Se você quiser continuar usando **ambos os números** (por exemplo, você tem um telefone comercial e um telefone pessoal), escolha um como o número do seu Telegram. Você *pode* criar outra conta do Telegram no segundo número também, por exemplo, se quiser separar assuntos pessoais do trabalho. É possível entrar no app do Telegram com até 3 contas diferentes ao mesmo tempo.
+* Se você quiser continuar usando **ambos os números** (por exemplo, você tem um telefone comercial e um telefone pessoal), escolha um como o número do seu Telegram. Você *pode* criar outra conta do Telegram no segundo número também, por exemplo, se quiser separar assuntos pessoais do trabalho. É possível entrar no app do Telegram com várias [contas](https://telegram.org/blog/autoplay#multiple-account-support) diferentes ao mesmo tempo.
 
 #### P: Como eu saio da conta?
 
@@ -650,7 +685,7 @@ A maioria dos usuários não precisa sair da conta do Telegram:
 
 * Você pode usar o Telegram em vários dispositivos **ao mesmo tempo**. Basta usar o mesmo número de telefone para fazer login em todos os dispositivos.
 * Você pode ir em *Configurações > Dados e Armazenamento > Uso de Armazenamento > Limpar Cache* para **liberar espaço** no seu dispositivo sem sair de sua conta do Telegram.
-* Se você usa o Telegram com **vários números de telefone**, poderá [alternar entre contas](https://telegram.org/blog/themes-accounts#multiple-accounts) sem sair da conta (disponível no Android, iOS e Desktop, em breve para todos os outros).
+* Se você usa o Telegram com **vários números de telefone**, poderá [alternar entre contas](https://telegram.org/blog/themes-accounts#multiple-accounts) sem sair da conta.
 * Se você usa o Telegram em um **dispositivo compartilhado**, poderá definir uma senha de bloqueio em *Configurações > Privacidade e Segurança* para garantir que somente você tenha acesso à sua conta.
 
 Se você quiser sair por algum motivo, veja como você pode fazer isso:
@@ -665,8 +700,6 @@ Se você sair da conta, manterá todas as suas mensagens na nuvem. No entanto, *
 #### P: Como eu altero o meu número de telefone?
 
 Você pode alterar seu número no Telegram e manter **tudo**, incluindo todos os seus contatos, mensagens e mídias na nuvem do Telegram, bem como todos os seus chats secretos em todos os dispositivos.
-
-**Importante:** Seus contatos mútuos (pessoas em seus contatos que também têm seu número) terão o seu novo número adicionado à agenda de contatos deles, a menos que você tenha bloqueado eles no Telegram. Isso torna a mudança de números ainda mais fácil.
 
 Para alterar seu número, vá para Configurações e toque no seu número de telefone (logo acima do nome de usuário) e, em seguida, em *“Alterar número”*. Se você já tiver uma conta do Telegram diferente no número de destino, precisará [apagar](#p-como-eu-apago-minha-conta) essa conta primeiro.
 
@@ -753,13 +786,21 @@ Se você tiver um gerenciador de senhas como as Chaves do iCloud, o Gerenciador 
 
 > Com uma chave de acesso, você ainda pode **solicitar um código SMS** para fazer login – portanto, certifique-se sempre de que sua conta usa um [número de telefone atualizado](https://telegram.org/faq?setln=pt-br#p-como-eu-altero-o-meu-numero-de-telefone) que seja **controlado por você**. Para ainda mais segurança, você pode adicionar uma [senha adicional](https://telegram.org/faq?setln=pt-br#p-como-funciona-a-verificacao-em-duas-etapas) à sua conta, que será exigida **toda vez** que você fizer login.
 
+#### P: O que é uma Conta Congelada?
+
+Se a sua conta foi restringida devido a denúncias de outros usuários, sua conta está **congelada**. Enquanto estiver congelada, você ainda pode ler suas conversas, mas não pode enviar mensagens nem publicar conteúdo.
+
+Você pode [recorrer da restrição](https://telegram.org/blog/group-calls-made-easy/pt-br?ln=a#recorra-de-restricoes-de-conta-com-contas-congeladas) diretamente pelo aplicativo. Os moderadores do Telegram vão analisar o seu caso. Se a restrição tiver sido um engano, sua conta será descongelada.
+
 ### Bots
 
 > Se você é um desenvolvedor, pode gostar mais da nossa [Bots FAQ](https://core.telegram.org/bots/faq).
 
 #### P: O que são bots?
 
-Os bots são como pequenos programas que são executados dentro do Telegram. Eles são feitos por desenvolvedores de terceiros usando a [API de Bots do Telegram](https://core.telegram.org/bots).
+Os bots são pequenos programas que são executados dentro do Telegram. Eles são feitos por desenvolvedores de terceiros usando a [API de Bots do Telegram](https://core.telegram.org/bots).
+
+Bots modernos podem fazer muito mais do que responder mensagens. Eles podem abrir [**miniapps**](#p-o-que-sao-mini-apps) completos com sua própria interface, executar [assistentes de IA](https://telegram.org/blog/comments-in-video-chats-threads-for-bots/pt-br?ln=a#topicos-e-streaming-de-respostas-para-bots-de-ia) com múltiplas conversas em tópicos e streaming de respostas – e [muito mais](https://core.telegram.org/bots/features).
 
 #### P: Como eu crio um bot?
 
@@ -793,9 +834,13 @@ Se o seu grupo contém informações muito confidenciais, talvez seja melhor evi
 
 Não. Embora tenhamos alguns bots oficiais para propósitos específicos, (como [@gif](https://t.me/gif) ou [@Stickers](https://t.me/stickers)), nós geralmente não criamos bots. Os bots são feitos por desenvolvedores de terceiros usando a API e plataforma de Bots do Telegram ([Telegram Bot API and platform](https://core.telegram.org/bots)).
 
-#### P: Onde posso encontrar mais bots?
+#### P: O que são miniapps?
 
-Não há uma loja oficial no momento, então você terá que perguntar a seus amigos ou pesquisar na Internet por enquanto. Temos certeza que você encontrará alguns bots para experimentar.
+Miniapps são aplicativos completos que rodam dentro do Telegram, criados por desenvolvedores terceirizados sobre a [plataforma de Bots](https://core.telegram.org/bots). Eles podem ter a aparência e o funcionamento de aplicativos normais, com sua própria interface, pagamentos, assinaturas e muito mais.
+
+Você pode encontrar miniapps na **Loja de Miniapps**, na aba *Apps* da Busca, abri-los em [modo de tela cheia](https://telegram.org/blog/fullscreen-miniapps-and-more/pt-br?ln=a#modo-de-tela-cheia) e até adicionar um [atalho](https://telegram.org/blog/fullscreen-miniapps-and-more/pt-br?ln=a#atalhos-na-tela-inicial) à tela inicial do seu celular.
+
+Os miniapps podem vender itens digitais e assinaturas usando Estrelas do Telegram. Alguns miniapps oferecem **programas de afiliados** — quando você os compartilha com amigos, pode [ganhar Estrelas](https://telegram.org/blog/affiliate-programs-ai-sticker-search/pt-br?ln=a#programas-de-afiliados).
 
 ### Questões profundas
 
@@ -813,7 +858,7 @@ A [criptografia](https://core.telegram.org/mtproto) e a [API](https://core.teleg
 
 #### P: Eu posso ter um servidor próprio do Telegram?
 
-Nossa arquitetura ainda não suporta isso. O Telegram é um serviço de nuvem unificado, portanto, criar *forks* em que dois usuários podem acabar em duas nuvens diferentes do Telegram é inaceitável. Permitir que você execute o seu próprio servidor do Telegram, mantendo a velocidade e a segurança, é uma tarefa superdifícil. No momento, estamos indecisos se o Telegram deveria ou não seguir nessa direção.
+Nossa arquitetura ainda não suporta federação. O Telegram é um serviço de nuvem unificado, portanto, criar *forks* em que dois usuários podem acabar em duas nuvens diferentes do Telegram é inaceitável. Permitir que você execute o seu próprio servidor do Telegram, mantendo a velocidade e a segurança, é uma tarefa superdifícil. No momento, estamos indecisos se o Telegram deveria ou não seguir nessa direção.
 
 #### P: Eu posso usar a API do Telegram?
 
@@ -831,7 +876,7 @@ A Apple criou rótulos de privacidade para informar os usuários sobre quais dad
 
 #### P: Por que tem duas versões do Telegram na Loja do Mac?
 
-Um é o nosso [aplicativo nativo para macOS](http://macos.telegram.org/), a versão macOS do nosso [cliente multiplataforma](https://desktop.telegram.org/). Ambos os aplicativos são oficiais. Ambos começaram como aplicativos não-oficiais por dois desenvolvedores diferentes e variam em design e funcionalidade.
+Um é o nosso [aplicativo nativo para macOS](http://macos.telegram.org/), o outro é o Telegram Lite, a versão macOS do nosso [cliente multiplataforma](https://desktop.telegram.org/). Ambos os aplicativos são oficiais. Ambos começaram como aplicativos não-oficiais por dois desenvolvedores diferentes e variam em design e funcionalidade.
 
 O [Telegram para macOS](http://macos.telegram.org/) tem compatibilidade com muitos recursos específicos da plataforma, como a Touch Bar do MacBook Pro, navegação por gestos, integração com o menu Compartilhar do Mac e muito mais. Ele tem todos os recursos da versão iOS do aplicativo, incluindo chats secretos.
 
@@ -839,7 +884,7 @@ O [Telegram Lite](https://desktop.telegram.org/) é um aplicativo extremamente r
 
 #### P: Posso traduzir o Telegram?
 
-O Telegram está oficialmente disponível em Inglês, Espanhol, Alemão, Holandês, Italiano, Francês, Árabe, Português, Coreano, Malaio, Russo e Ucraniano na maioria das plataformas, e estamos gradualmente expandindo a lista de idiomas incorporados aos aplicativos.
+O Telegram está oficialmente disponível em muitos idiomas na maioria das plataformas — e estamos sempre adicionando mais.
 
 Se você não gostar de como um elemento específico da interface do Telegram é traduzido no seu idioma ou se quiser nos ajudar a manter a tradução, confira nossa [plataforma de tradução](https://translations.telegram.org/). Todos podem sugerir traduções e votar nas melhores, tornando a localização do Telegram um esforço de todos.
 
@@ -888,7 +933,7 @@ Para receber esse código, basta abrir o Telegram e verificar em qualquer um dos
 
 Código de login enviado via Telegram
 
-**ATENÇÃO!** Por favor, note que receber os códigos de acesso via Telegram não deve ser considerado uma alternativa ao uso de um **número de telefone atualizado**. Em caso de troca de números, certifique-se sempre de que o [Telegram está conectado](#p-como-eu-altero-o-meu-nmero-de-telefone) a um número de telefone que **você controle**. Caso contrário, você corre o risco de perder o acesso à sua conta para sempre.
+**ATENÇÃO!** Por favor, note que receber os códigos de acesso via Telegram não deve ser considerado uma alternativa ao uso de um **número de telefone atualizado**. Em caso de troca de números, certifique-se sempre de que o [Telegram está conectado](#p-como-eu-altero-o-meu-numero-de-telefone) a um número de telefone que **você controle**. Caso contrário, você corre o risco de perder o acesso à sua conta para sempre.
 
 #### Problemas com notificações
 
@@ -946,6 +991,14 @@ Isso significa que, se você contatar aleatoriamente pessoas que não conhece e 
 
 Se você acredita que esse limite foi aplicado à sua conta incorretamente, visite [esta página](https://telegram.org/faq_spam/br).
 
+#### Não consigo enviar uma mensagem, estão me pedindo Estrelas
+
+Alguns usuários cobram uma pequena taxa — paga em Estrelas do Telegram — por mensagens de pessoas que não estão em seus contatos. Isso é chamado de [Mensagem por Estrelas](https://telegram.org/blog/star-messages-gateway-2-0-and-more/pt-br?ln=a#mantenha-o-controle-da-sua-caixa-de-entrada-com-mensagens-por-es), e ajuda as pessoas a reduzir o spam na caixa de entrada delas.
+
+Você verá quantas Estrelas são necessárias antes de enviar a mensagem. Se o destinatário responder, ele pode optar por reembolsar a taxa.
+
+Se você não quiser pagar, pode esperar que a outra pessoa te envie uma mensagem primeiro, ou pedir para que ela te adicione aos contatos.
+
 #### Como ajustar o horário no Telegram?
 
 Se o horário no Telegram está diferente do de seu celular após uma mudança de fuso horário, você pode fazer a sincronização do relógio da seguinte maneira:
@@ -980,18 +1033,18 @@ Se você não consegue fazer login na sua conta, use [este formulário](https://
 
 ### Twitter?
 
-Sim. Segue a gente! [**@telegram\_br**](https://twitter.com/telegram_br)  
-Para quem fala Inglês: [@telegram](https://twitter.com/telegram)
+Sim. Segue a gente! [**@telegram\_br**](https://x.com/telegram_br)  
+Para quem fala Inglês: [@telegram](https://x.com/telegram)
 
-Nossa conta no Twitter em Espanhol: [@telegram\_es](https://twitter.com/telegram_es)  
-Em Italiano: [@telegram\_it](https://twitter.com/telegram_it)  
-Em Coreano: [@Telegram\_kr](https://twitter.com/telegram_kr)  
-Em Alemão: [@de\_telegram](https://twitter.com/de_telegram)  
-Quem fala Árabe pode achar a [@telegram\_arabic](https://twitter.com/telegram_arabic) mais interessante.
+Nossa conta no Twitter em Espanhol: [@telegram\_es](https://x.com/telegram_es)  
+Em Italiano: [@telegram\_it](https://x.com/telegram_it)  
+Em Coreano: [@Telegram\_kr](https://x.com/telegram_kr)  
+Em Alemão: [@de\_telegram](https://x.com/de_telegram)  
+Quem fala Árabe pode achar a [@telegram\_arabic](https://x.com/telegram_arabic) mais interessante.
 
 ### @SmsTelegram, ajuda de login no Twitter
 
-Temos uma conta especial que pode ajudar você com problemas de login, o [**@smstelegram**](https://twitter.com/smstelegram) no Twitter. Esta conta é oficial. Não tenha medo de enviar lá por DM (Mensagem Privada) o número que você usa para o Telegram. Precisamos dessa informação para investigar os problemas.
+Temos uma conta especial que pode ajudar você com problemas de login, o [**@smstelegram**](https://x.com/smstelegram) no Twitter. Esta conta é oficial. Não tenha medo de enviar lá por DM (Mensagem Privada) o número que você usa para o Telegram. Precisamos dessa informação para investigar os problemas.
 
 Tenha cuidado, não temos outras contas de suporte em nenhuma plataforma de mídia social.
 
