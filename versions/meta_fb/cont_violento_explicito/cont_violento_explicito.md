@@ -1,5 +1,3 @@
-# Conteúdo violento e explícito
-
 fundamento da política
 
 Entendemos que as pessoas apresentam diferentes reações a imagens explícitas e violentas. Para proteger os usuários contra esse tipo de material, removemos o conteúdo mais explícito e adicionamos rótulos de aviso a outros tipos de conteúdo, de forma que, antes de acessá-los, as pessoas saibam que podem ser sensíveis. Nós restringimos a capacidade de usuários mais jovens verem conteúdo que pode não ser adequado ou apropriado para a idade deles. Fazendo isso, buscamos oferecer uma experiência apropriada aos nossos usuários enquanto continuamos fornecendo espaço para eles se expressarem.

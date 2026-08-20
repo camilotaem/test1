@@ -1,5 +1,3 @@
-# Violência e incitação
-
 fundamento da política
 
 Nosso objetivo é prevenir possíveis casos de violência no meio físico que possam estar relacionados ao conteúdo em nossas plataformas. Embora entendamos que as pessoas geralmente expressam desdém ou desacordo por meio de ameaças ou incitação à violência de maneiras casuais e sem seriedade, removemos palavras que incitem ou facilitem a violência e ameaças plausíveis ​​à segurança pública ou pessoal. Isso inclui discurso violento direcionado a uma pessoa ou a um grupo de pessoas com base em suas características protegidas ou seu status de imigração. Removemos conteúdo, desabilitamos contas e colaboramos com as autoridades quando notamos um risco real de danos físicos ou ameaças diretas à segurança pública. Também buscamos levar em consideração a linguagem e o contexto para distinguir declarações casuais ou de conscientização de conteúdo que constitua uma ameaça real à segurança pública ou pessoal. Além disso, quando tentamos determinar se uma ameaça é real, podemos considerar outras informações, como a visibilidade pública de uma pessoa e os riscos à segurança física dela.

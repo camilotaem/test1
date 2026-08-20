@@ -1,5 +1,3 @@
-# Desinformação
-
 Explicação da política
 
 A desinformação é diferente de outros tipos de discurso abordados em nossos Padrões da Comunidade, pois não há uma maneira de formar uma lista abrangente de proibições. Com violência explícita ou conduta de ódio, por exemplo, nossas políticas especificam o conteúdo proibido, e até mesmo pessoas que discordam dessas políticas podem segui-las. No entanto, em relação à desinformação, não é possível fornecer tal delimitação. O mundo está em constante mudança, e o que é verdade em um momento pode deixar de ser no minuto seguinte. As pessoas também têm diferentes níveis de informação sobre o mundo ao redor delas e podem acreditar que algo é verdade quando não é. Uma política que simplesmente proíbe “desinformação” não forneceria um aviso útil às pessoas que usam nossos serviços e seria inexequível, já que não temos acesso impecável às informações.

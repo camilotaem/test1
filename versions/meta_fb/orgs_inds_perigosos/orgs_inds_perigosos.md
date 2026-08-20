@@ -1,5 +1,3 @@
-# Organizações e indivíduos perigosos
-
 Fundamento da política
 
 Em um esforço para evitar e acabar com os danos no mundo real, não permitimos que organizações ou indivíduos que anunciem uma missão violenta ou que estejam envolvidos em violência tenham presença nas nossas plataformas. Avaliamos essas entidades com base em seu comportamento online e offline, mais significativamente, sua ligação com atos de violência. De acordo com esta política, designamos indivíduos, organizações e redes de pessoas. Essas designações são divididas em dois níveis que indicam o grau de monitoramento do conteúdo, em que o Nível 1 resulta no monitoramento mais extensivo, pois acreditamos que essas entidades têm vínculos mais diretos com os danos no meio físico.

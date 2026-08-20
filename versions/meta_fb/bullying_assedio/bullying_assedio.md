@@ -1,5 +1,3 @@
-# Bullying e assédio
-
 fundamento da política
 
 Bullying e assédio podem acontecer em muitos lugares e de várias formas diferentes, que variam de ameaças a revelação de informações de identificação pessoal, envio de mensagens ameaçadoras e contato malicioso indesejado. Não toleramos esse tipo de comportamento, pois ele impede que as pessoas se sintam seguras e respeitadas no Facebook, no Instagram e no Threads.

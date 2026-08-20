@@ -1,5 +1,3 @@
-# Coordenação de atos danosos e incitação ao crime
-
 Fundamento da política
 
 Para evitar e combater danos no meio físico e comportamentos com efeito copycat, é proibido facilitar, organizar, promover ou aceitar determinadas atividades prejudiciais ou criminosas direcionadas a pessoas, empresas, propriedade ou animais. Permitimos que as pessoas debatam e defendam a legalidade de atividades prejudiciais e criminosas, bem como chamem a atenção para atividades desse tipo que possam ter presenciado ou vivenciado, desde que não haja defesa ou coordenação de atos danosos.

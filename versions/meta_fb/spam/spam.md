@@ -1,5 +1,3 @@
-# Spam
-
 Explicação da política
 
 Não permitimos conteúdo criado para enganar, iludir ou sobrecarregar os usuários com o objetivo de aumentar artificialmente a visibilidade. Esse tipo de conteúdo prejudica a capacidade das pessoas de interagir de forma autêntica em nossas plataformas. Isso pode ameaçar a segurança, a estabilidade e a usabilidade dos nossos serviços. Também buscamos evitar táticas abusivas, como a disseminação de links enganosos para atrair usuários desavisados por meio de funcionalidades ou códigos enganosos, além da falsificação de domínios confiáveis.

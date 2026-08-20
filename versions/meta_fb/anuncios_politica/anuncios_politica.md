@@ -1,5 +1,3 @@
-# Anúncios sobre temas sociais, eleições ou política
-
 Anúncios sobre temas sociais, eleições ou política
 
 Os anunciantes podem veicular anúncios sobre temas sociais, eleições ou política, desde que cumpram todas as leis aplicáveis e sigam o processo de autorização exigido pela Meta. A empresa pode restringir anúncios sobre temas sociais, eleições ou política. Além disso, determinados conteúdos relacionados com eleições podem ser proibidos pela legislação local ou removidos em regiões específicas antes da votação; [clique aqui para saber mais](https://www.facebook.com/business/help/253606115684173).

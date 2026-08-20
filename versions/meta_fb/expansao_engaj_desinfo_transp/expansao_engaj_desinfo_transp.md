@@ -1,5 +1,3 @@
-# Expansão do escopo do nosso engajamento: desinformação e transparência
-
 [Página inicial](/)
 
 [Políticas](/policies/)

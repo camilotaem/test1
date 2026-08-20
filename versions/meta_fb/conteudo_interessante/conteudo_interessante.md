@@ -1,5 +1,3 @@
-# Nossa abordagem para conteúdo interessante
-
 [Página inicial](/)
 
 [Recursos](/features/)

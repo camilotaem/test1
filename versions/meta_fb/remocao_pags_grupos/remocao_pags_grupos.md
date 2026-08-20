@@ -1,5 +1,3 @@
-# Remoção de Páginas e Grupos
-
 [Página inicial](/)
 
 [Aplicação](/enforcement/)

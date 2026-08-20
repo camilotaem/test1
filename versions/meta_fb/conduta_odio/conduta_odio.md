@@ -1,5 +1,3 @@
-# Conduta de ódio
-
 Fundamento da política
 
 Acreditamos que as pessoas se comunicam e se conectam mais livremente quando não se sentem atacadas pelo que são. É por isso que não permitimos conduta de ódio no Facebook, no Instagram ou no Threads.

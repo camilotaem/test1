@@ -1,5 +1,3 @@
-# Comportamento não autêntico
-
 Fundamento da política
 
 Comportamento não autêntico refere-se a uma variedade de formas complexas de enganação, realizadas por uma rede de ativos não autênticos controlados pela mesma pessoa ou pessoas, cujo objetivo é enganar a Meta ou nossa comunidade ou se esquivar do monitoramento conforme os Padrões da Comunidade.

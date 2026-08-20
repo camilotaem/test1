@@ -1,5 +1,3 @@
-# Nossa abordagem em relação a organizações e indivíduos perigosos
-
 [Página inicial](/)
 
 [Recursos](/features/)

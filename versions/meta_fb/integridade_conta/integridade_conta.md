@@ -1,5 +1,3 @@
-# Integridade da conta
-
 Fundamento da política
 
 A fim de manter um ambiente seguro e fortalecer a liberdade de expressão, nós restringimos ou removemos contas que são prejudiciais à comunidade. Criamos uma combinação de sistemas automatizados e manuais para restringir e remover contas usadas para violar nossas políticas em qualquer um dos nossos produtos de forma significativa ou persistente.
