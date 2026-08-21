@@ -44,13 +44,23 @@ Use a lista abaixo para entender a restrição que afetou seu conteúdo e como v
 
 [Retirar um pedido de remoção por direitos autorais](/youtube/answer/2807691)
 
-#### Reivindicações do Content ID
+#### Reivindicações de direitos autorais
 
-[Aprenda sobre reivindicações do Content ID](/youtube/answer/6013276)
+[Saiba mais sobre as reivindicações de direitos autorais](/youtube/answer/6013276)
 
-[Disputar uma reivindicação do Content ID](/youtube/answer/2797454)
+[Como disputar uma reivindicação de direitos autorais](/youtube/answer/2797454)
 
-[Contestar uma reivindicação do Content ID](/youtube/answer/12104471)
+[Contestar uma reivindicação de direitos autorais](/youtube/answer/12104471)
+
+## Aplicação de semelhança
+
+#### Reivindicações de semelhança
+
+[Saiba mais sobre reivindicações de semelhança](/youtube/answer/17133929)
+
+[Disputar uma reivindicação de semelhança](/youtube/answer/17134332)
+
+[Contestar uma reivindicação de semelhança](/youtube/answer/17134133)
 
 ## Ações relacionadas a "conteúdo para crianças"
 
