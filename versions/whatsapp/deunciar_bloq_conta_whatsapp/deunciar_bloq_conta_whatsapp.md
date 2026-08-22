@@ -1,20 +1,20 @@
 # Sobre denunciar e bloquear uma conta no WhatsApp
 
-Você pode denunciar qualquer conteúdo problemático ao WhatsApp. Para deixar de receber mensagens, ligações e atualizações de status de um contato no WhatsApp, você pode bloqueá-lo. Ao bloquear e denunciar contas problemáticas, você ajuda a manter o WhatsApp seguro. Saiba como bloquear e denunciar uma conta [neste artigo](https://faq.whatsapp.com/1142481766359885?helpref=faq_content).
+Você pode denunciar conteúdos problemáticos ao WhatsApp. Para deixar de receber mensagens, ligações e atualizações de status de um contato no WhatsApp, você pode bloqueá-lo. Ao bloquear e denunciar contas problemáticas, você ajuda a manter o WhatsApp seguro. Saiba como bloquear e denunciar uma conta [neste artigo](https://faq.whatsapp.com/1142481766359885?helpref=faq_content).
 
 Se você acredita que você ou qualquer outra pessoa está em perigo iminente, entre em contato com os serviços de emergência locais.
 
 ## Denunciar contato, empresa, número desconhecido ou grupo
 
-Se denunciar uma conta mas não bloqueá-la, você continuará a receber mensagens, ligações e atualizações de status dessa conta. Quando você denuncia uma conta em uma conversa individual, o WhatsApp recebe até cinco das últimas mensagens enviadas para você na conversa. Quando você denuncia um grupo, até cinco das últimas mensagens enviadas nele são encaminhadas ao WhatsApp. Caso uma ligação tenha sido feita na conversa individual, o WhatsApp também receberá dados básicos sobre as últimas cinco ligações com essa conta, como quem iniciou a ligação e a duração.
+Se denunciar uma conta mas não bloqueá-la, você continuará a receber mensagens, ligações e atualizações de status dessa conta. Quando você denuncia uma conta em uma conversa individual, o WhatsApp recebe até cinco das últimas mensagens enviadas para você na conversa. Quando você denuncia um grupo, até cinco das últimas mensagens enviadas nele são encaminhadas ao WhatsApp. Caso uma ligação tenha sido realizada na conversa individual, o WhatsApp também receberá dados básicos sobre as últimas cinco ligações com essa conta, como quem iniciou a ligação e a duração.
 
-Nenhuma notificação é enviada ao usuário ou grupo denunciado. O WhatsApp recebe a identificação do usuário ou do grupo denunciado, bem como informações sobre quando a mensagem foi enviada e sobre o tipo de mensagem (como imagem, vídeo ou texto).
+Nenhuma notificação é enviada ao usuário ou grupo denunciado. O WhatsApp recebe a identificação do usuário ou do grupo denunciado e informações sobre quando a mensagem foi enviada e sobre o tipo de mensagem (como imagem, vídeo ou texto).
 
-Podemos banir contas se acreditarmos que elas violam nossos Termos de Serviço. Segundo nossos [Termos de Serviço](https://www.whatsapp.com/legal), o WhatsApp pode banir usuários sem notificá-los. É importante ressaltar que uma denúncia de violação dos nossos Termos de Serviço não necessariamente resulta no banimento do usuário ou em outras medidas contra essa pessoa. A única maneira de denunciar uma conta é seguindo o processo de denúncia no app. Depois de enviar uma denúncia, você não precisará fazer mais nada nem terá que enviar mais informações. Entrar em contato com o WhatsApp fora do processo de análise no app não acelera esse processo nem influencia a decisão. Confirmaremos o recebimento da denúncia e não entraremos mais em contato com você.
+Podemos banir contas se acreditarmos que elas violam nossos Termos de Serviço. Segundo nossos [Termos de Serviço](https://www.whatsapp.com/legal), o WhatsApp pode banir usuários sem notificá-los. É importante ressaltar que uma denúncia de violação dos nossos Termos de Serviço não necessariamente resulta no banimento do usuário ou em outras medidas contra ele. A única maneira de denunciar uma conta é seguindo o processo de denúncia no app. Depois de enviar uma denúncia, você não precisará fazer mais nada nem terá que enviar mais informações. Entrar em contato com o WhatsApp fora do processo de análise no app não acelera esse processo nem influencia a decisão. Confirmaremos o recebimento da denúncia e não entraremos mais em contato com você.
 
 ## Bloquear um contato, uma empresa ou um número desconhecido
 
-Ao bloquear uma conta, você não receberá mais mensagens, ligações nem atualizações de status desse número de telefone. Contas bloqueadas não tem acesso às suas informações "visto por último" e "online", atualizações de status e mudanças feitas na sua foto do perfil. O contato bloqueado continuará aparecendo na sua lista de contatos e você continua aparecendo na lista de contatos dessa pessoa. Se desejar, você precisará [apagar o contato bloqueado](https://faq.whatsapp.com/5472030609512325?helpref=faq_content) manualmente. A conversa com esse contato continuará na sua lista. Se desejar, você pode [apagar a conversa](https://faq.whatsapp.com/656690492499906?helpref=faq_content) ou [arquivá-la](https://faq.whatsapp.com/1426887324388733?helpref=faq_content).
+Ao bloquear uma conta, você não receberá mais mensagens, ligações nem atualizações de status desse número de telefone. Contas bloqueadas não tem acesso às suas informações "visto por último" e "online", atualizações de status e mudanças feitas na sua foto do perfil. O contato bloqueado continua aparecendo na sua lista de contatos e você continua aparecendo na lista de contatos dessa pessoa. Se desejar, você precisará [apagar o contato bloqueado](https://faq.whatsapp.com/5472030609512325?helpref=faq_content) manualmente. A conversa com o contato continuará na sua lista. Se desejar, você pode [apagar a conversa](https://faq.whatsapp.com/656690492499906?helpref=faq_content) ou [arquivá-la](https://faq.whatsapp.com/1426887324388733?helpref=faq_content).
 
 Quando você bloqueia uma conta:
 
@@ -39,8 +39,19 @@ Se a opção **Bloquear mensagens de contas desconhecidas** estiver ativada, o W
 
 Saiba mais sobre como bloquear um alto volume de mensagens de números desconhecidos [neste artigo](https://faq.whatsapp.com/3379690015658337?helpref=faq_content).
 
+## Envolver as autoridades policiais
+
+Caso você sinta que não está em segurança ou acredite que um crime tenha sido cometido, entre em contato com a polícia ou com as autoridades locais. Eles poderão aconselhar você com relação às opções disponíveis.
+
+Se quiser guardar um registro do que aconteceu, você pode:
+
+* Fazer capturas de tela das mensagens, ligações ou dados do perfil.
+* Fazer backup de uma cópia do seu histórico de conversas para ter um registro que poderá ser compartilhado se solicitado. Saiba como fazer backup do seu histórico de conversas [neste artigo](https://faq.whatsapp.com/481135090640375?helpref=faq_content).
+
+Caso esteja trabalhando com as autoridades policiais, informe que informações sobre como entrar em contato com o WhatsApp podem ser encontradas [neste artigo](https://faq.whatsapp.com/1435051773652078?helpref=faq_content).
+
 ## Artigos relacionados
 
-* [Como bloquear e denunciar contatos](https://faq.whatsapp.com/1142481766359885?helpref=faq_content)
+* [Como bloquear e denunciar uma conta](https://faq.whatsapp.com/1142481766359885?helpref=faq_content)
 * [Como manter a segurança no WhatsApp](https://faq.whatsapp.com/1313491802751163?helpref=faq_content)
-* [Como bloquear mensagens de contas desconhecidas](https://faq.whatsapp.com/3379690015658337?helpref=faq_content)
+* [Como bloquear um alto volume de mensagens de números desconhecidos](https://faq.whatsapp.com/3379690015658337?helpref=faq_content)

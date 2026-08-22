@@ -19,7 +19,7 @@ Há pistas no TikTok que podem ajudar. Embora os termos exatos possam variar dep
 * **Marcas de "Verificado"**: se você segue um criador de destaque, como sua celebridade favorita, equipe esportiva ou marca, pode ver uma marca azul próxima ao nome de usuário.Isso é para mostrar que a conta pertence de fato ao titular. Elas não podem ser compradas, apenas a nossa equipe pode concedê-las. [Saiba mais.](https://support.tiktok.com/en/using-tiktok/growing-your-audience/how-to-tell-if-an-account-is-verified-on-tiktok)
 * **Etiquetas de conteúdo gerado por IA (AIGC):** a IA expandiu a criatividade, mas também pode confundir os limites entre fato e ficção. Os criadores devem rotular qualquer AIGC realista durante a publicação, e possuímos uma ferramenta que faz isso facilmente. O TikTok também rotula automaticamente alguns conteúdos gerados por IA. Se você vir algum AIGC sem etiqueta, denuncie. [Saiba mais](https://support.tiktok.com/en/using-tiktok/creating-videos/ai-generated-content).
 
-[![](//p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/4210e06a0f37473a900ca12f4e9745cb~tplv-1rzkm2vceq-default:0:0:q75.image)](https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/4210e06a0f37473a900ca12f4e9745cb~tplv-1rzkm2vceq-default:0:0:q75.image)
+[![](//p16-ttark-useast8.tiktokcdn-us.com/tos-useast8-i-zr23xo8qx2-tx2/4210e06a0f37473a900ca12f4e9745cb~tplv-zr23xo8qx2-default:0:0:q75.image)](https://p16-ttark-useast8.tiktokcdn-us.com/tos-useast8-i-zr23xo8qx2-tx2/4210e06a0f37473a900ca12f4e9745cb~tplv-zr23xo8qx2-default:0:0:q75.image)
 
 * **Etiquetas de conteúdo não verificado:** às vezes, existem áreas cinza quando se trata de desinformação. Por exemplo, em situações que estão mudando rápido, os próprios fatos podem estar incertos. Rotulamos vídeos como "não verificados" quando nossos checadores de fatos os estão revisando ou se a checagem de fatos foi inconclusiva\*.
 
@@ -29,7 +29,7 @@ Você também deve olhar de forma crítica para os conteúdos que não estão ma
 
 \*A aparência exata dessas etiquetas pode variar conforme o mercado. [Saiba mais.](https://newsroom.tiktok.com/en-us/new-prompts-to-help-people-consider-before-they-share)
 
-[![](//p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/016ba45fce434a36b8a518ddcf12dabd~tplv-1rzkm2vceq-default:0:0:q75.image)](https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/016ba45fce434a36b8a518ddcf12dabd~tplv-1rzkm2vceq-default:0:0:q75.image)
+[![](//p16-ttark-useast8.tiktokcdn-us.com/tos-useast8-i-zr23xo8qx2-tx2/016ba45fce434a36b8a518ddcf12dabd~tplv-zr23xo8qx2-default:0:0:q75.image)](https://p16-ttark-useast8.tiktokcdn-us.com/tos-useast8-i-zr23xo8qx2-tx2/016ba45fce434a36b8a518ddcf12dabd~tplv-zr23xo8qx2-default:0:0:q75.image)
 
 ## Conectando você a informações confiáveis
 
@@ -40,7 +40,7 @@ Para identificar a desinformação, é importante conhecer os fatos. Fazemos par
 * **Banners com informações em LIVEs e vídeos curtos:** durante crises em âmbito local, como desastres naturais, procure por banners informativos ou lembretes de doação confiáveis quando estiver assistindo a conteúdos nos seus Feeds LIVE ou Vídeo.
 * **Centrais eleitorais:** antes das eleições, trabalhamos com especialistas e autoridades locais para lançar banners de busca e Centrais Eleitorais no app com fatos sobre quando, onde e como votar. Você pode encontrar essas tags em vídeos, banners de LIVE e pesquisas relacionados às eleições. [Saiba mais.](https://newsroom.tiktok.com/en-us/tiktok-launches-in-app-guide-to-the-2020-us-elections)
 
-[![](//p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/8ac3165640844cb18cc565e704c51c91~tplv-1rzkm2vceq-default:0:0:q75.image)](https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/8ac3165640844cb18cc565e704c51c91~tplv-1rzkm2vceq-default:0:0:q75.image)
+[![](//p16-ttark-useast8.tiktokcdn-us.com/tos-useast8-i-zr23xo8qx2-tx2/8ac3165640844cb18cc565e704c51c91~tplv-zr23xo8qx2-default:0:0:q75.image)](https://p16-ttark-useast8.tiktokcdn-us.com/tos-useast8-i-zr23xo8qx2-tx2/8ac3165640844cb18cc565e704c51c91~tplv-zr23xo8qx2-default:0:0:q75.image)
 
 Você também pode conferir as comunidades do TikTok ou os feeds para saber mais sobre assuntos como literatura, ciência, tecnologia, engenharia e matemática, por exemplo, [#BookTok](https://www.tiktok.com/tag/BookTok), [#AprendaNoTikTok](https://www.tiktok.com/tag/LearnOnTikTok?is_from_webapp=1&sender_device=pc) e *[#STEM](https://www.tiktok.com/tag/stem)*. Por meio deles, você pode desenvolver suas habilidades de leitura e compreensão de mídias durante a navegação*. [Saiba mais](https://newsroom.tiktok.com/en-gb/tiktok-launches-dedicated-feed-for-stem-content-across-europe).*
 
