@@ -1,6 +1,6 @@
 # Organizações e indivíduos perigosos
 
-Última atualização: há há 2 meses
+Última atualização: há há 3 meses
 
 Não permitimos organizações ou indivíduos que defendem violência no LinkedIn, incluindo organizações terroristas, grupos extremistas violentos e indivíduos afiliados a tais grupos ou atividades. Também restringimos perfis e páginas associadas com organizações e indivíduos perigosos, independentemente de terem publicado ou não conteúdo que viole as nossas políticas.
 
