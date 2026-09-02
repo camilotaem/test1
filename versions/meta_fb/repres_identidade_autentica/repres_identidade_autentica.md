@@ -1,4 +1,4 @@
-fundamento da política
+Fundamento da política
 
 A autenticidade é a base da nossa comunidade. Acreditamos que a autenticidade ajuda a criar uma comunidade na qual as pessoas, de maneiras significativas, responsabilizam-se umas com as outras e com a Meta. Queremos permitir que a identidade seja expressa de muitas formas em nossa comunidade global enquanto evitamos a declaração falsa de identidade. Para manter um ambiente seguro e aberto, onde as pessoas podem confiar umas nas outras e criar comunidades, nós não permitimos a criação de contas ou perfis concebidos ou usados para enganar outras pessoas.
 
@@ -7,10 +7,10 @@ No Facebook, exigimos que as pessoas criem uma conta indicando o nome que elas u
 Não permitimos o uso de nossos serviços e restringiremos ou desativaremos contas do Instagram, do Facebook e do Threads, bem como outras entidades do Facebook (como Páginas e grupos) que:
 
 * Pertençam a menores de idade.
-* Tentem se passar por outra pessoa ou entidade:
+* Tentar se passar por outra pessoa ou entidade:
 
 
-  + Usando suas imagens, seu nome ou sua semelhança com o intuito de enganar os outros.
+  + Usar suas imagens, seu nome ou sua semelhança com o intuito de enganar os outros
   + Falando em nome de outra pessoa ou entidade para a qual o usuário não está autorizado a falar (por exemplo, criando uma Página ou um Perfil).
 * Se envolvam em declarações falsas de identidade para enganar ou iludir outras pessoas, burlar o monitoramento ou violar nossos Padrões da Comunidade. Consideramos uma série de fatores ao avaliar a declaração falsa de identidade, como:
 
@@ -25,6 +25,10 @@ No Facebook, buscaremos mais informações antes de tomarmos ações, que vão d
 * Fornecer uma data de nascimento falsa.
 * Usar um nome que não seja o nome verdadeiro que você usa no dia a dia.
 * Criar uma única conta que represente ou seja usada por mais de uma pessoa.
-* Criar ou mantiver várias contas do Facebook.
+* Criar ou manter várias contas do Facebook.
 * Criar uma conta que represente uma entidade não humana, como uma empresa, um animal de estimação ou um personagem fictício.
-* Mantiver perfis vazios com um tempo de ausência prolongado.
+* Manter perfis vazios com um tempo de ausência prolongado.
+
+**Contas de fãs, sátira e paródia**
+
+Permitimos contas dedicadas a sentimentos de fãs, humor, paródia, sátira, crítica, comentários e opiniões. A conta deve deixar claro que não é oficial, no mínimo, no nome da conta e, preferencialmente, em outro lugar no perfil, como na foto do perfil ou na bio (por exemplo, incluindo "página de fãs" no nome de usuário/nome). Contas que não divulgarem claramente sua natureza não oficial poderão ser restritas ou removidas.
