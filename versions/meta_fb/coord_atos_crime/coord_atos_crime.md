@@ -8,17 +8,17 @@ Removemos:
 
 * Exposição pública: exposição de uma identidade ou localizações relacionadas a uma pessoa que supostamente:
 
-+ Membro de um grupo sujeito a risco de exposição pública; e/ou
++ Faça parte de um grupo propenso à exposição pública; e/ou
 + Tenha laços familiares e/ou românticos com pessoas de um grupo propenso à exposição pública; e/ou
 + Tenha exercido atividades profissionais de apoio a um grupo propenso à exposição pública (exceto figuras políticas).
 
 * Exposição pública da operação secreta de policiais, militares ou pessoal de segurança se o conteúdo contiver o nome do agente, o rosto ou distintivo e qualquer um dos seguintes:
 
-+ A autoridade policial à qual o agente pertence
++ A entidade de aplicação da lei à qual o agente pertence
 + A operação de aplicação da lei a qual o agente executa
 + Menções explícitas ao seu status de operação secreta
 
-* Coordenar, ameaçar, apoiar ou admitir a prática de swatting, exceto no contexto de conscientização ou condenação, cenários fictícios ou encenados ou redenção.
+* Coordenar, ameaçar, apoiar ou admitir o ato de swatting, exceto no contexto de conscientização ou condenação, cenários fictícios ou encenados ou busca de resgate.
 * Promover, incentivar ou defender a participação em um desafio viral de alto risco, exceto no contexto de conscientização ou condenação.
 * Imagens representando desafios virais de alto risco, independentemente do contexto.
 
@@ -26,11 +26,11 @@ Removemos:
 
 
 
-* Coordenar, ameaçar, apoiar ou admitir atos de danos físicos contra animais (por escrito, visual ou verbal), exceto em casos de:
+* Coordenar, ameaçar, apoiar ou admitir atos que causem danos físicos contra animais (por escrito, visual ou verbal), exceto em casos de:
 
 + Conscientização ou condenação
 + Resgate
-+ Sobrevivência ou defesa da própria vida (de um ser humano ou outro animal)
++ Sobrevivência ou autodefesa (de um ser humano ou outro animal)
 + Cenários fictícios ou encenados, EXCETO quando envolvem representações de lutas de animais encenadas ou falsos resgates de animais
 + Caça ou pesca
 + Sacrifício religioso
@@ -43,12 +43,12 @@ Removemos:
 
 **Danos a propriedades**
 
-* Coordenar, ameaçar, apoiar ou admitir atos de vandalismo ou roubo (por escrito, visual ou verbal), exceto em casos de
+* Coordenar, ameaçar, apoiar ou admitir atos de vandalismo ou roubo (por escrito, visual ou verbal), exceto em casos de:
 
 + Conscientização ou condenação;
-+ Resgate,
++ Redenção;
 + Cenários fictícios ou encenados;
-+ Admitir no contexto de autodefesa ou de outro ser humano
++ Admitir no contexto de autodefesa ou de outro ser humano;
 + Representar atos de vandalismo no contexto de protesto;
 + Representar grafite; ou
 + Falar positivamente sobre vandalismo e roubo cometidos por outros.
@@ -62,6 +62,8 @@ Para o conteúdo a seguir, limitamos a capacidade de visualização do conteúdo
 
 * Imagens que retratem formas perigosas de condução de veículos motorizados, as quais possam resultar em ferimentos graves ou morte para o condutor ou terceiros, exceto se compartilhadas em contextos fictícios ou profissionais.
 
+* Mostrar, promover, defender ou incentivar a participação em um desafio viral de risco moderado, exceto se compartilhado em ambientes fictícios ou profissionais.
+
 Em relação aos Padrões da Comunidade a seguir, exigimos informações e/ou contexto adicional para aplicação:
 
 Removemos:
@@ -74,7 +76,7 @@ Removemos:
 + Indivíduos envolvidos em casos legais, quando seu envolvimento é restrito à divulgação pública
 + Testemunhas, informantes, ativistas, pessoas detidas ou reféns
 + Desertores, quando relatados por fontes confiáveis do governo
-+ Prisioneiros de guerra, no contexto de um conflito armado
++ Prisioneiros de guerra, no contexto de um conflito armado.
 
 * Imagens que provavelmente enganem o público sobre sua própria origem se:
 
@@ -89,6 +91,6 @@ Removemos:
 * Interferência eleitoral ou censitária, inclusive:
 
 + Apelos à interferência coordenada que possa afetar a capacidade de uma pessoa de participar de uma eleição ou de um censo oficial.
-+ Alegações de que a participação em um censo ou em uma votação pode ter ou terá consequências legais (por exemplo, prisão, deportação ou encarceramento).
++ Alegações de que a participação em um censo ou em uma votação podem ter ou terão consequências legais (como prisão, deportação ou encarceramento).
 + Ameaças para ir a um local de eleição para supervisionar ou observar as atividades de eleitores ou funcionários eleitorais, especialmente quando acompanhadas por uma referência à intimidação (por exemplo, “Vamos mostrar a eles quem manda!” ou “Eles querem guerra? Vamos dar a eles guerra.”).
-+ Ameaças de ir a um local de atividade pós-eleição, se combinadas com uma referência à intimidação (por exemplo, “Vamos mostrar a eles quem manda!”, “Eles querem uma guerra? Vamos dar a eles guerra.”).
++ Ameaças para ir a um local após a eleição, especialmente quando acompanhadas por uma referência à intimidação (por exemplo, “Vamos mostrar a eles quem manda!” ou “Eles querem guerra? Vamos dar a eles guerra.”).
