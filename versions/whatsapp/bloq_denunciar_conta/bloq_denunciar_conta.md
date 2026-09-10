@@ -27,6 +27,7 @@ Se você acredita que você ou qualquer outra pessoa está em perigo iminente, e
 * Caso você se preocupe que os contatos bloqueados saibam que você os bloqueou, leia [este artigo](https://faq.whatsapp.com/666362298345682?helpref=faq_content).
 * Se você criar uma nova conta do WhatsApp, será necessário bloquear essas pessoas manualmente.
 * O contato bloqueado continua aparecendo na sua lista de contatos e você continua aparecendo na lista de contatos dessa pessoa. Para apagar um contato, você precisa apagá-lo da agenda de contatos do seu celular.
+* Bloquear um contato não impede que essa pessoa veja as mensagens que você envia a grupos dos quais vocês participam. Você também verá as mensagens enviadas pelo contato bloqueado a esses grupos. Evite participar de grupos com pessoas com quem você não quer interagir.
 
 ## Bloquear usuários de apps de terceiros
 
