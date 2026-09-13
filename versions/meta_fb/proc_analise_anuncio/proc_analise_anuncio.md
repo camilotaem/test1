@@ -26,25 +26,25 @@ Nossos princípios da Política de Publicidade
 
 Nossas políticas são orientadas pelos [valores](/policies/community-standards/) fundamentais da nossa empresa e pelos seguintes princípios:
 
-![](https://lookaside.fbsbx.com/elementpath/media/?media_id=614183553437566&version=1788896501&transcode_extension=webp)
+![](https://lookaside.fbsbx.com/elementpath/media/?media_id=614183553437566&version=1789225229&transcode_extension=webp)
 
 PROTEÇÃO DAS PESSOAS CONTRA PRÁTICAS PERIGOSAS E DISCRIMINATÓRIAS
 
 Nossas políticas exigem que todos os anunciantes cumpram as leis de sua jurisdição, não se envolvam em práticas discriminatórias e não vendam substâncias ilegais ou perigosas.
 
-![](https://lookaside.fbsbx.com/elementpath/media/?media_id=474184031384043&version=1788896501&transcode_extension=webp)
+![](https://lookaside.fbsbx.com/elementpath/media/?media_id=474184031384043&version=1789225229&transcode_extension=webp)
 
 PROTEÇÃO DAS PESSOAS CONTRA FRAUDE OU GOLPES
 
 Nossas políticas proíbem anúncios que promovam produtos, serviços, esquemas ou ofertas usando práticas enganosas ou falsas, incluindo aquelas destinadas a dar golpe em pessoas para obter dinheiro ou informações pessoais.
 
-![](https://lookaside.fbsbx.com/elementpath/media/?media_id=440836494654676&version=1788896501&transcode_extension=webp)
+![](https://lookaside.fbsbx.com/elementpath/media/?media_id=440836494654676&version=1789225229&transcode_extension=webp)
 
 PROMOÇÃO DE EXPERIÊNCIAS POSITIVAS DO USUÁRIO
 
 Como os anúncios podem ser veiculados às pessoas em seus Feeds de Páginas ou contas que elas não seguem, queremos ajudar a garantir que os anúncios não prejudiquem a experiência geral em nossas tecnologias. Por esse motivo, proibimos anúncios que contenham conteúdo chocante, sensacionalista ou excessivamente violento, determinados conteúdos adultos e palavrões. Também proibimos outro material questionável, como conteúdo que implique ou tente gerar autopercepção negativa para promover dieta, perda de peso ou outros produtos relacionados à saúde.
 
-![](https://lookaside.fbsbx.com/elementpath/media/?media_id=596805765299929&version=1788896501&transcode_extension=webp)
+![](https://lookaside.fbsbx.com/elementpath/media/?media_id=596805765299929&version=1789225229&transcode_extension=webp)
 
 PROMOÇÃO DE TRANSPARÊNCIA
 
@@ -70,7 +70,7 @@ Análise de ativo de negócios
 
 Também analisamos e tomamos medidas em relação à conta empresarial de um anunciante ou aos seus ativos (contas de anúncios, Páginas e contas de usuário). Como parte da nossa análise, avaliamos se a conta ou os respectivos ativos violaram nossas políticas.
 
-![](https://lookaside.fbsbx.com/elementpath/media/?media_id=3370893829790366&version=1788896501&transcode_extension=webp)
+![](https://lookaside.fbsbx.com/elementpath/media/?media_id=3370893829790366&version=1789225229&transcode_extension=webp)
 
 Resultado da análise
 
@@ -96,7 +96,7 @@ Se você acredita que o anúncio, a conta de anúncio, a conta de usuário, a P�
 
 ---
 
-![](https://lookaside.fbsbx.com/elementpath/media/?media_id=561807069020758&version=1788896501&transcode_extension=webp)
+![](https://lookaside.fbsbx.com/elementpath/media/?media_id=561807069020758&version=1789225229&transcode_extension=webp)
 
 Padrões da Comunidade
 
@@ -578,7 +578,7 @@ Os anúncios que promovem conteúdo de marca devem marcar o parceiro de negócio
 
 ---
 
-![](https://lookaside.fbsbx.com/elementpath/media/?media_id=567462145176941&version=1788896501&transcode_extension=webp)
+![](https://lookaside.fbsbx.com/elementpath/media/?media_id=567462145176941&version=1789225229&transcode_extension=webp)
 
 Políticas de publicidade que afetam os ativos de negócios
 
