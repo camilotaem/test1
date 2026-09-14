@@ -55,7 +55,48 @@
         "title_selector": "h1.headline-1.PostDetail-module-scss-module__UQuRMa__title"
       }      
     ]
-  },  
+  },
+  {
+    "platform": "openai",
+    "items": [   
+      {
+        "name": "politicas_uso",
+        "url": "https://openai.com/pt-BR/policies/usage-policies/",
+        "content_selector": "div.max-w-container.@container w-full.toc-visible:md:grid-cols-10.grid.grid-cols-12.gap-x-(--grid-gap).[--grid-gap:8px].md:[--grid-gap:16px].lg:[--grid-gap:24px].multi-columns:flex.multi-columns:px-0",
+        "title_selector": "h1.text-h1.toc-collision-target.max-w-250.text-primary-100.text-balance.scroll-mt-anchor-offset"
+      },      
+      {
+        "name": "restricoes_campanhas_politicas",
+        "url": "https://help.openai.com/pt-br/articles/20001255-political-campaigning-restrictions",
+        "content_selector": "div.prose.prose-blue.article-content.text-prose.mb-12.max-w-none.text-base.font-normal",
+        "title_selector": "h1.heading-2xl.text-default.mb-3.leading-tight.font-extrabold"
+      },
+      {
+        "name": "politicas_publicitarias",
+        "url": "https://openai.com/pt-BR/policies/ad-policies/",
+        "content_selector": "div.max-w-container.@container w-full.toc-visible:md:grid-cols-10.grid.grid-cols-12 gap-x-(--grid-gap).[--grid-gap:8px].md:[--grid-gap:16px].lg:[--grid-gap:24px].multi-columns:flex.multi-columns:px-0",
+        "title_selector": "h1.text-h1.toc-collision-target.max-w-250.text-primary-100.text-balance.scroll-mt-anchor-offset"
+      },
+      {
+        "name": "poli_compartilhamento_publicacao",
+        "url": "https://openai.com/pt-BR/policies/sharing-publication-policy/",
+        "content_selector": "div.max-w-container.@container w-full.toc-visible:md:grid-cols-10.grid.grid-cols-12 gap-x-(--grid-gap).[--grid-gap:8px].md:[--grid-gap:16px].lg:[--grid-gap:24px].multi-columns:flex.multi-columns:px-0",
+        "title_selector": "h1.text-h1.toc-collision-target.max-w-250.text-primary-100.text-balance.scroll-mt-anchor-offset"
+      },
+      {
+        "name": "chatgpt_agent_policies",
+        "url": "https://openai.com/policies/using-chatgpt-agent-in-line-with-our-policies/",
+        "content_selector": "div.max-w-container.@container w-full.toc-visible:md:grid-cols-10.grid.grid-cols-12.gap-x-(--grid-gap).[--grid-gap:8px].md:[--grid-gap:16px].lg:[--grid-gap:24px].multi-columns:flex.multi-columns:px-0.col-span-full.min-w-0.md:row-start-1",
+        "title_selector": "h1.text-h1.toc-collision-target.max-w-250.text-primary-100.text-balance.scroll-mt-[calc(var(--page-top-space,var(--header-h))+var(--toc-button-h)+var(--anchor-scroll-clearance))]"
+      },
+      {
+        "name": "politicas_comerciais",
+        "url": "https://openai.com/pt-BR/policies/commerce-policies/",
+        "content_selector": "div.max-w-container.@container.w-full.toc-visible:md:grid-cols-10.grid.grid-cols-12.gap-x-(--grid-gap).[--grid-gap:8px].md:[--grid-gap:16px].lg:[--grid-gap:24px].multi-columns:flex.multi-columns:px-0",
+        "title_selector": "h1.text-h1.toc-collision-target.max-w-250.text-primary-100.text-balance.scroll-mt-anchor-offset"
+      }      
+    ]
+  },    
   {
     "platform": "instagram",
     "items": [
