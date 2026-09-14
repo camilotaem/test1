@@ -148,7 +148,55 @@
         "url": "https://whatsappbusiness.com/pt-br/policy/",
         "content_selector": "div.wp-block-group.alignfull.wp-pattern-content-left-aligned-header.is-style-default.is-layout-flow.wp-block-group-is-layout-flow",
         "title_selector": "h2#visao-geral"
-      }      
+      },
+      {
+        "name": "sobre_golpes_msgs_suspeitas",
+        "url": "https://faq.whatsapp.com/2286952358121083/?locale=pt_BR",
+        "content_selector": "div.x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x2lah0s.x193iq5w.x13ihpsm.x1xzm06s.xqui205",
+        "title_selector": "h1.html-h1.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x1vvkbs.x1heor9g.x1qlqyl8.x1pd3egz.x1a2a7pz"
+      },
+      {
+        "name": "sobre_limites_encaminhamento",
+        "url": "https://faq.whatsapp.com/1053543185312573/?locale=pt_BR",
+        "content_selector": "div.x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x2lah0s.x193iq5w.x13ihpsm.x1xzm06s.xqui205",
+        "title_selector": "h1.html-h1.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x1vvkbs.x1heor9g.x1qlqyl8.x1pd3egz.x1a2a7pz"
+      },
+      {
+        "name": "sobre_seg_privacidade_canais",
+        "url": "https://faq.whatsapp.com/1318001139066835/?locale=pt_BR",
+        "content_selector": "div.x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x2lah0s.x193iq5w.x13ihpsm.x1xzm06s.xqui205",
+        "title_selector": "h1.html-h1.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x1vvkbs.x1heor9g.x1qlqyl8.x1pd3egz.x1a2a7pz"
+      },
+      {
+        "name": "desenv_canais_seguros_privados",
+        "url": "https://faq.whatsapp.com/958928238510970/?locale=pt_BR",
+        "content_selector": "div.x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x2lah0s.x193iq5w.x13ihpsm.x1xzm06s.xqui205",
+        "title_selector": "h1.html-h1.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x1vvkbs.x1heor9g.x1qlqyl8.x1pd3egz.x1a2a7pz"
+      },
+      {
+        "name": "info_autoridades_policiais",
+        "url": "https://faq.whatsapp.com/444002211197967/?locale=pt_BR",
+        "content_selector": "div.x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x2lah0s.x193iq5w.x13ihpsm.x1xzm06s.xqui205",
+        "title_selector": "h1.html-h1.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x1vvkbs.x1heor9g.x1qlqyl8.x1pd3egz.x1a2a7pz"
+      },
+      {
+        "name": "manter_segurança_whatsApp",
+        "url": "https://faq.whatsapp.com/1313491802751163/?locale=pt_BR",
+        "content_selector": "div.x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x2lah0s.x193iq5w.x13ihpsm.x1xzm06s.xqui205",
+        "title_selector": "h1.html-h1.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x1vvkbs.x1heor9g.x1qlqyl8.x1pd3egz.x1a2a7pz"
+      },
+      {
+        "name": "manter_seg_grupos_comunis",
+        "url": "https://faq.whatsapp.com/1003616827680090/?locale=pt_BR",
+        "content_selector": "div.x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x2lah0s.x193iq5w.x13ihpsm.x1xzm06s.xqui205",
+        "title_selector": "h1.html-h1.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x1vvkbs.x1heor9g.x1qlqyl8.x1pd3egz.x1a2a7pz"
+      },
+      {
+        "name": "terms_suplementares_canais_whatsapp",
+        "url": "https://www.whatsapp.com/legal/channels-terms-of-service",
+        "content_selector": "div._8l_f",
+        "title_selector": "h3"
+      }
     ]
   },  
   {
@@ -613,7 +661,31 @@
         "url": "https://support.google.com/youtube/answer/10684207?hl=pt-BR",
         "content_selector": ".article-container",
         "title_selector": ""
-      }
+      },      
+      {
+        "name": "outras_politicas",
+        "url": "https://support.google.com/youtube/answer/2801981?hl=pt-BR ",
+        "content_selector": ".article-container",
+        "title_selector": ""
+      },      
+      {
+        "name": "transp_uso_ia_generativa",
+        "url": "https://support.google.com/youtube/answer/14328491?hl=pt-BR",
+        "content_selector": ".article-container",
+        "title_selector": ""
+      },      
+      {
+        "name": "diretrizes_cont_adequado_publis",
+        "url": "https://support.google.com/youtube/answer/6162278?hl=pt-BR",
+        "content_selector": ".article-container",
+        "title_selector": ""
+      },      
+      {
+        "name": "politica_uso_proibido_ia_generativa",
+        "url": "https://policies.google.com/terms/generative-ai/use-policy?hl=pt-br",
+        "content_selector": "div.nrAB0c",
+        "title_selector": ""
+      }      
     ]
   },
   {
