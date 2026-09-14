@@ -34,6 +34,29 @@
     ]
   },
   {
+    "platform": "anthropic",
+    "items": [      
+      {
+        "name": "usage_policy",
+        "url": "https://www.anthropic.com/legal/aup",
+        "content_selector": "div.LegalPageDetail-module-scss-module__G_oy1G__body",
+        "title_selector": "h1.LegalPageDetail-module-scss-module__G_oy1G__title.display-2"
+      },      
+      {
+        "name": "consumer_terms_service",
+        "url": "https://www.anthropic.com/legal/consumer-terms",
+        "content_selector": "div.LegalPageDetail-module-scss-module__G_oy1G__body",
+        "title_selector": "h1.LegalPageDetail-module-scss-module__G_oy1G__title.display-2"
+      },
+      {
+        "name": "update_election_safeguards",
+        "url": "https://www.anthropic.com/news/election-safeguards-update",
+        "content_selector": "div.Body-module-scss-module__z40yvW__body",
+        "title_selector": "h1.headline-1.PostDetail-module-scss-module__UQuRMa__title"
+      }      
+    ]
+  },  
+  {
     "platform": "instagram",
     "items": [
       {
