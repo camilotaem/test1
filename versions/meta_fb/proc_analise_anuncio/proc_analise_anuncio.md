@@ -90,7 +90,7 @@ Criar um anúncio ou editar seu anúncio
 
 Você pode criar um anúncio ou editá-lo para cumprir nossas políticas. Esses anúncios serão tratados como novos anúncios e analisados pelo nosso sistema de análise de anúncio. Confira as  [etapas de edição](https://www.facebook.com/business/help/165119026899353?id=281239296137284) nesta página.
 
-Solicitar outra análise
+Pedir outra análise
 
 Se você acredita que o anúncio, a conta de anúncio, a conta de usuário, a Página ou a conta empresarial foram rejeitados ou restringidos incorretamente, solicite uma análise da decisão em [Qualidade da Conta.](https://www.facebook.com/accountquality#_=_)
 
@@ -120,7 +120,7 @@ Os anúncios não devem conter conteúdo que explore sexualmente ou coloque cria
 
 [**Saiba mais**](/policies/ad-standards/objectionable-content/child-sexual-exploitation-abuse-nudity/)
 
-Coordenação de danos e incitação ao crime
+Coordenação de atos danosos e incentivo à prática de atividades criminosas
 
 Os anúncios não devem facilitar, organizar, promover ou admitir determinadas atividades criminosas ou prejudiciais direcionadas a pessoas, empresas, propriedades ou animais.
 
@@ -196,21 +196,15 @@ Os anúncios não devem desencorajar as pessoas a se vacinarem nem defender o mo
 
 ---
 
-Fraudes, golpes e práticas enganosas
+Práticas Comerciais Proibidas
 
 Conteúdo que pode iludir ou enganar as pessoas.
 
-Fraudes, golpes e práticas enganosas
+Práticas Comerciais Proibidas
 
-Os anúncios devem estar em conformidade com os Padrões da Comunidade sobre [Fraudes, Golpes e Práticas Enganosas](https://transparency.meta.com/policies/community-standards/fraud-and-scams).
+Os anúncios devem estar em conformidade com os Padrões da Comunidade sobre [Práticas Comerciais Proibidas](/policies/community-standards/prohibited-commercial-practices/).
 
-[**Saiba mais**](/policies/ad-standards/fraud-scams/fraud-scams-deceptive-practices/)
-
-Práticas de negócios inaceitáveis
-
-Os anúncios não devem promover produtos, serviços, esquemas ou ofertas usando práticas enganosas ou falsas identificadas, inclusive aquelas cuja intenção é conseguir dinheiro ou informações pessoais. Quando detectamos que os anunciantes estão se envolvendo em comportamentos potencialmente suspeitos, incluindo comportamento não autêntico, ou estão veiculando anúncios em determinadas categorias que provavelmente serão alvo de golpistas, podemos exigir que esses anunciantes concluam processos de verificação adicionais.
-
-[**Saiba mais**](/policies/ad-standards/fraud-scams/unacceptable-business-practices/)
+[**Saiba mais**](/policies/ad-standards/deceptive-content/prohibited-commercial-practices/)
 
 ---
 
@@ -336,6 +330,12 @@ A Meta define jogos e jogos de azar online como qualquer produto ou serviço em 
 
 [**Saiba mais**](/policies/ad-standards/restricted-goods-services/gambling-games/)
 
+Documentos e serviços financeiros proibidos
+
+Os anúncios devem cumprir os Padrões da Comunidade sobre Documentos Proibidos e Serviços Financeiros (em Produtos e Serviços Restritos) e não devem promover conteúdo que facilite ou ofereça a solicitação, a criação, a venda, a compra ou a troca de documentos, bens ou serviços falsos, forjados ou roubados; dispositivos ou assinaturas manipulados ou usados de maneira não autorizada; informações de identificação pessoal ou outras informações pessoais; produtos que permitem trapaças; money muling; ou lavagem de dinheiro.
+
+[**Saiba mais**](/policies/ad-standards/restricted-goods-services/prohibited-documents-and-financial-services/)
+
 ---
 
 Conteúdo censurável
@@ -446,7 +446,7 @@ Os anúncios em vídeo e outros tipos de anúncios dinâmicos devem estar em con
    * Linguagem ofensiva
    * Violência e brutalidade
 
-Anúncios de cadastro
+Anúncios de lead
 
 Os anunciantes não devem criar perguntas de anúncios de lead para solicitar os tipos de informação a seguir sem nossa permissão prévia por escrito.
 
@@ -480,7 +480,7 @@ Os anúncios não devem solicitar informações financeiras, incluindo o número
 
 Os anúncios não devem solicitar identificações emitidas pelo governo, incluindo números de CPF, números de passaporte ou números de carteira de habilitação sem nossa permissão prévia.
 
-5. Informações de saúde
+1. Informações de saúde
 
 Os anúncios não poderão solicitar informações médicas, inclusive o estado de saúde física e mental, tratamentos médicos, problemas de saúde ou incapacidades, sem nossa permissão prévia.
 
