@@ -11,7 +11,14 @@ Após a denúncia, o conteúdo não é removido automaticamente, mas analisado d
 
 Para conferir se um vídeo que você denunciou foi removido, acesse o [Histórico de denúncias](https://www.youtube.com/reporthistory).
 
-[O ciclo de uma sinalização](//www.youtube.com/watch?v=WK8qRNSmhEU)
+[O ciclo de uma sinalização
+
+“Flags” on YouTube mark content that may violate our Community Guidelines. This video explains how YouTube receives flags, actions reviewers take on flags and other processes and policies that help us keep the YouTube community safe.
+Report inappropriate content on YouTube: https://support.google.com/youtube/answer/2802027?hl=en
+Learn more about why flagging matters: https://youtube.googleblog.com/2016/09/why-flagging-matters.html
+Get to know YouTube's Community Guidelines: https://www.youtube.com/yt/about/policies/#community-guidelines
+Read the YouTube Community Guidelines enforcement report: https://transparencyreport.google.com/
+Thanks for helping us keep the YouTube community safe.](//www.youtube.com/watch?v=WK8qRNSmhEU)
 
 Inscreva-se no [canal Ajuda do YouTube](https://www.youtube.com/channel/UCMDQxm7cUx3yXkfeHa5zJIQ) para ficar por dentro das notícias, atualizações e dicas mais recentes.
 
