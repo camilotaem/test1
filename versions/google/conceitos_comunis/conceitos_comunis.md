@@ -6,7 +6,7 @@ As [diretrizes da comunidade](/youtube/answer/9288567) são as regras de comport
 
 **Observação**: podemos remover o conteúdo por outros motivos além de violações das diretrizes da comunidade. Por exemplo, uma ordem judicial ou uma [denúncia de violação de privacidade](/youtube/answer/7671399) da parte envolvida. Nesses casos, seu canal não recebe uma advertência.
 
-## 
+## [Criação com bom senso: diretrizes da comunidade do YouTube](//www.youtube.com/watch?v=eZkwFoX_lwc)
 
 ## O que acontece quando você recebe uma advertência
 
