@@ -132,6 +132,8 @@ Estados Unidos
 
 Preencha este [formulário](/youtube/contact/other_legal).
 
+Os usuários no Brasil podem preencher este [formulário](/youtube/contact/BR_Decree_Complaint) para denunciar conteúdo íntimo não consensual e outras formas de violência digital contra mulheres, de acordo com o Decreto Presidencial nº 12.976.
+
 #### Caso você não encontre seu país ou região no menu acima
 
 O YouTube.com é regido pelas leis dos EUA. Por isso, não aceitamos denúncia por motivos jurídicos do país ou região dos seus direitos reivindicados. Recomendamos que você trate as reivindicações que tiver diretamente com a pessoa que postou o conteúdo. Tente [entrar em contato com o usuário que fez o envio](/youtube/answer/57955). Caso seu processo resulte em uma decisão contra o indivíduo que postou o conteúdo e esse mandato judicial exija a remoção do conteúdo do nosso serviço, vamos agir conforme a lei.
