@@ -1,24 +1,24 @@
 # Sobre denunciar e bloquear uma conta no WhatsApp
 
-Você pode denunciar qualquer conteúdo problemático ao WhatsApp. Para deixar de receber mensagens, ligações e atualizações de status de determinados contatos ou números de telefone, você pode bloqueá-los. Bloquear e denunciar usuários problemáticos ajuda a manter o WhatsApp seguro. Saiba como bloquear e denunciar uma conta [neste artigo](https://faq.whatsapp.com/1142481766359885?helpref=faq_content).
+Você pode denunciar qualquer conteúdo problemático ao WhatsApp. Para deixar de receber mensagens, ligações e atualizações de status de uma pessoa no WhatsApp, você pode bloqueá-la. Bloquear e denunciar usuários problemáticos ajuda a manter o WhatsApp seguro. Saiba como bloquear e denunciar uma conta [neste artigo](https://faq.whatsapp.com/1142481766359885?helpref=faq_content).
 
 Se você acredita que você ou qualquer outra pessoa está em perigo iminente, entre em contato com os serviços de emergência locais.
 
 ## Denunciar contato, empresa, número desconhecido ou grupo
 
-Se denunciar uma conta mas não bloqueá-la, você continuará a receber mensagens, ligações e atualizações de status dessa conta. Quando você denuncia uma conta em uma conversa individual, o WhatsApp recebe até cinco das últimas mensagens enviadas para você na conversa. Quando você denuncia um grupo, até cinco das últimas mensagens enviadas nele são encaminhadas ao WhatsApp. Caso uma ligação tenha sido feita na conversa individual, o WhatsApp também receberá dados básicos sobre as últimas cinco ligações com essa conta, como quem iniciou a ligação e a duração.
+Se você denunciar uma conta mas não bloqueá-la, você continuará a receber mensagens, ligações e atualizações de status dessa conta. Quando você denuncia uma conta em uma conversa individual, o WhatsApp recebe até cinco das últimas mensagens enviadas para você na conversa. Quando você denuncia um grupo, até cinco das últimas mensagens do grupo são encaminhadas ao WhatsApp. Caso uma ligação tenha sido feita na conversa individual, o WhatsApp também receberá dados básicos sobre as últimas cinco ligações com essa conta, como quem iniciou a ligação e a duração.
 
-Nenhuma notificação é enviada ao usuário ou grupo denunciado. O WhatsApp recebe a identificação do usuário ou do grupo denunciado, e informações sobre quando a mensagem foi enviada e sobre o tipo de mensagem (como imagem, vídeo ou texto).
+Nenhuma notificação é enviada à pessoa ou grupo denunciado. O WhatsApp recebe a identificação do usuário ou do grupo denunciado, e informações sobre quando a mensagem foi enviada e sobre o tipo de mensagem (como imagem, vídeo ou texto).
 
-Podemos banir contas se acreditarmos que elas violam nossos Termos de Serviço. De acordo com nossos [Termos de Serviço](https://www.whatsapp.com/legal), podemos banir usuários sem notificá-los. É importante ressaltar que uma denúncia de violação dos nossos Termos de Serviço não necessariamente resulta no banimento do usuário ou em outras medidas contra essa pessoa. A única maneira de denunciar uma conta é seguindo o processo de denúncia no app. Depois de enviar uma denúncia, você não precisará fazer mais nada nem terá que enviar mais informações. Entrar em contato com o WhatsApp fora do processo de análise no app não acelera esse processo nem influencia a decisão. Confirmaremos o recebimento da denúncia e não entraremos mais em contato com você.
+Podemos banir contas se acreditarmos que elas violam nossos Termos de Serviço. De acordo com nossos [Termos de Serviço](https://www.whatsapp.com/legal), podemos banir usuários sem notificá-los. É importante ressaltar que uma denúncia de violação dos nossos Termos de Serviço não necessariamente resulta no banimento do usuário ou em outras medidas contra ele. A única maneira de denunciar uma conta é seguindo o processo de denúncia no app. Depois de enviar uma denúncia, você não precisará fazer mais nada nem terá que enviar mais informações. Entrar em contato com o WhatsApp fora do processo de análise no app não acelera esse processo nem influencia a decisão. Confirmaremos o recebimento da denúncia e não entraremos mais em contato com você.
 
 ## Bloquear um contato, uma empresa ou um número desconhecido
 
-Ao bloquear uma conta, você não receberá mais mensagens, ligações nem atualizações de status desse número de telefone. Contas bloqueadas não tem acesso às suas informações "visto por último" e "online", atualizações de status e mudanças feitas na sua foto do perfil. O contato bloqueado continuará aparecendo na sua lista de contatos e você continua aparecendo na lista de contatos dessa pessoa. Se desejar, você precisará [apagar o contato bloqueado](https://faq.whatsapp.com/5472030609512325?helpref=faq_content) manualmente. A conversa com esse contato continuará na sua lista. Se desejar, você pode [apagar a conversa](https://faq.whatsapp.com/656690492499906?helpref=faq_content) para removê-la da sua lista de conversas ou [arquivá-la](https://faq.whatsapp.com/1426887324388733?helpref=faq_content) para ocultar a conversa da sua lista.
+Ao bloquear uma conta, você não receberá mais mensagens, ligações nem atualizações de status desse número de telefone. Contas bloqueadas não tem acesso às suas informações "visto por último" e "online", atualizações de status e mudanças feitas na sua foto do perfil. O contato bloqueado continuará aparecendo na sua lista de contatos e você continua aparecendo na lista de contatos dessa pessoa. Se desejar, você precisará [apagar o contato bloqueado](https://faq.whatsapp.com/5472030609512325?helpref=faq_content) manualmente. A conversa com esse contato continuará na sua lista de conversas. Se desejar, você pode [apagar a conversa](https://faq.whatsapp.com/656690492499906?helpref=faq_content) para removê-la da sua lista de conversas ou [arquivá-la](https://faq.whatsapp.com/1426887324388733?helpref=faq_content) para ocultar a conversa da sua lista.
 
 Quando você bloqueia uma conta:
 
-* O aviso **Você bloqueou esse contato** é exibido na conversa e abaixo do nome da pessoa. Esse aviso não será exibido ao contato bloqueado.
+* O aviso **Você bloqueou essa pessoa** é exibido na conversa e abaixo do nome da pessoa. Esse aviso não será exibido ao contato bloqueado.
 * Após bloquear um contato, você terá a opção de **Desbloquear** ou **Apagar conversa**. Além disso, o WhatsApp exibirá a opção de arquivar a conversa. Caso não queira denunciar a conta, desmarque a opção **Denunciar ao WhatsApp**.
 * Os números bloqueados são exibidos na seção **Contatos bloqueados**, que pode ser encontrada em **Configurações** ou **seu perfil**> **Privacidade** > **Contatos bloqueados**.
 
@@ -27,8 +27,8 @@ Quando você bloqueia uma conta:
 * Bloquear um contato não impede que essa pessoa receba as mensagens que você envia a grupos dos quais vocês participam. Você também receberá as mensagens enviadas pelo contato bloqueado a esses grupos. Evite participar de grupos com pessoas com quem você não quer interagir.
 * Caso tenha definido que **Todos** podem ver se você está online, o WhatsApp incluirá você na contagem de membros do grupo online, mesmo que você tenha bloqueado pessoas do grupo. Contudo, as pessoas bloqueadas não saberão que você especificamente está online.
 * O WhatsApp não pode bloquear ou desbloquear contatos por você. Caso você se preocupe que os contatos bloqueados saibam que você os bloqueou, leia [este artigo](https://faq.whatsapp.com/666362298345682?helpref=faq_content).
-* Seus contatos não poderão ver as atualizações de status compartilhadas após o bloqueio. Contudo, essas pessoas ainda terão acesso às atualizações publicadas antes de você bloqueá-las.
-* Você poderá ver atualizações de status compartilhadas pelo contato antes que ele fosse bloqueado. A atualização de status desaparecerá após 24 horas e você não receberá mais atualizações desse contato.
+* Os usuários bloqueados não poderão ver as atualizações de status compartilhadas após o bloqueio. Contudo, essas pessoas ainda poderão ver as atualizações publicadas antes de você bloqueá-las.
+* Você poderá ver atualizações de status compartilhadas pelo contato antes de você bloqueá-lo. A atualização de status desaparecerá após 24 horas e você não receberá mais atualizações desse contato.
 * Caso você não consiga mais encontrar uma pessoa na lista **Compartilhar somente com...** ou **Meus contatos, exceto** em **Configurações** > **Privacidade**, é possível que essa pessoa tenha apagado a conta.
 
 ## Bloquear um alto volume de mensagens de números desconhecidos
@@ -41,7 +41,7 @@ Saiba mais sobre como bloquear um alto volume de mensagens de números desconhec
 
 ## Envolver as autoridades policiais
 
-Caso você sinta que não está em segurança ou acredite que um crime tenha sido cometido, entre em contato com a polícia ou com as autoridades locais. Eles poderão aconselhar você com relação às opções disponíveis.
+Caso você sinta que não está em segurança ou acredite que um crime tenha sido cometido, entre em contato com a polícia ou com as autoridades locais. Eles poderão aconselhar você em relação às opções disponíveis.
 
 Se quiser guardar um registro do que aconteceu, você pode:
 

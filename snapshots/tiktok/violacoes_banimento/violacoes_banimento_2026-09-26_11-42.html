@@ -1,0 +1,737 @@
+<!DOCTYPE html><html data-tux-color-scheme="light" dir="ltr"><head><title>TikTok Support</title><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no,viewport-fit=cover,minimum-scale=1,maximum-scale=1,user-scalable=no"><meta http-equiv="x-ua-compatible" content="ie=edge"><meta name="renderer" content="webkit"><meta name="layoutmode" content="standard"><meta name="imagemode" content="force"><meta name="wap-font-scale" content="no"><meta name="format-detection" content="telephone=no"><script src="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok_privacy_protection_framework/loader/2.0.0.314/index.js" data-region="us-ttp" data-env="production" data-business="goofy-deploy-app-3651" async="" crossorigin="anonymous" data-sw="/sw.js" data-sw_version="1.0.0.89,2.0.0.4" nonce=""></script><script id="tiktok-environment" type="application/json">{"mssdk":{"js":"https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk/2.0.0.561/webmssdk.js","reportDomain":"mssdk.tiktokw.us"},"regionInfo":{"isBoe":false,"vgeo":"VGeo-US","vregion":"US-TTP"},"slardar":{"geckoPluginPrefix":"https://lf16-tiktok-common.tiktokcdn-us.com/obj/tiktok-web-common-tx/tiktok/fe/common/gando_libs/slardar-web/usttp/sdk/plugins","pluginPrefix":"https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/slardar/fe/sdk-web/plugins","reportDomain":"mon16-normal-useast5.tiktokv.us"},"starling":{"cdn":"https://sf-i18n-resources.tiktokcdn-us.com/obj/tiktok-webarch-solution-i18n-tx","zoneHost":"https://starling.tiktokv.us"},"tea":{"abDomain":"https://libraweb.tiktokw.us","reportDomain":"https://mcs.tiktokw.us"},"idc":"useast5","vdc":"useast5","region":"US-TTP","vregion":"US-TTP"}</script><script id="gfdatav1" type="application/json">{"env":"prod","envName":"prod","runtime":"node","ver":"2.0.0.254","canary":0,"idc":"useast5","region":"ttp","vdc":"useast5","vregion":"US-TTP","extra":{"canaryType":null}}</script><script defer="defer" src="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_csp_feedback/static/js/builder-runtime.af3bb14c.js"></script><script defer="" src="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_csp_feedback/static/js/route-manifest-main.a92a93a4.js"></script><script defer="defer" src="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_csp_feedback/static/js/lib-react.c6359eb0.js"></script><script defer="defer" src="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_csp_feedback/static/js/lib-router.5bab7404.js"></script><script defer="defer" src="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_csp_feedback/static/js/lib-axios.bab48645.js"></script><script defer="defer" src="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_csp_feedback/static/js/lib-polyfill.ce1ffc04.js"></script><script defer="defer" src="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_csp_feedback/static/js/argus-builder-strategy.16e3ad5e.js"></script><script defer="defer" src="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_csp_feedback/static/js/456.76e4dbae.js"></script><script defer="defer" src="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_csp_feedback/static/js/main.634d25ef.js"></script><link href="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_csp_feedback/static/css/456.c5e99ec8.css" rel="stylesheet"><link href="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_csp_feedback/static/css/main.061d1423.css" rel="stylesheet"><script type="application/json" id="_REGION_DATA_">{"_REGION_DATA_REGION_":"us","_REGION_DATA_PUBLIC_PATH_":"https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_csp_feedback/","_REGION_DATA_ENV_":"production","_REGION_DATA_SLARDAR_":{"bid":"tiktok_fe_csp_feedback","domain":"mon16-normal-useast5.tiktokv.us","pluginPathPrefix":"https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/slardar/fe/sdk-web/plugins","release":"2.0.0.254","env":"production"},"_REGION_DATA_TEA_":{"channel_domain":"https://mcs.tiktokw.us","config":{"release":"2.0.0.254"}},"_REGION_DATA_I18N_":{"version":"2.0.0.254","fallbackLangs":[],"apiZoneHost":"https://starling.tiktokv.us","dynamicCdn":"https://sf-i18n-resources.tiktokcdn-us.com/obj/tiktok-webarch-solution-i18n-tx","mode":"dynamic","namespaces":[{"spaceId":"2524","projectId":"71","spaceName":"Webapp"}]}}</script><script type="application/json" id="slardar-config">{"sdkUrl":"https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/slardar/fe/sdk-web/browser.oci.js","disableInit":true,"slardarClient":"SlardarWeb","bid":"tiktok_fe_csp_feedback"}</script><script src="https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/tiktok-infra/csp/sdk-pre/slardar.web.pre.js"></script><script src="https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/slardar/fe/sdk-web/browser.oci.js?bid=tiktok_fe_csp_feedback&amp;globalName=SlardarWeb" crossorigin="anonymous"></script><script src="https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/tiktok-infra/csp/sdk-pre/tea.pre.js"></script><script async="" src="https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/log-sdk/collect/5.2/collect.js"></script><link rel="stylesheet" type="text/css" href="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_csp_feedback/static/css/async/support/faq_detail/layout.b4834e28.css"><script src="https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/slardar/fe/sdk-web/plugins/common-monitors.1.16.9.js" crossorigin="anonymous"></script><link rel="stylesheet" type="text/css" href="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_csp_chatbot_vmok/static/css/async/lib-semi.05e84e4b.css"><link rel="stylesheet" type="text/css" href="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_csp_chatbot_vmok/static/css/async/907.bc84f707.css"><link rel="stylesheet" type="text/css" href="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_csp_chatbot_vmok/static/css/async/477.43b21f71.css"><style id="vmok-webapp-header-skeleton-keyframes">
+@keyframes vmok-webapp-header-skeleton-shine-anim {
+  0% {
+    left: -40%;
+  }
+  100% {
+    left: 100%;
+  }
+}
+</style><style type="text/css">.cookie-banner-toast {
+  font-family: "tiktok-text-medium", PingFangSC, sans-serif;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 130%;
+  letter-spacing: 0%;
+  position: fixed;
+  left: 0;
+  top: 70px;
+  right: 0;
+  text-align: center;
+  padding: 12px 20px;
+  background: rgba(84, 84, 84, 0.92);
+  color: #fff;
+  box-sizing: border-box;
+  z-index: 10003;
+  transition: opacity 0.3s;
+  opacity: 0;
+}
+.cookie-banner-toast.show {
+  opacity: 1;
+}</style><style type="text/css">.tiktok-cookie-banner.paas_lemon8 {
+  box-shadow: 0px -0.5px 0px 0px rgba(0, 0, 0, 0.05);
+}
+
+.tiktok-cookie-banner {
+  font-family: "tiktok-text-regular", PingFangSC, sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 130%;
+  letter-spacing: -0.16%;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: var(--banner-background-color--, #10a2c5);
+  z-index: 10001;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  color: #fff;
+  padding: 24px 64px 32px;
+  box-sizing: border-box;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.12);
+  -moz-text-size-adjust: 100%;
+       text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+}
+.tiktok-cookie-banner .cookie-content .cookie-title {
+  font-family: "tiktok-display-bold", PingFangSC, sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 125%;
+  letter-spacing: 1%;
+  margin-top: 0;
+  margin-bottom: 0;
+  color: var(--banner-title-color--, #fff);
+}
+.tiktok-cookie-banner .cookie-content .cookie-desc {
+  font-family: "tiktok-text-regular", PingFangSC, sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 130%;
+  letter-spacing: 0.19%;
+  margin-top: 8px;
+  margin-bottom: 0;
+  color: var(--banner-desc-color--, #fff);
+}
+.tiktok-cookie-banner .cookie-content .cookie-desc a {
+  font-family: "tiktok-text-medium", PingFangSC, sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 130%;
+  letter-spacing: 0.19%;
+  text-decoration: none;
+  color: var(--banner-link-color--, #fff);
+}
+.tiktok-cookie-banner .cookie-content .cookie-desc a:hover {
+  text-decoration: underline;
+  color: var(--banner-link-hover-color--, #fff);
+}
+.tiktok-cookie-banner .button-wrapper {
+  display: flex;
+  margin-left: 64px;
+}
+.tiktok-cookie-banner .button-wrapper a,
+.tiktok-cookie-banner .button-wrapper button {
+  font-family: "tiktok-text-bold", PingFangSC, sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 130%;
+  letter-spacing: 0.19%;
+  box-sizing: border-box;
+  padding: 0 24px;
+  height: 46px;
+  min-width: 153px;
+  white-space: nowrap;
+  border-radius: 4px;
+  border: 1px solid rgba(22, 24, 35, 0.12);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  cursor: pointer;
+  background: #fff;
+  color: #161823;
+  outline: none;
+  text-decoration: none;
+  border: 1px solid rgba(22, 24, 35, 0.12);
+}
+.tiktok-cookie-banner .button-wrapper a:hover,
+.tiktok-cookie-banner .button-wrapper button:hover {
+  background: #f8f8f8;
+}
+.tiktok-cookie-banner .button-wrapper button {
+  margin-left: 16px;
+  background: var(--banner-button-background-color--, #fff);
+  color: var(--banner-button-text-color--, #161823);
+}
+.tiktok-cookie-banner .button-wrapper button:hover {
+  background: var(--banner-button-hover-background-color--, #f8f8f8);
+}
+@media (min-width: 768px) and (max-width: 1200px) {
+  .tiktok-cookie-banner .special-button-wrapper button {
+    height: auto;
+    min-height: 44px;
+    white-space: pre-wrap;
+  }
+}
+.tiktok-cookie-banner.is-rtl {
+  direction: rtl;
+}
+.tiktok-cookie-banner.is-rtl .button-wrapper {
+  margin-left: unset;
+  margin-right: 64px;
+}
+.tiktok-cookie-banner.is-rtl .button-wrapper button {
+  margin-left: unset;
+  margin-right: 16px;
+}
+@media (max-width: 991px) {
+  .tiktok-cookie-banner.is-rtl .button-wrapper button {
+    margin-right: 8px;
+  }
+}
+@media (max-width: 991px) {
+  .tiktok-cookie-banner {
+    flex-direction: column;
+    height: auto;
+    padding: 16px 16px 20px;
+    box-shadow: none;
+  }
+  .tiktok-cookie-banner .cookie-content .cookie-title {
+    font-family: "tiktok-text-bold", PingFangSC, sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 130%;
+    letter-spacing: 0.19%;
+    text-align: center;
+    color: var(--banner-title-color--, #fff);
+  }
+  .tiktok-cookie-banner .cookie-content .cookie-desc {
+    font-family: "tiktok-text-regular", PingFangSC, sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 130%;
+    letter-spacing: 1.34%;
+    width: auto;
+    text-align: center;
+    color: var(--banner-desc-color--, #fff);
+  }
+  .tiktok-cookie-banner .cookie-content .cookie-desc a {
+    font-family: "tiktok-text-medium", PingFangSC, sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 130%;
+    letter-spacing: 1.34%;
+    text-decoration: none;
+    color: var(--banner-link-color--, #fff);
+  }
+  .tiktok-cookie-banner .cookie-content .cookie-desc a:hover {
+    text-decoration: underline;
+    color: var(--banner-link-hover-color--, #fff);
+  }
+  .tiktok-cookie-banner .button-wrapper {
+    align-self: flex-end;
+    margin-top: 16px;
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+  }
+  .tiktok-cookie-banner .button-wrapper a,
+  .tiktok-cookie-banner .button-wrapper button {
+    font-family: "tiktok-text-medium", PingFangSC, sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 130%;
+    letter-spacing: 0.4%;
+    min-width: unset;
+    padding: 0 6px;
+    width: 100%;
+    height: 44px;
+    border-radius: 2px;
+    white-space: pre-wrap;
+    margin: 0;
+  }
+  .tiktok-cookie-banner .button-wrapper button {
+    margin-left: 8px;
+    height: auto;
+    min-height: 44px;
+  }
+}</style><style type="text/css">:root body.disable-scroll {
+  overflow: hidden;
+}
+
+.tiktok-cookie-setting-portal {
+  font-family: "tiktok-text-regular", PingFangSC, sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 130%;
+  letter-spacing: 0.67%;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 0;
+  height: 0;
+  color: rgb(22, 24, 35);
+  -webkit-font-smoothing: antialiased;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-backdrop {
+  background-color: rgba(0, 0, 0, 0.5);
+  transition: opacity 300ms linear;
+  opacity: 0;
+  position: fixed;
+  inset: 0;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-backdrop.visible {
+  opacity: 1;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-modal-container {
+  position: fixed;
+  inset: 0;
+  left: 0;
+  top: 32px;
+  bottom: 32px;
+  left: 16px;
+  right: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  transform: scale(0.8);
+  transition: opacity 300ms cubic-bezier(0.65, 0, 0.35, 1), transform 300ms cubic-bezier(0.65, 0, 0.35, 1);
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-modal-container.visible {
+  opacity: 1;
+  transform: scale(1);
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-modal-container .tiktok-cookie-setting-modal {
+  position: relative;
+  max-width: 700px;
+  max-height: 100%;
+  background-color: var(--setting-modal-background-color--, #fff);
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: rgba(0, 0, 0, 0.12) 0 2px 12px;
+  outline: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+@media (max-width: 700px) {
+  .tiktok-cookie-setting-portal .tiktok-cookie-setting-modal-container .tiktok-cookie-setting-modal {
+    width: calc(100vw - 32px);
+  }
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-header-container {
+  font-family: "tiktok-display-bold", PingFangSC, sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 125%;
+  letter-spacing: 1%;
+  padding: 24px 29px 16px 24px;
+  color: var(--setting-modal-title-color--, #161823);
+  border-bottom: 0.5px solid rgba(22, 24, 35, 0.2);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex: 0;
+}
+@media (max-width: 468px) {
+  .tiktok-cookie-setting-portal .tiktok-cookie-setting-header-container {
+    border-bottom: none;
+    padding: 32px 24px 24px;
+    font-family: "tiktok-display-bold", PingFangSC, sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 125%;
+    letter-spacing: 1.5%;
+    justify-content: center;
+  }
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-modal-close {
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-modal-close svg {
+  fill: var(--setting-modal-close-icon-color--, rgba(22, 24, 35, 0.6));
+}
+@media (max-width: 468px) {
+  .tiktok-cookie-setting-portal .tiktok-cookie-setting-modal-close {
+    position: absolute;
+    top: 14px;
+    right: 14px;
+    transform: scale(0.8);
+  }
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-modal-description-container {
+  background-color: rgba(22, 24, 35, 0.03);
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-modal-description-container .tiktok-cookie-setting-modal-description {
+  font-family: "tiktok-text-regular", PingFangSC, sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 130%;
+  letter-spacing: 0.19%;
+  margin: 20px 24px;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-content {
+  padding: 12px 40px 12px 24px;
+  overflow-y: auto;
+  flex: 1 1 auto;
+}
+@media (max-width: 700px) {
+  .tiktok-cookie-setting-portal .tiktok-cookie-setting-content {
+    width: calc(100% - 48px);
+  }
+}
+@media (max-width: 468px) {
+  .tiktok-cookie-setting-portal .tiktok-cookie-setting-content {
+    padding: 6px 16px 0 16px;
+  }
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-content::-webkit-scrollbar {
+  width: 6px;
+  margin-right: 8px;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-content:hover::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.15);
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-content::-webkit-scrollbar-track {
+  background: transparent;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-content::-webkit-scrollbar-thumb {
+  border-radius: 3px;
+  background: rgba(0, 0, 0, 0.15);
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-content .tiktok-cookie-setting-info-icon {
+  margin-left: auto;
+  justify-content: flex-end;
+  height: 48px;
+  cursor: pointer;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-content .tiktok-cookie-setting-info-icon.hide {
+  transform: rotate(180deg);
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-content .tiktok-cookie-setting-info-icon svg {
+  width: 14px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 17px;
+  fill: var(--setting-modal-arrow-icon-color--, #161823);
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-content .tiktok-cookie-vertical-info-icon {
+  margin-left: auto;
+  margin-right: 20px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-content .tiktok-cookie-vendor-group-name {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  font-family: "tiktok-text-medium", PingFangSC, sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 130%;
+  letter-spacing: 0.19%;
+  margin-top: 0;
+  margin-bottom: 0;
+  color: var(--setting-modal-text-color--, #161823);
+  flex: 1 1 0;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-content .tiktok-cookie-vendor-group-name .tiktok-cookie-vendor-group-name-outside {
+  display: flex;
+  align-items: center;
+  flex-shrink: 1;
+  flex-grow: 1;
+}
+@media (max-width: 468px) {
+  .tiktok-cookie-setting-portal .tiktok-cookie-setting-content .tiktok-cookie-vendor-group-name {
+    font-family: "tiktok-text-medium", PingFangSC, sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 130%;
+    letter-spacing: 0.4%;
+  }
+}
+.tiktok-cookie-setting-portal cookie-setting-switch {
+  line-height: 0;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-footer {
+  padding: 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 0.5px solid rgba(22, 24, 35, 0.2);
+  flex: 0 0 auto;
+}
+@media (max-width: 468px) {
+  .tiktok-cookie-setting-portal .tiktok-cookie-setting-footer {
+    border-top: none;
+    padding: 20px;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: stretch;
+  }
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-footer .tiktok-cookie-setting-footer-btn-text,
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-footer .tiktok-cookie-setting-footer-btn-primary {
+  font-family: "tiktok-text-medium", PingFangSC, sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 130%;
+  letter-spacing: 0.19%;
+  min-width: 100px;
+  border-radius: 4px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+  cursor: pointer;
+  box-sizing: border-box;
+  height: 36px;
+  outline: none;
+  border: none;
+  text-align: center;
+}
+@media (max-width: 468px) {
+  .tiktok-cookie-setting-portal .tiktok-cookie-setting-footer .tiktok-cookie-setting-footer-btn-text,
+  .tiktok-cookie-setting-portal .tiktok-cookie-setting-footer .tiktok-cookie-setting-footer-btn-primary {
+    height: 44px;
+    margin-left: 0;
+    border-radius: 2px;
+  }
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-footer .tiktok-cookie-setting-footer-btn-text {
+  color: #fe2c55;
+  background-color: #fff;
+  text-decoration: none;
+  padding-left: 0;
+  padding-right: 0;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-footer .tiktok-cookie-setting-footer-btn-primary {
+  background-color: var(--setting-modal-button-background-color--, rgb(254, 44, 85));
+  color: var(--setting-modal-button-text-color--, #fff);
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-footer .tiktok-cookie-setting-footer-btn-primary:hover {
+  background: var(--setting-modal-button-hover-background-color--, linear-gradient(0deg, rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.06)), #fe2c55);
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-vendor-group {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-vendor-group.show-detail {
+  margin-bottom: 16px;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-vendor {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-vendor .tiktok-cookie-vendor-label-outside {
+  display: flex;
+  flex-shrink: 1;
+  flex-grow: 1;
+  color: var(--setting-modal-text-color--, #161823);
+  cursor: pointer;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-vendor .tiktok-cookie-vendor-label-outside .tiktok-cookie-vendor-label {
+  margin-left: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex: 1 1 0;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-manage-tip-context {
+  padding: 0;
+  margin: 0;
+  margin-bottom: 8px;
+  padding-left: -16px;
+  color: var(--setting-modal-desc-color--, rgba(0, 0, 0, 0.7));
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-manage-tip-context .tiktok-cookie-manage-tip-context-ref {
+  text-decoration: none;
+  color: var(--setting-modal-link-color--, #fe2c55);
+  font-weight: bold;
+  text-decoration: none;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-manage-tip-context .tiktok-cookie-manage-tip-context-ref:hover {
+  text-decoration: underline;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-vendor-context-ref {
+  text-decoration: none;
+  color: var(--setting-modal-link-color--, #fe2c55);
+  font-weight: bold;
+  text-decoration: none;
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-vendor-context-ref:hover {
+  text-decoration: underline;
+  color: var(--setting-modal-link-hover-color--, #fe2c55);
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-vendor-context {
+  padding: 0;
+  margin-top: 4px;
+  margin-bottom: 8px;
+  padding-left: 16px;
+  color: var(--setting-modal-text-color--, rgba(0, 0, 0, 0.56));
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-vendor-group p,
+.tiktok-cookie-setting-portal .tiktok-cookie-vendor p {
+  font-family: "tiktok-text-regular", PingFangSC, sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 130%;
+  letter-spacing: 0.19%;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+@media (max-width: 468px) {
+  .tiktok-cookie-setting-portal .tiktok-cookie-vendor-group p,
+  .tiktok-cookie-setting-portal .tiktok-cookie-vendor p {
+    font-family: "tiktok-text-regular", PingFangSC, sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 130%;
+    letter-spacing: 0.4%;
+  }
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-desc {
+  color: var(--setting-modal-text-color--, rgba(0, 0, 0, 0.56));
+  font-family: "tiktok-text-regular", PingFangSC, sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 130%;
+  letter-spacing: 0.67%;
+  margin-bottom: 24px;
+}
+.tiktok-cookie-setting-portal .cookie-setting-switch {
+  line-height: 0;
+  padding-left: 36px;
+  flex-grow: 0;
+  flex-shrink: 0;
+}
+.tiktok-cookie-setting-portal .cookie-setting-switch.checked {
+  background-color: var(--setting-modal-switch-toggle-color--, #0be09b);
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-footer-desc {
+  font-family: "tiktok-text-medium", PingFangSC, sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 130%;
+  letter-spacing: 0.19%;
+  padding: 0;
+  margin: 0 16px 0 0;
+  color: var(--setting-modal-link-color--, #fe2c55);
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-footer-desc a {
+  font-family: "tiktok-text-medium", PingFangSC, sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 130%;
+  letter-spacing: 0.19%;
+  text-decoration: none;
+  color: var(--setting-modal-link-color--, #fe2c55);
+}
+.tiktok-cookie-setting-portal .tiktok-cookie-setting-footer-desc a:hover {
+  text-decoration: underline;
+  color: var(--setting-modal-link-color--, #fe2c55);
+}
+@media (max-width: 468px) {
+  .tiktok-cookie-setting-portal .tiktok-cookie-setting-footer-desc {
+    margin: 16px 0 0 0;
+    text-align: center;
+  }
+}
+.tiktok-cookie-setting-portal.is-rtl {
+  direction: rtl;
+}
+.tiktok-cookie-setting-portal.is-rtl .tiktok-cookie-setting-content {
+  padding: 12px 24px 12px 40px;
+}
+.tiktok-cookie-setting-portal.is-rtl .tiktok-cookie-vertical-info-icon {
+  margin-left: 20px;
+  margin-right: auto;
+}
+.tiktok-cookie-setting-portal.is-rtl .tiktok-cookie-setting-info-icon {
+  margin-right: auto;
+  margin-left: 0;
+}
+.tiktok-cookie-setting-portal.is-rtl .tiktok-cookie-vendor .tiktok-cookie-vendor-label-outside .tiktok-cookie-vendor-label {
+  margin-left: 0;
+  margin-right: 16px;
+}
+.tiktok-cookie-setting-portal.is-rtl .tiktok-cookie-vendor-context {
+  padding-left: 0;
+  padding-right: 16px;
+}
+.tiktok-cookie-setting-portal.is-rtl .tiktok-cookie-setting-footer-desc {
+  margin: 0 0 0 16px;
+}
+@media (max-width: 468px) {
+  .tiktok-cookie-setting-portal.is-rtl .tiktok-cookie-setting-footer-desc {
+    margin: 16px 0 0 0;
+    text-align: center;
+  }
+}</style><style type="text/css">:root body.global_module_disableScroll__472ccca3 {
+  overflow: hidden;
+}</style><style type="text/css">.tiktok-cookie-setting-switch {
+  box-sizing: border-box;
+  display: inline-block;
+  border-radius: 12px;
+  border: 1px rgba(0, 0, 0, 0) solid;
+  position: relative;
+  cursor: pointer;
+  background-color: var(--setting-modal-switch-toggle-color--, rgba(46, 50, 56, 0.05));
+  transition: background-color 200ms ease-in-out;
+  width: 40px;
+  height: 24px;
+}
+.tiktok-cookie-setting-switch.checked {
+  background-color: var(--setting-modal-switch-toggle-checked-color--, #0be09b);
+}
+.tiktok-cookie-setting-switch.checked .tiktok-cookie-setting-switch-knob {
+  transform: translateX(18px);
+}
+.tiktok-cookie-setting-switch.disabled {
+  opacity: 0.34;
+  cursor: not-allowed;
+}
+
+.tiktok-cookie-setting-switch-knob {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 0 0 1px rgba(0, 0, 0, 0.08);
+  cursor: pointer;
+  border-radius: 9px;
+  background-color: #fff;
+  box-sizing: border-box;
+  position: absolute;
+  left: 0;
+  right: auto;
+  transition: transform 200ms ease-in-out, width 200ms ease-in-out;
+  width: 18px;
+  height: 18px;
+  top: 2px;
+  transform: translateX(2px);
+}
+
+.tiktok-cookie-setting-switch-native-control {
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  cursor: inherit;
+  pointer-events: auto;
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+}</style><style data-tiktok-cookie-banner-font="tiktok-display-bold">
+  @font-face {
+    font-family: "tiktok-display-bold";
+    src: url("https://lf16-tiktok-common.tiktokcdn-us.com/obj/tiktok-web-common-tx/tiktok_fonts/TikTokDisplayFont-Bold.woff2?_default_font=1&v=2");
+    font-display: swap;
+  }
+    </style><style data-tiktok-cookie-banner-font="tiktok-display-regular">
+  @font-face {
+    font-family: "tiktok-display-regular";
+    src: url("https://lf16-tiktok-common.tiktokcdn-us.com/obj/tiktok-web-common-tx/tiktok_fonts/TikTokDisplayFont-Regular.woff2?_default_font=1&v=2");
+    font-display: swap;
+  }
+    </style><style data-tiktok-cookie-banner-font="tiktok-display-medium">
+  @font-face {
+    font-family: "tiktok-display-medium";
+    src: url("https://lf16-tiktok-common.tiktokcdn-us.com/obj/tiktok-web-common-tx/tiktok_fonts/TikTokDisplayFont-Semibold.woff2?_default_font=1&v=2");
+    font-display: swap;
+  }
+    </style><style data-tiktok-cookie-banner-font="tiktok-text-bold">
+  @font-face {
+    font-family: "tiktok-text-bold";
+    src: url("https://lf16-tiktok-common.tiktokcdn-us.com/obj/tiktok-web-common-tx/tiktok_fonts/TikTokFont-Bold.woff2?_default_font=1&v=2");
+    font-display: swap;
+  }
+    </style><style data-tiktok-cookie-banner-font="tiktok-text-regular">
+  @font-face {
+    font-family: "tiktok-text-regular";
+    src: url("https://lf16-tiktok-common.tiktokcdn-us.com/obj/tiktok-web-common-tx/tiktok_fonts/TikTokFont-Regular.woff2?_default_font=1&v=2");
+    font-display: swap;
+  }
+    </style><style data-tiktok-cookie-banner-font="tiktok-text-medium">
+  @font-face {
+    font-family: "tiktok-text-medium";
+    src: url("https://lf16-tiktok-common.tiktokcdn-us.com/obj/tiktok-web-common-tx/tiktok_fonts/TikTokFont-SEMIBOLD.woff2?_default_font=1&v=2");
+    font-display: swap;
+  }
+    </style><script src="https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/slardar/fe/sdk-web/plugins/common-monitors.1.14.5.js" crossorigin="anonymous"></script><script src="https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/slardar/fe/sdk-web/plugins/common-monitors.1.14.5.js" crossorigin="anonymous"></script><meta name="pumbaa-ctx" content="cb_enabled=0"><script charset="utf-8" data-webpack="@webapp-shared/login-vmok:chunk-4511" src="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_login_vmok/static/js/async/4511.07e0f559.js"></script><script charset="utf-8" data-webpack="@webapp-shared/login-vmok:chunk-2366" src="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_login_vmok/static/js/async/2366.703c9b10.js"></script><link charset="utf-8" rel="prefetch" as="script" href="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_header_vmok/static/js/async/3175.146be61e.js"><link charset="utf-8" rel="prefetch" as="script" href="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/web/tiktok_fe_header_vmok/static/js/async/6850.0ffaa441.js"></head><body><div id="root"><div class="csp-root"><div style="position: relative; height: 60px;"><div style="position: fixed; top: 0px; left: 0px; width: 100%; height: 60px; background: rgba(255, 255, 255, 0.8); box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 1px; overflow: hidden; z-index: 9999;"><div style="position: absolute; top: 0px; left: 0px; width: 40%; height: 100%; background: linear-gradient(90deg, rgba(0, 0, 0, 0) 0%, rgba(180, 180, 180, 0.18) 50%, rgba(0, 0, 0, 0) 100%); animation: 1.2s ease 0s infinite normal none running vmok-webapp-header-skeleton-shine-anim; pointer-events: none;"></div></div></div><main style="height: calc(100% - 60px);"><div class="page-container"><div class="faq_detail_container-yHzO3U"><div style="width: 352px; height: 100%; padding: 24px 16px; flex: 0 0 auto;"><div><div class="tux-web-canary tux-skeleton-KoQk5s" style="width: 200px; height: 24px; border-radius: 4px;"></div></div><div style="margin-top: 48px;"><div class="tux-web-canary tux-skeleton-KoQk5s" style="width: 315px; height: 24px; border-radius: 4px;"></div></div><div style="margin-top: 32px;"><div class="tux-web-canary tux-skeleton-KoQk5s" style="width: 315px; height: 24px; border-radius: 4px;"></div></div><div style="margin-top: 32px;"><div class="tux-web-canary tux-skeleton-KoQk5s" style="width: 315px; height: 24px; border-radius: 4px;"></div></div><div style="margin-top: 32px;"><div class="tux-web-canary tux-skeleton-KoQk5s" style="width: 315px; height: 24px; border-radius: 4px;"></div></div><div style="margin-top: 32px;"><div class="tux-web-canary tux-skeleton-KoQk5s" style="width: 315px; height: 24px; border-radius: 4px;"></div></div></div><div class="detail_root-Z0eBRo"><div class="rich_text_wrapper-hA7umN"><div class="left-JQwb7X"><div class="main_title-Vhewzi">Violações de conteúdo e banimentos</div><div class="rt_root-MuMiEM"><div style=""><div data-zone-id="0" data-line-index="0" data-line="true" class="rt_data_line rt_data_line_mt_40" style=""><h3 class="heading-h3" id="anchor-dxhb" style=""><b style="">Pular para uma seção</b></h3></div><div data-zone-id="0" data-line-index="1" data-line="true" class="rt_data_line_empty_text" style=""><h3 class="heading-h3" id="anchor-Zq4l" style=""></h3></div><div data-zone-id="0" data-line-index="2" data-line="true" class="rt_data_line" style=""><h3 class="heading-h3" id="anchor-1Ucv" style=""><a href="#anchor-R0sB" rel="noopener noreferrer" class="rt_anchor_hash" style=""> Moderação de conteúdo no TikTok</a> • <a href="#anchor-W5u4" rel="noopener noreferrer" class="rt_anchor_hash" style="">Violações de conta e banimentos</a> </h3></div><div data-zone-id="0" data-line-index="3" data-line="true" class="rt_data_line_empty_text" style=""><h3 class="heading-h3" id="anchor-wPKt" style=""></h3></div><div data-zone-id="0" data-line-index="4" data-line="true" class="rt_data_line_empty_text" style=""><h3 class="heading-h3" id="anchor-fC1m" style=""></h3></div><div data-zone-id="0" data-line-index="5" data-line="true" class="rt_data_line_empty_text" style=""><h3 class="heading-h3" id="anchor-jEXH" style=""></h3></div><div data-zone-id="0" data-line-index="6" data-line="true" class="rt_data_line rt_data_line_mt_40" style=""><h3 class="heading-h3" id="anchor-R0sB" style=""><b style="">Moderação de conteúdo no TikTok</b></h3></div><div data-zone-id="0" data-line-index="7" data-line="true" class="rt_data_line_empty_text" style=""></div><div data-zone-id="0" data-line-index="8" data-line="true" class="rt_data_line" style="">Nossas <a href="https://www.tiktok.com/community-guidelines" rel="noopener noreferrer" target="_blank" style="">Diretrizes da Comunidade</a> se aplicam a todos os usuários e definem as regras do que é e o que não é permitido no TikTok para ajudar a fomentar uma experiência de entretenimento acolhedora, segura e divertida. Desenvolvemos ferramentas e tecnologia para identificar e remover conteúdos e comportamentos prejudiciais que vão contra nossas Diretrizes da Comunidade. Essas ferramentas nos ajudam a promover a segurança de nossa comunidade e a manter a integridade da nossa plataforma.</div><div data-zone-id="0" data-line-index="9" data-line="true" class="rt_data_line" style="">Além disso, exigimos um padrão mais elevado dos criadores que monetizam ou aproveitam nossa plataforma para se promoverem. Esperamos que os criadores do TikTok sigam nosso código de conduta do criador e se comportem de maneira que não prejudique a segurança de outras pessoas ou a integridade de nossa plataforma.</div><div data-zone-id="0" data-line-index="10" data-line="true" class="rt_data_line_empty_text" style=""></div><div data-zone-id="0" data-line-index="11" data-line="true" class="rt_data_line" style="">Acesse a <a href="https://www.tiktok.com/creator-academy/article/creator-code-of-conduct" rel="noopener noreferrer" target="_blank" style="">Academia de Criadores</a> para aprender mais sobre o Código de Conduta do Criador.</div><div data-zone-id="0" data-line-index="12" data-line="true" class="rt_data_line" style=""><b style="">Como o TikTok detecta violações e aplica suas Diretrizes da Comunidade?</b></div><div data-zone-id="0" data-line-index="13" data-line="true" class="rt_data_line" style="">Usamos análises automatizadas e humanas para detectar violações de nossas <a href="https://www.tiktok.com/community-guidelines" rel="noopener noreferrer" target="_blank" style="">Diretrizes da Comunidade</a> e tomar medidas contra contas e conteúdos em violação. Se encontrarmos violações e tomarmos medidas, o proprietário da conta será notificado.</div><div data-zone-id="0" data-line-index="14" data-line="true" class="rt_data_line_empty_text" style=""></div><div data-zone-id="0" data-line-index="15" data-line="true" class="rt_data_line" style=""><b style="">O que acontece se o conteúdo do TikTok estiver em análise?</b></div><div data-zone-id="0" data-line-index="16" data-line="true" class="rt_data_line" style="">Se o seu conteúdo do TikTok estiver em análise, ele será verificado por nossa equipe de Confiança e Segurança para determinar se ele deve ser removido ou tornado <a href="https://www.tiktok.com/safety/en/policies-and-engagement/fyf-standards" rel="noopener noreferrer" target="_blank" style="">inelegível para o feed Para Você</a> conforme nossas <a href="https://www.tiktok.com/community-guidelines" rel="noopener noreferrer" target="_blank" style="">Diretrizes da Comunidade.</a> Isso pode acontecer quando você carrega conteúdo, se ele ganhar popularidade ou se for denunciado.</div><div data-zone-id="0" data-line-index="17" data-line="true" class="rt_data_line" style="">Se uma violação for identificada:</div><div data-zone-id="0" data-line-index="18" data-line="true" class="rt_data_line" style="">• Removemos o conteúdo e, em caso afirmativo, informaremos o motivo.</div><div data-zone-id="0" data-line-index="19" data-line="true" class="rt_data_line" style="">• Você terá a oportunidade de recorrer da decisão.</div><div data-zone-id="0" data-line-index="20" data-line="true" class="rt_data_line_empty_text" style=""></div><div data-zone-id="0" data-line-index="21" data-line="true" class="rt_data_line" style=""><b style="">O que acontece se a sua publicação for inelegível para o feed Para você?</b></div><div data-zone-id="0" data-line-index="22" data-line="true" class="rt_data_line" style="">Em alguns casos, conforme <a href="https://www.tiktok.com/community-guidelines/en/fyf-standards/" rel="noopener noreferrer" target="_blank" style="">descrito nas nossas Diretrizes da Comunidade</a>, poderemos considerar seu conteúdo inelegível para recomendação para o feed Para você. Quando isso acontecer, sua publicação não será exibida no feed Para você. Você pode analisar o motivo, enviar feedback da nossa decisão e enviar um recurso caso acredite que cometemos um erro. Se o seu recurso for bem-sucedido, sua publicação será elegível para recomendação no feed Para você.</div><div data-zone-id="0" data-line-index="23" data-line="true" class="rt_data_line" style="">Tenha em mente que você precisará ativar as análises em suas configurações do TikTok para visualizar nossa decisão.</div><div data-zone-id="0" data-line-index="24" data-line="true" class="rt_data_line" style="">Para ativar as análises em suas publicações:</div><div data-zone-id="0" data-line-index="25" data-line="true" class="rt_data_line" style="">1. No app TikTok, toque em <b style="">Perfil</b> na parte inferior da tela.</div><div data-zone-id="0" data-line-index="26" data-line="true" class="rt_data_line" style="">2. Toque no botão <b style="">Menu </b>☰ na parte superior da tela e selecione <b style="">TikTok Studio</b>.</div><div data-zone-id="0" data-line-index="27" data-line="true" class="rt_data_line" style="">3. Toque em <b style="">Primeiros passos</b> em <b style="">Análises</b>.</div><div data-zone-id="0" data-line-index="28" data-line="true" class="rt_data_line" style="">4. Toque em <b style="">Ativar</b>.</div><div data-zone-id="0" data-line-index="29" data-line="true" class="rt_data_line" style="">Para mais detalhes sobre nossa decisão:</div><div data-zone-id="0" data-line-index="30" data-line="true" class="rt_data_line" style="">1. No app TikTok, acesse a publicação sobre a qual você gostaria de saber mais.</div><div data-zone-id="0" data-line-index="31" data-line="true" class="rt_data_line" style="">2. Toque em <b style="">Mais insights</b> na parte inferior ou toque no botão <b style="">Mais opções</b> … ao lado da publicação e toque em <b style="">Análises</b>.</div><div data-zone-id="0" data-line-index="32" data-line="true" class="rt_data_line" style="">3. Toque na notificação da publicação inelegível.</div><div data-zone-id="0" data-line-index="33" data-line="true" class="rt_data_line" style="">4. Revise o feedback. Você pode escolher <b style="">Sim</b> ou <b style="">Não</b> para indicar se entende ou não por que sua publicação não é elegível para o feed Para você. Se você escolher <b style="">Não</b>, poderá seguir as etapas na próxima tela para compartilhar feedback e nos ajudar a melhorar nossas medidas de moderação.</div><div data-zone-id="0" data-line-index="34" data-line="true" class="rt_data_line" style="">Se você não concorda com a nossa decisão de que a sua publicação é inelegível para o feed Para você, é possível recorrer.</div><div data-zone-id="0" data-line-index="35" data-line="true" class="rt_data_line" style="">Para entrar com um recurso:</div><div data-zone-id="0" data-line-index="36" data-line="true" class="rt_data_line" style="">1. No app TikTok, acesse a publicação inelegível para o feed Para você.</div><div data-zone-id="0" data-line-index="37" data-line="true" class="rt_data_line" style="">2. Toque em <b style="">Mais insights</b> na parte inferior ou toque no botão <b style="">Mais opções</b> … ao lado da publicação e toque em <b style="">Análises</b>.</div><div data-zone-id="0" data-line-index="38" data-line="true" class="rt_data_line" style="">3. Toque na notificação da publicação inelegível.</div><div data-zone-id="0" data-line-index="39" data-line="true" class="rt_data_line" style="">4. Toque em <b style="">Recurso </b>na parte superior.</div><div data-zone-id="0" data-line-index="40" data-line="true" class="rt_data_line_empty_text" style=""></div><div data-zone-id="0" data-line-index="41" data-line="true" class="rt_data_line" style=""><b style="">Como o TikTok aplica suas Diretrizes da Comunidade para governos, políticos e novas contas?</b></div><div data-zone-id="0" data-line-index="42" data-line="true" class="rt_data_line_empty_text" style=""></div><div data-zone-id="0" data-line-index="43" data-line="true" class="rt_data_line" style="">Nós utilizamos as mesmas práticas de moderação de conteúdo para <a href="https://www.tiktok.com/support/faq_detail?id=7543896418532989445" rel="noopener noreferrer" target="_blank" style="">Contas de Governos, Políticos e de partidos políticos</a> e veículos de notícia que utilizamos para outras contas do TikTok. Isso significa que removeremos conteúdo em violação e baniremos permanentemente contas por violações graves de conteúdo, como mostrar violência ou tortura real. No entanto, devido ao papel que essas contas de interesse público desempenham nos processos cívicos e na sociedade civil, aplicamos restrições de conta diferentes ao manter nosso compromisso com os direitos humanos e a <a href="https://www.tiktok.com/community-guidelines/en/community-principles/" rel="noopener noreferrer" target="_blank" style="">liberdade de expressão</a>. Se atingirem o limite de violações definido para todas as contas, eles serão temporariamente inelegíveis para aparecer nos feeds Para você e Seguindo por 90 dias.</div><div data-zone-id="0" data-line-index="44" data-line="true" class="rt_data_line" style="">Em alguns casos, onde as contas de interesse público podem apresentar um risco particularmente alto para a segurança pública, como durante períodos de agitação civil, eleições ou outros ambientes sociais e políticos de alto risco, podemos impor outras restrições. Se uma conta de interesse público publicar conteúdo durante períodos de alto risco que promova violência, ódio ou desinformação que possa prejudicar um processo cívico ou contribuir para danos reais, podemos impedir que a conta publique conteúdo por um período de 7 a 30 dias, dependendo da gravidade da violação e do risco envolvido. Podemos estender o período de restrição se determinarmos que as ações do proprietário da conta indicam que provavelmente continuarão cometendo violações e que a segurança pública ainda esteja em alto risco. Também podemos considerar o comportamento fora do TikTok em nossa decisão.</div><div data-zone-id="0" data-line-index="45" data-line="true" class="rt_data_line_empty_text" style=""><h3 class="heading-h3" id="anchor-J2P1" style=""></h3></div><div data-zone-id="0" data-line-index="46" data-line="true" class="rt_data_line rt_data_line_mt_40" style=""><h3 class="heading-h3" id="anchor-W5u4" style=""><b style="">Violações de conta e banimentos</b></h3></div><div data-zone-id="0" data-line-index="47" data-line="true" class="rt_data_line_empty_text" style=""></div><div data-zone-id="0" data-line-index="48" data-line="true" class="rt_data_line" style=""><b style="">O que é o status da conta?</b></div><div data-zone-id="0" data-line-index="49" data-line="true" class="rt_data_line" style="">O status da sua conta reflete seu histórico de violações no TikTok nos últimos 90 dias. O status da sua conta pode ser Saudável, Regular, Grave ou Banido. Você pode ver o status da sua conta e um registro de suas violações no<a href="https://www.tiktok.com/support/faq_detail?id=7543604781319756294" rel="noopener noreferrer" target="_blank" style=""><b style=""> </b></a><a href="https://www.tiktok.com/support/faq_detail?id=7543604781319756294" rel="noopener noreferrer" target="_blank" style="">status da conta</a>.</div><div data-zone-id="0" data-line-index="50" data-line="true" class="rt_data_line" style=""><b style="">O que acontece com a sua conta do TikTok se o seu conteúdo for removido?</b></div><div data-zone-id="0" data-line-index="51" data-line="true" class="rt_data_line" style="">Quando o seu conteúdo for removido devido a uma violação das <a href="https://www.tiktok.com/safety/en/policies-and-engagement/overview" rel="noopener noreferrer" target="_blank" style="">Diretrizes da Comunidade</a>, você receberá uma notificação explicando o motivo da remoção e como enviar um recurso se achar que cometemos um erro.</div><div data-zone-id="0" data-line-index="52" data-line="true" class="rt_data_line" style="">O impacto de uma violação no status da sua conta depende da gravidade da área de política envolvida (por exemplo, <a href="https://www.tiktok.com/safety/en/policies-and-engagement/safety-civility" rel="noopener noreferrer" target="_blank" style="">segurança e civilidade</a>) e do recurso onde a violação ocorreu (por exemplo, <a href="https://www.tiktok.com/safety/en/policies-and-engagement/accounts-features#:~:text=Comments,message%20here." rel="noopener noreferrer" target="_blank" style="">comentários ou mensagens diretas</a>). Violações repetidas podem reduzir progressivamente o status da sua conta, levar a restrições temporárias em determinados recursos da plataforma (por exemplo, a capacidade de publicar um comentário) ou levar ao banimento permanente da conta.</div><div data-zone-id="0" data-line-index="53" data-line="true" class="rt_data_line" style="">Para determinadas violações iniciais, você terá a oportunidade de concluir um treinamento opcional de políticas no app para saber mais sobre as nossas Diretrizes da Comunidade. Se você receber a oferta deste treinamento e o concluir com sucesso, as restrições elegíveis aplicadas à sua conta poderão ser suspensas. Tenha em mente que, se suas violações iniciais forem graves, isso não se aplicará e poderemos banir sua conta.</div><div data-zone-id="0" data-line-index="54" data-line="true" class="rt_data_line" style="">Para analisar avisos de violações:</div><div data-zone-id="0" data-line-index="55" data-line="true" class="rt_data_line" style="">1. Toque em <b style="">Caixa de entrada</b> no app TikTok.</div><div data-zone-id="0" data-line-index="56" data-line="true" class="rt_data_line" style="">2. Toque em <b style="">Notificações do sistema</b>.</div><div data-zone-id="0" data-line-index="57" data-line="true" class="rt_data_line" style="">3. Toque em <b style="">Atualizações de conta</b>. Se for preciso, role a tela até encontrar essa opção.</div><div data-zone-id="0" data-line-index="58" data-line="true" class="rt_data_line_empty_text" style=""></div><div data-zone-id="0" data-line-index="59" data-line="true" class="rt_data_line" style=""><b style="">As violações na conta do TikTok expiram?</b></div><div data-zone-id="0" data-line-index="60" data-line="true" class="rt_data_line" style="">As violações na conta do TikTok expirarão após 90 dias e não serão mais levadas em consideração.</div><div data-zone-id="0" data-line-index="61" data-line="true" class="rt_data_line_empty_text" style=""></div><div data-zone-id="0" data-line-index="62" data-line="true" class="rt_data_line" style=""><b style="">Quando o TikTok bane contas permanentemente?</b></div><div data-zone-id="0" data-line-index="63" data-line="true" class="rt_data_line" style="">As contas são permanentemente banidas se identificarmos as violações das nossas <a href="https://www.tiktok.com/community-guidelines" rel="noopener noreferrer" target="_blank" style="">Diretrizes da Comunidade</a> e <a href="https://www.tiktok.com/legal/terms-of-service" rel="noopener noreferrer" target="_blank" style="">Termos de Serviço</a>, incluindo:</div><div data-zone-id="0" data-line-index="64" data-line="true" class="rt_data_line" style="">• Você não atende à idade mínima ou outros requisitos, conforme indicado em nossos Termos de Serviço.</div><div data-zone-id="0" data-line-index="65" data-line="true" class="rt_data_line" style="">• A conta personifica outra pessoa ou entidade de maneira enganosa.</div><div data-zone-id="0" data-line-index="66" data-line="true" class="rt_data_line" style="">• Você teve uma violação grave em sua conta:</div><div data-zone-id="0" data-line-index="67" data-line="true" class="rt_data_line" style=""> ༚ Publicar, promover ou facilitar material de exploração juvenil ou abuso sexual infantil (CSAM).</div><div data-zone-id="0" data-line-index="68" data-line="true" class="rt_data_line" style=""> ༚ Promover ou ameaçar violência.</div><div data-zone-id="0" data-line-index="69" data-line="true" class="rt_data_line" style=""> ༚ Publicar ou promover conteúdo que retrata atos sexuais não consensuais, como estupro ou abuso sexual.</div><div data-zone-id="0" data-line-index="70" data-line="true" class="rt_data_line" style=""> ༚ Publicar conteúdo que facilita o tráfico de pessoas.</div><div data-zone-id="0" data-line-index="71" data-line="true" class="rt_data_line" style=""> ༚ Publicar conteúdo que retrata tortura real.</div><div data-zone-id="0" data-line-index="72" data-line="true" class="rt_data_line" style="">• Criar ou usar outra conta do TikTok para evitar intencionalmente restrições ou um banimento permanente imposto a outra conta.</div><div data-zone-id="0" data-line-index="73" data-line="true" class="rt_data_line" style="">• Múltiplas violações das nossas políticas.</div><div data-zone-id="0" data-line-index="74" data-line="true" class="rt_data_line" style="">• Múltiplas violações da nossa <a href="https://www.tiktok.com/legal/copyright-policy?lang=en" rel="noopener noreferrer" target="_blank" style="">Política de Propriedade Intelectual</a>.</div><div data-zone-id="0" data-line-index="75" data-line="true" class="rt_data_line" style="">• Sua conta existe apenas para violar <a href="https://www.tiktok.com/community-guidelines/en?lang=en" rel="noopener noreferrer" target="_blank" style="">nossas regras</a>.</div><div data-zone-id="0" data-line-index="76" data-line="true" class="rt_data_line_empty_text" style=""></div><div data-zone-id="0" data-line-index="77" data-line="true" class="rt_data_line" style=""><b style="">Como você saberá se sua conta do TikTok está permanentemente banida?</b></div><div data-zone-id="0" data-line-index="78" data-line="true" class="rt_data_line" style="">Se sua conta tiver sido banida, você receberá uma notificação quando tentar entrar.</div><div data-zone-id="0" data-line-index="79" data-line="true" class="rt_data_line_empty_text" style=""></div><div data-zone-id="0" data-line-index="80" data-line="true" class="rt_data_line" style=""><b style="">Como acessar sua conta do TikTok após ela ser banida</b></div><div data-zone-id="0" data-line-index="81" data-line="true" class="rt_data_line" style="">Se sua conta for banida, você pode entrar na conta para enviar um recurso e baixar seus dados pessoais. Tenha em mente que excluímos dados pessoais após um período de acordo com as leis aplicáveis e nossa política de retenção de dados. Após a exclusão, sua conta não estará mais disponível.</div><div data-zone-id="0" data-line-index="82" data-line="true" class="rt_data_line_empty_text" style=""></div><div data-zone-id="0" data-line-index="83" data-line="true" class="rt_data_line" style=""><b style="">Como enviar um recurso se o seu conteúdo for removido ou sua conta do TikTok for banida</b></div><div data-zone-id="0" data-line-index="84" data-line="true" class="rt_data_line" style="">Se você acredita que seu conteúdo ou conta foi removido por engano, pode enviar um <a href="https://www.tiktok.com/support/faq_detail?id=7543604780950624824#3" rel="noopener noreferrer" target="_blank" style="">recurso dessa decisão</a>.</div><div data-zone-id="0" data-line-index="85" data-line="true" class="rt_data_line" style="">Se o seu recurso for aprovado:</div><div data-zone-id="0" data-line-index="86" data-line="true" class="rt_data_line" style="">• Seu conteúdo ou status da conta será recuperado (a menos que você já tenha excluído a conta ou conteúdo).</div><div data-zone-id="0" data-line-index="87" data-line="true" class="rt_data_line" style="">Nota: excluir seu conteúdo em violação não remove a violação, e ainda podemos reduzir o status da sua conta e/ou impor restrições depois que você excluir o conteúdo em violação.</div><div data-zone-id="0" data-line-index="88" data-line="true" class="rt_data_line_empty_text" style=""></div><div data-zone-id="0" data-line-index="89" data-line="true" class="rt_data_line" style=""><b style="">Você pode criar uma nova conta do TikTok após ser banido?</b></div><div data-zone-id="0" data-line-index="90" data-line="true" class="rt_data_line" style="">Você pode criar várias contas no TikTok. No entanto, podemos restringir ou banir permanentemente sua conta se você fizer qualquer tentativa de evitar uma restrição ou banimento imposto a outra conta que você possua, incluindo:</div><div data-zone-id="0" data-line-index="91" data-line="true" class="rt_data_line" style="">• Criar uma nova conta depois que sua conta for banida por uma violação grave.</div><div data-zone-id="0" data-line-index="92" data-line="true" class="rt_data_line" style="">• Publicar conteúdo em violação em uma conta nova ou existente.</div><div data-zone-id="0" data-line-index="93" data-line="true" class="rt_data_line" style="">• Espalhar violações de conteúdo em várias contas.</div><div data-zone-id="0" data-line-index="94" data-line="true" class="rt_data_line" style="">Esta proibição se aplica enquanto qualquer restrição de conta ou banimento permanente de conta permanecer ativo em sua outra conta.</div></div></div><div class="eva_wrapper-fdTaKJ"><div class="text-atmYVb">Isso foi útil?</div><div class="btn-KDG3dm"><svg fill="currentColor" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" class="icon-PFAEtO"><path fill-rule="evenodd" clip-rule="evenodd" d="M31.52 2.2a5.76 5.76 0 0 0-6.98 1.14l-8.45 9.08-.4.42a15 15 0 0 0-2.19 3.22H9.54a6.4 6.4 0 0 0-5.99 4.13 24.03 24.03 0 0 0-.13 16.76l.1.29a6.57 6.57 0 0 0 6.18 4.32h5.78a9.34 9.34 0 0 0 5.69 2.24l10.47.43c1.33.06 2.44.1 3.36.08a8.1 8.1 0 0 0 2.73-.5 8 8 0 0 0 3.47-2.6 8.1 8.1 0 0 0 1.23-2.48c.28-.88.55-1.96.87-3.26l1.74-7.12c.4-1.61.72-2.95.89-4.05a7.27 7.27 0 0 0-.12-3.33 7 7 0 0 0-3.06-3.9 7.27 7.27 0 0 0-3.2-.91c-1.12-.1-2.5-.1-4.15-.1h-3.95l2.67-6.65a5.76 5.76 0 0 0-2.6-7.2Zm-4.05 3.86a1.76 1.76 0 0 1 2.93 1.86l-3.76 9.4a2 2 0 0 0 1.86 2.74h6.8c1.78 0 2.98 0 3.89.08.9.08 1.27.22 1.49.35a3 3 0 0 1 1.31 1.67c.08.24.12.65-.01 1.53-.14.9-.43 2.07-.85 3.8l-1.7 6.96a47.09 47.09 0 0 1-.8 3.04c-.23.7-.42 1.05-.6 1.3a4 4 0 0 1-1.74 1.3c-.3.11-.69.2-1.42.22-.75.02-1.71-.02-3.14-.08l-10.4-.43a5.36 5.36 0 0 1-5.02-4.28 39.39 39.39 0 0 1-.5-12.66l.13-1.08.06-.52a11 11 0 0 1 3.04-6.14l8.43-9.06Zm-14.74 31.5c-.14-.4-.25-.81-.34-1.24a43.38 43.38 0 0 1-.56-13.95l.14-1.1a27.57 27.57 0 0 1 .18-1.21H9.54c-1 0-1.9.62-2.25 1.55a20.03 20.03 0 0 0-.1 13.97l.1.29a2.57 2.57 0 0 0 2.41 1.69h3.03Z"></path></svg><span>Sim</span></div><div class="btn-KDG3dm"><svg fill="currentColor" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" class="icon-PFAEtO"><path fill-rule="evenodd" clip-rule="evenodd" d="M16.48 45.8a5.76 5.76 0 0 0 6.98-1.14l8.45-9.08.4-.43a15 15 0 0 0 2.18-3.21h3.97a6.4 6.4 0 0 0 5.99-4.13c2.05-5.4 2.1-11.34.13-16.76l-.1-.29a6.57 6.57 0 0 0-6.18-4.32h-5.78a9.34 9.34 0 0 0-5.69-2.24l-10.47-.44c-1.33-.05-2.44-.1-3.36-.07a8.1 8.1 0 0 0-2.73.49 8 8 0 0 0-3.47 2.6 8.1 8.1 0 0 0-1.23 2.49c-.28.87-.55 1.95-.87 3.25l-1.74 7.13c-.4 1.6-.72 2.95-.89 4.05a7.27 7.27 0 0 0 .12 3.32 7 7 0 0 0 3.06 3.9c.98.6 2.07.82 3.2.92 1.12.1 2.5.1 4.15.1h3.95l-2.67 6.65a5.76 5.76 0 0 0 2.6 7.2Zm4.05-3.87a1.76 1.76 0 0 1-2.93-1.85l3.76-9.4a2 2 0 0 0-1.86-2.74h-6.8c-1.78 0-2.98 0-3.89-.09a3.47 3.47 0 0 1-1.49-.35 3 3 0 0 1-1.31-1.67c-.08-.24-.12-.64.01-1.53.14-.9.43-2.07.85-3.8l1.7-6.95c.34-1.4.57-2.33.8-3.05.23-.69.42-1.04.6-1.3a4 4 0 0 1 1.74-1.3c.3-.1.69-.19 1.42-.21.75-.03 1.71.01 3.14.07l10.4.43a5.36 5.36 0 0 1 5.02 4.29c.85 4.16 1.02 8.44.5 12.66l-.13 1.08-.06.52a11 11 0 0 1-3.04 6.13l-8.43 9.06Zm14.74-31.5c.14.4.25.82.34 1.25.94 4.59 1.12 9.3.56 13.94l-.14 1.1a27.57 27.57 0 0 1-.18 1.22h2.61c1 0 1.9-.62 2.25-1.55 1.71-4.5 1.75-9.46.1-13.98l-.1-.28a2.57 2.57 0 0 0-2.41-1.7h-3.03Z"></path></svg><span>Não</span></div></div><div class="related_questions_wrapper-d7nYWK"><div class="title-Yxr1vl">Artigos relacionados</div><div><div class="question-iV8rzn"><span class="name-gcAF2_">Controles de audiência</span></div></div><div><div class="question-iV8rzn"><span class="name-gcAF2_">Níveis de conteúdo nas publicações do TikTok</span></div></div><div><div class="question-iV8rzn"><span class="name-gcAF2_">Conteúdo com restrição de idade no TikTok LIVE</span></div></div><div><div class="question-iV8rzn"><span class="name-gcAF2_">Direitos autorais</span></div></div></div></div><div></div></div></div></div></div></main><div class="chat-bot-button-hV_TkF"><div class="tux-web-canary tux-interaction-container-ohUjRG tux-web-canary tux-button-rFq4rS tux-button--medium-R3_Njm tux-button--capsule-_8kVNR" data-testid="tux-web-button-container" style="height: 44px; background-color: var(--tux-v2-color-ui-shape-primary); color: var(--tux-v2-color-ui-shape-text-1-on-primary);"><button type="button" class="tux-button__element-ZBq38f" data-testid="tux-web-button" style="padding-left: 16px; padding-right: 16px;"><div class="tux-button__content-naVKgq"><div class="tux-button__content-box-vweMKF"><div class="tux-button__icon-container-fmBczR item-ZxfZxl"><svg fill="currentColor" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path fill-rule="evenodd" clip-rule="evenodd" d="M18.72 4.2h10.56c2.17 0 3.91 0 5.32.12 1.45.11 2.7.36 3.85.95a9.8 9.8 0 0 1 4.28 4.28c.59 1.15.84 2.4.96 3.85.11 1.4.11 3.15.11 5.32v5.06c0 2.17 0 3.91-.11 5.32-.12 1.45-.37 2.7-.96 3.85a9.8 9.8 0 0 1-4.28 4.28c-1.15.59-2.4.84-3.85.96-1.4.11-3.15.11-5.32.11H18.64c-1.62 0-2.12.01-2.57.12-.44.12-.86.3-1.25.54-.39.25-.74.61-1.85 1.78l-3.5 3.7c-.3.33-.6.65-.88.89-.23.2-.77.67-1.53.75a2.6 2.6 0 0 1-2.22-.89 2.75 2.75 0 0 1-.6-1.6c-.04-.35-.04-.8-.04-1.24V18.72c0-2.17 0-3.91.11-5.32.12-1.45.37-2.7.96-3.85a9.8 9.8 0 0 1 4.28-4.28c1.15-.59 2.4-.84 3.85-.95 1.4-.12 3.15-.12 5.32-.12Zm-4.84 18.15-.5.58c-.3.37-.44.55-.5.78-.04.19-.02.43.06.61.09.22.25.36.57.63C15.21 26.4 18.96 29 24 29s8.79-2.6 10.49-4.05c.32-.27.48-.41.57-.63.08-.18.1-.42.06-.61-.06-.23-.2-.41-.5-.78l-.5-.58c-.4-.48-.6-.72-.8-.82a.92.92 0 0 0-.6-.07c-.23.05-.5.25-1.06.67C30.08 23.3 27.26 25 24 25c-3.25 0-6.08-1.7-7.66-2.87-.55-.42-.83-.62-1.06-.67a.92.92 0 0 0-.6.07c-.2.1-.4.34-.8.82Z"></path></svg></div><div class="tux-button__text-container-oMVxoQ item-ZxfZxl"><div class="tux-web-canary Headline-Semibold text--truncate-Q49nU9" data-testid="tux-web-text">Fale conosco</div></div></div></div></button></div></div></div></div><!--<?- chunksMap.js ?>--><!--<?- SSRDataScript ?>--><script id="tiktok-cookie-banner-config" type="application/json">{"i18n":{"cookieBannerTitle":"Permitir cookies do TikTok neste navegador?","cookieBannerSubTitle":"O TikTok utiliza cookies e tecnologias semelhantes para fornecer, melhorar, proteger e analisar os nossos serviços. Os cookies essenciais são necessários para que o nosso site funcione conforme esperado. Ao selecionar \"Permitir todos\", você nos permite usar cookies opcionais para fins adicionais, como medir a eficácia e a relevância dos anúncios, incluindo anúncios personalizados no TikTok.com, dependendo das suas configurações. Os cookies opcionais também nos ajudam a fazer outras coisas, como medir melhor o desempenho das nossas campanhas publicitárias fora do TikTok.com. Saiba mais sobre como usamos cookies e gerenciamos suas escolhas em nossa <a href=\"https://www.tiktok.com/legal/tiktok-website-cookies-policy?lang=pt-BR\" target=\"_blank\" rel=\"noopener noreferrer\">Política de Cookies</a>.","cookieBannerBtnAccept":"Permitir todos","cookieBannerBtnDecline":"Recusar cookies opcionais","cookieBannerSaveToast":"Salvo!","cookieSettingSaveBtn":"Salvar","cookieSettingsTitle":"Gerenciar cookies","cookieSettingsSubTitle":"Altere suas configurações de cookies para permitir ou recusar cookies opcionais.","cookieSettingsFooter":"Saiba mais em nossa <a href=\"https://www.tiktok.com/legal/tiktok-website-cookies-policy?lang=pt-BR\" target=\"_blank\" rel=\"noopener noreferrer\">Política de Cookies</a>"},"appProps":{"region":"US","user":{"ftcUser":false,"region":""},"idcRegion":"TTP"},"cookieBanner":{"resource":{"esm":"/pns/tiktok-cookie-banner/2.0.0.77/default.ttp.esm.js","nomodule":"/pns/tiktok-cookie-banner/2.0.0.77/default.ttp.js","baseUrl":"https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx","version":"2.0.0.77"},"settings":[{"groupName":"Cookies opcionais","groupDescription":"Com o seu consentimento, utilizamos cookies opcionais para outras finalidades, como medir a eficácia e a relevância dos anúncios, incluindo anúncios personalizados no TikTok.com, dependendo das suas configurações. Os cookies opcionais também nos ajudam a medir melhor o desempenho das nossas campanhas publicitárias fora do TikTok.com.","disabled":false,"items":{},"groupEntityKeys":[{"entityKey":"optional"},{"entityKey":"ga"},{"entityKey":"af"},{"entityKey":"fbp"},{"entityKey":"lip"},{"entityKey":"bing"},{"entityKey":"ttads"},{"entityKey":"reddit"},{"entityKey":"hubspot"}]},{"groupName":"Cookies essenciais","groupDescription":"Os cookies essenciais são necessários para que o TikTok funcione conforme esperado. Isto inclui cookies necessários para fornecer, melhorar, proteger e analisar os nossos serviços.","disabled":true,"items":{}}],"disabled":false,"isEffective":false,"version":"v10","disabledAccessKeys":[{"path":".","accessKeys":["*"]}]},"consent":{"domain":"https://www.tiktok.com","appId":1988,"entityKeys":{"optional":["data-cookie-optional"]},"mode":"production","fetchDataAtInit":false,"api":{"consent":{"fetch":{"version":"v2"},"update":{"version":"v2"}}},"wid":"7689810724583589390","collectionPointId":"737326081028"},"tea":{"channel_type":"ttp","channel_domain":"https://mcs.tiktokv.us"},"tenantId":"paas_tiktok","monitorConfig":{"slardar":{"domain":"https://mon16-normal-useast5.tiktokv.us","pluginPathPrefix":"https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/slardar/fe/sdk-web/plugins"}},"consentApiDomain":"https://www.tiktok.com","customTheme":[]}</script><script src="https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/pns/tiktok-cookie-banner/2.0.0.77/default.ttp.esm.js" crossorigin="anonymous"></script><tiktok-cookie-banner locale="pt-BR" user-config-ele-id="tiktok-cookie-banner-config" disabled="false" disabled-access-key=""></tiktok-cookie-banner></body><iframe id="__JSBridgeIframe__" src="bytedance://dispatch_message/" style="display: none;"></iframe><iframe id="__JSBridgeIframe_SetResult__" style="display: none;"></iframe></html>
