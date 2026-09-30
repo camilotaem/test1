@@ -49,7 +49,7 @@ Você vai receber uma notificação por e-mail com o resultado. Se a contestaç�
 
 ## Encerramentos por violação de direitos autorais
 
-Caso seu canal tenha sido encerrado devido a reivindicações por violação de direitos autorais, mas você acredita que elas estão incorretas, envie uma [contranotificação](/youtube/answer/2807684). Você poderá iniciar esse processo mesmo que seu canal tenha sido encerrado, mas não terá acesso ao formulário on-line específico. É possível enviar a contranotificação por [e-mail, fax ou correio](/youtube/answer/6005919).
+Caso seu canal tenha sido encerrado devido a reivindicações por violação de direitos autorais, mas você acredita que elas estão incorretas, envie uma [contranotificação](/youtube/answer/2807684). Esse processo ainda está disponível para criadores de conteúdo com canais encerrados. Basta fazer login no [YouTube Studio](https://studio.youtube.com/). É possível enviar a contranotificação por [e-mail, fax ou correio](/youtube/answer/6005919).
 
 Você também pode falar diretamente com o reclamante para [pedir a retirada](/youtube/answer/2807691).
 
