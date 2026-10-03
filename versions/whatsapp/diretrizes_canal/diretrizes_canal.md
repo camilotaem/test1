@@ -56,6 +56,6 @@ Podemos tomar medidas adicionais conforme os Termos de Serviço Suplementares do
 
 *Desativação de contas:* se desabilitarmos sua conta devido a uma violação destas Diretrizes dos Canais ou dos Termos de Serviço, é possível fazer uma apelação dessa decisão, conforme descrito [aqui](https://faq.whatsapp.com/465883178708358).
 
-Caso discorde de uma decisão sobre conteúdo que tenhamos tomado nos Canais e seja um usuário na União Europeia, é possível levar essa decisão a um órgão extrajudicial certificado de resolução de conflitos para resolver o problema.
+Caso você discorde de uma decisão sobre conteúdo que tenhamos tomado nos Canais e seja um usuário na União Europeia, é possível levar essa decisão a um comitê extrajudicial certificado de resolução de conflitos para resolver o problema. [Ver opções](https://digital-strategy.ec.europa.eu/en/policies/dsa-out-court-dispute-settlement#ecl-inpage-List-of-bodies).
 
-*Denúncias de usuários*: se você denunciar um conteúdo publicado por outras pessoas, mas descobrirmos que ele não vai contra nossos termos ou políticas, informaremos a você. Caso discorde de alguma decisão que tenhamos tomado, é possível fazer uma apelação dessa decisão. Se determinarmos que houve um erro em nossa decisão, reverteremos a aplicação.
+*Denúncias de usuários*: se você denunciar um conteúdo postado por outras pessoas, mas determinarmos que ele não vai contra nossos termos ou políticas, informaremos a você. Caso discorde de alguma decisão que tenhamos tomado, é possível fazer uma apelação dessa decisão. Se determinarmos que houve um erro em nossa decisão, reverteremos a aplicação.

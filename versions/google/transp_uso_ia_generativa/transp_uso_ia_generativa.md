@@ -9,6 +9,7 @@ Os criadores precisam fazer a declaração quando o conteúdo gerado por IA:
 * faz com que uma pessoa real pareça dizer ou fazer algo que ela não disse ou fez.
 * altera a filmagem de um evento ou lugar real.
 * gera uma cena com aparência realista, mas que não existiu de verdade.
+* cria músicas que sejam o foco principal do vídeo.
 
 Isso inclui conteúdo que foi alterado total ou parcialmente ou produzido com ferramentas de IA.
 
@@ -16,15 +17,15 @@ Isso inclui conteúdo que foi alterado total ou parcialmente ou produzido com fe
 
 Para declarar conteúdo gerado ou alterado significativamente com IA, a configuração "Uso de IA" está disponível para criadores que usam o YouTube Studio em um computador ou dispositivo móvel.
 
-Depois que o criador selecionar esse campo e enviar o conteúdo, ele será rotulado como gerado ou alterado por IA para os espectadores.
+Depois que o criador selecionar esse campo e enviar o conteúdo, o público verá um rótulo indicando que o conteúdo foi gerado ou alterado por IA.
 
 ### Exemplos de conteúdo da IA generativa
 
-A lista a seguir inclui exemplos de conteúdo de IA. O conteúdo de IA pode incluir conteúdo total ou parcialmente alterado ou criado com o uso de ferramentas de áudio, vídeo, criação ou edição de imagens de IA. Conteúdo realista e com mudanças significativas precisa informar que foi alterado, ao contrário de edições irrealistas ou de menor importância. Esta não é uma lista completa.
+A lista a seguir traz exemplos de conteúdo de IA, que pode ser gerado ou alterado, total ou parcialmente, usando qualquer ferramenta de edição ou criação de áudio, vídeo e imagem. Conteúdo realista e com mudanças significativas precisa informar que foi alterado, ao contrário de edições irrealistas ou de menor importância. Esta não é uma lista completa.
 
 ## Exemplos de conteúdos que os criadores não precisam informar que foram alterados
 
-Os criadores de conteúdo não precisam declarar que um conteúdo irrealista foi feito com IA, nem que fizeram edições pequenas em um conteúdo realista. Edições pequenas são aquelas que são principalmente estéticas e não alteram o conteúdo de uma maneira que possa enganar o espectador sobre o que realmente aconteceu.
+Os criadores de conteúdo não precisam declarar que um conteúdo irrealista foi feito com IA, nem que fizeram edições pequenas em um conteúdo realista. Edições pequenas são ajustes essencialmente estéticos que não alteram o conteúdo a ponto de enganar o espectador sobre o que realmente aconteceu
 
 Exemplos de conteúdos, edições ou assistências de vídeos que os criadores não precisam informar:
 
@@ -32,8 +33,8 @@ Exemplos de conteúdos, edições ou assistências de vídeos que os criadores n
   + Alguém montado em um unicórnio em um mundo fantástico
   + Tela verde usada para representar alguém flutuando no espaço
   + Usar uma animação de um míssil gerada ou alterada por IA em um vídeo totalmente animado
-* **Pequenas mudanças**
-  + Aplicar filtros de beleza
+* **Pequenas edições**
+  + Filtros de beleza
   + Ajuste de cor ou filtros de iluminação
   + Filtros de efeitos especiais, como desfoque do plano de fundo ou efeitos vintage
   + Assistência à produção, como o uso de ferramentas de IA generativa para criar ou aprimorar os tópicos, um roteiro, uma miniatura, um título ou um infográfico de um vídeo
@@ -43,15 +44,15 @@ Exemplos de conteúdos, edições ou assistências de vídeos que os criadores n
   + Clonagem da própria voz para criar narrações ou dublagens
   + Vídeos de gameplay de jogos
   + Uso de IA para gerar ou expandir um cenário para simular um carro em movimento
-  + Usar efeitos para aprimorar áudios gravados anteriormente
+  + Efeitos que aprimoram áudios já gravados
 
 A lista acima traz apenas alguns exemplos.
 
-## Exemplos de conteúdo em que os criadores precisam declarar as alterações
+## Exemplos de conteúdo em que os criadores precisam declarar o uso da IA
 
 Para ajudar a manter os espectadores informados sobre o conteúdo que estão assistindo, pedimos que os criadores avisem quando um conteúdo que parece realista for gerado ou alterado significativamente com IA.
 
-Exemplos de conteúdos, edições ou assistências de vídeos que os criadores precisam informar que foram alterados:
+Exemplos de conteúdos, edições ou assistências de vídeos que os criadores precisam informar:
 
 * Música gerada com IA
 * Filmagem extra de um lugar real gerada com IA, como o vídeo de um surfista em Maui para um vídeo promocional de viagem
@@ -64,7 +65,7 @@ Exemplos de conteúdos, edições ou assistências de vídeos que os criadores p
 
 A lista acima traz apenas alguns exemplos.
 
-## Como declarar que um conteúdo foi gerado com IA generativa
+## Como declarar conteúdo de IA generativa
 
 Pedimos que os criadores avisem quando o conteúdo que parece realista foi gerado ou alterado com IA. Os criadores de conteúdo podem informar isso durante o processo de upload.
 
