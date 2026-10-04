@@ -1,5 +1,6 @@
-import json
 import os
+import json
+import time
 from datetime import datetime
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
@@ -43,6 +44,9 @@ def run_scraper():
 
                     # Captura o HTML final renderizado
                     html = page.content()
+
+                    # Aguarda antes de processar o próximo website
+                    time.sleep(0.10)
 
                 except Exception as e:
                     print(f"Erro ao processar {name}: {e}")
