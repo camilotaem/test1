@@ -10,7 +10,7 @@ Organizações e indivíduos perigosos
 
 Não há lugar na nossa plataforma para grupos ou indivíduos que promovem violência, crime organizado, ódio ou terrorismo. Ao longo de [anos de trabalho](https://about.fb.com/news/2017/06/how-we-counter-terrorism/), desenvolvemos e continuamos a criar políticas e processos sobre indivíduos e organizações perigosas para lidar com esse tipo de conteúdo. Embora estejamos comprometidos em fornecer espaço para que as pessoas possam falar sobre eventos que acontecem ao redor do mundo e que impactam suas vidas, famílias e comunidades, nossa política existe para traçar um limite para o que não é permitido nas nossas plataformas.
 
-![policy-image](https://lookaside.fbsbx.com/elementpath/media/?media_id=1275569123731492&version=1790886903&transcode_extension=webp)
+![policy-image](https://lookaside.fbsbx.com/elementpath/media/?media_id=1275569123731492&version=1791057525&transcode_extension=webp)
 
 ---
 
