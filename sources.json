@@ -472,7 +472,7 @@
       {
         "name": "aplicacao",
         "url": "https://www.tiktok.com/safety/pt-BR/policies-and-engagement/enforcement",
-        "content_selector": ".space-LGbj21.space-5xl-Mse6I5,
+        "content_selector": ".space-LGbj21.space-5xl-Mse6I5",
         "title_selector": ".space-LGbj21.space-lg-nZfVPU"
       },
       {
