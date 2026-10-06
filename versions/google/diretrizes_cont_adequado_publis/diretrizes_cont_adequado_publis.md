@@ -4,8 +4,6 @@ Se você fizer parte do Programa de Parcerias do YouTube, poderá receber uma pa
 
 Nossos sistemas nem sempre acertam. Por isso, é possível [solicitar uma revisão humana](/youtube/answer/7083671?hl=pt-BR) sobre as decisões tomadas pelos sistemas automatizados.
 
-[Advertiser-friendly Content Guidelines & Notice Icons](//www.youtube.com/watch?v=shmGG87ZELI)
-
 Inscreva-se no [Canal YouTube Criadores](https://www.youtube.com/channel/UCxpP-CIol4wMrQPWcWf0ZjQ?sub_confirmation=1) para saber as últimas notícias, atualizações e dicas.
 
 **Observação**: todo conteúdo enviado ao YouTube precisa obedecer às [diretrizes da comunidade](https://www.youtube.com/howyoutubeworks/policies/community-guidelines/) e às [políticas do programa](https://support.google.com/adsense/answer/48182). Caso seu conteúdo viole essas diretrizes, ele poderá ser removido do YouTube. Se você encontrar conteúdo impróprio, pode [fazer uma denúncia](/youtube/answer/2802027).
