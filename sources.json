@@ -418,9 +418,9 @@
       {
         "name": "prevencao_bullying",
         "url": "https://www.tiktok.com/safety/pt-BR/community-support/bullying-prevention",
-        "content_selector": ".space-LGbj21.space-5xl-Mse6I5.article-container-ft09ib",
+        "content_selector": ".space-LGbj21.space-5xl-Mse6I5",
         "title_selector": ".space-LGbj21.space-lg-nZfVPU"
-      },
+      }
       {
         "name": "combater_odio",
         "url": "https://www.tiktok.com/safety/pt-BR/community-support/countering-hate",
