@@ -2,6 +2,12 @@
 
 Se você estiver passando por uma emergência, entre em contato com a linha direta de emergência local.
 
+# Prevenção contra o bullying
+
+Se você estiver passando por uma emergência, entre em contato com a linha direta de emergência local.
+
+[Obter suporte](#bullying-prevent-richtext-support-202401)[Relatar um problema](/safety/pt-BR/tools-and-guides/reporting)
+
 ### O que é bullying?
 
 O bullying é direcionado a indivíduos específicos com ataques pessoais. Esses ataques podem prejudicar a pessoa visada. O bullying pode acontecer online ou offline. O bullying online pode se espalhar rapidamente através do compartilhamento e da visibilidade.
@@ -20,7 +26,7 @@ No TikTok, incentivamos discussões respeitosas e acreditamos que todos devem se
 + Adicionar gestos ou sons de cunho sexual aos seus vídeos ou publicações
 + Revelar maliciosamente informações pessoais sobre a vida sexual de alguém, como parceiros anteriores ou orientação sexual
 
-Conteúdos com comportamentos degradantes de menor gravidade [podem não ser elegíveis para o feed Para você](https://www.tiktok.com/community-guidelines/en/safety-civility#7). Às vezes, podemos remover esse conteúdo se tivermos mais contexto, como quando ele se dirige a alguém menor de 18 anos e pode causar danos maiores. Se você acha que uma publicação ou conta viola nossas [Diretrizes da Comunidade](https://www.tiktok.com/community-guidelines/en/overview), pode denunciá-la.
+Conteúdos com comportamentos degradantes de menor gravidade [podem não ser elegíveis para o feed Para você](/safety/pt-BR/policies-and-engagement/safety-civility#7). Às vezes, podemos remover esse conteúdo se tivermos mais contexto, como quando ele se dirige a alguém menor de 18 anos e pode causar danos maiores. Se você acha que uma publicação ou conta viola nossas [Diretrizes da Comunidade](/safety/pt-BR/policies-and-engagement/overview), pode denunciá-la.
 
 #### Você sabia?
 
@@ -95,11 +101,15 @@ Remover comentários e seguidores
 
 ### Recursos adicionais
 
-* **Compartilhar seu story**: consulte nosso guia sobre [como compartilhar seu story com segurança](https://www.tiktok.com/safety/en/sharing-your-story) no TikTok e encontre dicas sobre como se conectar com outras pessoas em nosso [guia de bem-estar](https://www.tiktok.com/safety/en/well-being-guide).
+* **Compartilhar seu story**: consulte nosso guia sobre [como compartilhar seu story com segurança](/safety/pt-BR/tools-and-guides/sharing-your-story) no TikTok e encontre dicas sobre como se conectar com outras pessoas em nosso [guia de bem-estar](/safety/pt-BR/tools-and-guides/well-being-guide).
 * **Encontrar uma comunidade no TikTok**:pesquise hashtags e palavras-chave no TikTok relacionadas a cura ou empoderamento para encontrar uma comunidade de apoio que possa entender ou compartilhar sua experiência.
 
 ### Isenção de responsabilidade
 
-A página "Prevenção ao bullying" tem fins meramente informativos e educativos. O TikTok, nem nenhum conteúdo da plataforma, não substitui o apoio, diagnóstico ou tratamento médico ou de saúde mental profissional. Procure imediatamente ajuda médica profissional ou assistência de emergência se você, ou qualquer outra pessoa, estiver em crise, em perigo ou passando por uma emergência médica ou de saúde mental. [Informe-se antes de compartilhar seu story](https://www.tiktok.com/safety/en-gb/sharing-your-story) no TikTok.
+A página "Prevenção ao bullying" tem fins meramente informativos e educativos. O TikTok, nem nenhum conteúdo da plataforma, não substitui o apoio, diagnóstico ou tratamento médico ou de saúde mental profissional. Procure imediatamente ajuda médica profissional ou assistência de emergência se você, ou qualquer outra pessoa, estiver em crise, em perigo ou passando por uma emergência médica ou de saúde mental. [Informe-se antes de compartilhar seu story](/safety/pt-BR/tools-and-guides/sharing-your-story) no TikTok.
 
 ---
+
+### Isso foi útil?
+
+SimNão

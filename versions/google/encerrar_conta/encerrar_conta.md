@@ -26,9 +26,9 @@ Você pode receber uma notificação sobre o encerramento do canal por e-mail ou
 
 1. Abra o [YouTube Studio](https://studio.youtube.com/channel-appeal?appealForm=1&hca=1).
 
-   1. Observação: talvez seja necessário [autenticar novamente ao fazer login](/youtube/answer/9846719).
+   * **Observação**: talvez seja necessário [autenticar novamente ao fazer login](/youtube/answer/9846719).
 2. Abaixo das informações do encerramento, clique em **Iniciar análise**.
-   1. **Observação:** talvez seja necessário concluir uma [etapa de verificação](/accounts/answer/15437069).
+   * **Observação:** talvez seja necessário concluir uma [etapa de verificação](/accounts/answer/15437069).
 3. Analise o motivo do encerramento.
 4. Clique em **Avançar**.
 5. Selecione **Iniciar contestação**.
@@ -38,20 +38,20 @@ Você pode receber uma notificação sobre o encerramento do canal por e-mail ou
 
 Se não for possível enviar uma contestação seguindo as etapas acima, use [este formulário](/accounts/contact/suspended?p=youtube).
 
-**Observação**: os criadores de conteúdo têm até 1 ano a partir da data de encerramento do canal para enviar uma contestação. Também há um limite de contestações por canal encerrado.
+**Observação**: os criadores de conteúdo têm até 1 ano a partir da data de encerramento do canal para enviar uma contestação e só podem enviar duas contestações no período de 1 ano. Também há um limite de contestações por canal encerrado.
 
 ## Verificar o status de uma contestação de encerramento
 
 1. Abra o [YouTube Studio](https://studio.youtube.com/channel-appeal?appealForm=1&hca=1).
 2. Confira a confirmação de envio da contestação e o tempo previsto para a análise.
 
-Você vai receber uma notificação por e-mail com o resultado. Se a contestação for aceita, vamos direcionar você para o painel do YouTube Studio. Se for rejeitada, sua conta será desconectada depois que você aceitar a decisão.
+Você vai receber uma notificação por e-mail com o resultado. Se a contestação for aceita, vamos direcionar você para o painel do YouTube Studio. Se for rejeitada, sua conta será desconectada depois que você aceitar a decisão. Se você já tiver enviado uma contestação que foi analisada ou se tiver excedido o limite de contestações, poderemos enviar respostas automáticas.
 
 ## Encerramentos por violação de direitos autorais
 
-Caso seu canal tenha sido encerrado devido a reivindicações por violação de direitos autorais, mas você acredita que elas estão incorretas, envie uma [contranotificação](/youtube/answer/2807684). Esse processo ainda está disponível para criadores de conteúdo com canais encerrados. Basta fazer login no [YouTube Studio](https://studio.youtube.com/). É possível enviar a contranotificação por [e-mail, fax ou correio](/youtube/answer/6005919).
+Caso seu canal tenha sido encerrado devido a reivindicações por violação de direitos autorais, mas você acredita que elas estão incorretas, envie uma [contranotificação](/youtube/answer/2807684). Esse processo ainda está disponível para criadores de conteúdo com canais encerrados. Basta fazer login no [YouTube Studio](https://studio.youtube.com). É possível enviar a contranotificação por [e-mail, fax ou correio](/youtube/answer/6005919).
 
-Você também pode falar diretamente com o reclamante para [pedir a retirada](/youtube/answer/2807691).
+Você também pode falar diretamente com o reclamante para [pedir a retirada](/youtube/answer/2807691) da reivindicação.
 
 Acesse a [Central de Direitos Autorais](https://youtube.com/yt/copyright/) para mais informações sobre o processo de contranotificação.
 
