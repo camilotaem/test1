@@ -1,11 +1,34 @@
-# Princípios da comunidade
+# Princípios da Comunidade
+
+# Princípios da Comunidade
+
+Diretrizes da Comunidade
+
+* Visão geral
+* Princípios da Comunidade
+* Segurança e Bem-Estar dos Jovens
+* Segurança e Civilidade
+* Saúde Mental e Comportamental
+* Temas Sensíveis e Adultos
+* Integridade e Autenticidade
+* Bens Regulamentados, Serviços e Atividades Comerciais
+* Privacidade e Segurança
+* Critérios de Elegibilidade do feed Para você
+* Contas e Recursos
+* Aplicação
+
+Publicado em 25 de agosto de 2026
+
+Em vigor a partir de 24 de setembro de 2026
+
+Versões anteriores: [Aqui](/safety/pt-BR/policies-and-engagement/cg-archive)
 
 O TikTok conta com oito princípios fundamentais que orientam a maneira como desenvolvemos nossas regras e tomamos decisões complexas de aplicação. Eles têm como objetivo garantir sua segurança, respeitar os direitos humanos e apoiar uma comunidade criativa e acolhedora. Esses princípios foram elaborados com o propósito fundamental de prevenir danos e permitir a expressão.
 
 Às vezes, precisamos fazer escolhas difíceis entre objetivos conflitantes. Nessas situações, tomamos a decisão com ponderação e contamos com orientações confiáveis, entre elas:
 
-* Padrões globais de [direitos humanos](https://www.tiktok.com/transparency/upholding-human-rights/?lang=pt-BR) reconhecidos internacionalmente
-* Feedback da nossa comunidade e [Conselhos Consultivos](https://www.tiktok.com/transparency/advisory-councils/?lang=pt-BR)
+* Padrões globais de [direitos humanos](/safety/pt-BR/policies-and-engagement/upholding-human-rights?lang=pt-BR) reconhecidos internacionalmente
+* Feedback da nossa comunidade e [Conselhos Consultivos](/safety/pt-BR/policies-and-engagement/advisory-councils?lang=pt-BR)
 * Contribuições de especialistas em segurança online, saúde pública e áreas relacionadas
 
 Estes são os oito princípios:
@@ -16,9 +39,13 @@ Estes são os oito princípios:
 4. **Respeitar as culturas locais:** O TikTok é utilizado por pessoas em mais de 150 países. Colaboramos com especialistas locais para garantir que nossa abordagem global considere a forma como os danos são percebidos em todas as regiões e que permitamos a aplicação regional de nossas diretrizes, respeitando os padrões de direitos humanos.
 5. **Promover a inclusão:** Celebramos a diversidade cultural e as experiências que compõem nossa comunidade do TikTok. Também reconhecemos que algumas comunidades historicamente enfrentaram obstáculos à participação e à expressão. Por isso, mantemos o compromisso de reduzir danos desproporcionais.
 6. **Garantir a privacidade:** Temos o compromisso de proteger a privacidade de nossa comunidade e de qualquer pessoa mostrada ou mencionada na plataforma. Trabalhamos para garantir que o conteúdo não revele informações pessoais nem viole a privacidade íntima de nenhum indivíduo.
-7. **Ser transparente e consistente:** Queremos que todos conheçam nossas regras e nossos padrões e como eles são aplicados. Por isso, buscamos comunicar nossas políticas e práticas com transparência, aplicá-las de maneira consistente e compartilhar nossos esforços de aplicação em nossa [Central de Transparência](https://www.tiktok.com/transparency?lang=pt-BR).
+7. **Ser transparente e consistente:** Queremos que todos conheçam nossas regras e nossos padrões e como eles são aplicados. Por isso, buscamos comunicar nossas políticas e práticas com transparência, aplicá-las de maneira consistente e compartilhar nossos esforços de aplicação em nossa [Central de Transparência](/safety/pt-BR/transparency).
 8. **Agir com justiça:** Avaliar milhões de conteúdos diariamente é uma tarefa complexa, mas seguimos firmes no propósito de agir com imparcialidade e clareza e oferecer oportunidades de recurso.
 
 Em situações raras e excepcionais, como crises ou períodos de instabilidade social, podemos ajustar a aplicação ou as regras habituais para proteger nossa comunidade e enfrentar danos emergentes, sempre seguindo nossos princípios.
 
 ---
+
+### Isso foi útil?
+
+SimNão

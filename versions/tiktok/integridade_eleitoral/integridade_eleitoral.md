@@ -1,5 +1,18 @@
 # Integridade Eleitoral no Brasil
 
+# Integridade Eleitoral no Brasil
+
+Percepções
+
+* Percepções
+
+  + Segurança do TikTok em ação: Protegendo nossa comunidade global
+  + Centro de Transparência e Responsabilidade
+  + Integridade Eleitoral no Brasil
+  + Integridade e metodologia de dados do TikTok
+* Confiança e Segurança
+* Engajamento da Comunidade
+
 ## **Eleições municipais de 2024**
 
 Eleições são momentos importantes de diálogo na sociedade e na nossa comunidade. Durante esses períodos, reforçamos nosso investimento e trabalho na segurança da comunidade e na proteção da integridade da plataforma.
@@ -18,7 +31,7 @@ Primeiramente, é importante destacar que adotamos uma prática, **de longa data
 
 #### **Guia de Eleições 2024**
 
-Assim como fizemos em outros pleitos eleitorais, colocamos à disposição da comunidade o Guia de Eleições, que oferece conteúdos de fontes confiáveis, informações a respeito do funcionamento do processo de votação e orientações de como tirar e regularizar o título de eleitor. Havia também dicas de como identificar conteúdos falsos e como denunciar vídeos possivelmente violativos, baseando-se nas nossas [Diretrizes da Comunidade](https://www.tiktok.com/community-guidelines?lang=pt_BR).
+Assim como fizemos em outros pleitos eleitorais, colocamos à disposição da comunidade o Guia de Eleições, que oferece conteúdos de fontes confiáveis, informações a respeito do funcionamento do processo de votação e orientações de como tirar e regularizar o título de eleitor. Havia também dicas de como identificar conteúdos falsos e como denunciar vídeos possivelmente violativos, baseando-se nas nossas [Diretrizes da Comunidade](/safety/pt-BR/policies-and-engagement/overview).
 
 O Guia de Eleições foi elaborado em parceria com o [Tribunal Superior Eleitoral (TSE)](https://www.tiktok.com/@tsejus) e fez parte do acordo que assinamos para o enfrentamento à desinformação. Ele direcionava a nossa comunidade para páginas do próprio TSE. **O Guia foi acessado 6.381.651 vezes durante o período eleitoral.**
 
@@ -32,9 +45,9 @@ Manter a integridade da comunidade é nossa prioridade máxima. E acreditamos qu
 
 #### **Moderação de conteúdos violativos**
 
-Nosso trabalho contínuo de combate à desinformação, a conteúdos violativos e de proteção da comunidade inclui uma combinação humana e de tecnologia para aplicar as nossas [Diretrizes da Comunidade](https://www.tiktok.com/community-guidelines/pt/overview). Temos dezenas de milhares de profissionais na nossa área de Segurança e Confiança, em todo o mundo, inclusive no Brasil, dentre eles equipes especializadas em desinformação com ferramentas e treinamento avançados, assim como moderadores que falam o idioma local para avaliar o contexto e a nuance de cada mercado.
+Nosso trabalho contínuo de combate à desinformação, a conteúdos violativos e de proteção da comunidade inclui uma combinação humana e de tecnologia para aplicar as nossas [Diretrizes da Comunidade](/safety/pt-BR/policies-and-engagement/overview). Temos dezenas de milhares de profissionais na nossa área de Segurança e Confiança, em todo o mundo, inclusive no Brasil, dentre eles equipes especializadas em desinformação com ferramentas e treinamento avançados, assim como moderadores que falam o idioma local para avaliar o contexto e a nuance de cada mercado.
 
-As políticas de combate a informações enganosas se aplicam ao conteúdo, independentemente da intenção do autor da postagem. Portanto, abrangem tanto desinformação (que é compartilhada intencionalmente para enganar) quanto informações enganosas prejudiciais, que pode não ter sido compartilhada com o objetivo de enganar as pessoas. Removemos as contas que, repetidamente, postam vídeos violativos. Quando não conseguimos verificar se o conteúdo é verdadeiro ou não, podemos rotulá-lo como [“não verificado”](https://www.tiktok.com/transparency/pt-br/combating-misinformation/) e reduzir sua circulação, como, por exemplo, desqualificando-o para ser recomendado no feed “Para você”.
+As políticas de combate a informações enganosas se aplicam ao conteúdo, independentemente da intenção do autor da postagem. Portanto, abrangem tanto desinformação (que é compartilhada intencionalmente para enganar) quanto informações enganosas prejudiciais, que pode não ter sido compartilhada com o objetivo de enganar as pessoas. Removemos as contas que, repetidamente, postam vídeos violativos. Quando não conseguimos verificar se o conteúdo é verdadeiro ou não, podemos rotulá-lo como [“não verificado”](/safety/pt-BR/policies-and-engagement/combating-misinformation) e reduzir sua circulação, como, por exemplo, desqualificando-o para ser recomendado no feed “Para você”.
 
 **Entre 16 de agosto e 27 de outubro de 2024, removemos 101.674 videos que foram identificados como violativos de políticas relacionadas a eleições (integridade cívica e eleitoral, desinformação e mídia editada e conteúdo gerado por IA), dos quais 99,4% foram detectados proativamente, e 73,5% foram removidos sem que tivessem uma única visualização.**
 
@@ -56,7 +69,7 @@ No início deste ano, assinamos na Conferência de Segurança de Munique, o [Aco
 
 ## **Nossas Políticas**
 
-Contamos com Diretrizes da Comunidade robustas e bem definidas para garantir uma experiência acolhedora, segura e divertida no TikTok. As diretrizes se aplicam a todos e a tudo em nossa plataforma. Elas incluem regras para o que é permitido, bem como padrões para o que é elegível para o feed Para Você. Abaixo, você pode encontrar uma lista de **[Diretrizes da Comunidade](https://www.tiktok.com/community-guidelines/pt/)** que nos ajudam a proteger a integridade de nossas eleições.
+Contamos com Diretrizes da Comunidade robustas e bem definidas para garantir uma experiência acolhedora, segura e divertida no TikTok. As diretrizes se aplicam a todos e a tudo em nossa plataforma. Elas incluem regras para o que é permitido, bem como padrões para o que é elegível para o feed Para Você. Abaixo, você pode encontrar uma lista de **[Diretrizes da Comunidade](/safety/pt-BR/policies-and-engagement/overview)** que nos ajudam a proteger a integridade de nossas eleições.
 
 Integridade cívica e eleitoral
 

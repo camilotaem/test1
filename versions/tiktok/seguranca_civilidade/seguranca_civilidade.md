@@ -1,5 +1,28 @@
 # Segurança e Civilidade
 
+# Segurança e Civilidade
+
+Diretrizes da Comunidade
+
+* Visão geral
+* Princípios da Comunidade
+* Segurança e Bem-Estar dos Jovens
+* Segurança e Civilidade
+* Saúde Mental e Comportamental
+* Temas Sensíveis e Adultos
+* Integridade e Autenticidade
+* Bens Regulamentados, Serviços e Atividades Comerciais
+* Privacidade e Segurança
+* Critérios de Elegibilidade do feed Para você
+* Contas e Recursos
+* Aplicação
+
+Publicado em 25 de agosto de 2026
+
+Em vigor a partir de 24 de setembro de 2026
+
+Versões anteriores: [Aqui](/safety/pt-BR/policies-and-engagement/cg-archive)
+
 Sentir-se respeitado e seguro é essencial para o bem-estar de todas as pessoas, e agir com gentileza e civilidade uns com os outros contribui para o fortalecimento das comunidades. Ser respeitoso não significa que você precisa concordar — significa apenas tratar as pessoas com dignidade.
 
 ### Comportamento violento e criminoso
@@ -8,7 +31,7 @@ O TikTok visa unir as pessoas, não promover conflitos. **Não permitimos ameaç
 
 Se houver uma ameaça específica, crível e iminente à vida humana ou lesão física grave, denunciamos às autoridades policiais competentes.
 
-Para saber mais sobre como abordamos conteúdo que mostra violência sem incentivá-la, consulte nossa seção [Conteúdo explícito e impactante](https://www.tiktok.com/community-guidelines/sensitive-mature-themes?lang=pt-BR&cgversion=2025H2update#2).
+Para saber mais sobre como abordamos conteúdo que mostra violência sem incentivá-la, consulte nossa seção [Conteúdo explícito e impactante](/safety/pt-BR/policies-and-engagement/sensitive-mature-themes?lang=pt-BR&cgversion=2026H2update#2).
 
 Mais informações
 
@@ -20,7 +43,7 @@ Debates sobre temas sociais e políticos são bem-vindos, desde que conduzidos c
 
 Para respeitar sensibilidades culturais e regionais, podemos limitar a visibilidade ou remover conteúdos que menosprezem a religião em áreas onde isso tenha maior potencial de causar prejuízos.
 
-**Saiba mais sobre como [combatemos o ódio](https://www.tiktok.com/safety/countering-hate?lang=pt-BR) no TikTok e como você pode usar [ferramentas](https://www.tiktok.com/safety/bullying-prevention/?lang=pt-BR) para restringir interações com seu conteúdo e conta.**
+**Saiba mais sobre como [combatemos o ódio](/safety/pt-BR/community-support/countering-hate?lang=pt-BR) no TikTok e como você pode usar [ferramentas](/safety/pt-BR/community-support/bullying-prevention?lang=pt-BR) para restringir interações com seu conteúdo e conta.**
 
 Mais informações
 
@@ -34,7 +57,7 @@ Queremos que você compartilhe suas inspirações, porém o TikTok não é um am
 * Organizações que promovam o ódio
 * Pessoas que praticam violência em massa ou em série
 
-Se tivermos indícios de que qualquer um desses indivíduos ou organizações esteja presente em nossa plataforma, realizaremos uma análise detalhada — incluindo a avaliação de comportamentos fora dela — que pode levar ao [banimento da conta](https://www.tiktok.com/community-guidelines/accounts-features?lang=pt-BR&cgversion=2025H2update#1).
+Se tivermos indícios de que qualquer um desses indivíduos ou organizações esteja presente em nossa plataforma, realizaremos uma análise detalhada — incluindo a avaliação de comportamentos fora dela — que pode levar ao [banimento da conta](/safety/pt-BR/policies-and-engagement/accounts-features?lang=pt-BR&cgversion=2026H2update#1).
 
 **Também não permitimos que ninguém promova, apoie, recrute ou ajude esses indivíduos ou organizações de forma alguma.** Conteúdo que possa parecer neutro, como a exibição de uma citação de organizações ou indivíduos que promovem o ódio, deve deixar claro que não há intenção de promovê-lo. Abrimos exceções limitadas para debates sobre organizações políticas violentas.
 
@@ -58,8 +81,8 @@ Se você se deparar com suspeita de CSAM, [denuncie](https://support.tiktok.com/
 Se você ou alguém que você conhece sofreu abuso:
 
 * **Ligue para os serviços de emergência imediatamente se alguém estiver em perigo imediato**
-* **Entre em contato com uma [linha de ajuda ou serviço de apoio local](https://www.tiktok.com/safety/sexual-assault-resources/?lang=pt-BR)**
-* **Se você acha que sua privacidade íntima foi violada no TikTok, denuncie [aqui](https://www.tiktok.com/legal/report/privacy?lang=en)**
+* **Entre em contato com uma [linha de ajuda ou serviço de apoio local](/safety/pt-BR/community-support/sexual-assault?lang=pt-BR)**
+* **Se você acha que sua privacidade íntima foi violada no TikTok, denuncie [aqui](https://www.tiktok.com/legal/report/privacy?lang=pt-BR)**
 
 Mais informações
 
@@ -74,8 +97,8 @@ Temos o compromisso de oferecer um espaço que adote a igualdade de gênero, apo
 Se você ou alguém que você conhece sofreu abuso:
 
 * **Ligue para os serviços de emergência se alguém estiver em perigo imediato**
-* **Entre em contato com uma [linha de ajuda ou serviço de apoio local](https://www.tiktok.com/safety/sexual-assault-resources/?lang=pt-BR)**
-* **Se você acha que sua privacidade íntima foi violada no TikTok, denuncie [aqui](https://www.tiktok.com/legal/report/privacy?lang=en)**
+* **Entre em contato com uma [linha de ajuda ou serviço de apoio local](/safety/pt-BR/community-support/sexual-assault?lang=pt-BR)**
+* **Se você acha que sua privacidade íntima foi violada no TikTok, denuncie [aqui](https://www.tiktok.com/legal/report/privacy?lang=pt-BR)**
 
 Mais informações
 
@@ -95,8 +118,22 @@ Conteúdo que inclua comportamento degradante de menor gravidade pode não estar
 
 Reconhecemos que figuras públicas recebem maior atenção e que alguns conteúdos sobre elas podem servir ao interesse público. Consequentemente, permitimos comentários mais críticos sobre figuras públicas do que sobre figuras não públicas. Porém, continuamos a remover conteúdos mais nocivos, como doxing, assédio sexual ou qualquer outra infração às nossas políticas, incluindo ameaças violentas, discurso de ódio ou exploração sexual.
 
-Se você ou alguém que você conhece estiver sofrendo bullying ou assédio, saiba que [recursos de suporte](https://www.tiktok.com/safety/bullying-prevention/?lang=pt-BR) estão disponíveis. Você também pode usar nossas [ferramentas](https://www.tiktok.com/safety/bullying-prevention/?lang=pt-BR) pararestringir interações indesejadas com seu conteúdo e sua conta.
+Se você ou alguém que você conhece estiver sofrendo bullying ou assédio, saiba que [recursos de suporte](/safety/pt-BR/community-support/bullying-prevention?lang=pt-BR) estão disponíveis. Você também pode usar nossas [ferramentas](/safety/pt-BR/community-support/bullying-prevention?lang=pt-BR) pararestringir interações indesejadas com seu conteúdo e sua conta.
 
 Mais informações
 
 ---
+
+### Isso foi útil?
+
+SimNão
+
+Índice
+
+* [Comportamento violento e criminoso](#subpost-1)
+* [Comportamento e discurso de ódio](#subpost-2)
+* [Organizações e indivíduos violentos ou que promovem o ódio](#subpost-3)
+* [Abuso sexual e físico de jovens](#subpost-4)
+* [Abuso sexual de adultos](#subpost-5)
+* [Tráfico e contrabando de pessoas](#subpost-6)
+* [Assédio e bullying](#subpost-7)

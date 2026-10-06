@@ -1,5 +1,28 @@
 # Aplicação
 
+# Aplicação
+
+Diretrizes da Comunidade
+
+* Visão geral
+* Princípios da Comunidade
+* Segurança e Bem-Estar dos Jovens
+* Segurança e Civilidade
+* Saúde Mental e Comportamental
+* Temas Sensíveis e Adultos
+* Integridade e Autenticidade
+* Bens Regulamentados, Serviços e Atividades Comerciais
+* Privacidade e Segurança
+* Critérios de Elegibilidade do feed Para você
+* Contas e Recursos
+* Aplicação
+
+Publicado em 25 de agosto de 2026
+
+Em vigor a partir de 24 de setembro de 2026
+
+Versões anteriores: [Aqui](/safety/pt-BR/policies-and-engagement/cg-archive)
+
 ### Exceções de interesse público
 
 Reconhecemos que alguns conteúdos que, de outra forma, violariam nossas regras podem ser de interesse público. O interesse público diz respeito a temas que informam, inspiram ou educam a comunidade, contribuindo para o debate sobre questões de relevância coletiva significativa. Podemos permitir que conteúdo permaneça no TikTok sob exceções de interesse público, incluindo:
@@ -27,12 +50,22 @@ Nosso propósito é remover conteúdo ou contas que infrinjam nossas regras ante
 
 Apesar das nossas rigorosas medidas e processos de moderação, não podemos assegurar que todo o conteúdo esteja em conformidade com nossas Diretrizes da Comunidade ou [Termos de Serviço](https://www.tiktok.com/legal/page/us/terms-of-service/en). Se você vir algum conteúdo que pareça violar as regras, poderá **[denunciá-lo](https://support.tiktok.com/pt-BR/safety-hc/report-a-problem) no app ou em nosso site.**
 
-**Saiba mais sobre nossos esforços de aplicação das nossas regras em nosso [Centro de Transparência](https://www.tiktok.com/transparency/content-moderation/?lang=pt-BR).**
+**Saiba mais sobre nossos esforços de aplicação das nossas regras em nosso [Centro de Transparência](/safety/pt-BR/policies-and-engagement/content-moderation?lang=pt-BR).**
 
 ### Notificação e recursos
 
-Acreditamos em [justiça e consistência](https://www.tiktok.com/community-guidelines/community-principles?lang=pt-BR&cgversion=2025H2update). Se seu conteúdo infringe uma regra, procuramos informar o motivo da remoção. Se a sua conta for [banida](https://www.tiktok.com/community-guidelines/accounts-features?lang=pt-BR&cgversion=2025H2update#1), você verá uma mensagem no app. Se o conteúdo for considerado não qualificado para o feed "Para Você" ou restringido de alguma forma, essas informações aparecerão na [ferramenta de análise do TikTok](https://www.tiktok.com/creator-academy/?lang=pt-BR).
+Acreditamos em [justiça e consistência](/safety/pt-BR/policies-and-engagement/community-principles?lang=pt-BR&cgversion=2026H2update). Se seu conteúdo infringe uma regra, procuramos informar o motivo da remoção. Se a sua conta for [banida](/safety/pt-BR/policies-and-engagement/accounts-features?lang=pt-BR&cgversion=2026H2update#1), você verá uma mensagem no app. Se o conteúdo for considerado não qualificado para o feed "Para Você" ou restringido de alguma forma, essas informações aparecerão na [ferramenta de análise do TikTok](https://www.tiktok.com/creator-academy/?lang=pt-BR).
 
 Se a conta foi banida ou o conteúdo foi removido, considerado inelegível ao feed "Para Você" ou restringido de alguma forma, mas você acredita que isso foi um erro, será possível [recorrer da decisão](https://support.tiktok.com/pt-BR/safety-hc/account-and-user-safety/content-violations-and-bans#4). Após o registro do seu recurso, você poderá visualizar o [status](https://support.tiktok.com/pt-BR/safety-hc/account-and-user-safety/content-violations-and-bans) dele no Centro de Segurança do app, bem como o status de quaisquer denúncias que você tenha feito sobre outros conteúdos ou contas.
 
 ---
+
+### Isso foi útil?
+
+SimNão
+
+Índice
+
+* [Exceções de interesse público](#subpost-1)
+* [Detecção e denúncias](#subpost-2)
+* [Notificação e recursos](#subpost-3)

@@ -1,5 +1,22 @@
 # Proteger a integridade das eleições
 
+# Proteger a integridade das eleições
+
+Nosso compromisso
+
+* Manter as pessoas seguras
+
+  + Nossa abordagem em relação à moderação de conteúdo
+  + Segurança e bem-estar de jovens
+  + Combate ao ódio
+  + Combate ao conteúdo de extremismo violento on-line
+  + Engajamento de nossos conselhos consultivos
+  + Combate à exploração e ao abuso sexual de crianças
+* Apoiar pesquisas independentes e transparência no conteúdo
+* Criando com responsabilidade
+* Defender os direitos humanos
+* Incentivo a pesquisas independentes
+
 As eleições são momentos importantes de conversas na comunidade. Durante esses momentos cívicos, nosso foco continua sendo manter as pessoas seguras e proteger a integridade da plataforma TikTok. Para conseguirmos isso, colocamos em prática diversas políticas robustas cujo objetivo é impedir a propagação de desinformação, destacando informações de qualidade oriundas de fontes confiáveis e colaborando com especialistas que nos ajudam a avaliar e melhorar nossa abordagem.
 
 Continuamos a expandir e investir em nossa equipe de Integridade Eleitoral. Ela tem como tarefa identificar e reagir aos riscos apresentados pelas eleições futuras com base em fatores atuais e passados. A nossa equipe é composta por especialistas multidisciplinares nos temas de democracia, eleições, sociedade civil e tecnologia. Isso significa que eles trazem um vasto conhecimento político, técnico e local para ajudar em nossos esforços de preparação. Durante as eleições, eles trabalham sem parar para estarem sempre à frente das ameaças que podem surgir.
@@ -10,17 +27,17 @@ Trabalhamos para proteger a integridade das eleições. Para isso, removemos ou 
 
 Durante as eleições, as informações podem se propagar rapidamente com base em eventos reais. Às vezes, pode não ficar claro se uma afirmação é verdadeira ou falsa. Quando não é feita a verificação do conteúdo, podemos rotulá-lo, reduzir o alcance tornando-o inelegível para o feed “Para você” e pedir que as pessoas pensem duas vezes antes compartilhá-lo até que sejam disponibilizadas mais informações.
 
-Acreditamos que a transparência nos ajuda a permanecer responsáveis perante nossa comunidade e a ganhar a confiança dela. Em nossos [Relatórios de Aplicação das Diretrizes da Comunidade](https://www.tiktok.com/transparency/en-us/community-guidelines-enforcement/), informamos a cada três meses sobre nossos esforços de aplicação de nossas regras, inclusive as regras sobre informações eleitorais enganosas.
+Acreditamos que a transparência nos ajuda a permanecer responsáveis perante nossa comunidade e a ganhar a confiança dela. Em nossos [Relatórios de Aplicação das Diretrizes da Comunidade](/safety/pt-BR/transparency/community-guidelines-enforcement), informamos a cada três meses sobre nossos esforços de aplicação de nossas regras, inclusive as regras sobre informações eleitorais enganosas.
 
 #### **Sobre o nosso Programa Global de Verificação de Fatos**
 
 A verificação on-line de informações enganosas é um trabalho especializado, e é por isso que trabalhamos em estreita colaboração com organizações de verificação de fatos [credenciadas pela IFCN](https://www.poynter.org/ifcn/) que contam com treinamento técnico, recursos e insights de todo o setor para avaliar as informações enganosas on-line de maneira imparcial.
 
-Por meio do nosso [Programa Global de Verificação de Fatos](https://www.tiktok.com/transparency/en-us/combating-misinformation/), estabelecemos parceria com mais de 20 organizações de verificação de fatos que avaliam a precisão do conteúdo no TikTok em mais de 50 idiomas. Esses parceiros independentes não fazem a moderação do conteúdo diretamente no TikTok. No entanto, eles avaliam se uma afirmação é verdadeira, falsa ou infundada para que nossos moderadores possam então tomar medidas com base nas Diretrizes da Comunidade. Eles também compartilham relatórios de insights proativos que nos ajudam a detectar informações enganosas nocivas e prever tendências de desinformação. [Saiba mais](https://www.tiktok.com/transparency/pt-br/combate-a-desinformacao/).
+Por meio do nosso [Programa Global de Verificação de Fatos](/safety/pt-BR/policies-and-engagement/combating-misinformation), estabelecemos parceria com mais de 20 organizações de verificação de fatos que avaliam a precisão do conteúdo no TikTok em mais de 50 idiomas. Esses parceiros independentes não fazem a moderação do conteúdo diretamente no TikTok. No entanto, eles avaliam se uma afirmação é verdadeira, falsa ou infundada para que nossos moderadores possam então tomar medidas com base nas Diretrizes da Comunidade. Eles também compartilham relatórios de insights proativos que nos ajudam a detectar informações enganosas nocivas e prever tendências de desinformação. [Saiba mais](/safety/pt-BR/transparency/combate-a-desinformacao).
 
 #### **Combater operações ocultas de influência**
 
-Durante as eleições, agentes maliciosos podem tentar demonstrar comportamentos enganosos com o objetivo de afetar o resultado ou processo eleitoral. Estamos sempre alertas contra tais indivíduos e atividades, tomando as medidas necessárias para remover operações ocultas de influência. Entre elas, temos as tentativas de influenciar ou mudar a opinião pública ao enganar as pessoas ou os sistemas da nossa plataforma em relação a fatores como identidade, origem, local de operação, popularidade ou propósito de uma conta. Veja mais informações [aqui](https://www.tiktok.com/transparency/pt-br/combating-misinformation/) sobre como combatemos as operações de influência.
+Durante as eleições, agentes maliciosos podem tentar demonstrar comportamentos enganosos com o objetivo de afetar o resultado ou processo eleitoral. Estamos sempre alertas contra tais indivíduos e atividades, tomando as medidas necessárias para remover operações ocultas de influência. Entre elas, temos as tentativas de influenciar ou mudar a opinião pública ao enganar as pessoas ou os sistemas da nossa plataforma em relação a fatores como identidade, origem, local de operação, popularidade ou propósito de uma conta. Veja mais informações [aqui](/safety/pt-BR/policies-and-engagement/combating-misinformation) sobre como combatemos as operações de influência.
 
 ## **Desenvolver a resiliência da comunidade contra a desinformação eleitoral**
 
@@ -44,11 +61,11 @@ Na prática, isso significa que, embora retiremos qualquer conteúdo violador po
 
 Além disso, contamos com restrições adicionais que podemos impor a essas contas de interesse público caso representem um risco particularmente elevado para a segurança pública, como durante períodos de turbulência civil, eleições ou outros ambientes sociais e políticos de alto risco. Se, por exemplo, uma conta promover violência, ódio ou desinformação em contextos de alto risco, podemos impedi-la de postar conteúdo por um período de 7 a 30 dias, dependendo da gravidade da violação e do risco associado. Podemos estender o período se avaliarmos que é improvável que a conta mude o comportamento e podemos considerar suas ações fora do TikTok em nossa decisão. As contas receberão notificações na caixa de entrada informando sobre as ações que estamos realizando. Saiba mais [aqui](https://support.tiktok.com/pt_BR/safety-hc/account-and-user-safety/content-violations-and-bans).
 
-Ocasionalmente, também aplicamos uma [exceção de interesse público](https://www.tiktok.com/community-guidelines/pt-br/enforcement/#1) a algum conteúdo que normalmente violaria as Diretrizes da Comunidade, mas que poderia ser do interesse público porque aparece em um contexto documental, educacional, satírico ou de discurso contrário.
+Ocasionalmente, também aplicamos uma [exceção de interesse público](/safety/pt-BR/policies-and-engagement/enforcement#1) a algum conteúdo que normalmente violaria as Diretrizes da Comunidade, mas que poderia ser do interesse público porque aparece em um contexto documental, educacional, satírico ou de discurso contrário.
 
 #### **Proteger contra conteúdo gerado por IA que pode ser enganoso**
 
-A inteligência artificial (IA) possibilita oportunidades criativas incríveis, mas pode confundir ou enganar os usuários se eles não souberem que o conteúdo foi gerado ou editado com IA. Para ajudar a combater isso, de acordo com a nossa política de [mídia sintética e manipulada](https://www.tiktok.com/community-guidelines/pt-br/integrity-authenticity/#3), os criadores devem rotular o conteúdo gerado por IA que mostre cenas realistas. Também proibimos conteúdo gerado por IA que contenha a imagem de uma figura pública caso o conteúdo seja usado para endossos ou viole qualquer outra política. Definimos figuras públicas como pessoas adultas com um papel público significativo, como um funcionário do governo ou um político. Saiba mais sobre a nossa abordagem [aqui](https://www.tiktok.com/transparency/pt-br/combate-a-desinformacao/).
+A inteligência artificial (IA) possibilita oportunidades criativas incríveis, mas pode confundir ou enganar os usuários se eles não souberem que o conteúdo foi gerado ou editado com IA. Para ajudar a combater isso, de acordo com a nossa política de [mídia sintética e manipulada](/safety/pt-BR/policies-and-engagement/integrity-authenticity#3), os criadores devem rotular o conteúdo gerado por IA que mostre cenas realistas. Também proibimos conteúdo gerado por IA que contenha a imagem de uma figura pública caso o conteúdo seja usado para endossos ou viole qualquer outra política. Definimos figuras públicas como pessoas adultas com um papel público significativo, como um funcionário do governo ou um político. Saiba mais sobre a nossa abordagem [aqui](/safety/pt-BR/transparency/combate-a-desinformacao).
 
 Para ajudar na transparência e na criação responsável de conteúdo, fomos a primeira plataforma a criar uma [ferramenta](https://newsroom.tiktok.com/pt-br/novos-rotulos-para-trazer-mais-contexto-ao-conteudo-gerado-por-ia) para os criadores que os ajuda a rotular o conteúdo gerado por IA. Para dar mais clareza, todos os efeitos do TikTok que são significativamente editados com IA devem incluir “IA” no nome, e os efeitos correspondentes serão rotulados automaticamente.
 

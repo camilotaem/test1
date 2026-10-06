@@ -1,6 +1,23 @@
 # Combater as informações enganosas prejudiciais
 
-No TikTok, mais de 1 bilhão de pessoas criam e compartilham conteúdo sobre assuntos que são importantes para elas. Por isso, nós nos esforçamos muito para manter um espaço seguro e autêntico em que as pessoas possam descobrir conteúdo original e interagir com pessoas reais. Esta postagem explica como incentivamos a expressão autêntica no TikTok, **protegendo** nossa comunidade contra informações enganosas nocivas, **formando parcerias** com especialistas (incluindo nosso [Programa Global de Verificação de Fatos](https://www.tiktok.com/transparency/pt-br/combate-a-desinformacao/)) para reagir às tendências crescentes de informações enganosas e **fornecendo** à comunidade informações confiáveis.
+# Combater as informações enganosas prejudiciais
+
+Nosso compromisso
+
+* Manter as pessoas seguras
+
+  + Nossa abordagem em relação à moderação de conteúdo
+  + Segurança e bem-estar de jovens
+  + Combate ao ódio
+  + Combate ao conteúdo de extremismo violento on-line
+  + Engajamento de nossos conselhos consultivos
+  + Combate à exploração e ao abuso sexual de crianças
+* Apoiar pesquisas independentes e transparência no conteúdo
+* Criando com responsabilidade
+* Defender os direitos humanos
+* Incentivo a pesquisas independentes
+
+No TikTok, mais de 1 bilhão de pessoas criam e compartilham conteúdo sobre assuntos que são importantes para elas. Por isso, nós nos esforçamos muito para manter um espaço seguro e autêntico em que as pessoas possam descobrir conteúdo original e interagir com pessoas reais. Esta postagem explica como incentivamos a expressão autêntica no TikTok, **protegendo** nossa comunidade contra informações enganosas nocivas, **formando parcerias** com especialistas (incluindo nosso [Programa Global de Verificação de Fatos](/safety/pt-BR/transparency/combate-a-desinformacao)) para reagir às tendências crescentes de informações enganosas e **fornecendo** à comunidade informações confiáveis.
 
 ## **Proteger as pessoas contra conteúdo nocivo**
 
@@ -8,7 +25,7 @@ Em uma comunidade global, é natural que pessoas tenham opiniões diferentes, ma
 
 #### **Nossas políticas de informações enganosas**
 
-Temos [políticas](https://www.tiktok.com/community-guidelines/pt-br/integrity-authenticity/) rígidas a cerca dos tipos específicos de informações enganosas, como informações médicas, sobre mudanças climáticas e informações eleitorais, bem como conteúdo enganoso gerado por IA, teorias da conspiração e questões de segurança pública, como desastres naturais. De acordo com nossos [Princípios da Comunidade](https://www.tiktok.com/community-guidelines/pt-br/community-principles/) (que englobam o compromisso de direitos humanos de proteger a expressão e ao mesmo tempo evitar danos), nossas políticas descrevem várias possibilidades de aplicação das diretrizes, que são proporcionais aos danos que o conteúdo pode causar. Isso inclui a remoção de conteúdo ou a redução do alcance, desqualificando-o para os feeds “Para você”. Estamos sempre consultando especialistas e nossos [Conselhos Consultivos de Segurança](https://www.tiktok.com/safety/pt-br/safety-partners/) globais para que nossa abordagem esteja atualizada, seja equilibrada e respeite as nuances locais.
+Temos [políticas](/safety/pt-BR/policies-and-engagement/integrity-authenticity) rígidas a cerca dos tipos específicos de informações enganosas, como informações médicas, sobre mudanças climáticas e informações eleitorais, bem como conteúdo enganoso gerado por IA, teorias da conspiração e questões de segurança pública, como desastres naturais. De acordo com nossos [Princípios da Comunidade](/safety/pt-BR/policies-and-engagement/community-principles) (que englobam o compromisso de direitos humanos de proteger a expressão e ao mesmo tempo evitar danos), nossas políticas descrevem várias possibilidades de aplicação das diretrizes, que são proporcionais aos danos que o conteúdo pode causar. Isso inclui a remoção de conteúdo ou a redução do alcance, desqualificando-o para os feeds “Para você”. Estamos sempre consultando especialistas e nossos [Conselhos Consultivos de Segurança](/safety/pt-BR/policies-and-engagement/safety-partners) globais para que nossa abordagem esteja atualizada, seja equilibrada e respeite as nuances locais.
 
 É essencial ter transparência no que tange a moderação de conteúdo. Quando tomamos medidas em relação a um conteúdo que tenha violado as nossas políticas de informações enganosas, a pessoa recebe uma notificação na caixa de entrada e na página “Status da conta” em nossa Central de Segurança. Nesse caso, ela também pode entrar com uma apelação.
 
@@ -16,7 +33,7 @@ Temos [políticas](https://www.tiktok.com/community-guidelines/pt-br/integrity-a
 
 Nossas políticas de informações enganosas se aplicam ao conteúdo, independentemente da intenção do autor da postagem, já que os danos do conteúdo são os mesmos. Por causa disso, abrangem tanto a desinformação (que é compartilhada intencionalmente para enganar) quanto as informações enganosas prejudiciais, que pode não ter sido compartilhada com o objetivo de enganar as pessoas.
 
-Para resolver questões de desinformação, removemos as contas que postam repetidamente informações erradas que violam as nossas políticas, além de contarmos com equipes de especialistas que estão sempre monitorando campanhas de desinformação, comportamento enganoso e operações de influência. Saiba mais sobre o trabalho deles [aqui](https://www.tiktok.com/transparency/pt-br/combating-misinformation/).
+Para resolver questões de desinformação, removemos as contas que postam repetidamente informações erradas que violam as nossas políticas, além de contarmos com equipes de especialistas que estão sempre monitorando campanhas de desinformação, comportamento enganoso e operações de influência. Saiba mais sobre o trabalho deles [aqui](/safety/pt-BR/policies-and-engagement/combating-misinformation).
 
 Assim como ocorre com outras empresas em nosso setor, permitimos que as pessoas compartilhem experiências pessoais, mitos ou informações enganosas que podem causar danos comerciais ou a reputações para equilibrar a expressão criativa com a prevenção de danos.
 
@@ -26,7 +43,7 @@ Usamos tecnologia automatizada, denúncias de usuários e briefings proativos de
 
 #### **Conteúdo não verificado**
 
-As informações se propagam rapidamente, e, às vezes, não fica claro se uma afirmação é verdadeira ou falsa. Quando não conseguimos verificar se o conteúdo é verdadeiro ou não, podemos rotulá-lo como “não verificado” e reduzir a disseminação, desqualificando-o para feeds “Para você”. Isso inclui conteúdo sobre eventos em andamento em que os detalhes ainda estão sendo divulgados. Avaliamos a precisão do conteúdo por meio de parcerias com organizações independentes de verificação de fatos [credenciadas pela IFCN](https://www.poynter.org/ifcn/) por meio do nosso [Programa Global de Verificação de Fatos](https://www.tiktok.com/transparency/pt-br/combate-a-desinformacao/).
+As informações se propagam rapidamente, e, às vezes, não fica claro se uma afirmação é verdadeira ou falsa. Quando não conseguimos verificar se o conteúdo é verdadeiro ou não, podemos rotulá-lo como “não verificado” e reduzir a disseminação, desqualificando-o para feeds “Para você”. Isso inclui conteúdo sobre eventos em andamento em que os detalhes ainda estão sendo divulgados. Avaliamos a precisão do conteúdo por meio de parcerias com organizações independentes de verificação de fatos [credenciadas pela IFCN](https://www.poynter.org/ifcn/) por meio do nosso [Programa Global de Verificação de Fatos](/safety/pt-BR/transparency/combate-a-desinformacao).
 
 #### **Moderadores de Integridade e Autenticidade**
 
@@ -48,7 +65,7 @@ Veja como funciona nosso Programa Global de Verificação de Fatos:
 2. Para fazer isso, os moderadores consultam nosso banco de dados de alegações já verificadas. Se o conteúdo em questão representar uma alegação nova ou em andamento, ele será encaminhado aos parceiros de verificação de fatos para passar por uma avaliação.
 3. Enquanto o conteúdo está sendo verificado, por precaução, podemos desqualificá-lo para o feed “Para você”.
 4. Depois que os verificadores de fatos avaliarem o conteúdo, nossos moderadores aplicarão as Diretrizes da Comunidade da maneira apropriada.
-5. **Se o conteúdo for considerado preciso**, ele permanecerá na plataforma [e estará qualificado para o feed “Para você”](https://www.tiktok.com/community-guidelines/pt-br/fyf-standards/) (desde que não viole outras Diretrizes da Comunidade).
+5. **Se o conteúdo for considerado preciso**, ele permanecerá na plataforma [e estará qualificado para o feed “Para você”](/safety/pt-BR/policies-and-engagement/fyf-standards) (desde que não viole outras Diretrizes da Comunidade).
 6. **Se o conteúdo for considerado informação enganosa nociva que viola as Diretrizes da Comunidade**, nossos moderadores aplicarão nossas políticas e removerão o vídeo ou restringirão o alcance.
 7. Se **não for possível verificar o conteúdo após a verificação de fatos**, poderemos rotulá-lo como não verificado e desqualificá-lo para feeds “Para você” a fim de reduzir seu alcance.
 
@@ -65,8 +82,8 @@ O mundo todo enfrenta uma onda de informações enganosas na Internet, mas elas 
 Além de agir em relação ao conteúdo em si, nós nos esforçamos sempre para deter informações enganosas, capacitando nossa comunidade com recursos de alfabetização midiática que ajudam a reconhecer informações enganosas, avaliar o conteúdo de forma crítica e registrar denúncias sobre conteúdo violador. Veja o que está incluído:
 
 * Solicitamos que os usuários pensem duas vezes antes de compartilhar alguns conteúdos não verificados e que podem ser prejudiciais.
-* Além de nossos rótulos de conteúdo não verificados, fornecemos uma [ferramenta de rotulagem para conteúdo gerado por IA](https://www.tiktok.com/community-guidelines/pt-br/integrity-authenticity/#3) e [selo de verificação](https://support.tiktok.com/pt_BR/using-tiktok/growing-your-audience/how-to-tell-if-an-account-is-verified-on-tiktok) para confirmar a autenticidade de contas notáveis.
-* No caso de assuntos sujeitos a informações enganosas, como saúde, [eleições](https://www.tiktok.com/transparency/en-us/protecting-elections/) ou crises em andamento, direcionamos as pesquisas para informações confiáveis e adicionamos banners informativos para páginas de hashtag relevantes.
+* Além de nossos rótulos de conteúdo não verificados, fornecemos uma [ferramenta de rotulagem para conteúdo gerado por IA](/safety/pt-BR/policies-and-engagement/integrity-authenticity#3) e [selo de verificação](https://support.tiktok.com/pt_BR/using-tiktok/growing-your-audience/how-to-tell-if-an-account-is-verified-on-tiktok) para confirmar a autenticidade de contas notáveis.
+* No caso de assuntos sujeitos a informações enganosas, como saúde, [eleições](/safety/pt-BR/policies-and-engagement/protecting-elections) ou crises em andamento, direcionamos as pesquisas para informações confiáveis e adicionamos banners informativos para páginas de hashtag relevantes.
 * Adicionamos banners informativos ao conteúdo AO VIVO.
 * Rotulamos mídias afiliadas ao estado para ajudar os usuários a entender melhor as fontes por trás do conteúdo.
 
@@ -76,7 +93,7 @@ Graças à inteligência artificial (IA), oportunidades criativas incríveis se 
 
 #### **Nossas políticas referentes a conteúdo gerado por IA**
 
-De acordo com a nossa política de [mídia sintética e manipulada](https://www.tiktok.com/community-guidelines/pt-br/integrity-authenticity/#3), os criadores devem rotular o conteúdo gerado por IA que mostre cenas realistas. Além disso, fomos a primeira plataforma a criar uma [ferramenta](https://newsroom.tiktok.com/pt-br/novos-rotulos-para-trazer-mais-contexto-ao-conteudo-gerado-por-ia) para os criadores para que façam isso num piscar de olhos. Também proibimos conteúdo gerado por IA que contenha a imagem de qualquer figura não pública real, incluindo pessoas com menos de 18 anos, bem como mídia sintética de figuras públicas, caso o conteúdo seja usado para endossar ou violar qualquer outra política. Para aumentar a clareza sobre os produtos do TikTok com tecnologia de IA, todos os efeitos do TikTok que são significativamente editados com IA devem incluir “IA” no nome e no rótulo dos efeitos correspondentes.
+De acordo com a nossa política de [mídia sintética e manipulada](/safety/pt-BR/policies-and-engagement/integrity-authenticity#3), os criadores devem rotular o conteúdo gerado por IA que mostre cenas realistas. Além disso, fomos a primeira plataforma a criar uma [ferramenta](https://newsroom.tiktok.com/pt-br/novos-rotulos-para-trazer-mais-contexto-ao-conteudo-gerado-por-ia) para os criadores para que façam isso num piscar de olhos. Também proibimos conteúdo gerado por IA que contenha a imagem de qualquer figura não pública real, incluindo pessoas com menos de 18 anos, bem como mídia sintética de figuras públicas, caso o conteúdo seja usado para endossar ou violar qualquer outra política. Para aumentar a clareza sobre os produtos do TikTok com tecnologia de IA, todos os efeitos do TikTok que são significativamente editados com IA devem incluir “IA” no nome e no rótulo dos efeitos correspondentes.
 
 #### **Detecção sempre em evolução para acompanhar o ritmo da IA**
 

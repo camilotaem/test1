@@ -1,12 +1,14 @@
 # Guia sobre desinformação prejudicial
 
-Em qualquer comunidade, no mundo real ou online, é natural haver opiniões diferentes. Mas quando se trata de tópicos que afetam sua saúde ou segurança, queremos atuar sob um conjunto compartilhado de fatos. É por isso que trabalhamos para combater a [desinformação prejudicial](https://www.tiktok.com/transparency/en-us/combating-misinformation/) no TikTok, conectando você aos fatos e informando quando identificamos conteúdos que sejam (ou não sejam) verídicos. Neste guia, você pode aprender mais sobre as regras, ferramentas e táticas que podem ajudar você a ter uma experiência confiável no TikTok e fora dele.
+# Guia sobre desinformação prejudicial
+
+Em qualquer comunidade, no mundo real ou online, é natural haver opiniões diferentes. Mas quando se trata de tópicos que afetam sua saúde ou segurança, queremos atuar sob um conjunto compartilhado de fatos. É por isso que trabalhamos para combater a [desinformação prejudicial](/safety/pt-BR/policies-and-engagement/combating-misinformation) no TikTok, conectando você aos fatos e informando quando identificamos conteúdos que sejam (ou não sejam) verídicos. Neste guia, você pode aprender mais sobre as regras, ferramentas e táticas que podem ajudar você a ter uma experiência confiável no TikTok e fora dele.
 
 ## Nossas regras sobre desinformação
 
-Nossas [Diretrizes da Comunidade](https://www.tiktok.com/community-guidelines/en/overview/) proíbem a existência de informações falsas prejudiciais sobre saúde, eleições, mudança climática, entre outros assuntos. Quando o conteúdo vai contra essas regras, ele é removido ou tornado inelegível para o feed Para você, conforme nossas políticas (leia mais sobre nossas políticas [aqui](https://www.tiktok.com/community-guidelines/en/integrity-authenticity/#1)). Agimos para combater a desinformação, seja qual for o motivo que a tenha motivado. Nossas políticas se aplicam tanto à "desinformação" intencional quanto à desinformação prejudicial que pode não ter sido compartilhada com a intenção de enganar as pessoas.
+Nossas [Diretrizes da Comunidade](/safety/pt-BR/policies-and-engagement/overview) proíbem a existência de informações falsas prejudiciais sobre saúde, eleições, mudança climática, entre outros assuntos. Quando o conteúdo vai contra essas regras, ele é removido ou tornado inelegível para o feed Para você, conforme nossas políticas (leia mais sobre nossas políticas [aqui](/safety/pt-BR/policies-and-engagement/integrity-authenticity#1)). Agimos para combater a desinformação, seja qual for o motivo que a tenha motivado. Nossas políticas se aplicam tanto à "desinformação" intencional quanto à desinformação prejudicial que pode não ter sido compartilhada com a intenção de enganar as pessoas.
 
-Para ajudar a garantir que as decisões da nossa moderação sejam baseadas em fatos, trabalhamos com [parceiros de checagem de fatos](https://www.tiktok.com/transparency/en-us/combating-misinformation/#GFCP) independentes que avaliam se a informação é verdadeira, falsa ou não verificada. Se você vir alguma desinformação que possa ir contra as regras, [denuncie](https://www.tiktok.com/safety/en/reporting?sc_version=2024).
+Para ajudar a garantir que as decisões da nossa moderação sejam baseadas em fatos, trabalhamos com [parceiros de checagem de fatos](/safety/pt-BR/policies-and-engagement/combating-misinformation#GFCP) independentes que avaliam se a informação é verdadeira, falsa ou não verificada. Se você vir alguma desinformação que possa ir contra as regras, [denuncie](/safety/pt-BR/tools-and-guides/reporting?sc_version=2024).
 
 Quando agimos sobre o seu conteúdo, informamos a você por meio de uma notificação na caixa de entrada ou na página "[Status da Conta](https://newsroom.tiktok.com/en-gb/account-enforcement-system)" no Centro de Segurança do seu aplicativo. Você também pode enviar um [recurso](https://support.tiktok.com/en/safety-hc/account-and-user-safety/account-safety#3) se considerar que a decisão da moderação foi equivocada. Quando você denuncia uma desinformação prejudicial, pode acompanhar os resultados da denúncia na página "Registro de denúncias" no Centro de Segurança.
 
@@ -33,7 +35,7 @@ Você também deve olhar de forma crítica para os conteúdos que não estão ma
 
 ## Conectando você a informações confiáveis
 
-Para identificar a desinformação, é importante conhecer os fatos. Fazemos parcerias com especialistas e [organizações de checagem de fato](https://www.tiktok.com/transparency/en-us/combating-misinformation/) em todo o mundo para ajudar a conectar você a informações confiáveis. No TikTok, oferecemos recursos que podem ajudar você a encontrar fontes confiáveis. Procure pelos banners informativos quando estiver assistindo ou pesquisando um conteúdo que possa ser associado à desinformação, como:
+Para identificar a desinformação, é importante conhecer os fatos. Fazemos parcerias com especialistas e [organizações de checagem de fato](/safety/pt-BR/policies-and-engagement/combating-misinformation) em todo o mundo para ajudar a conectar você a informações confiáveis. No TikTok, oferecemos recursos que podem ajudar você a encontrar fontes confiáveis. Procure pelos banners informativos quando estiver assistindo ou pesquisando um conteúdo que possa ser associado à desinformação, como:
 
 * **Lembretes de busca:** quando você pesquisa por tópicos que possam estar associados à desinformação em sua região, como covid-19, saúde mental ou mudança climática, pode ver um banner que lembra você de checar as fontes, direcionando para informações confiáveis.
 * **Avisos de eventos que mudam rápido:** quando tudo muda muito rápido durante momentos de crise, procure por banners de busca ou pop-ups que direcionem você para fontes de autoridades com informações confiáveis.
@@ -67,3 +69,7 @@ Afirmações ousadas podem nos enganar ou manipular, portanto, antes de comparti
 O conteúdo destes guias se destina apenas a fins informativos e educacionais.
 
 ---
+
+### Isso foi útil?
+
+SimNão

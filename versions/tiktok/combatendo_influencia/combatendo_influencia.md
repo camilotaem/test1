@@ -1,5 +1,22 @@
 # Combatendo as operações de influência
 
+# Combatendo as operações de influência
+
+Nosso compromisso
+
+* Manter as pessoas seguras
+
+  + Nossa abordagem em relação à moderação de conteúdo
+  + Segurança e bem-estar de jovens
+  + Combate ao ódio
+  + Combate ao conteúdo de extremismo violento on-line
+  + Engajamento de nossos conselhos consultivos
+  + Combate à exploração e ao abuso sexual de crianças
+* Apoiar pesquisas independentes e transparência no conteúdo
+* Criando com responsabilidade
+* Defender os direitos humanos
+* Incentivo a pesquisas independentes
+
 O TikTok é baseado na celebração de experiências genuínas, e temos uma política rigorosa contra qualquer tentativa de comprometer a integridade da plataforma, enganar os usuários ou manipular nossos sistemas. Há uma vasta variedade de atividades inautênticas que agentes enganosos tentam realizar em plataformas online, as quais proibimos e buscamos prevenir de forma proativa. Nesta publicação, destacamos como definimos, removemos e nos antecipamos a esses comportamentos enganosos e às pessoas por trás deles, incluindo:
 
 * A variedade de comportamentos fraudulentos que nossas políticas proíbem
@@ -9,7 +26,7 @@ O TikTok é baseado na celebração de experiências genuínas, e temos uma pol�
 
 #### **Combate à desinformação com políticas abrangentes**
 
-Comportamentos enganosos podem abranger uma ampla gama de tópicos, táticas e objetivos — de spam a representação fraudulenta e operações de influência secretas. Temos [políticas](https://www.tiktok.com/community-guidelines/en/integrity-authenticity#6) abrangentes para lidar com esses problemas em grande escala e atualizamos regularmente essas regras conforme os comportamentos inautênticos evoluem. Incluem:
+Comportamentos enganosos podem abranger uma ampla gama de tópicos, táticas e objetivos — de spam a representação fraudulenta e operações de influência secretas. Temos [políticas](/safety/pt-BR/policies-and-engagement/integrity-authenticity#6) abrangentes para lidar com esses problemas em grande escala e atualizamos regularmente essas regras conforme os comportamentos inautênticos evoluem. Incluem:
 
 * **Não permitimos o uso de contas para manipulação da plataforma,** como o uso de automação para registrar ou operar contas em massa.
 * **Não permitimos spam,** incluindo a manipulação de sinais de engajamento para amplificar o alcance de determinado conteúdo (como o uso de bots, scripts ou outros meios para distribuir conteúdo ou interações em massa e aumentar artificialmente visualizações, curtidas, comentários, compartilhamentos ou outras métricas de engajamento).
@@ -27,9 +44,9 @@ Operações de influência secretas
 
 Engajamento falso e spam são comportamentos enganosos muito mais comuns do que operações de influência secreta. Geralmente são motivados pelo lucro e frequentemente operam em grandes escalas. Além disso, usam táticas mais óbvias e fáceis de detectar, como registrar ou operar contas falsas em massa usando automação.
 
-Investimos em tecnologias avançadas para interceptar e prevenir dezenas de bilhões de tentativas falsas de engajamento, como curtidas falsas, solicitações para seguir ou contas criadas a cada ano. Relatamos esses esforços a cada três meses em nossos [Relatórios de Aplicação das Diretrizes da Comunidade](https://www.tiktok.com/transparency/en/community-guidelines-enforcement-2024-3).
+Investimos em tecnologias avançadas para interceptar e prevenir dezenas de bilhões de tentativas falsas de engajamento, como curtidas falsas, solicitações para seguir ou contas criadas a cada ano. Relatamos esses esforços a cada três meses em nossos [Relatórios de Aplicação das Diretrizes da Comunidade](/safety/pt-BR/transparency/community-guidelines-enforcement-2024-3).
 
-Mesmo que seja em uma escala menor ou não utilize tecnologia como automação, não permitimos a troca ou comercialização de serviços que tentem aumentar artificialmente o engajamento ou enganar o sistema de recomendação do TikTok. Removemos conteúdo ou contas que violem essas [políticas](https://www.tiktok.com/community-guidelines/en/integrity-authenticity#4).
+Mesmo que seja em uma escala menor ou não utilize tecnologia como automação, não permitimos a troca ou comercialização de serviços que tentem aumentar artificialmente o engajamento ou enganar o sistema de recomendação do TikTok. Removemos conteúdo ou contas que violem essas [políticas](/safety/pt-BR/policies-and-engagement/integrity-authenticity#4).
 
 ### **Diferenciação de comportamentos enganosos**
 
@@ -41,16 +58,16 @@ Na maioria das vezes, o comportamento inautêntico que é visível externamente 
 
 O trabalho de combater comportamentos enganosos é apenas um aspecto da abordagem expansiva para proteger experiências autênticas no TikTok. Algumas dessas medidas incluem:
 
-* Proibimos [desinformação prejudicial](https://www.tiktok.com/transparency/en/combating-misinformation), restringimos conteúdo não verificado dos feeds Para Você e fazemos parcerias com mais de 20 organizações de verificação de fatos no mundo todo para aplicar essas políticas com precisão.
+* Proibimos [desinformação prejudicial](/safety/pt-BR/policies-and-engagement/combating-misinformation), restringimos conteúdo não verificado dos feeds Para Você e fazemos parcerias com mais de 20 organizações de verificação de fatos no mundo todo para aplicar essas políticas com precisão.
 * Marcamos conteúdo não verificado, conectamos os usuários a fontes confiáveis de informação dentro do aplicativo e oferecemos emblemas de “conta verificada” para indicar que uma conta realmente pertence a quem afirma ser. Nossos selos de verificação são concedidos com base em critérios de autenticidade, e não estão disponíveis para compra.
-* Nós rotulamos [contas de mídia afiliadas ao estado](https://www.tiktok.com/transparency/en/state-affiliated-media), restringimos sua publicidade para públicos fora do país em que estão registradas e as tornamos inelegíveis para recomendações do feed Para Você caso tentem influenciar públicos estrangeiros sobre assuntos atuais.
+* Nós rotulamos [contas de mídia afiliadas ao estado](/safety/pt-BR/policies-and-engagement/state-affiliated-media), restringimos sua publicidade para públicos fora do país em que estão registradas e as tornamos inelegíveis para recomendações do feed Para Você caso tentem influenciar públicos estrangeiros sobre assuntos atuais.
 * Exigimos que as pessoas rotulem conteúdo realista gerado por IA para que os espectadores não sejam enganados e investimos em uma [ferramenta](https://newsroom.tiktok.com/en-us/new-labels-for-disclosing-ai-generated-content) de rotulagem fácil de usar para criadores, bem como em [tecnologias](https://newsroom.tiktok.com/en-us/partnering-with-our-industry-to-advance-ai-transparency-and-literacy) como Credenciais de Conteúdo que nos ajudam a rotular automaticamente o conteúdo gerado por IA.
-* Fazemos parcerias com especialistas ao redor do mundo para [recursos de alfabetização midiática e vídeos educacionais](https://www.tiktok.com/safety/en/harmful-misinformation-guide) que promovem habilidades de pensamento crítico dentro do aplicativo e conectam centenas de milhões de pessoas a informações autoritativas sobre eleições, desastres naturais em evolução, saúde e muito mais.
+* Fazemos parcerias com especialistas ao redor do mundo para [recursos de alfabetização midiática e vídeos educacionais](/safety/pt-BR/tools-and-guides/harmful-misinformation-guide) que promovem habilidades de pensamento crítico dentro do aplicativo e conectam centenas de milhões de pessoas a informações autoritativas sobre eleições, desastres naturais em evolução, saúde e muito mais.
 
 ### **Continuidade no investimento e na evolução**
 
-Além das medidas proativas de detecção, facilitamos para que as pessoas possam nos denunciar facilmente conteúdos ou contas que considerem preocupantes. Em nosso aplicativo, as pessoas podem denunciar comportamento enganoso, spam, informações incorretas prejudiciais e muito mais. Também revisamos os relatórios que recebemos por meio do [Canal de Parceiros da Comunidade](https://www.tiktok.com/transparency/en-us/content-moderation) e removemos violações de nossas políticas. O trabalho para proteger a integridade da plataforma nunca acaba. Continuaremos a investir, evoluir e relatar esses esforços para ajudar as pessoas a acessar informações confiáveis, descobrir conteúdo original e compartilhar interações autênticas. Saiba mais sobre o nosso trabalho:
+Além das medidas proativas de detecção, facilitamos para que as pessoas possam nos denunciar facilmente conteúdos ou contas que considerem preocupantes. Em nosso aplicativo, as pessoas podem denunciar comportamento enganoso, spam, informações incorretas prejudiciais e muito mais. Também revisamos os relatórios que recebemos por meio do [Canal de Parceiros da Comunidade](/safety/pt-BR/policies-and-engagement/content-moderation) e removemos violações de nossas políticas. O trabalho para proteger a integridade da plataforma nunca acaba. Continuaremos a investir, evoluir e relatar esses esforços para ajudar as pessoas a acessar informações confiáveis, descobrir conteúdo original e compartilhar interações autênticas. Saiba mais sobre o nosso trabalho:
 
-* Revise nossos relatórios de [Operações de Influência Oculta](https://www.tiktok.com/transparency/en-us/covert-influence-operations), [Segurança de Plataforma](https://www.tiktok.com/transparency/en-us/platform-security) e [Aplicação de Diretrizes da Comunidade](https://www.tiktok.com/transparency/en-us/community-guidelines-enforcement-2024-3).
-* Leia visões gerais abrangentes sobre como [combatemos a desinformação prejudicial](https://www.tiktok.com/transparency/en-us/combating-misinformation), [protegemos a integridade das eleições](https://www.tiktok.com/transparency/en-us/protecting-elections), [rotulamos entidades de mídia afiliadas a estados](https://www.tiktok.com/transparency/en-us/state-affiliated-media), [permitimos transparência em torno de conteúdo gerado por IA](https://www.tiktok.com/transparency/en-us/supporting-responsible-transparent-ai-generated-content) e [fortalecemos a segurança e a privacidade da plataforma](https://www.tiktok.com/transparency/en-us/security-privacy).
-* Saiba mais sobre nossos [recursos e dicas de alfabetização midiática](https://www.tiktok.com/safety/en/harmful-misinformation-guide) para ajudar as pessoas a pensar criticamente sobre o conteúdo online.
+* Revise nossos relatórios de [Operações de Influência Oculta](/safety/pt-BR/transparency/covert-influence-operations), [Segurança de Plataforma](/safety/pt-BR/transparency/platform-security) e [Aplicação de Diretrizes da Comunidade](/safety/pt-BR/transparency/community-guidelines-enforcement-2024-3).
+* Leia visões gerais abrangentes sobre como [combatemos a desinformação prejudicial](/safety/pt-BR/policies-and-engagement/combating-misinformation), [protegemos a integridade das eleições](/safety/pt-BR/policies-and-engagement/protecting-elections), [rotulamos entidades de mídia afiliadas a estados](/safety/pt-BR/policies-and-engagement/state-affiliated-media), [permitimos transparência em torno de conteúdo gerado por IA](/safety/pt-BR/policies-and-engagement/supporting-responsible-transparent-ai-generated-content) e [fortalecemos a segurança e a privacidade da plataforma](/safety/pt-BR/policies-and-engagement/security-privacy).
+* Saiba mais sobre nossos [recursos e dicas de alfabetização midiática](/safety/pt-BR/tools-and-guides/harmful-misinformation-guide) para ajudar as pessoas a pensar criticamente sobre o conteúdo online.

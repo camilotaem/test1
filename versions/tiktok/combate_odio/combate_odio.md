@@ -1,20 +1,37 @@
 # Combate ao ódio
 
+# Combate ao ódio
+
+Nosso compromisso
+
+* Manter as pessoas seguras
+
+  + Nossa abordagem em relação à moderação de conteúdo
+  + Segurança e bem-estar de jovens
+  + Combate ao ódio
+  + Combate ao conteúdo de extremismo violento on-line
+  + Engajamento de nossos conselhos consultivos
+  + Combate à exploração e ao abuso sexual de crianças
+* Apoiar pesquisas independentes e transparência no conteúdo
+* Criando com responsabilidade
+* Defender os direitos humanos
+* Incentivo a pesquisas independentes
+
 Milhões de pessoas em todo o mundo acessam o TikTok para criar, compartilhar, descobrir e se conectar, e temos o compromisso de manter um ambiente seguro, inclusivo e autêntico. Dezenas de milhares de profissionais de Confiança e Segurança se dedicam a manter o TikTok seguro e acolhedor.
 
 O TikTok se destaca graças à criatividade e diversidade de nossa comunidade mundial. Trabalhamos para oferecer um espaço seguro onde as pessoas se sintam acolhidas e encorajadas a se expressar, descobrir ideias e se conectar com outras pessoas. Acreditamos que a civilidade é a chave para uma comunidade saudável. Ser civilizado não significa que as pessoas devem sempre concordar, mas reconhecer a dignidade inerente a todos e ser respeitoso em ações, palavras e tom ao engajar com outras pessoas.
 
-Nos posicionamos firmemente contra o [comportamento e discurso de ódio](https://www.tiktok.com/community-guidelines/en/safety-civility#2) e não permitimos indivíduos e organizações que disseminam ódio em nossa plataforma. Para combater o ódio, adotamos uma abordagem abrangente e diversificada que inclui políticas duras e medidas de fiscalização contra o ódio, parcerias com especialistas e recursos e configurações que ajudam as pessoas a manter o controle da experiência no TikTok.
+Nos posicionamos firmemente contra o [comportamento e discurso de ódio](/safety/pt-BR/policies-and-engagement/safety-civility#2) e não permitimos indivíduos e organizações que disseminam ódio em nossa plataforma. Para combater o ódio, adotamos uma abordagem abrangente e diversificada que inclui políticas duras e medidas de fiscalização contra o ódio, parcerias com especialistas e recursos e configurações que ajudam as pessoas a manter o controle da experiência no TikTok.
 
 ## **Como protegemos nossa comunidade contra o ódio**
 
-O combate ao ódio exige uma abordagem ampla, que inclui o desenvolvimento de políticas firmes contra o ódio que protejam todos os membros de nossa comunidade, desenvolvendo sistemas de tecnologia que identifiquem e removam [proativamente](https://www.tiktok.com/transparency/en/community-guidelines-enforcement-2024-3) conteúdo de ódio da plataforma em escala e qualificando nossas equipes de segurança com treinamento para identificar e moderar com precisão o conteúdo e o comportamento de ódio.
+O combate ao ódio exige uma abordagem ampla, que inclui o desenvolvimento de políticas firmes contra o ódio que protejam todos os membros de nossa comunidade, desenvolvendo sistemas de tecnologia que identifiquem e removam [proativamente](/safety/pt-BR/transparency/community-guidelines-enforcement-2024-3) conteúdo de ódio da plataforma em escala e qualificando nossas equipes de segurança com treinamento para identificar e moderar com precisão o conteúdo e o comportamento de ódio.
 
 #### **Políticas**
 
 Lidar com o ódio é um desafio em constante evolução, pois ele assume muitas formas e pode mudar dependendo da época, das pessoas envolvidas e do canal usado. As ideologias de ódio podem assumir novas formas desencadeadas por novos eventos, com expressões de ódio que se manifestam de novas maneiras. Embora existam demonstrações universais de ódio, esta também pode ser uma experiência subjetiva e individual que torna o gerenciamento em escala mais difícil.
 
-Para nos anteciparmos as ameaças, desenvolvemos políticas adaptadas especificamente para entender e proteger contra as complexidades que surgem com as diversas formas de discurso e comportamento de ódio. Conforme estabelecemos em nossas [Diretrizes da Comunidade](https://www.tiktok.com/community-guidelines/en/safety-civility#2), não permitimos nenhum discurso de ódio, comportamento de ódio ou promoção de ideologias de ódio, incluindo ataques explícitos ou implícitos a um grupo protegido:
+Para nos anteciparmos as ameaças, desenvolvemos políticas adaptadas especificamente para entender e proteger contra as complexidades que surgem com as diversas formas de discurso e comportamento de ódio. Conforme estabelecemos em nossas [Diretrizes da Comunidade](/safety/pt-BR/policies-and-engagement/safety-civility#2), não permitimos nenhum discurso de ódio, comportamento de ódio ou promoção de ideologias de ódio, incluindo ataques explícitos ou implícitos a um grupo protegido:
 
 * **Ideologias de ódio** são sistemas de crenças que excluem, oprimem ou discriminam indivíduos com base em seus atributos protegidos.
 * **Grupos protegidos** são indivíduos ou comunidades que compartilham atributos protegidos.
@@ -58,14 +75,14 @@ Investimos em ajudar as pessoas a personalizar sua experiência no TikTok e a ma
 
 [![](//p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/f629aa1c9af72c83ade677016df08e54.gif~tplv-1rzkm2vceq-default:0:0:q75.image)](https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/f629aa1c9af72c83ade677016df08e54.gif~tplv-1rzkm2vceq-default:0:0:q75.image)
 
-* [Guias](https://www.tiktok.com/safety/pt-BR/tools-and-guides) para ajudar nossa comunidade a aproveitar ao máximo esses recursos
+* [Guias](/safety/pt-BR/tools-and-guides) para ajudar nossa comunidade a aproveitar ao máximo esses recursos
 * **Rethink feature:** lançado em [2021](https://newsroom.tiktok.com/en-africa/filter-all-comments-rethink-feature-launch) e atualizado em 2025, esse recurso identifica quando um comentário pode ser ofensivo ou contraventor e exibe um pop-up para o autor, sugerindo uma abordagem mais gentil antes da publicação.
 
 [![](//p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/cde05cfb79d7087d1a7bf58e4c55a0d0.png~tplv-1rzkm2vceq-default:0:0:q75.image)](https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/cde05cfb79d7087d1a7bf58e4c55a0d0.png~tplv-1rzkm2vceq-default:0:0:q75.image)
 
 ## **Conforme aprendemos mais, fazemos mais**
 
-Entendemos que comportamentos de ódio são complexos e estão em constante evolução, tanto on-line quanto off-line. Por isso, buscamos continuamente melhorar nossas políticas e fortalecer nossa aplicação. Isso inclui treinar regularmente nossas tecnologias e equipes de moderação de conteúdo para detectar melhor a evolução de comportamentos, símbolos, termos de ódio e estereótipos ofensivos. Também consultamos estudiosos e especialistas de todo o mundo para acompanhar as tendências em evolução e nos ajudar a avaliar constantemente nossas práticas. Por exemplo, temos dez [Conselhos Consultivos](https://www.tiktok.com/transparency/en-us/advisory-councils) que reúnem especialistas independentes que nos ajudam a desenvolver políticas e processos voltados para o futuro. Também trabalhamos com organizações como [CyberWell](https://cyberwell.org/), [SMEX](https://www.google.com/search?q=SMEX&rlz=1C5GCEM_enUS1115US1118&oq=SMEX&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABixAxiABDIHCAIQABiABDITCAMQLhiDARivARjHARixAxiABDIHCAQQABiABDIKCAUQABixAxiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBBzcyMmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8), [GLAAD](https://glaad.org/) e outras para informar nossas medidas de segurança e/ou desenvolver recursos educativos que promovam informações confiáveis.
+Entendemos que comportamentos de ódio são complexos e estão em constante evolução, tanto on-line quanto off-line. Por isso, buscamos continuamente melhorar nossas políticas e fortalecer nossa aplicação. Isso inclui treinar regularmente nossas tecnologias e equipes de moderação de conteúdo para detectar melhor a evolução de comportamentos, símbolos, termos de ódio e estereótipos ofensivos. Também consultamos estudiosos e especialistas de todo o mundo para acompanhar as tendências em evolução e nos ajudar a avaliar constantemente nossas práticas. Por exemplo, temos dez [Conselhos Consultivos](/safety/pt-BR/policies-and-engagement/advisory-councils) que reúnem especialistas independentes que nos ajudam a desenvolver políticas e processos voltados para o futuro. Também trabalhamos com organizações como [CyberWell](https://cyberwell.org/), [SMEX](https://www.google.com/search?q=SMEX&rlz=1C5GCEM_enUS1115US1118&oq=SMEX&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABixAxiABDIHCAIQABiABDITCAMQLhiDARivARjHARixAxiABDIHCAQQABiABDIKCAUQABixAxiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBBzcyMmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8), [GLAAD](https://glaad.org/) e outras para informar nossas medidas de segurança e/ou desenvolver recursos educativos que promovam informações confiáveis.
 
 Também levamos em conta as informações publicamente disponíveis de organizações, incluindo do Conselho de Segurança das Nações Unidas, para indicar indivíduos e organizações perigosos ou propagadores de ódio, além de interagirmos diretamente com os criadores.
 

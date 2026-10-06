@@ -1,22 +1,39 @@
 # Nossa abordagem em relação à moderação de conteúdo
 
+# Nossa abordagem em relação à moderação de conteúdo
+
+Nosso compromisso
+
+* Manter as pessoas seguras
+
+  + Nossa abordagem em relação à moderação de conteúdo
+  + Segurança e bem-estar de jovens
+  + Combate ao ódio
+  + Combate ao conteúdo de extremismo violento on-line
+  + Engajamento de nossos conselhos consultivos
+  + Combate à exploração e ao abuso sexual de crianças
+* Apoiar pesquisas independentes e transparência no conteúdo
+* Criando com responsabilidade
+* Defender os direitos humanos
+* Incentivo a pesquisas independentes
+
 Mais de um bilhão de pessoas ao redor do mundo usam o TikTok para criar, compartilhar e se conectar, e estamos comprometidos em proteger a plataforma para que nossa comunidade possa descobrir e fazer o que ama. Investimos em tecnologias avançadas de moderação e milhares de profissionais de segurança que trabalham juntos para proteger nossa comunidade.
 
 ### Definir regras claras para a comunidade do TikTok
 
-Nossas [Diretrizes da Comunidade](https://www.tiktok.com/community-guidelines?lang=en) definem um conjunto de normas e código de conduta comuns que nos ajudam a manter um ambiente seguro e inclusivo para nossa comunidade, em que interações genuínas e conteúdo autêntico podem se desenvolver. Elas abrangem normas sobre o que é permitido no TikTok, aplicando-se a contas, conteúdos e à forma como os usuários interagem com recursos como comentários e pesquisa. Elas também incluem padrões para o que é elegível para o Feed Para você (For You Feed ou FYF). Nós trabalhamos para aplicar nossas regras com consistência, rapidez e precisão em mais de 70 idiomas em todo o mundo.
+Nossas [Diretrizes da Comunidade](/safety/pt-BR/policies-and-engagement/overview) definem um conjunto de normas e código de conduta comuns que nos ajudam a manter um ambiente seguro e inclusivo para nossa comunidade, em que interações genuínas e conteúdo autêntico podem se desenvolver. Elas abrangem normas sobre o que é permitido no TikTok, aplicando-se a contas, conteúdos e à forma como os usuários interagem com recursos como comentários e pesquisa. Elas também incluem padrões para o que é elegível para o Feed Para você (For You Feed ou FYF). Nós trabalhamos para aplicar nossas regras com consistência, rapidez e precisão em mais de 70 idiomas em todo o mundo.
 
-Nossas políticas são desenvolvidas por especialistas de diversas disciplinas e embasadas por nossos oito [Princípios da Comunidade](https://www.tiktok.com/community-guidelines/en/community-principles), que refletem nosso compromisso de respeitar os direitos humanos, equilibrando a prevenção de danos e a expressão, promovendo a dignidade humana e garantindo que nossas ações sejam justas para todos.
+Nossas políticas são desenvolvidas por especialistas de diversas disciplinas e embasadas por nossos oito [Princípios da Comunidade](/safety/pt-BR/policies-and-engagement/community-principles), que refletem nosso compromisso de respeitar os direitos humanos, equilibrando a prevenção de danos e a expressão, promovendo a dignidade humana e garantindo que nossas ações sejam justas para todos.
 
 Revisamos e atualizamos regularmente as Diretrizes da Comunidade para evoluir junto com novos comportamentos e riscos. Estamos constantemente em diálogo com especialistas, como nossos Conselhos Consultivos regionais e o Conselho Global de Jovens, a fim de trazer pontos de vista externos para este trabalho, entender as melhores práticas da indústria e avaliar como nossas políticas podem afetar as diversas comunidades que criam e compartilham conteúdo no TikTok ao redor do mundo. Nosso objetivo é criar uma experiência segura e divertida para nossa comunidade diversa.
 
 #### Possibilitar a expressão e a descoberta
 
-De acordo com nosso [compromisso](https://www.tiktok.com/community-guidelines/en/community-principles) de equilibrar a expressão criativa com a prevenção de danos, adotamos uma série de medidas de segurança para reagir de maneira proporcional a possíveis riscos. Isso inclui:
+De acordo com nosso [compromisso](/safety/pt-BR/policies-and-engagement/community-principles) de equilibrar a expressão criativa com a prevenção de danos, adotamos uma série de medidas de segurança para reagir de maneira proporcional a possíveis riscos. Isso inclui:
 
-* Remover vídeos, transmissões ao vivo, comentários e outros conteúdos que detectamos violar as Diretrizes da Comunidade. Geralmente, [menos de 1% dos vídeos são removidos](https://www.tiktok.com/safety/pt-BR/transparency/cg-report), pois a grande maioria do conteúdo dos criadores está de acordo com nossas políticas.
+* Remover vídeos, transmissões ao vivo, comentários e outros conteúdos que detectamos violar as Diretrizes da Comunidade. Geralmente, [menos de 1% dos vídeos são removidos](/safety/pt-BR/transparency/cg-report), pois a grande maioria do conteúdo dos criadores está de acordo com nossas políticas.
 * Banir contas que violam repetidamente nossas regras, cometem violações graves ou burlam a aplicação de nossas políticas.
-* Tornar o conteúdo [inelegível para recomendação](https://www.tiktok.com/community-guidelines/en/community-principles) no feed Para você, caso não seja adequado para o público geral.
+* Tornar o conteúdo [inelegível para recomendação](/safety/pt-BR/policies-and-engagement/community-principles) no feed Para você, caso não seja adequado para o público geral.
 * Bloquear ou redirecionar pesquisas, sugestões de pesquisa ou hashtags que violem as Diretrizes da Comunidade (ou que se tornem amplamente associadas a conteúdo que viole as Diretrizes da Comunidade).
 
 Aplicamos proteções adicionais para públicos mais jovens para garantir uma experiência adequada, como:
@@ -30,7 +47,7 @@ Capacitamos nossa comunidade a ajustar e personalizar suas configurações de se
 * Adicionar rótulos, telas de “confirmação”, banners informativos ou avisos ao conteúdo para que os espectadores tenham mais contexto antes de escolherem visualizar.
 * Criar ferramentas de segurança personalizáveis ​​para criadores e espectadores filtrarem e definirem restrições mais rigorosas para o conteúdo com o qual interagem — desde as recomendações do feed Para você, aos comentários e muito mais.
 
-Podemos adotar medidas extras e temporárias para proteger nossa comunidade durante crises, quando houver um risco elevado de danos no mundo real ou ameaças à segurança pública, aos direitos humanos ou aos processos cívicos. Nossa abordagem e tomada de decisão nesses momentos são baseadas em nossos [Princípios da Comunidade](https://www.tiktok.com/community-guidelines/en/community-principles) e incluem:
+Podemos adotar medidas extras e temporárias para proteger nossa comunidade durante crises, quando houver um risco elevado de danos no mundo real ou ameaças à segurança pública, aos direitos humanos ou aos processos cívicos. Nossa abordagem e tomada de decisão nesses momentos são baseadas em nossos [Princípios da Comunidade](/safety/pt-BR/policies-and-engagement/community-principles) e incluem:
 
 * Planejar de maneira proativa para cenários específicos de alto risco, a fim de testar nossas políticas, funcionalidades do produto e protocolos internos de resposta.
 * Consultar especialistas para ajudar a prever e avaliar esses momentos de alto risco, nos quais podem ser necessárias medidas adicionais nas plataformas online.
@@ -40,7 +57,7 @@ Podemos adotar medidas extras e temporárias para proteger nossa comunidade dura
 
 Temos o compromisso de construir processos transparentes de moderação de conteúdo, que sejam justos e imparciais para os criadores e reflitam nosso compromisso em fornecer transparência e consistência. Informamos aos usuários quando removemos conteúdos ou contas, explicamos o motivo da remoção e oferecemos uma forma de recorrer da decisão. Também garantimos transparência e oferecemos a possibilidade de recurso caso o conteúdo seja tornado inelegível para recomendação. Pessoas que denunciam conteúdo violativo podem acompanhar o resultado da denúncia por meio do Centro de Segurança no aplicativo.
 
-Regularmente, relatamos nossos esforços de moderação por meio de uma série de [relatórios de transparência](https://www.tiktok.com/safety/pt-BR/transparency/reports) em nosso Centro de Transparência.
+Regularmente, relatamos nossos esforços de moderação por meio de uma série de [relatórios de transparência](/safety/pt-BR/transparency/reports) em nosso Centro de Transparência.
 
 ### Proteger nossa plataforma
 
