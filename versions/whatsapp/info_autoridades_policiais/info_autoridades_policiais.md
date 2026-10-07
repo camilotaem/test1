@@ -31,7 +31,7 @@ Tomaremos as medidas necessárias para preservar os registros das contas relacio
 
 ## Solicitações emergenciais
 
-Ao responder a uma situação que envolva risco iminente para uma criança, ou risco de morte ou de danos físicos graves para qualquer pessoa e que exija a divulgação imediata de informações, as autoridades policiais poderão usar o [Sistema de solicitações online para autoridades públicas](https://www.whatsapp.com/records/login/) para enviar uma solicitação. Para que possamos processar pedidos como esse com rapidez, recomendamos que você escreva a palavra "EMERGÊNCIA" no campo de assunto da sua mensagem. Saiba mais sobre solicitações de dados de usuários por autoridades governamentais [neste artigo.](https://faq.whatsapp.com/general/about-government-requests-for-user-data)
+Ao responder a uma situação que envolva risco iminente para uma criança, ou risco de morte ou de danos físicos graves para qualquer pessoa e que exija a divulgação imediata de informações, as autoridades policiais poderão usar o [Sistema de solicitações online para autoridades públicas](https://www.whatsapp.com/records/login/) para enviar uma solicitação. Para que possamos processar pedidos como esse com rapidez, recomendamos que você escreva a palavra "EMERGÊNCIA" no campo de assunto da sua mensagem. Saiba mais sobre pedidos do governo relacionados a dados de usuários [neste artigo.](https://faq.whatsapp.com/general/about-government-requests-for-user-data)
 
 **Observação**: só analisaremos e responderemos a solicitações enviadas pelas autoridades. Use um endereço de email oficial para enviar solicitações emergenciais. Usuários que tenham conhecimento de situações emergenciais devem entrar em contato com as autoridades locais imediatamente.
 
