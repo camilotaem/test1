@@ -69,7 +69,7 @@ A lista acima traz apenas alguns exemplos.
 
 Pedimos que os criadores avisem quando o conteúdo que parece realista foi gerado ou alterado com IA. Os criadores de conteúdo podem informar isso durante o processo de upload.
 
-Computador AndroidiPhone e iPad
+Computador Celular e tablet AndroidiPhone e iPad
 
 Mais 
 

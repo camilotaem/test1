@@ -18,7 +18,7 @@ O recurso de denúncia no próprio anúncio está disponível apenas no YouTube 
 
 Observação: se você encontrar um dos seus vídeos sendo usado como publicidade e quiser saber como as visualizações de anúncio podem afetar o desempenho do seu conteúdo, entre em contato com nossa equipe de [suporte para criadores](/youtube/gethelp).
 
-Computador AndroidiPhone e iPad
+Computador Celular e tablet AndroidiPhone e iPad
 
 Mais 
 

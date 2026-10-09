@@ -8,7 +8,7 @@ Antes de começar, confira a [política relacionada à advertência](/youtube/to
 
 ## Contestar a remoção de um vídeo
 
-Computador AndroidiPhone e iPad
+Computador Celular e tablet AndroidiPhone e iPad
 
 Mais 
 

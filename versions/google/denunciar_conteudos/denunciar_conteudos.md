@@ -17,7 +17,7 @@ Inscreva-se no [canal Ajuda do YouTube](https://www.youtube.com/channel/UCMDQxm7
 
 ## Como denunciar conteúdo
 
-Computador AndroidiPhone e iPad
+Computador Celular e tablet AndroidiPhone e iPad
 
 Mais 
 
