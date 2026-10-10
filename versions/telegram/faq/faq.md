@@ -876,11 +876,11 @@ A Apple criou rótulos de privacidade para informar os usuários sobre quais dad
 
 #### P: Por que tem duas versões do Telegram na Loja do Mac?
 
-Um é o nosso [aplicativo nativo para macOS](http://macos.telegram.org/), o outro é o Telegram Lite, a versão macOS do nosso [cliente multiplataforma](https://desktop.telegram.org/). Ambos os aplicativos são oficiais. Ambos começaram como aplicativos não-oficiais por dois desenvolvedores diferentes e variam em design e funcionalidade.
+Um é nosso [aplicativo para macOS](https://macos.telegram.org), e o outro é o Telegram Lite, a versão para macOS do nosso [cliente multiplataforma](https://desktop.telegram.org). Ambos são aplicativos oficiais. Os dois começaram como aplicativos não oficiais, desenvolvidos por pessoas diferentes, e apresentam diferenças de design e funcionalidades.
 
-O [Telegram para macOS](http://macos.telegram.org/) tem compatibilidade com muitos recursos específicos da plataforma, como a Touch Bar do MacBook Pro, navegação por gestos, integração com o menu Compartilhar do Mac e muito mais. Ele tem todos os recursos da versão iOS do aplicativo, incluindo chats secretos.
+O [Telegram para macOS](https://macos.telegram.org) oferece diversos recursos específicos da plataforma, como suporte à Touch Bar do MacBook Pro, navegação por gestos, integração com o menu Compartilhar do Mac e muito mais. Ele inclui todos os recursos da versão para iOS, incluindo os Chats Secretos.
 
-O [Telegram Lite](https://desktop.telegram.org/) é um aplicativo extremamente rápido, otimizado para tarefas relacionadas ao trabalho e para lidar com grandes comunidades. Ele oferece uma interface de três colunas, perfeita para multitarefas e acesso rápido às mídias, aos arquivos e links compartilhados em seus chats. Esse aplicativo também pode ser usado para [exportar os seus dados e chats do Telegram](https://telegram.org/blog/export-and-more).
+O [Telegram Lite](https://desktop.telegram.org) é um aplicativo extremamente rápido, otimizado para tarefas profissionais e para gerenciar grandes comunidades. Ele oferece uma interface de três colunas, ideal para realizar várias tarefas ao mesmo tempo e acessar rapidamente mídias, arquivos e links compartilhados em suas conversas.
 
 #### P: Posso traduzir o Telegram?
 
@@ -919,9 +919,9 @@ Se você está tendo problemas de registro ou login, entre em contato usando [es
 
 #### Receber um código via chamada telefônica
 
-Por motivos de segurança, códigos de login ditados via chamada telefônica só estão disponíveis para contas que têm a verificação em duas etapas ativada (Configurações > Privacidade e Segurança > Verificação em Duas Etapas).
+Por motivos de segurança, os códigos de login ditados por chamada telefônica podem estar indisponíveis para determinadas operadoras ou exigir que a **verificação em duas etapas** esteja ativada (Configurações > Privacidade e Segurança > Verificação em Duas Etapas).
 
-Por favor, note também que contas no Telegram só podem ser conectadas a um número de celular. No momento, não temos compatibilidade com números fixos.
+Observe também que as contas do Telegram só podem ser vinculadas a um número de celular. Atualmente, não oferecemos suporte a números de telefone fixo.
 
 #### Receber um código via Telegram
 

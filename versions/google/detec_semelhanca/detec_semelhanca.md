@@ -2,14 +2,16 @@
 
 Esse recurso permite que criadores encontrem vídeos no YouTube em que o rosto deles foi modificado ou gerado por IA. Quando algum conteúdo relevante é encontrado, os criadores podem analisar e decidir o que fazer, inclusive pedir a remoção pelo [processo para denúncia de violação de privacidade](/youtube/answer/142443). A detecção de semelhanças dá aos criadores mais controle sobre a própria imagem, protege a identidade deles e cuida do público.
 
+[Likeness Detection on YouTube](//www.youtube.com/watch?v=UcZth960DqM)
+
 ## Requisitos de qualificação
 
 No momento, a detecção de semelhanças é um recurso experimental e não está disponível em alguns países. Além disso, os criadores precisam atender aos seguintes critérios:
 
 * **Idade**: é preciso ter mais de 18 anos.
-* **Permissões do canal**: você precisa ter acesso de **Proprietário** ou ter a **função de admin**. Saiba mais sobre as [permissões do canal](/youtube/answer/9481328).
-  + Pessoas com acesso de **Proprietário**, **Admin**, **Editor** e **Editor (limitado)** podem analisar correspondências e denunciar violações de privacidade em nome do **proprietário** ou **admin** do canal com a detecção de semelhanças configurada.
-* **Verificação**: é necessário enviar um documento de identidade oficial e gravar um vídeo curto do seu rosto (de selfie) para concluir o processo de verificação. Esse conteúdo também é usado como referência para o sistema identificar vídeos com suas semelhanças.
+* **Permissões do canal**: você precisa ter acesso de **Proprietário** ou ter a **função de administrador**. Saiba mais sobre as [permissões do canal](/youtube/answer/9481328).
+  + Pessoas com acesso de **Proprietário**, **Administrador**, **Editor** e **Editor (limitado)** podem analisar correspondências e denunciar violações de privacidade em nome do **proprietário** ou **administrador** do canal com a detecção de semelhanças configurada.
+* **Verificação**: é necessário enviar um documento de identidade oficial e gravar um vídeo curto do seu rosto (de selfie) para concluir o processo de verificação. Essa selfie também é usada como referência para o sistema identificar vídeos com suas semelhanças.
 
 ## Como a detecção de semelhanças funciona
 
@@ -18,25 +20,26 @@ O YouTube usa sistemas automatizados para [analisar conteúdo](/youtube/answer/1
 Veja outros pontos importantes sobre como a detecção de semelhanças funciona:
 
 * **Correspondências faciais**: no momento, o recurso é usado apenas para detectar correspondências do rosto de um criador cadastrado. Nosso objetivo é estender a detecção de semelhanças para áudio em breve.
-  + Se você encontrar conteúdo com sua voz que acredita estar violando nossa [Política de Privacidade](/youtube/answer/7671399), reporte o caso usando o [processo para denúncia de violação de privacidade](/youtube/answer/142443).
-* **Pessoas não cadastradas**: para identificar correspondências de rostos, o recurso analisa outras pessoas no conteúdo, além dos criadores cadastrados. No entanto, a tecnologia só identifica semelhanças de criadores cadastrados que tenham consentido o uso do recurso e enviado uma referência do rosto. Não é possível identificar outras pessoas em vídeos com a detecção de semelhanças. Descartamos imediatamente os dados de detecção de semelhanças de rostos que não correspondem ao de um criador cadastrado.
-* **Imagens reais**: nesta fase de testes, o recurso pode mostrar vídeos com os rostos reais dos criadores cadastrados, e não alterados ou gerados com IA. Por exemplo, você pode ver clipes curtos de vídeos do YouTube enviados por outros canais. Não é possível remover esse conteúdo de acordo com nossas Políticas de Privacidade. No entanto, em casos de usos não autorizados, você pode enviar um [pedido de remoção por direitos autorais](/youtube/answer/2807622). Antes disso, considere se o [uso aceitável](/youtube/answer/9783148), o [domínio público](/youtube/answer/2797466#public_domain) ou uma outra exceção de direitos autorais se aplica.
+  + Se você encontrar conteúdo com sua voz que acredita estar violando nossa [Política de Privacidade](/youtube/answer/7671399), reporte o caso usando o [Processo para denúncia de violação de privacidade](/youtube/answer/142443).
+
+* **Pessoas não cadastradas**: para identificar correspondências de rostos, o recurso analisa outras pessoas no conteúdo, além dos criadores cadastrados. No entanto, a tecnologia só identifica semelhanças de criadores cadastrados que tenham autorizado o uso do recurso e enviado uma referência do rosto. Não é possível identificar outras pessoas em vídeos com a detecção de semelhanças. Descartamos imediatamente os dados de detecção de semelhanças de rostos que não correspondem ao de um criador cadastrado.
+* **Imagens reais**: nesta fase experimental, o recurso pode mostrar vídeos com os rostos reais dos criadores cadastrados, e não alterados ou gerados com IA. Por exemplo, você pode ver clipes curtos de vídeos do YouTube enviados por outros canais. Não é possível remover esse conteúdo de acordo com nossas Políticas de Privacidade. No entanto, em casos de usos não autorizados, você pode enviar um [pedido de remoção por direitos autorais](/youtube/answer/2807622). Antes disso, considere se o [uso aceitável](/youtube/answer/9783148), o [domínio público](/youtube/answer/2797466#public_domain) ou uma outra exceção de direitos autorais se aplica.
 
 Se você se inscreveu na detecção de semelhanças, [envie feedback](/youtube/answer/4347644) para ajudar a melhorar o recurso durante a fase experimental.
 
 ## Configurar a detecção de semelhanças
 
-Se você atende aos requisitos de qualificação, saiba como começar a gerenciar a imagem do seu rosto no YouTube:
+Se você atende aos requisitos de qualificação, saiba como começar a gerenciar sua semelhança no YouTube:
 
 1. Abra o [YouTube Studio](https://studio.youtube.com) em um computador.
 2. No menu à esquerda, selecione **Detecção de conteúdo** ![e depois](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) **Semelhanças** ![e depois](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) **Comece agora**.
 3. Concorde com o uso da tecnologia de biometria do YouTube para procurar sua semelhança na plataforma.
-   * Para pesquisar semelhanças de imagem, vamos pedir que você envie uma referência do seu rosto. No caso do áudio, vamos processar dados do seu conteúdo no YouTube e talvez pedir que você envie uma referência da sua voz depois. Ao concordar com isso, você autoriza o processamento de dados para essas finalidades.
+   * Para pesquisar semelhanças de imagem, vamos pedir que você envie uma referência do seu rosto. No caso do áudio, vamos processar dados do seu conteúdo no YouTube e talvez pedir que você envie uma referência da sua voz depois. Ao concordar com isso, você autoriza o tratamento de dados para essas finalidades.
 4. Conclua o processo de confirmação de identidade do Google.
    * Forneça um documento de identidade oficial e envie um vídeo curto do seu rosto para a confirmação. Isso ajuda a evitar usos fraudulentos e abusivos da detecção de semelhanças. Também usamos o vídeo curto e imagens do seu rosto em conteúdo do YouTube para identificar vídeos com semelhanças possivelmente alteradas ou geradas por IA. Use uma imagem nítida do seu documento de identidade oficial para fazer a confirmação.
-5. Repita as etapas acima para cada pessoa que aparece no vídeo e quer se inscrever para usar o recurso.
+5. Repita as etapas acima para cada pessoa que aparece nos vídeos do canal e quer se inscrever para usar o recurso.
 
-**Observação**: depois que o documento e o vídeo de selfie forem enviados, o processo de verificação pode levar até 5 dias. Depois disso, você vai receber um e-mail de confirmação.
+**Observação**: depois que o documento e o vídeo de selfie forem enviados, o processo de verificação pode levar até 5 dias. Quando ele terminar, você vai receber um e-mail de confirmação.
 
 ## Analise as correspondências e decida o que fazer
 
@@ -49,7 +52,7 @@ Quando a detecção de semelhanças encontra uma possível correspondência, voc
 4. Para ver detalhes, selecione **Analisar** ao lado de um vídeo.
 5. Analise o vídeo e escolha uma ação:
    * **Enviar um pedido de remoção de semelhanças**: escolha essa opção se você acha que o vídeo viola nossa [Política de Privacidade](/youtube/answer/7671399). Preencha as informações necessárias no [processo para denúncia de violação de privacidade](/youtube/answer/142443). Saiba como [gerenciar denúncias de violação de privacidade](#manage).
-   * **Enviar um pedido de remoção por direitos autorais**: escolha essa opção se o conteúdo original protegido por direitos autorais foi usado sem sua permissão e você quer enviar um [pedido de remoção por direitos autorais](/youtube/answer/2807622). Verifique antes se outra exceção de direitos autorais, como [uso aceitável](/youtube/answer/9783148) ou [domínio público](/youtube/answer/2797466#public_domain), se aplica.
+   * **Enviar um pedido de remoção por direitos autorais**: escolha essa opção se o conteúdo original protegido por direitos autorais foi usado sem sua permissão e você quer [pedir a remoção por direitos autorais](/youtube/answer/2807622). Verifique antes se outra exceção de direitos autorais, como [uso aceitável](/youtube/answer/9783148) ou [domínio público](/youtube/answer/2797466#public_domain), se aplica.
    * **Mover para o arquivo**: se quiser remover o vídeo da sua lista de análise e mantê-lo ativo no YouTube, selecione essa opção. Você pode voltar à guia **Arquivados** a qualquer momento, encontrar o vídeo e iniciar o [processo para denúncia de violação de privacidade](/youtube/answer/142443).
 
 ## Gerenciar denúncias de violação de privacidade
@@ -96,14 +99,14 @@ Como meus dados serão usados se meu rosto aparecer em um vídeo do YouTube?
 
 A detecção de semelhanças faz uma verificação única e automática dos vídeos enviados recentemente ao YouTube para identificar aqueles que podem conter o rosto de cada criador que configurou o recurso. Para encontrar correspondências dos rostos desses criadores, nosso sistema vai analisar e detectar os rostos deles e de outras pessoas presentes, incluindo adultos e crianças. As verificações são descartadas imediatamente depois e não podem ser usadas para identificar ninguém além dos criadores que se inscreveram para usar o recurso.
 
-Processamos os dados dos criadores cadastrados conforme descrito neste artigo, com base no consentimento, e usamos interesses legítimos para os outros tratamentos. Para mais informações sobre os interesses legítimos do Google e de terceiros, além das formas de evitar abusos e proteger nossos usuários e o público, consulte a [Política de Privacidade do Google](https://policies.google.com/privacy).
+Tratamos os dados dos criadores cadastrados conforme descrito neste artigo, com base no consentimento, e usamos interesses legítimos para os outros tratamentos. Para mais informações sobre os interesses legítimos do Google e de terceiros, além das nossas formas de evitar abusos e proteger nossos usuários e o público, consulte a [Política de Privacidade do Google](https://policies.google.com/privacy).
 
 Como meus dados serão usados se eu me inscrever para usar a ferramenta de detecção de semelhanças?
 
-Se você configurar o recurso, vamos processar seus dados para criar modelos de semelhanças usando:
+Se você configurar o recurso, vamos tratar seus dados para criar modelos de semelhanças usando:
 
 * O vídeo curto que você enviou durante o processo de confirmação de identidade
-* o conteúdo dos vídeos que você envia no YouTube, incluindo imagens do seu rosto.
+* O conteúdo dos vídeos que você envia no YouTube, incluindo imagens do seu rosto
 
 Tudo isso será usado para detectar quando sua imagem está sendo usada em conteúdo alterado ou gerado por IA no YouTube.
 
@@ -125,7 +128,7 @@ O YouTube aplica o reconhecimento facial em todas as pessoas que aparecem nos v�
 
 Não. A detecção de semelhanças só identifica criadores cadastrados que concordaram em permitir que o YouTube use o rosto deles para detectar semelhanças em vídeos. O recurso não envolve o reconhecimento facial de mais ninguém que apareça nos vídeos porque não foi projetado para isso e não pode identificar pessoas que não sejam os criadores que se inscreveram para usar a ferramenta.
 
-O vídeo do meu rosto para verificação será usado em outros recursos de IA?
+Minha selfie para verificação será usada em outros recursos de IA?
 
 Não. Vamos usar esses dados apenas para confirmar sua identidade e configurar o recurso para você, a menos que você tenha concordado expressamente em permitir que o YouTube use seus modelos de rosto e voz para [melhorar os modelos de detecção de semelhanças](#improve_models). Os dados fornecidos para configurar a detecção de semelhanças não são usados para treinar os modelos de IA generativa do Google sem seu consentimento.
 
