@@ -23,7 +23,7 @@ Se você acredita que você ou qualquer outra pessoa está em perigo iminente, e
 
 **Observações**:
 
-* Você não receberá ligações nem mensagens de números ou contatos bloqueados.
+* Você não receberá ligações nem mensagens de contatos ou números de telefone bloqueados.
 * Caso você se preocupe que os contatos bloqueados saibam que você os bloqueou, leia [este artigo](https://faq.whatsapp.com/666362298345682?helpref=faq_content).
 * Se você criar uma nova conta do WhatsApp, será necessário bloquear essas pessoas manualmente.
 * O contato bloqueado continua aparecendo na sua lista de contatos e você continua aparecendo na lista de contatos dessa pessoa. Para apagar um contato, você precisa apagá-lo da agenda de contatos do seu celular.

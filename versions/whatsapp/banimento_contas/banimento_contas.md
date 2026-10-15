@@ -1,15 +1,17 @@
 # Sobre o banimento de contas
 
-Caso sua conta tenha sido banida, a seguinte mensagem será exibida quando você tentar acessar o WhatsApp: **"Este número não pode usar o WhatsApp: [telefone]. Você pode pedir uma análise desse número de telefone. A maioria das análises é concluída em até 24 horas."**
+Caso seu número de telefone tenha sido banido, a seguinte mensagem será exibida quando você tentar acessar o WhatsApp: **"Este número não pode usar o WhatsApp: [número de telefone]. Você pode pedir uma análise desse número de telefone. A maioria das análises é concluída em até 24 horas."**
+
+Se você está usando um número de telefone novo no WhatsApp, é possível que a pessoa que usou esse número antes de você tenha violado nossos Termos de Serviço e que essa violação tenha resultado no banimento da conta.
 
 ## Como pedir uma análise
 
 1. Toque em **Pedir análise** no app.
-2. Você receberá uma notificação do WhatsApp assim que analisarmos a conta e tomarmos uma decisão.
+2. Você receberá uma notificação do WhatsApp assim que analisarmos sua conta e tomarmos uma decisão.
 
-Analisamos apenas um número de telefone por apelação. Caso a opção para pedir uma análise não seja exibida, significa que o banimento é definitivo e não é possível contestá-lo.
+Quando a opção para pedir uma análise não é exibida, significa que o banimento é definitivo e não é possível contestá-lo.
 
-Para acompanhar o status do seu pedido, acesse o WhatsApp. Lembre-se de que entrar em contato com o WhatsApp fora do processo de análise ou usando a conta de outra pessoa não acelera esse processo nem influencia nossa decisão. Saiba o que fazer depois que o banimento da sua conta for cancelado [neste artigo](https://faq.whatsapp.com/1297640017664693?helpref=faq_content).
+Para acompanhar o status do seu pedido, acesse o WhatsApp. Lembre-se de que entrar em contato com o WhatsApp fora do processo de análise ou usando a conta de outra pessoa não acelera esse processo nem influencia nossa decisão. Só analisamos um número de telefone por apelação. Saiba o que fazer depois que o banimento da sua conta for cancelado [neste artigo](https://faq.whatsapp.com/1297640017664693?helpref=faq_content).
 
 Lembre-se de que serviços de terceiros não podem banir sua conta do WhatsApp nem cancelar o banimento da sua conta. Somente o WhatsApp pode banir ou cancelar o banimento de contas do WhatsApp.
 
@@ -19,9 +21,13 @@ Recomendamos que você leia atentamente a seção [Uso aceitável de nossos Serv
 
 Você não poderá acessar seu histórico de conversas nem os backups enquanto sua conta estiver banida. Só será possível acessar o backup da conta do WhatsApp depois que o banimento do número de telefone associado ao backup for suspenso.
 
+Para acessar sua conta do WhatsApp após o banimento ser cancelado, será necessário verificar sua conta com seu número de telefone. Acesse nosso site para baixar o [WhatsApp](https://www.whatsapp.com/download/) ou o app [WhatsApp Business](https://whatsappbusiness.com/).
+
+**Observação**: não oferecemos suporte a apps ou versões não autorizadas do WhatsApp, nem a dispositivos não compatíveis ou com jailbreak ou root. Saiba mais sobre os sistemas operacionais compatíveis [neste artigo](https://faq.whatsapp.com/1150261202542208?helpref=faq_content). Para mais informações sobre apps não oficiais e por que não oferecemos suporte a esses apps, leia [este artigo](https://faq.whatsapp.com/1217634902127718?helpref=faq_content).
+
 ## Artigos relacionados
 
-* [Sobre o banimento de contas no app WhatsApp Business](https://faq.whatsapp.com/723378546580115?helpref=faq_content)
+* [Sobre o banimento de contas no WhatsApp Business](https://faq.whatsapp.com/723378546580115?helpref=faq_content)
 * [Sobre contas restritas](https://faq.whatsapp.com/717472490411581?helpref=faq_content)
 * [Sobre o banimento de contas no caso de uso de apps não oficiais](https://faq.whatsapp.com/1064395290901991?helpref=faq_content)
 * [Sobre contas temporariamente banidas](https://faq.whatsapp.com/1848531392146538?helpref=faq_content)
