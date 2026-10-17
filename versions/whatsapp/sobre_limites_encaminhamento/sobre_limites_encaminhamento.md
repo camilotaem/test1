@@ -17,7 +17,7 @@ Essas medidas ajudam a manter as conversas do WhatsApp pessoais. Além disso, el
 
 Caso queira compartilhar um conteúdo com várias pessoas de uma só vez, recomendamos que você crie um grupo ou compartilhe links. Saiba como criar um grupo e convidar pessoas [neste artigo](https://faq.whatsapp.com/3242937609289432/?helpref=faq_content).
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/795253779_1439520378080561_4351654154149377432_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=ddhqoj7FGUUQ7kNvwGf43sE&_nc_oc=AdpRXNlwa_moqI7Dz-_yMcU94cYN8_7oH_B8ok2PJGae0CIvV4qIcSvrF50rgm9rwhk&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=37-Zj1y4_KZimwHmuIyXrg&_nc_ss=7f289&oh=01_Q5Aa5wHWpvxBdngz9A5gXhubsNniR5tZhLdSifisTl_YA1lN5g&oe=6AD7F52C)
+![](https://scontent.whatsapp.net/v/t39.8562-34/795253779_1439520378080561_4351654154149377432_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=EvvLejIDbrEQ7kNvwFaRQho&_nc_oc=AdpnfuuUayQ7XlJGf2RejCLUzbfS5xi8ZrMW2i7_92nTZDHHcVR-VkauAGK8pXQaUvo&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=n6CJo87F9zvAJ0Kh1UIm5w&_nc_ss=7f289&oh=01_Q5Aa5wG8rzPW_mARcR1FZpS0qnJu1cKgIFeEhac1okJHetBR1g&oe=6AD90E6C)
 
 ## Mensagens encaminhadas e a criptografia de ponta a ponta
 
