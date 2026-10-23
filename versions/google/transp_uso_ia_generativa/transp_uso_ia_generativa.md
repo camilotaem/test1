@@ -2,9 +2,9 @@
 
 Incentivamos os criadores de conteúdo a usar ferramentas de edição ou geração de conteúdo de maneira inovadora e responsável. Ao mesmo tempo, reconhecemos que os espectadores querem saber se o que estão assistindo ou ouvindo é mesmo real.
 
-Para ajudar a manter os espectadores informados sobre o conteúdo que estão assistindo, pedimos que os criadores divulguem quando usarem IA para alterar significativamente ou gerar conteúdo fotorrealista.
+Os criadores precisam declarar quando o conteúdo que parece realista foi gerado ou alterado com IA. Isso pode ser feito durante o processo de upload.
 
-Os criadores precisam fazer a declaração quando o conteúdo gerado por IA:
+É preciso fazer a declaração quando o conteúdo gerado por IA:
 
 * faz com que uma pessoa real pareça dizer ou fazer algo que ela não disse ou fez.
 * altera a filmagem de um evento ou lugar real.
@@ -21,13 +21,13 @@ Depois que o criador selecionar esse campo e enviar o conteúdo, o público ver�
 
 ### Exemplos de conteúdo da IA generativa
 
-A lista a seguir traz exemplos de conteúdo de IA, que pode ser gerado ou alterado, total ou parcialmente, usando qualquer ferramenta de edição ou criação de áudio, vídeo e imagem. Conteúdo realista e com mudanças significativas precisa informar que foi alterado, ao contrário de edições irrealistas ou de menor importância. Esta não é uma lista completa.
+A lista a seguir inclui exemplos de conteúdo de IA. O conteúdo de IA é qualquer áudio, vídeo ou imagem criado ou alterado, no todo ou em parte, com o uso de ferramentas de inteligência artificial. Conteúdo realista e com mudanças significativas precisa informar que foi alterado, ao contrário de edições irrealistas ou de menor importância. Esta não é uma lista completa.
 
-## Exemplos de conteúdos que os criadores não precisam informar que foram alterados
+## Exemplos de conteúdo que os criadores não precisam informar que foram alterados
 
 Os criadores de conteúdo não precisam declarar que um conteúdo irrealista foi feito com IA, nem que fizeram edições pequenas em um conteúdo realista. Edições pequenas são ajustes essencialmente estéticos que não alteram o conteúdo a ponto de enganar o espectador sobre o que realmente aconteceu
 
-Exemplos de conteúdos, edições ou assistências de vídeos que os criadores não precisam informar:
+Exemplos de conteúdos, edições ou auxílios na produção do vídeo que não exigem declaração:
 
 * **Não é realista**
   + Alguém montado em um unicórnio em um mundo fantástico
@@ -52,11 +52,11 @@ A lista acima traz apenas alguns exemplos.
 
 Para ajudar a manter os espectadores informados sobre o conteúdo que estão assistindo, pedimos que os criadores avisem quando um conteúdo que parece realista for gerado ou alterado significativamente com IA.
 
-Exemplos de conteúdos, edições ou assistências de vídeos que os criadores precisam informar:
+Exemplos de conteúdos, edições ou auxílios na produção do vídeo que exigem declaração:
 
 * Música gerada com IA
 * Filmagem extra de um lugar real gerada com IA, como o vídeo de um surfista em Maui para um vídeo promocional de viagem
-* Vídeos realistas gerados por IA de uma partida entre dois jogadores de tênis profissionais que existem
+* Vídeos realistas gerados com IA de uma partida entre dois jogadores de tênis profissionais
 * Fazer parecer que alguém deu conselhos que não deu
 * Mostrar uma representação realista de um tornado ou outros eventos climáticos que não aconteceram de fato se movendo em direção a uma cidade real
 * Fazer parecer que os trabalhadores de um hospital deixaram de lado pacientes doentes ou feridos
@@ -67,7 +67,7 @@ A lista acima traz apenas alguns exemplos.
 
 ## Como declarar conteúdo de IA generativa
 
-Pedimos que os criadores avisem quando o conteúdo que parece realista foi gerado ou alterado com IA. Os criadores de conteúdo podem informar isso durante o processo de upload.
+Os criadores precisam declarar quando o conteúdo que parece realista foi gerado ou alterado com IA. Isso pode ser feito durante o processo de upload. Artistas do meio musical podem ler o seguinte artigo para [saber como divulgar o uso de IA generativa em conteúdo musical](/youtube/answer/17124251).
 
 Computador Smartphone e tablet AndroidiPhone e iPad
 
@@ -86,19 +86,19 @@ Mais
 
 Se os criadores selecionarem "Sim" para indicar que o conteúdo é realista e foi gerado ou alterado significativamente com IA, vamos adicionar um rótulo ao vídeo.
 
-### Rótulo no player de vídeo para conteúdo fotorrealista de IA
+### Rótulo no player de vídeo para conteúdos fotorrealistas ou áudios gerados por IA
 
-No caso de conteúdo fotorrealista, um rótulo também pode aparecer no player de vídeo.
+No caso de áudios ou conteúdos fotorrealistas gerados com IA, um rótulo também pode aparecer no player de vídeo.
 
 ![](//lh3.googleusercontent.com/VfU1ahY4TXaHP6uTwr7SvMHWkiCbtdzB9r6VCaHplsfp8MJ9FmOhyBqJhP1BYvlw_A=w895)
 
 ### Rótulo no campo de descrição expandido
 
-Os rótulos podem aparecer na descrição expandida de conteúdo de IA animado ou que não é fotorrealista.
+Os rótulos podem aparecer na descrição expandida de conteúdo de IA animado ou que não é fotorrealista, ou de áudio gerado com IA que não é música.
 
 ![classificação de conteúdo sintético ou alterado](//lh3.googleusercontent.com/_k2LuyJV7oNElRFIf1bgSA0b64V5w6Zc2UlHS9t5W0OJtw5Rpz-TJsN19cIv5lOUhF5j=w500)
 
-**Observação**: declarar que o conteúdo foi gerado por IA não limita o público do vídeo nem afeta a qualificação dele para gerar receita.
+**Observação**: declarar conteúdo de IA por si só não limita o público do vídeo nem afeta a qualificação para gerar receita.
 
 #### Detecção automática de conteúdo de IA
 
