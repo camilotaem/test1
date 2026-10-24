@@ -1,4 +1,4 @@
-# Política de conteúdo nocivo ou perigoso
+# Política de conteúdo prejudicial ou perigoso
 
 O YouTube não permite conteúdo que incentive atividades ilegais ou perigosas com risco de danos físicos graves ou de morte. Em alguns casos, podemos abrir exceções para conteúdo com [contexto educacional, documental, científico ou artístico](/youtube/answer/6345162), incluindo conteúdo de interesse público.
 
@@ -6,27 +6,27 @@ Se você encontrar conteúdo que viola esta política, [faça uma denúncia](/yo
 
 **Escolha uma seção específica deste artigo:**
 
-* Consulte a [Política completa de conteúdo nocivo ou perigoso](#policy)
-* Confira [exemplos de conteúdo nocivo ou perigoso](#examples)
+* Consulte a [Política completa de conteúdo prejudicial ou perigoso](#policy)
+* Confira [exemplos de conteúdo prejudicial ou perigoso](#examples)
 * [Conteúdo com restrição de idade e remoção de vídeos](#age_restricted_removal)
-* [Conteúdo educativo, documental, científico ou artístico](#edsa)
+* [Conteúdo educacional, documental, científico ou artístico](#edsa)
 * [O que acontece se o conteúdo violar esta política?](#violations)
 
 **Importante**: esta política é válida para vídeos, descrições, comentários, transmissões ao vivo e todos os produtos ou recursos do YouTube. Estas políticas também se aplicam a [links externos](/youtube/answer/9054257) no seu conteúdo. Isso pode incluir URLs clicáveis, direcionamento verbal dos usuários para outros sites no vídeo, entre outros.
 
-## Política de conteúdo nocivo ou perigoso
+## Política de conteúdo prejudicial ou perigoso
 
 ### O que esta política significa para você
 
-**Observação**: a lista abaixo não está completa. Se você acreditar que seu conteúdo possa violar a política, não o publique.
+**Observação**: a lista abaixo menciona apenas alguns exemplos. Se você acreditar que seu conteúdo possa violar a política, não o publique.
 
 Estes tipos de conteúdo não são permitidos no YouTube:
 
-#### Atos, pegadinhas e desafios perigosos ou nocivos
+#### Atos, pegadinhas e desafios perigosos ou prejudiciais
 
 * **Desafios extremamente perigosos**: conteúdo que mostra desafios com risco iminente de lesões físicas.
-* **Pegadinhas perigosas ou ameaçadoras**: conteúdo que mostra pegadinhas em que as vítimas acreditam estar sujeitas a danos físicos graves e iminentes ou que geram estresse emocional grave em menores ou pessoas vulneráveis.
-* **Atos nocivos ou perigosos**: ações realizadas por adultos com risco de lesões graves ou morte.
+* **Pegadinhas perigosas ou ameaçadoras**: conteúdo que mostra pegadinhas em que as vítimas acreditam estar sujeitas a danos físicos graves e iminentes ou que geram sofrimento emocional grave em menores ou pessoas vulneráveis.
+* **Atos prejudiciais ou perigosos**: ações realizadas por adultos com risco de lesões graves ou morte.
 * **Participação de menores em atividades perigosas**: conteúdo que coloca em risco o bem-estar emocional e físico de pessoas com menos de 18 anos. Para mais informações, consulte nossa [Política de segurança infantil](/youtube/answer/2801999).
 
 #### Conteúdo com referências a armas
@@ -37,7 +37,7 @@ Estes tipos de conteúdo não são permitidos no YouTube:
 
 #### Conteúdo de segurança digital
 
-* **Instruções sobre roubos**: vídeos instrutivos postados com a intenção expressa de roubar bens físicos ou conseguir algo sem pagar nada.
+* **Instruções sobre roubos**: vídeos instrutivos postados com a intenção expressa de roubar bens físicos ou conseguir algo sem custo financeiro.
 * **Invasão de computadores**: conteúdo que demonstra como usar computadores ou tecnologia da informação com o objetivo de roubar credenciais, comprometer dados pessoais ou causar danos graves a outras pessoas.
 * **Instruções de como evitar o pagamento de serviços ou conteúdo digital**: conteúdo que mostra aos espectadores como conseguir acesso não autorizado a conteúdo, software ou serviços que normalmente exigem pagamento.
 * **Phishing**: conteúdo em que alguém engana os espectadores para conseguir informações particulares de identificação pessoal ou ensina a fazer isso.
@@ -51,11 +51,13 @@ Estes tipos de conteúdo não são permitidos no YouTube:
 
   Se você ou alguém que você conhece está enfrentando problemas com abuso de substâncias, jogos de azar, outros vícios ou questões de saúde mental, saiba que é possível pedir ajuda. Confira os recursos [aqui](https://www.samhsa.gov/).
 
-## Exemplos de conteúdo nocivo ou perigoso
+Os criadores precisam informar quando o conteúdo é gerado ou alterado significativamente com IA, mas essa declaração não é uma permissão para violar nossas políticas. Vale lembrar que as diretrizes da comunidade se aplicam a todo o conteúdo do YouTube, incluindo o que é gerado ou alterado com IA.
 
-Confira alguns exemplos de conteúdo nocivo ou perigoso que não é permitido no YouTube.
+## Exemplos de conteúdo perigoso ou nocivo
 
-**Observação**: a lista abaixo não está completa.
+Confira alguns exemplos de conteúdo prejudicial ou perigoso que não é permitido no YouTube.
+
+**Observação**: a lista abaixo menciona apenas alguns exemplos.
 
 ## Desafios extremamente perigosos
 
@@ -84,7 +86,7 @@ Confira alguns exemplos de conteúdo nocivo ou perigoso que não é permitido no
   + trotes ou denúncias falsas para a polícia;
   + invasões domiciliares ou roubos falsos;
   + sequestro falso.
-* **Causar estresse emocional a menores/pessoas vulneráveis**: qualquer pegadinha que cause estresse emocional ou medo de ameaça à segurança física de crianças ou outras pessoas vulneráveis. Por exemplo:
+* **Sofrimento emocional para menores/pessoas vulneráveis**: qualquer pegadinha que cause sofrimento emocional ou medo de ameaça à segurança física de crianças ou outras pessoas vulneráveis. Por exemplo:
   + suicídio ou morte falsos;
   + violência falsa;
   + fingir que pais ou responsáveis vão abandonar a criança;
@@ -92,7 +94,7 @@ Confira alguns exemplos de conteúdo nocivo ou perigoso que não é permitido no
 
 **Observação**: podemos aplicar a restrição de idade a conteúdo com pegadinhas que envolva adultos e não viole nossas políticas. Também podemos aprovar conteúdo com contexto educativo ou documental.
 
-## Atos perigosos ou nocivos
+## Atos perigosos ou prejudiciais
 
 * **Risco de lesões graves ou morte**: comportamentos que mostrem adultos correndo risco de lesões corporais graves ou morte, principalmente se alguém que estiver assistindo puder imitar o ato perigoso ou elogiar esse ato. Os atos incluem, mas não se limitam a, ações nas categorias listadas em [Desafios extremamente perigosos](#dangerous_challenges) acima, como os que apresentam risco de asfixia ou eletrocussão.
   + Também não permitimos conteúdo que mostre atos perigosos realizados por menores. Isso inclui conteúdo que mostre menores:
@@ -117,7 +119,7 @@ Confira alguns exemplos de conteúdo nocivo ou perigoso que não é permitido no
 
 ## Conteúdo com restrição de idade
 
-**Observação**: a lista abaixo não está completa.
+**Observação**: a lista abaixo menciona apenas alguns exemplos.
 
 Às vezes, o conteúdo não viola nossas políticas, mas pode não ser apropriado para espectadores com menos de 18 anos.
 
@@ -137,7 +139,7 @@ Saiba mais sobre [conteúdo com restrição de idade](/youtube/answer/2802167) e
 * Conteúdo que mostra adultos usando tasers em outros participantes ou em si mesmos.
 * Conteúdo que mostra um atleta de parkour adulto reagindo a vídeos de acrobacias amadoras altamente perigosas e comentando sobre os riscos de ferimentos.
 
-## Conteúdo educativo, documental, científico ou artístico
+## Conteúdo educacional, documental, científico ou artístico
 
 Às vezes, os vídeos que violam esta política não são retirados do YouTube. Isso acontece quando eles têm um contexto educacional, documental, científico ou artístico (EDCA). Também podemos abrir exceções para conteúdo de interesse público, como processos legislativos ou parlamentares, discursos de campanha ou debates sobre ações governamentais em andamento. Isso não significa que permitimos a promoção de atividades perigosas ou ilegais que possam causar danos físicos graves ou morte. [Saiba como o YouTube avalia o conteúdo EDCA.](/youtube/answer/6345162)
 

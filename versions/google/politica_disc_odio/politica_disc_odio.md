@@ -11,7 +11,7 @@ O discurso de ódio não é permitido no YouTube. Não permitimos conteúdo que 
 * Nacionalidade
 * Religião
 * Sexo, gênero ou orientação sexual
-* Veteranos de guerra
+* Status de veterano
 * Vítimas de um conflito violento e os familiares dessas pessoas
 
 Em alguns casos, podemos abrir exceções para conteúdo com [contexto educacional, documental, científico ou artístico](/youtube/answer/6345162), incluindo conteúdo de interesse público.
@@ -33,11 +33,11 @@ Não publique conteúdo no YouTube se o objetivo dele for:
 * Exaltar ou promover a violência contra indivíduos ou grupos com base no status de grupo minoritário protegido.
 * Usar insultos raciais, religiosos ou de qualquer outro tipo e estereótipos para incitar ou promover o ódio com base no status de grupo minoritário protegido de alguém. Isso inclui discursos, textos ou imagens que promovam estereótipos ou os representem como fatos.
 * Afirmar que pessoas ou grupos são fisicamente ou mentalmente inferiores, deficientes ou doentes por pertencerem a um grupo protegido por lei. Isso inclui declarações de que um grupo é menos desenvolvido do que outro em termos de inteligência e capacidade, além do apoio à subjugação ou ao domínio sobre pessoas ou grupos que pertencem a uma minoria protegida.
-* Promover a supremacia de ódio ao alegar a superioridade de um grupo sobre outros com status de grupo minoritário protegido para justificar violência, discriminação, segregação ou exclusão. Isso inclui conteúdo com propaganda supremacista de ódio, como o recrutamento de novos membros ou pedidos de apoio financeiro, além de vídeos de música promovendo essa ideologia nas letras, nos metadados ou nas imagens.
+* Promover a intolerância ao alegar a superioridade de um grupo sobre outros com status de grupo minoritário protegido para justificar violência, discriminação, segregação ou exclusão. Isso inclui conteúdo com propaganda supremacista de ódio, como o recrutamento de novos membros ou pedidos de apoio financeiro, além de vídeos de música promovendo essa ideologia nas letras, nos metadados ou nas imagens.
 * Promover teorias da conspiração afirmando que pessoas ou grupos são maus, corruptos ou maliciosos com base no status de grupo minoritário protegido.
 * Negar ou minimizar um conflito violento bem documentado ou a vitimização de pessoas causada por um evento desse tipo.
 
-## Conteúdo educativo, documental, científico e artístico
+## Conteúdo educacional, documental, científico e artístico
 
 Conteúdo com discurso de ódio pode ser permitido se o vídeo tiver contexto educacional, documental, científico ou artístico. Esse contexto inclui condenar, refutar, mostrar opiniões contrárias ou satirizar discursos de ódio. Também podemos abrir exceções para conteúdo de interesse público, como processos legislativos ou parlamentares, discursos de campanha ou debates sobre ações governamentais em andamento. Isso não significa que permitimos promover esse tipo de discurso. Por exemplo:
 
@@ -47,7 +47,9 @@ Conteúdo com discurso de ódio pode ser permitido se o vídeo tiver contexto ed
 
 A política é aplicável a vídeos, descrições, comentários, transmissões ao vivo e qualquer outro produto ou recurso do YouTube. Essas políticas também se aplicam a [links externos](/youtube/answer/9054257) no seu conteúdo. Isso pode incluir URLs clicáveis, direcionamento verbal dos usuários para outros sites no vídeo, entre outros.
 
-Para conteúdo educativo, documental, científico e artístico que inclua discurso de ódio, o contexto precisa aparecer nas imagens ou no áudio do próprio vídeo. Fornecer esses detalhes no título ou na descrição não é suficiente.
+Para conteúdo educacional, documental, científico e artístico que inclua discurso de ódio, o contexto precisa aparecer nas imagens ou no áudio do próprio vídeo. Fornecer esses detalhes no título ou na descrição não é suficiente.
+
+Os criadores precisam informar quando o conteúdo é gerado ou alterado significativamente com IA, mas essa divulgação não é uma permissão para violar nossas políticas. Vale lembrar que as diretrizes da comunidade se aplicam a todo o conteúdo do YouTube, incluindo o que é gerado ou alterado com IA.
 
 ## Monetização e outras penalidades
 
@@ -73,8 +75,8 @@ Veja abaixo alguns exemplos de discurso de ódio não permitidos no YouTube.
 * "[Pessoas com status de grupo minoritário protegido] são menos inteligentes do que nós, porque têm cérebros menores".
 * "[As pessoas com status de grupo minoritário protegido] têm um plano para dominar o mundo e se livrar de nós".
 * "[Uma pessoa com status de grupo minoritário protegido] deve ser proibida de entrar em escolas porque não merece receber educação".
-* "Todas as supostas 'vítimas' desse evento violento são atores. Ninguém se machucou, isso é apenas uma farsa.”
-* "Pessoas morreram no evento, mas foi um número realmente insignificante".
+* "Todas as supostas 'vítimas' desse evento violento são atores. Ninguém se machucou, isso é apenas uma farsa”.
+* "Pessoas morreram no evento, mas foi um número insignificante de baixas".
 * Gritar "[pessoas com status de grupo minoritário protegido] são pragas!" para uma pessoa, independentemente de ela ter ou não o status de grupo protegido.
 * Conteúdo de videogame desenvolvido ou modificado (“mod”) com objetivo de promover a violência ou o ódio contra um grupo de pessoas com base nas características mencionadas acima.
 

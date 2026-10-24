@@ -2,8 +2,6 @@
 
 No YouTube, não permitimos certos tipos de conteúdo enganoso que pode causar danos graves. Isso inclui determinados tipos de informação incorreta que podem causar danos reais. Por exemplo, alguns tipos de conteúdo tecnicamente manipulado e conteúdo que interfere nos processos democráticos. Em alguns casos, podemos abrir exceções para conteúdo com [contexto educacional, documental, científico ou artístico](/youtube/answer/6345162), incluindo conteúdo de interesse público.
 
-[Política sobre desinformação relacionada às eleições: diretrizes da comunidade do YouTube](//www.youtube.com/watch?v=YpR7CR8D8LE)
-
 Se você encontrar conteúdo que viola esta política, faça uma denúncia. Acesse [este link](/youtube/answer/2802027) para ver instruções sobre como fazer isso. Se você quiser denunciar vários vídeos ou comentários de um usuário específico, [denuncie o canal dele](/youtube/answer/2802027#report_channel).
 
 ## Como essas políticas afetam você
@@ -13,10 +11,12 @@ Se você encontrar conteúdo que viola esta política, faça uma denúncia. Aces
 Essas políticas proíbem determinados tipos de conteúdo relacionados a eleições democráticas livres e justas. Não poste no YouTube conteúdo relacionado às eleições que se encaixa em alguma das descrições abaixo.
 
 * **Supressão de eleitores**: conteúdo que tem como objetivo fornecer informações incorretas sobre horário, local, meios ou requisitos de qualificação para votação, ou conteúdo com alegações falsas que podem desestimular a participação.
-* **Qualificação dos candidatos**: vídeos que propagam declarações falsas sobre os requisitos técnicos de qualificação de candidatos políticos e representantes do governo eleitos para ocupar um cargo público. Os requisitos de qualificação considerados têm como base a lei nacional aplicável e incluem idade, cidadania e status de saúde.
+* **Requisitos para candidatura**: vídeos que propagam declarações falsas sobre os requisitos técnicos de qualificação de candidatos políticos e representantes do governo eleitos para ocupar um cargo público. Os requisitos de qualificação considerados têm como base a lei nacional aplicável e incluem idade, cidadania e comprovação de vida.
 * **Incitar o público a interferir em processos democráticos**: conteúdo que incentive outras pessoas a intervirem dessa maneira. Isso inclui a obstrução ou interrupção de um processo eleitoral.
 
 Essa não é uma lista completa.
+
+Os criadores precisam informar quando o conteúdo é gerado ou alterado significativamente com IA, mas essa divulgação não é uma permissão para violar nossas políticas. Vale lembrar que as diretrizes da comunidade se aplicam a todo o conteúdo do YouTube, incluindo o que é gerado ou alterado com IA.
 
 ## Exemplos
 
@@ -40,19 +40,19 @@ Incitar a interferência em processos democráticos
 * Pedir que os espectadores invadam sites do governo para atrasar os resultados de uma eleição.
 * Pedir que os espectadores incitem um conflito físico com funcionários de eleições, eleitores, candidatos ou outros indivíduos nos locais de votação para impedir o voto.
 
-## Conteúdo educativo, documental, científico ou artístico
+## Conteúdo educacional, documental, científico ou artístico
 
-Às vezes, o conteúdo que viola essa política pode permanecer no YouTube quando tem um contexto educativo, documental, científico ou artístico (EDCA) no vídeo, áudio, título ou descrição. Também podemos abrir exceções para conteúdo de interesse público, como processos legislativos ou parlamentares, discursos de campanha ou debates sobre ações governamentais em andamento. Mas isso não significa que é permitido promover a desinformação. As informações de contexto podem incluir opiniões contrárias ou se o conteúdo tem o propósito de condenar, debater ou satirizar a desinformação que viola nossas políticas. [Saiba como o YouTube avalia o conteúdo EDCA.](/youtube/answer/6345162)
+Às vezes, o conteúdo que viola essa política pode permanecer no YouTube quando tem um contexto educacional, documental, científico ou artístico (EDCA) no vídeo, áudio, título ou descrição. Também podemos abrir exceções para conteúdo de interesse público, como processos legislativos ou parlamentares, discursos de campanha ou debates sobre ações governamentais em andamento. Mas isso não significa que é permitido promover a desinformação. As informações de contexto podem incluir opiniões contrárias ou se o conteúdo tem o propósito de condenar, debater ou satirizar a desinformação que viola nossas políticas. [Saiba como o YouTube avalia o conteúdo EDCA.](/youtube/answer/6345162)
 
 ### Políticas relacionadas
 
 O conteúdo relacionado a eleições também está sujeito a outras diretrizes da comunidade. Isso pode incluir, por exemplo:
 
 * Conteúdo que ameace indivíduos, como trabalhadores eleitorais, candidatos ou eleitores, não é permitido de acordo com nossas [Políticas contra assédio e bullying virtual](/youtube/answer/2802268).
-* De acordo com nossas [Políticas contra a desinformação](/youtube/answer/10834785), não permitimos conteúdo que tenha sido tecnicamente manipulado ou adulterado para enganar os usuários (geralmente clipes fora de contexto) e que represente um risco de danos graves. Por exemplo, uma filmagem tecnicamente manipulada para fazer um candidato a um cargo público alegar falsamente que está desistindo da corrida eleitoral.
+* De acordo com nossas [Políticas contra a desinformação](/youtube/answer/10834785), não permitimos conteúdo que tenha sido tecnicamente manipulado ou adulterado para enganar os usuários (geralmente trechos fora de contexto) e que represente um risco de danos graves. Por exemplo, uma filmagem tecnicamente manipulada para fazer um candidato a um cargo público alegar falsamente que está desistindo da corrida eleitoral.
 * Conteúdo que represente um sério risco de danos graves ao fazer alegações falsas de que imagens de um evento passado sejam parte de um evento atual não é permitido de acordo com nossas [Políticas contra a desinformação](/youtube/answer/10834785). Por exemplo, um vídeo que mostra um chefe de estado apoiando um conflito violento que nunca apoiou.
 * Conteúdo que incentive outras pessoas a cometer atos violentos, incluindo aqueles direcionados a trabalhadores eleitorais, candidatos ou eleitores, não é permitido de acordo com nossas [Políticas sobre conteúdo violento ou explícito](/youtube/answer/2802008).
-* Conteúdo que tenha a intenção de imitar uma pessoa ou um canal, como um candidato ou partido político, não é permitido de acordo com nossa [Política de falsificação de identidade](/youtube/answer/2801947).
+* Conteúdo que tenha a intenção de imitar uma pessoa ou um canal, como um candidato ou partido político, não é permitido de acordo com nossa [Política contra falsificação de identidade](/youtube/answer/2801947).
 * Conteúdo com links externos para materiais que violam nossas políticas e podem causar danos graves, como conteúdo enganoso relacionado a uma eleição, discurso de ódio direcionado a grupos protegidos por lei ou assédio contra trabalhadores eleitorais, candidatos ou eleitores. Isso pode incluir URLs clicáveis, direcionamento verbal dos usuários para outros sites em um vídeo e outras formas de compartilhamento de link.
 
 Esses são apenas exemplos. Não publique conteúdo se acreditar que ele pode violar essas políticas. As [diretrizes de conteúdo adequado para publicidade](/youtube/answer/6162278) também se aplicam. Essas políticas também se aplicam a [links externos](/youtube/answer/9054257) no seu conteúdo. Isso pode incluir URLs clicáveis, direcionamento verbal dos usuários para outros sites no vídeo, entre outros.

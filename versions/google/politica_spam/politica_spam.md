@@ -6,9 +6,11 @@ Se você encontrar conteúdo que viole esta política, [faça uma denúncia segu
 
 Essa política se aplica a todos os tipos de conteúdo no YouTube, incluindo conteúdo não listado e privado, comentários, links, posts e miniaturas, além de redes coordenadas de canais.
 
+Os criadores precisam informar quando o conteúdo é gerado ou alterado significativamente com IA, mas essa divulgação não é uma permissão para violar nossas políticas. Vale lembrar que as diretrizes da comunidade se aplicam a todo o conteúdo do YouTube, incluindo o que é gerado ou alterado com IA.
+
 ## O que esta política significa para você
 
-Sabemos que os criadores de conteúdo usam várias estratégias para promover os canais e alcançar novos públicos. Para alcançar mais pessoas de forma segura e sustentável, os criadores de conteúdo precisam evitar práticas que dependem de engajamento artificial, prejudicam a integridade da plataforma e atrapalham a experiência geral dos espectadores. Confira alguns exemplos abaixo. Esta não é uma lista completa.
+Sabemos que os criadores de conteúdo usam várias estratégias para promover os canais e alcançar novos públicos. Para alcançar mais pessoas de forma segura e sustentável, é necessário evitar práticas que dependem de engajamento artificial, prejudicam a integridade da plataforma e atrapalham a experiência geral dos espectadores. Confira alguns exemplos abaixo. Esta não é uma lista completa.
 
 1. **Manipulação do engajamento**: conteúdo repetitivo ou com modelo pronto que visa aumentar artificialmente o engajamento usando bots, coerção ou oferecendo recompensas em troca de marcações gostei, visualizações ou inscritos. Você sempre pode pedir para os espectadores deixarem um gostei, comentarem ou se inscreverem.
    * **Exemplo**: usar esquemas coordenados de "trocar inscrições".
@@ -23,11 +25,11 @@ Sabemos que os criadores de conteúdo usam várias estratégias para promover os
 6. **Produção em massa automatizada ou sintética**: usar ferramentas automatizadas ou IA para gerar muito conteúdo semelhante com mudanças mínimas. Testar novas ferramentas de criação ou postar algumas variações de um vídeo não é um problema, mas não permitimos o uso dessas ferramentas para inundar nossa plataforma com conteúdo repetitivo. Isso inclui produção em massa coordenada e manipulação técnica para burlar filtros ou enganar os espectadores.
    * **Exemplo**: canais que usam a mesma música de fundo e imagens repetitivas geradas por IA em vários vídeos, com cada vídeo lendo um roteiro gerado por IA.
 7. **Conteúdo copiado**: repostar material de outros sites/plataformas ou outros vídeos sem adicionar nada de novo, como comentários originais, valor educativo ou edição exclusiva.
-   * **Exemplo**: um canal que pega clipes famosos e os envia novamente na íntegra sem nenhuma edição transformadora, reação ou explicação educativa.
+   * **Exemplo**: um canal que pega trechos de vídeos famosos e os envia novamente na íntegra sem nenhuma edição transformadora, reação ou explicação educativa.
 8. **Golpes**: promoção de esquemas de investimento para "ganhar dinheiro rápido", ofertas de emprego falsas ou compartilhamento de dados de contato falsos de "suporte ao cliente" para roubar dados particulares, como informações bancárias, senhas ou documentos de identificação oficiais.
    * **Exemplo**: um vídeo que finge ser uma empresa ou um serviço governamental e engana os espectadores para que cliquem em um link para receber dinheiro sem custos, mas que na verdade rouba senhas e informações bancárias.
 9. **Clickbait malicioso**: uso de títulos, miniaturas, descrições ou imagens maliciosamente enganosas para induzir os usuários a clicar em um vídeo que não entrega o que foi prometido.
-   * **Exemplo**: enviar conteúdo com um título que diz oferecer uma partida esportiva completa, mas o vídeo mostra apenas um clipe.
+   * **Exemplo**: enviar conteúdo com um título que diz oferecer uma partida esportiva completa, mas o vídeo mostra apenas um trecho.
 
 ## O que acontece se o conteúdo violar esta política?
 

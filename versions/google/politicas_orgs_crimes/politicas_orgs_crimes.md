@@ -26,7 +26,9 @@ O YouTube se baseia em vários fatores, incluindo classificações governamentai
 
 Se você publicar conteúdo relacionado ao terrorismo ou crime para fins educativos, documentais, científicos ou artísticos, envie informações suficientes no próprio vídeo ou áudio para que os espectadores entendam o contexto. Filmagens explícitas ou polêmicas podem estar sujeitas à adição de restrições de idade ou de uma tela de aviso. Também podemos abrir exceções para conteúdo de interesse público, como processos legislativos ou parlamentares, discursos de campanha ou debates sobre ações governamentais em andamento. Isso não significa que permitimos exaltar, promover ou ajudar organizações extremistas violentas ou criminosas.
 
-A política é aplicável a vídeos, descrições, comentários, transmissões ao vivo e qualquer outro produto ou recurso do YouTube. Essa não é uma lista completa. Essas políticas também se aplicam a [links externos](/youtube/answer/9054257) no seu conteúdo. Isso pode incluir URLs clicáveis, direcionamento verbal dos usuários para outros sites no vídeo, entre outros.
+A política é aplicável a vídeos, descrições, comentários, transmissões ao vivo e qualquer outro produto ou recurso do YouTube. Essa lista menciona apenas alguns exemplos. Essas políticas também se aplicam a [links externos](/youtube/answer/9054257) no seu conteúdo. Isso pode incluir URLs clicáveis, direcionamento verbal dos usuários para outros sites no vídeo, entre outros.
+
+Os criadores precisam informar quando o conteúdo é gerado ou alterado significativamente com IA, mas essa divulgação não é uma permissão para violar nossas políticas. Vale lembrar que as diretrizes da comunidade se aplicam a todo o conteúdo do YouTube, incluindo o que é gerado ou alterado com IA.
 
 ## Exemplos
 

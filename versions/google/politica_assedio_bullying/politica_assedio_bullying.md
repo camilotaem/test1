@@ -8,6 +8,8 @@ Outros comportamentos prejudiciais, como ameaças ou doxxing, também não são 
 
 Em alguns casos, podemos abrir exceções para conteúdo com [contexto educacional, documental, científico ou artístico](/youtube/answer/6345162), incluindo conteúdo de interesse público.
 
+Os criadores precisam informar quando o conteúdo é gerado ou alterado significativamente com IA, mas essa divulgação não é uma permissão para violar nossas políticas. Vale lembrar que as diretrizes da comunidade se aplicam a todo o conteúdo do YouTube, incluindo o que é gerado ou alterado com IA.
+
 Caso você encontre conteúdo que viole esta política, denuncie. Acesse [este link](/youtube/answer/2802027) para conferir instruções sobre como denunciar violações das nossas diretrizes da comunidade. Se quiser denunciar muitos vídeos ou comentários, é possível [denunciar o canal](/youtube/answer/2802027#report_channel). Consulte a [Central de segurança do criador de conteúdo](https://www.youtube.com/creators/safety/) e o artigo sobre [segurança no YouTube](/youtube/answer/9563682) para encontrar dicas sobre proteção individual, da sua conta e da sua privacidade.
 
 Se você receber ameaças específicas e sentir que sua segurança está em risco, denuncie o caso diretamente à autoridade local.
@@ -29,7 +31,7 @@ Outros tipos de conteúdo que violam esta política
   + Esta política se aplica ao compartilhamento de PIIs suas ou de outras pessoas e às situações em que elas são compartilhadas por acidente.
   + O conteúdo precisa indicar claramente quando PIIs falsas forem compartilhadas, por exemplo, credenciais de login falsas para um treinamento.
 * Conteúdo que incentive comportamentos abusivos, como assédio coletivo. Isso ocorre quando um indivíduo incentiva o abuso coordenado de um indivíduo identificável dentro ou fora do YouTube.
-* Conteúdo que promova teorias da conspiração nocivas ou que seja direcionado a alguém alegando que essa pessoa faz parte de uma teoria desse tipo. Uma teoria da conspiração é considerada nociva quando é vinculada a ameaças diretas ou atos violentos.
+* Conteúdo que promova teorias da conspiração prejudiciais ou que seja direcionado a alguém alegando que essa pessoa faz parte de uma teoria desse tipo. Uma teoria da conspiração prejudicial é aquela que foi vinculada a ameaças diretas ou atos violentos.
 * Conteúdo com ameaças a uma pessoa identificável ou à propriedade dela. Isso inclui ameaças implícitas que não necessariamente especificam um horário ou local, mas que mostram uma arma, por exemplo.
 * Conteúdo com encenações de encontros usados para acusar um indivíduo identificável de má conduta grave com um menor, sem a presença da autoridade policial.
 * Conteúdo que mostre justiceiros detendo ou agredindo indivíduos, ou participando de uma perseguição de veículo perigosa ou imprudente para prender uma pessoa.
@@ -70,9 +72,9 @@ Veja alguns exemplos de conteúdo não permitido no YouTube:
 
 * Mostrar repetidamente fotos de uma pessoa e fazer comentários como: "Olhe os dentes dessa coisa, que nojentos!", e comentários semelhantes contra atributos intrínsecos ao longo do vídeo.
 * Assediar um indivíduo por fazer parte de um [grupo protegido](/youtube/answer/2801939), como ao dizer "Olhe que [ofensa contra um grupo protegido]".
-* Insultar gravemente com o objetivo de desumanizar um indivíduo por conta de atributos intrínsecos. Por exemplo: "Olhe essa mulher, que baranga! Ela tem o rosto de um animal e o corpo sarnento de um cachorro!"
+* Insultar gravemente com o objetivo de desumanizar um indivíduo por conta de atributos intrínsecos. Por exemplo: "Olhe essa mulher, que baranga! Ela tem o rosto de um animal e o corpo sarnento de um cachorro!".
 * Atacar uma pessoa e desejar que ela morra ou fique seriamente ferida: "Eu odeio tanto essa mulher. Queria mais é que ela fosse atingida por um caminhão e morresse!".
-* Mostrar um indivíduo identificável sendo assassinado ou seriamente ferido. Por exemplo: um vídeo que inclui o clipe de um filme em que um personagem é brutalmente executado. O vídeo é editado, substituindo o rosto do ator pela foto de um indivíduo real.
+* Mostrar um indivíduo identificável sendo assassinado ou seriamente ferido. Por exemplo: um vídeo que inclui o trecho de um filme em que um personagem é brutalmente executado. O vídeo é editado, substituindo o rosto do ator pela foto de um indivíduo real.
 * Ameaçar a segurança física de alguém. Isso inclui ameaças explícitas, como: "Quando encontrar você no sábado, vou te matar". Também inclui insinuações de violência com declarações como: "É melhor tomar cuidado, vou achar você" enquanto empunha uma arma.
 * Postar informações de identificação pessoal não públicas de um indivíduo, como número de telefone, endereço residencial ou de e-mail, de forma a direcionar atenção abusiva ou tráfego para ele. Por exemplo, dizendo: "Consegui este número de telefone. Liguem e deixem mensagens até alguém atender!"
 * Fazer ataques ou abusos maliciosos contra pessoas identificáveis usando chat por voz em jogos ou mensagens durante uma transmissão ao vivo ("raiding", em inglês).

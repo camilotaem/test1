@@ -8,11 +8,13 @@ Se você encontrar conteúdo que viola esta política, faça uma denúncia. Aces
 
 ### **Se você envia conteúdo**
 
-Não publique conteúdo no YouTube se ele se encaixa em qualquer uma das descrições abaixo.
+Não publique conteúdo no YouTube se ele se encaixar em qualquer uma das descrições abaixo.
 
 * **Supressão de participantes de um censo**: conteúdo que tem como objetivo fornecer informações incorretas sobre o horário, local, meios ou requisitos de qualificação para o censo ou vídeos que apresentam alegações falsas que podem desencorajar a participação.
 * **Conteúdo manipulado**: mídia que foi editada ou adulterada para enganar os usuários (geralmente clipes fora de contexto) e que oferece risco de danos graves.
-* **Conteúdo atribuído erroneamente**: vídeos que podem representar risco de danos graves ao afirmar falsamente que imagens de um acontecimento passado fazem parte de um evento atual.
+* **Conteúdo atribuído erroneamente**: vídeos que podem representar um sério risco de danos ao afirmar falsamente que imagens de um evento passado fazem parte de um evento atual.
+
+Os criadores precisam informar quando o conteúdo é gerado ou alterado significativamente com IA, mas essa divulgação não é uma permissão para violar nossas políticas. Vale lembrar que as diretrizes da comunidade se aplicam a todo o conteúdo do YouTube, incluindo o que é gerado ou alterado com IA.
 
 ## Exemplos
 
@@ -36,7 +38,7 @@ Conteúdo atribuído erroneamente
 
 Esses são apenas exemplos. Não publique conteúdo se acreditar que ele pode violar essas políticas. Essas políticas também se aplicam a [links externos](/youtube/answer/9054257) no seu conteúdo. Isso pode incluir URLs clicáveis, direcionamento verbal dos usuários para outros sites no vídeo, entre outros.
 
-## **Conteúdo educativo, documental, científico ou artístico**
+## **Conteúdo educacional, documental, científico ou artístico**
 
 O conteúdo que viola as políticas de desinformação apresentadas nesta página pode ser mostrado caso o vídeo, áudio, título ou descrição inclua mais contexto. Também podemos abrir exceções para conteúdo de interesse público, como processos legislativos ou parlamentares, discursos de campanha ou debates sobre ações governamentais em andamento. Mas isso não significa que é permitido promover a desinformação. Podemos abrir exceções caso o objetivo do conteúdo seja condenar, combater ou satirizar temas de desinformação que violam nossas políticas.
 
