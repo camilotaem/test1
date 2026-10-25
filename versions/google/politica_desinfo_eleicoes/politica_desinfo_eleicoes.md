@@ -2,6 +2,8 @@
 
 No YouTube, não permitimos certos tipos de conteúdo enganoso que pode causar danos graves. Isso inclui determinados tipos de informação incorreta que podem causar danos reais. Por exemplo, alguns tipos de conteúdo tecnicamente manipulado e conteúdo que interfere nos processos democráticos. Em alguns casos, podemos abrir exceções para conteúdo com [contexto educacional, documental, científico ou artístico](/youtube/answer/6345162), incluindo conteúdo de interesse público.
 
+[Política sobre desinformação relacionada às eleições: diretrizes da comunidade do YouTube](//www.youtube.com/watch?v=YpR7CR8D8LE)
+
 Se você encontrar conteúdo que viola esta política, faça uma denúncia. Acesse [este link](/youtube/answer/2802027) para ver instruções sobre como fazer isso. Se você quiser denunciar vários vídeos ou comentários de um usuário específico, [denuncie o canal dele](/youtube/answer/2802027#report_channel).
 
 ## Como essas políticas afetam você
