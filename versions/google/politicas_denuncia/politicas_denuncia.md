@@ -1,5 +1,7 @@
 # Políticas e ferramentas de denúncia para a segurança do YouTube
 
+[Segurança no YouTube: políticas e ferramentas para criadores de conteúdo](//www.youtube.com/watch?v=4z7-7ar9vmk)
+
 Inscreva-se no [Canal YouTube Criadores](https://www.youtube.com/channel/UCxpP-CIol4wMrQPWcWf0ZjQ?sub_confirmation=1) para saber as últimas notícias, atualizações e dicas.
 
 O YouTube é um lugar em que as pessoas podem compartilhar a própria história, expressar opiniões e interagir umas com as outras. Queremos garantir que os criadores de conteúdo e espectadores se sintam seguros para fazer isso. Embora o objetivo da maioria dos criadores e espectadores do YouTube seja compartilhar, aprender e interagir de maneira positiva, sabemos que existem casos de abuso e até mesmo assédio. Veja abaixo mais informações sobre as políticas e ferramentas para proteger você no YouTube.
