@@ -16,13 +16,13 @@ Não poste conteúdo no YouTube se ele se encaixa em uma das descrições abaixo
 
 **Conteúdo explícito ou violento**:
 
-* Incitar violência contra indivíduos ou um grupo definido de pessoas.
+* Incitar atos de violência contra indivíduos ou um grupo definido de pessoas.
 * Lutas envolvendo menores.
 * Filmagens, áudio ou imagens que envolvam acidentes rodoviários, cenas derivadas de ataques terroristas, brigas de rua, ataques físicos, imolação, tortura, cadáveres, roubos ou outros cenários com a intenção de chocar ou causar repulsa nos espectadores.
 * Filmagens ou imagens que mostrem fluidos corporais, como sangue ou vômito, com a intenção de chocar ou causar repulsa nos espectadores.
 * Filmagens de cadáveres com ferimentos graves, como membros decepados.
 
-**Conteúdo que mostra abuso de animais**:
+**Conteúdo abusivo contra animais**:
 
 * Conteúdo em que pessoas fazem rinhas com animais.
 * Conteúdo em que pessoas causam maus-tratos ou estresse a animais, sem que isso faça parte de uma prática tradicional ou comum. A caça ou a preparação de alimentos são alguns exemplos de práticas comuns.
@@ -37,16 +37,18 @@ Não poste conteúdo no YouTube se ele se encaixa em uma das descrições abaixo
 
 Não permitimos os seguintes tipos de conteúdo, mesmo que haja um contexto educacional, documental, científico ou artístico:
 
-* Agressão física/sexual violenta (vídeo, imagens estáticas ou áudio)
+* Agressão física/abuso sexual violentos (vídeo, imagens estáticas ou áudio)
 * Filmagem feita pelo agressor durante um conflito violento ou fatal, em que armas, vítimas feridas ou ações violentas podem ser vistas ou ouvidas
 
 Essa lista não mostra todos os casos possíveis.
 
 Essa política se aplica a praticamente tudo na plataforma, como a descrição dos vídeos, miniaturas, comentários, transmissões ao vivo, vídeos e qualquer outro produto ou recurso do YouTube. Essas políticas também se aplicam a [links externos](/youtube/answer/9054257) no seu conteúdo. Isso pode incluir URLs clicáveis, direcionamento verbal dos usuários para outros sites no vídeo, entre outros.
 
+Os criadores precisam informar quando o conteúdo é gerado ou alterado significativamente com IA, mas essa divulgação não é uma permissão para violar nossas políticas. Vale lembrar que as diretrizes da comunidade se aplicam a todo o conteúdo do YouTube, incluindo o que é gerado ou alterado com IA.
+
 Conteúdo educativo
 
-Em alguns casos, podemos permitir os tipos de conteúdo violentos ou explícitos mencionados acima em material educacional, documental, científico ou artístico. Isso não é um incentivo para enviar conteúdo com o objetivo de chocar, causar repulsa ou incentivar outras pessoas a cometer atos violentos. Além disso, podemos não abrir exceções para certos tipos de conteúdo, como imagens de agressões sexuais. Para materiais educativos incluindo os tipos de conteúdo violentos ou explícitos mencionados acima, o contexto precisa ficar evidente nas imagens ou no áudio do próprio vídeo. Fornecer esses detalhes no título ou na descrição não é suficiente.
+Em alguns casos, podemos permitir os tipos de conteúdo violentos ou explícitos mencionados acima em material educacional, documental, científico ou artístico. Isso não é um incentivo para enviar conteúdo com o objetivo de chocar, causar repulsa ou incentivar outras pessoas a cometer atos violentos. Além disso, podemos não abrir exceções para certos tipos de conteúdo, como imagens de agressões físicas e abusos sexuais violentos. Para materiais educativos incluindo os tipos de conteúdo violentos ou explícitos mencionados acima, o contexto precisa ficar evidente nas imagens ou no áudio do próprio vídeo. Fornecer esses detalhes no título ou na descrição não é suficiente.
 
 Podemos levar as classificações oficiais do setor em consideração para determinar se um conteúdo educacional, documental, científico ou artístico com material adulto ou violência explícita vai continuar na plataforma. Vamos [restringir por idade](https://support.google.com/youtube/answer/2802167) o conteúdo que segue nossas políticas, mas não é apropriado para todos os públicos. O conteúdo com restrição de idade não é visível para pessoas com menos de 18 anos ou que não fizeram login.
 
@@ -67,7 +69,7 @@ Consideramos os seguintes fatores ao decidir se vamos aplicar uma restrição de
 * Há um contexto que indique aos espectadores que as imagens são encenadas ou fictícias. Por exemplo, informações no vídeo, no título ou na descrição.
 * A violência faz parte de uma prática religiosa ou cultural, e o usuário que fez o envio explica isso aos espectadores.
 * O conteúdo mostra a morte de um animal por práticas tradicionais ou comuns de caça, motivos religiosos ou preparação de alimentos.
-* A violência encenada é mostrada com atores humanos reais ou animação, incluindo videogames.
+* A violência encenada é mostrada com atores humanos reais ou animação, incluindo jogos.
 
 A política é aplicável a vídeos, descrições, comentários, transmissões ao vivo e qualquer outro produto ou recurso do YouTube.
 
@@ -83,7 +85,7 @@ Veja alguns exemplos de conteúdo não permitido no YouTube.
 
 Conteúdo explícito ou violento
 
-Os tipos de conteúdo a seguir não são permitidos no YouTube. Esta não é uma lista completa.
+Os tipos de conteúdo a seguir não são permitidos no YouTube. Esta lista menciona apenas alguns exemplos.
 
 * Conteúdo que mostra filmagens de procedimentos médicos com a intenção de chocar ou causar repulsa nos espectadores.
 * Filmagens de crimes, como assaltos violentos, que não fornecem informação educativa ou explicação aos espectadores.
@@ -91,9 +93,9 @@ Os tipos de conteúdo a seguir não são permitidos no YouTube. Esta não é uma
 * Vídeos de decapitações.
 * Agressões com títulos como "Veja esse cara ser espancado!".
 
-Conteúdo que mostra abuso de animais
+Conteúdo abusivo contra animais
 
-Isso se refere a vídeos que mostram maus-tratos físicos ou psicológicos graves aos animais. Abrimos exceções se o conteúdo mostrar práticas socialmente aceitas, como caça, controle de pragas, preparação de alimentos, tratamento médico ou abate de animais.
+Isso se refere a vídeos que mostram maus-tratos físicos ou psicológicos graves aos animais. Abrimos exceções se o conteúdo mostrar práticas socialmente aceitas, como caça, captura com armadilhas, controle de pragas, preparação de alimentos, tratamento médico ou abate de animais.
 
 Conheça alguns exemplos de conteúdo não permitido no YouTube:
 
@@ -103,7 +105,7 @@ Conheça alguns exemplos de conteúdo não permitido no YouTube:
 * Caça com práticas fora do tradicional, como bombas ou veneno.
 * O resgate encenado de animais em que eles são machucados ou colocados em situações perigosas para causar comoção.
 
-Essa lista não está completa.
+A lista acima menciona apenas alguns exemplos.
 
 Ela menciona apenas alguns exemplos. Não publique conteúdo se você acha que ele viola esta política.
 

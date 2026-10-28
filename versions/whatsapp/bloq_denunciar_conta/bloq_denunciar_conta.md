@@ -36,7 +36,9 @@ Como resposta às mudanças na legislação europeia, o WhatsApp agora oferece a
 As pessoas que você bloqueou no WhatsApp ainda podem enviar mensagens para você nas conversas de apps de terceiros. Caso receba mensagens indesejadas nas conversas de apps de terceiros, você pode bloquear o contato da seguinte forma:
 
 1. Acesse a aba **Conversas** e clique na conversa de apps de terceiros com a pessoa que você deseja bloquear.
-2. Clique no nome da pessoa e, em seguida, clique em **Bloquear usuário**.
+2. Clique no nome da pessoa e, em seguida, em **Bloquear usuário**.
+
+Para denunciar grupos de apps de terceiros, toque no nome do grupo e, em seguida, em **Denunciar grupo**.
 
 Saiba mais sobre o WhatsApp e as conversas de apps de terceiros [neste artigo](https://faq.whatsapp.com/818760060056834?helpref=faq_content).
 
