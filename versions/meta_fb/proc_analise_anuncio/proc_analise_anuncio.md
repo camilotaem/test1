@@ -90,7 +90,7 @@ Criar um anúncio ou editar seu anúncio
 
 Você pode criar um anúncio ou editá-lo para cumprir nossas políticas. Esses anúncios serão tratados como novos anúncios e analisados pelo nosso sistema de análise de anúncio. Confira as  [etapas de edição](https://www.facebook.com/business/help/165119026899353?id=281239296137284) nesta página.
 
-Pedir outra análise
+Solicitar outra análise
 
 Se você acredita que o anúncio, a conta de anúncio, a conta de usuário, a Página ou a conta empresarial foram rejeitados ou restringidos incorretamente, solicite uma análise da decisão em [Qualidade da Conta.](https://www.facebook.com/accountquality#_=_)
 
@@ -446,7 +446,7 @@ Os anúncios em vídeo e outros tipos de anúncios dinâmicos devem estar em con
    * Linguagem ofensiva
    * Violência e brutalidade
 
-Anúncios de lead
+Anúncios de cadastro
 
 Os anunciantes não devem criar perguntas de anúncios de lead para solicitar os tipos de informação a seguir sem nossa permissão prévia por escrito.
 
@@ -533,7 +533,7 @@ Os anúncios não devem solicitar informações sobre a orientação sexual, ou 
 * Campos de formulário de anúncios de lead perguntando sobre o histórico sexual de uma pessoa
 * Campos de formulário de anúncios de lead perguntando se a pessoa já se envolveu em atividades sexuais em grupo ou com pessoas do mesmo sexo
 
-11. Perguntas preenchidas automaticamente
+11. Perguntas com preenchimento automático
 
 Os anúncios não devem solicitar as mesmas informações ou informações praticamente semelhantes que possam ser solicitadas por um anunciante por meio da opção Preencher pergunta automaticamente.
 

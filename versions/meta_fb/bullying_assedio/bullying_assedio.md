@@ -27,7 +27,7 @@ Observação: esta política não se aplica a indivíduos que fazem parte de org
   + Ataques a vítimas de agressão ou exploração sexual, assédio sexual ou violência doméstica.
   + Declarações mostrando intenção de participar de atividade sexual ou solicitando a participação em atividade sexual.
   + Comentários com teor altamente sexual.
-  + Photoshop ou desenhos sexualizados depreciativos
+  + Desenhos sexualizados depreciativos ou conteúdo criado/alterado digitalmente
   + Ataques com uso de termos depreciativos relacionados a atividade sexual (por exemplo, “puta” e “vagabunda”).
   + Alegações negando a ocorrência de uma tragédia violenta.
   + Alegações de que indivíduos estão mentindo sobre terem sido vítimas de uma tragédia violenta ou ataque terrorista, incluindo afirmações de que eles estão:
@@ -88,7 +88,7 @@ Observação: esta política não se aplica a indivíduos que fazem parte de org
 * Em caso de autodenúncia, menores de idade, pessoas físicas adulta e figuras públicas involuntárias menores de idade estão protegidos do seguinte:
 
 
-  + Bullying autorreferencial.
+  + Bullying autorrelatado.
   + Imagens manipuladas indesejadas.
   + Comparação com outros pessoas públicas, físicas ou fictícias com base na aparência física.
   + Alegações sobre identidade religiosa ou blasfêmia

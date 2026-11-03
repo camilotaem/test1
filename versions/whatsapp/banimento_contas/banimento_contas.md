@@ -23,7 +23,7 @@ Você não poderá acessar seu histórico de conversas nem os backups enquanto s
 
 Para acessar sua conta do WhatsApp após o banimento ser cancelado, será necessário verificar sua conta com seu número de telefone. Acesse nosso site para baixar o [WhatsApp](https://www.whatsapp.com/download/) ou o app [WhatsApp Business](https://whatsappbusiness.com/).
 
-**Observação**: não oferecemos suporte a apps ou versões não autorizadas do WhatsApp, nem a dispositivos não compatíveis ou com jailbreak ou root. Saiba mais sobre os sistemas operacionais compatíveis [neste artigo](https://faq.whatsapp.com/1150261202542208?helpref=faq_content). Para mais informações sobre apps não oficiais e por que não oferecemos suporte a esses apps, leia [este artigo](https://faq.whatsapp.com/1217634902127718?helpref=faq_content).
+**Observação**: não oferecemos suporte a apps ou versões não autorizadas do WhatsApp, nem a aparelhos não compatíveis ou com jailbreak ou root. Saiba mais sobre os sistemas operacionais compatíveis [neste artigo](https://faq.whatsapp.com/1150261202542208?helpref=faq_content). Para mais informações sobre apps não oficiais e por que não oferecemos suporte a esses apps, leia [este artigo](https://faq.whatsapp.com/1217634902127718?helpref=faq_content).
 
 ## Artigos relacionados
 
