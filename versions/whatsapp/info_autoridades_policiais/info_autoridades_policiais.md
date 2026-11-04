@@ -6,7 +6,7 @@ O WhatsApp oferece serviços de mensagens, chamadas pela Internet e outros tipos
 
 O WhatsApp agradece o trabalho das autoridades policiais para manter a segurança das pessoas em todo o mundo. Estamos preparados para analisar, validar e responder atentamente às solicitações das autoridades policiais com base na legislação e na política aplicáveis.
 
-As diretrizes operacionais a seguir destinam-se às autoridades policiais que solicitam registros do WhatsApp. Os usuários que buscam dados sobre suas próprias contas podem acessar o recurso [pedir dados da conta](https://faq.whatsapp.com/526463418847093?helpref=faq_content) do WhatsApp. Essas informações podem mudar a qualquer momento.
+As diretrizes operacionais a seguir destinam-se às autoridades policiais que solicitam registros do WhatsApp. Os usuários que buscam dados sobre suas próprias contas podem acessar o recurso [pedir dados da conta](https://faq.whatsapp.com/526463418847093?helpref=faq_content) do  WhatsApp. Essas informações podem mudar a qualquer momento.
 
 ## Respostas às solicitações das autoridades policiais
 
@@ -27,11 +27,11 @@ Divulgamos registros de contas apenas em conformidade com nossos Termos de Servi
 
 ## Preservação da conta
 
-Tomaremos as medidas necessárias para preservar os registros das contas relacionadas a investigações criminais oficiais por 90 dias, mediante recebimento do processo judicial formal. Você pode enviar rapidamente solicitações formais de preservação pelo [Sistema de solicitações online para autoridades públicas](https://www.whatsapp.com/records/login/), conforme descrito abaixo.
+Tomaremos as medidas necessárias para preservar os registros das contas relacionadas a investigações criminais oficiais por 90 dias, mediante recebimento do processo judicial formal.  Você pode enviar rapidamente solicitações formais de preservação pelo [Sistema de solicitações online para autoridades públicas](https://www.whatsapp.com/records/login/), conforme descrito abaixo.
 
 ## Solicitações emergenciais
 
-Ao responder a uma situação que envolva risco iminente para uma criança, ou risco de morte ou de danos físicos graves para qualquer pessoa e que exija a divulgação imediata de informações, as autoridades policiais poderão usar o [Sistema de solicitações online para autoridades públicas](https://www.whatsapp.com/records/login/) para enviar uma solicitação. Para que possamos processar pedidos como esse com rapidez, recomendamos que você escreva a palavra "EMERGÊNCIA" no campo de assunto da sua mensagem. Saiba mais sobre pedidos do governo relacionados a dados de usuários [neste artigo.](https://faq.whatsapp.com/general/about-government-requests-for-user-data)
+Ao responder a uma situação que envolva risco iminente para uma criança, ou risco de morte ou de danos físicos graves para qualquer pessoa e que exija a divulgação imediata de informações, as autoridades policiais poderão usar o [Sistema de solicitações online para autoridades públicas](https://www.whatsapp.com/records/login/) para enviar uma solicitação.  Para que possamos processar pedidos como esse com rapidez, recomendamos que você escreva a palavra "EMERGÊNCIA" no campo de assunto da sua mensagem. Saiba mais sobre pedidos do governo relacionados a dados de usuários [neste artigo.](https://faq.whatsapp.com/general/about-government-requests-for-user-data)
 
 **Observação**: só analisaremos e responderemos a solicitações enviadas pelas autoridades. Use um endereço de email oficial para enviar solicitações emergenciais. Usuários que tenham conhecimento de situações emergenciais devem entrar em contato com as autoridades locais imediatamente.
 
@@ -43,7 +43,7 @@ Denunciamos todos os casos aparentes de exploração infantil que aparecem em no
 
 Vamos pesquisar e divulgar dados especificados com exatidão, em um processo judicial apropriado, no qual possamos localizar e recuperar de forma razoável. Não retemos dados para fins investigativos, a menos que nos seja enviada uma solicitação de preservação válida, antes que o usuário exclua esse conteúdo dos nossos serviços.
 
-O WhatsApp não armazena mensagens uma vez que elas são entregues, nem os registros de transações de tais mensagens entregues. As mensagens não entregues são apagadas dos nossos servidores após 30 dias. Conforme estabelecido na [Política de Privacidade do WhatsApp](https://www.whatsapp.com/legal/#privacy-policy), nós podemos coletar, usar, preservar e compartilhar dados de usuários se acreditarmos de boa fé que isso é necessário para (a) manter a segurança dos nossos usuários, (b) detectar, investigar e impedir a realização de atividades ilegais, (c) responder a processos legais ou pedidos do governo, e (d) cumprir os nossos termos e as nossas políticas. Isso pode incluir informações sobre como alguns usuários interagem entre si ao usar o nosso serviço. O WhatsApp oferece criptografia de ponta a ponta em seus serviços, e esse recurso está sempre ativado. Com a criptografia de ponta a ponta, as mensagens são criptografadas para que nem o WhatsApp nem terceiros possam lê-las. Confira mais informações sobre a segurança do WhatsApp [neste artigo](https://www.whatsapp.com/security).
+O WhatsApp não armazena mensagens uma vez que elas são entregues, nem os registros de transações de tais mensagens entregues. As mensagens não entregues são apagadas dos nossos servidores após 30 dias.  Conforme estabelecido na [Política de Privacidade do WhatsApp](https://www.whatsapp.com/legal/#privacy-policy), nós podemos coletar, usar, preservar e compartilhar dados de usuários se acreditarmos de boa fé que isso é necessário para (a) manter a segurança dos nossos usuários, (b) detectar, investigar e impedir a realização de atividades ilegais, (c) responder a processos legais ou pedidos do governo, e (d) cumprir os nossos termos e as nossas políticas. Isso pode incluir informações sobre como alguns usuários interagem entre si ao usar o nosso serviço. O WhatsApp oferece criptografia de ponta a ponta em seus serviços, e esse recurso está sempre ativado. Com a criptografia de ponta a ponta, as mensagens são criptografadas para que nem o WhatsApp nem terceiros possam lê-las. Confira mais informações sobre a segurança do WhatsApp [neste artigo](https://www.whatsapp.com/security).
 
 ## Formato das solicitações
 
@@ -55,7 +55,7 @@ Não será possível processar solicitações excessivamente amplas ou vagas. To
 
 ## Consentimento do usuário
 
-Caso um agente das autoridades policiais busque informações sobre um usuário do WhatsApp que tenha consentido o acesso ou a obtenção dos dados de sua conta a tal agente, o usuário deverá ser instruído a obter tais informações por iniciativa própria, em sua conta. Os usuários podem acessar o recurso [solicitar dados da conta](https://faq.whatsapp.com/526463418847093?helpref=faq_content) do WhatsApp.
+Caso um agente das autoridades policiais busque informações sobre um usuário do WhatsApp que tenha consentido o acesso ou a obtenção dos dados de sua conta a tal agente, o usuário deverá ser instruído a obter tais informações por iniciativa própria, em sua conta.  Os usuários podem acessar o recurso [solicitar dados da conta](https://faq.whatsapp.com/526463418847093?helpref=faq_content) do WhatsApp.
 
 ## Notificação
 
@@ -86,7 +86,7 @@ WhatsApp LLC
  Menlo Park, California 94025   
  United States of America
 
-O tempo de resposta será mais longo para agentes das autoridades policiais que não usarem o [Sistema de solicitações online para autoridades públicas](https://www.whatsapp.com/records/login). Enviar a mesma solicitação por meio eletrônico e por correio também pode aumentar o tempo de processamento.
+O tempo de resposta será mais longo para agentes das autoridades policiais que não usarem o [Sistema de solicitações online para autoridades públicas](https://www.whatsapp.com/records/login).  Enviar a mesma solicitação por meio eletrônico e por correio também pode aumentar o tempo de processamento.
 
 **Observações**:
 

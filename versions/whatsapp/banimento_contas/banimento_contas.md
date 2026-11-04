@@ -11,7 +11,7 @@ Se você está usando um número de telefone novo no WhatsApp, é possível que 
 
 Quando a opção para pedir uma análise não é exibida, significa que o banimento é definitivo e não é possível contestá-lo.
 
-Para acompanhar o status do seu pedido, acesse o WhatsApp. Lembre-se de que entrar em contato com o WhatsApp fora do processo de análise ou usando a conta de outra pessoa não acelera esse processo nem influencia nossa decisão. Só analisamos um número de telefone por apelação. Saiba o que fazer depois que o banimento da sua conta for cancelado [neste artigo](https://faq.whatsapp.com/1297640017664693?helpref=faq_content).
+Para acompanhar o status do seu pedido, acesse o WhatsApp. Lembre-se de que entrar em contato com o WhatsApp fora do processo de análise ou usando a conta de outra pessoa não acelera esse processo nem influencia nossa decisão. Só analisamos um número de telefone por apelação.  Saiba o que fazer depois que o banimento da sua conta for cancelado [neste artigo](https://faq.whatsapp.com/1297640017664693?helpref=faq_content).
 
 Lembre-se de que serviços de terceiros não podem banir sua conta do WhatsApp nem cancelar o banimento da sua conta. Somente o WhatsApp pode banir ou cancelar o banimento de contas do WhatsApp.
 
