@@ -4,7 +4,7 @@ Para deixar de receber mensagens, ligações e atualizações de status de uma c
 
 A conversa com pessoas bloqueadas continua aparecendo na sua lista de conversas. Caso queira manter uma cópia da conversa, você pode fazer capturas de tela ou fazer backup do histórico de conversas. Saiba como fazer backup do seu histórico de conversas [neste artigo](https://faq.whatsapp.com/481135090640375?helpref=faq_content). Se desejar, você pode [apagar a conversa](https://faq.whatsapp.com/656690492499906?helpref=faq_content) para removê-la da sua lista de conversas ou arquivá-la para ocultar a conversa da sua lista. Caso queira voltar a receber mensagens de uma conta, você pode desbloqueá-la a qualquer momento.
 
-Não é possível bloquear grupos. Se desejar, você pode sair de um grupo e bloquear os admins. Saiba mais [neste artigo](https://faq.whatsapp.com/841324506880320?helpref=faq_content). Além disso, é possível mudar suas configurações de privacidade para evitar que números desconhecidos adicionem você a grupos. Saiba mais [neste artigo](https://faq.whatsapp.com/3307102709559968?helpref=faq_content).
+Não é possível bloquear grupos. Se desejar, você pode sair de um grupo e bloquear os admins. Saiba mais [neste artigo](https://faq.whatsapp.com/841324506880320?helpref=faq_content). Você também pode ajustar suas configurações de privacidade para evitar que contatos desconhecidos adicionem você aos grupos. Saiba mais [neste artigo](https://faq.whatsapp.com/3307102709559968?helpref=faq_content).
 
 Se você acredita que você ou qualquer outra pessoa está em perigo iminente, entre em contato com os serviços de emergência locais.
 
