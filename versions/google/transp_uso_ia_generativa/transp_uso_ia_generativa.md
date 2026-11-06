@@ -69,7 +69,7 @@ A lista acima traz apenas alguns exemplos.
 
 Os criadores precisam declarar quando o conteúdo que parece realista foi gerado ou alterado com IA. Isso pode ser feito durante o processo de upload. Artistas do meio musical podem ler o seguinte artigo para [saber como divulgar o uso de IA generativa em conteúdo musical](/youtube/answer/17124251).
 
-Computador Smartphone e tablet AndroidiPhone e iPad
+Computador Celular e tablet AndroidiPhone e iPad
 
 Mais 
 
