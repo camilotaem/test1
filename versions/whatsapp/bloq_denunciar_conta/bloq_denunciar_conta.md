@@ -2,7 +2,9 @@
 
 Para deixar de receber mensagens, ligações e atualizações de status de uma conta, você pode bloqueá-la. Além disso, você pode denunciar a conta se acreditar que a pessoa está enviando conteúdo problemático ou spam.
 
-A conversa com pessoas bloqueadas continua aparecendo na sua lista de conversas. Caso queira manter uma cópia da conversa, você pode fazer capturas de tela ou fazer backup do histórico de conversas. Saiba como fazer backup do seu histórico de conversas [neste artigo](https://faq.whatsapp.com/481135090640375?helpref=faq_content). Se desejar, você pode [apagar a conversa](https://faq.whatsapp.com/656690492499906?helpref=faq_content) para removê-la da sua lista de conversas ou arquivá-la para ocultar a conversa da sua lista. Caso queira voltar a receber mensagens de uma conta, você pode desbloqueá-la a qualquer momento.
+A conversa com pessoas bloqueadas continua aparecendo na sua lista de conversas. Caso queira voltar a receber mensagens de uma conta, você pode desbloqueá-la a qualquer momento.
+
+Se desejar, você pode [apagar a conversa](https://faq.whatsapp.com/656690492499906?helpref=faq_content) para removê-la da sua lista de conversas ou arquivá-la para ocultar a conversa da sua lista.
 
 Não é possível bloquear grupos. Se desejar, você pode sair de um grupo e bloquear os admins. Saiba mais [neste artigo](https://faq.whatsapp.com/841324506880320?helpref=faq_content). Você também pode ajustar suas configurações de privacidade para evitar que contatos desconhecidos adicionem você aos grupos. Saiba mais [neste artigo](https://faq.whatsapp.com/3307102709559968?helpref=faq_content).
 
@@ -10,7 +12,8 @@ Se você acredita que você ou qualquer outra pessoa está em perigo iminente, e
 
 ## Bloquear um contato, uma empresa ou um número desconhecido
 
-1. Clique no ícone
+1. Clique em **Conversas**.
+2. Clique no ícone
 
    ![mais opções (seta para baixo)](https://static.xx.fbcdn.net/assets/?set=whatsapp_help_article_assets&name=web-desktop-menu&density=1)
 
@@ -19,7 +22,7 @@ Se você acredita que você ou qualquer outra pessoa está em perigo iminente, e
    ![mais opções (três pontos na vertical)](https://static.xx.fbcdn.net/assets/?set=whatsapp_help_article_assets&name=web-desktop-more-options&density=1)
 
    na parte superior direita da conversa.
-2. Clique em **Bloquear** > **Bloquear**. Caso queira denunciar a conta, selecione a opção **Denunciar ao WhatsApp**.
+3. Clique em **Bloquear** > **Bloquear**. Caso queira denunciar a conta, selecione a opção **Denunciar ao WhatsApp**.
 
 **Observações**:
 
@@ -74,17 +77,23 @@ Ao denunciar um grupo, você sairá do grupo automaticamente. Caso queira retorn
 
 ## Denunciar um contato ou número desconhecido
 
-1. Clique no ícone
+1. Clique em **Conversas**.
+2. Clique no ícone
 
    ![mais opções (três pontos na vertical)](https://static.xx.fbcdn.net/assets/?set=whatsapp_help_article_assets&name=web-desktop-more-options&density=1)
 
    no canto superior direito da aba **Conversas** e, em seguida, em **Dados do contato** > **Denunciar**.
-2. Clique em **Denunciar {contato}** ou **Denunciar {número de telefone}** > **Bloquear {contato}** ou **Bloquear {número de telefone}** e, em seguida, em **Denunciar**.
+3. Clique em **Denunciar {contato}** ou **Denunciar {número de telefone}** > **Bloquear {contato}** ou **Bloquear {número de telefone}** e, em seguida, em **Denunciar**.
 
-## Denunciar um grupo
+## Como denunciar um grupo
 
-1. Clique no canto superior direito da aba **Conversas** e, em seguida, clique em **Dados do grupo** ou **Dados do contato** > **Denunciar grupo**, **Denunciar {contato}** ou **Denunciar {número de telefone}**.
-2. Selecione a opção desejada: **Bloquear {contato}, Bloquear {número de telefone}** ou **Sair do grupo e limpar conversa** > **Denunciar**.
+1. Clique em **Conversas**.
+2. Clique no ícone
+
+   ![mais opções (três pontos na vertical)](https://static.xx.fbcdn.net/assets/?set=whatsapp_help_article_assets&name=web-desktop-more-options&density=1)
+
+   no canto superior direito da aba **Conversas** e, em seguida, em **Dados do grupo** > **Denunciar grupo**.
+3. Selecione a opção **Sair do grupo e limpar conversa** > **Denunciar**.
 
 ## Artigos relacionados
 
