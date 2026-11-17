@@ -9,7 +9,7 @@ Após a denúncia, o conteúdo não é removido automaticamente, mas analisado d
 * O conteúdo que viola nossas [diretrizes da comunidade](https://youtube.com/t/community_guidelines) é removido do YouTube.
 * O conteúdo que não é adequado para o público mais jovem pode receber uma [restrição de idade](/youtube/answer/2802167).
 
-Para conferir se um vídeo que você denunciou foi removido, acesse o [Histórico de denúncias](https://www.youtube.com/reporthistory).
+Para conferir se um vídeo que você denunciou foi removido, acesse o [Histórico de Denúncias](https://www.youtube.com/reporthistory).
 
 [O ciclo de uma sinalização](//www.youtube.com/watch?v=WK8qRNSmhEU)
 
@@ -137,20 +137,20 @@ Se o processo de denúncia não tratar seu problema com precisão, você poderá
 
 ## Denúncia de privacidade
 
-Para fazer uma denúncia de violação de privacidade, inicie o [Processo para denúncia de violação de privacidade](/youtube/answer/2801895). Sua privacidade é sempre respeitada durante esse processo.
+Para fazer uma denúncia, inicie o [processo para denúncia de violação de privacidade](/youtube/answer/2801895). Sua privacidade é sempre respeitada durante esse processo.
 
 Denúncia legal
 
-Para denunciar um problema jurídico em seu nome ou em nome de um cliente:
+Para denunciar uma questão jurídica em seu nome ou em nome de um cliente:
 
 1. Acesse o conteúdo ou o canal que você quer denunciar.
 2. Em seguida, clique em Mais ![](//lh3.googleusercontent.com/-J53CYVoALpSkL244xwvZLquUmfoau1Gd9cGV5aD41g9qf5B3l5tPBmCR1ZHJI0ySi0=w40) ![e depois](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) **Denunciar**![](//storage.googleapis.com/support-kms-prod/4ximspaGF1O2X0TZ2azRMAfQukbsRjMbGCcP).
-3. Na lista que aparece, clique em **Problema jurídico**.
-4. Selecione o problema relevante. Caso você não encontre a opção na lista, clique em **Outros problemas jurídicos**.
+3. Na lista que aparece, clique em **Questão jurídica**.
+4. Selecione o problema relevante. Caso você não encontre a opção na lista, clique em **Outros problemas legais**.
 5. Na parte de baixo, clique em **PRÓXIMA**.
 6. Preencha e envie o formulário.
 
-Para que possamos acelerar a investigação da sua reivindicação, recomendamos que ela seja enviada pelo nosso formulário on-line, e não por fax ou correspondência normal.
+Para que possamos acelerar a investigação da sua denúncia, recomendamos que ela seja enviada pelo nosso formulário on-line, e não por fax ou correspondência normal.
 
 O abuso dos nossos formulários legais pode resultar no encerramento da sua Conta do Google.
 

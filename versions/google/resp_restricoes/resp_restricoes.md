@@ -52,15 +52,15 @@ Use a lista abaixo para entender a restrição que afetou seu conteúdo e como v
 
 [Contestar uma reivindicação de direitos autorais](/youtube/answer/12104471)
 
-## Aplicação de semelhança
+## Aplicação relacionada ao uso de semelhanças
 
-#### Reivindicações de semelhança
+#### Reivindicações por uso de semelhanças
 
-[Saiba mais sobre reivindicações de semelhança](/youtube/answer/17133929)
+[Saiba mais sobre reivindicações por uso de semelhanças](/youtube/answer/17133929)
 
-[Disputar uma reivindicação de semelhança](/youtube/answer/17134332)
+[Disputar uma reivindicação por uso de semelhanças](/youtube/answer/17134332)
 
-[Contestar uma reivindicação de semelhança](/youtube/answer/17134133)
+[Contestar uma reivindicação por uso de semelhanças](/youtube/answer/17134133)
 
 ## Ações relacionadas a "conteúdo para crianças"
 
@@ -80,6 +80,10 @@ Use a lista abaixo para entender a restrição que afetou seu conteúdo e como v
 
 [Pedir revisão humana de vídeos marcados como "Não é adequado para a maioria dos anunciantes"](/youtube/answer/7083671)
 
+## Outras opções de resolução
+
+Denunciar uma preocupação relacionada à conformidade do YouTube com o [Código de Segurança On-line da An Coimisiún na Meán](https://support-content-draft.corp.google.com/youtube/contact/irish_OSC).
+
 ## Perguntas frequentes
 
 Como o YouTube analisa o conteúdo?
@@ -88,7 +92,7 @@ Para determinar se o conteúdo tem alguma violação, usamos uma combinação de
 
 O que posso fazer se a monetização do meu canal estiver pausada?
 
-Os parceiros do [Programa de Parcerias do YouTube](/youtube/answer/72851) recebem pagamentos por uma conta ativa, aprovada e vinculada do [AdSense](https://support.google.com/youtube/answer/11602441) para YouTube. A monetização do seu canal será pausada caso a conta não atenda a esses requisitos. [Entenda o problema e saiba como corrigi-lo](/youtube/answer/10269388).
+Os parceiros do [Programa de Parcerias do YouTube](/youtube/answer/72851) recebem pagamentos por uma conta ativa, aprovada e vinculada do [AdSense](https://support.google.com/youtube/answer/11602441) para YouTube. A monetização do seu canal será pausada quando a conta do AdSense para YouTube não atender a esses requisitos. [Entenda o problema e saiba como corrigi-lo](/youtube/answer/10269388).
 
 O que posso fazer se a monetização estiver desativada no meu canal?
 
