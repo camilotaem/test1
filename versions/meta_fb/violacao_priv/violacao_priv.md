@@ -1,5 +1,3 @@
-# Violações de privacidade e atributos pessoais
-
 Violações de privacidade e atributos pessoais
 
 Os anúncios devem estar em conformidade com os Padrões da Comunidade sobre [Violações de Privacidade](https://transparency.meta.com/policies/community-standards/privacy-violations/). Os anúncios não devem conter conteúdo que compartilhe ou solicite informações privadas sobre os usuários. Além disso, não devem conter conteúdo que afirme ou sugira atributos pessoais. Isso abrange afirmações ou sugestões diretas ou indiretas quanto a raça, etnia, religião, crença, idade, orientação ou práticas sexuais, identidade de gênero, deficiência, condições de saúde física ou mental (inclusive médicas), condição financeira vulnerável, situação eleitoral, participação em sindicato, antecedentes criminais ou nome da pessoa.
