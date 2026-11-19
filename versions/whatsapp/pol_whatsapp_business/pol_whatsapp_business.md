@@ -343,10 +343,11 @@ Para manter conversas de alta qualidade no WhatsApp, aplicamos as medidas necess
 
 Se você acha que sua conta não violou nossas políticas ou termos, consulte os recursos a seguir para saber mais sobre como enviar um recurso:
 
-* Para obter mais informações sobre as medidas tomadas em relação ao app WhatsApp Business, incluindo como enviar um recurso, consulte a **]]>página da Central de Ajuda para Empresas]]>.**
-*** Para obter mais informações sobre as medidas tomadas em relação à Plataforma do WhatsApp Business, incluindo como enviar um recurso, consulte a página [**Aplicação da política – Plataforma do WhatsApp Business**](https://developers.facebook.com/docs/whatsapp/overview/policy-enforcement).
-* Para obter mais informações sobre contas banidas, leia [**este artigo**](https://faq.whatsapp.com/465883178708358) da nossa Central de Ajuda.**
-**## Política de Recursos Comerciais do WhatsApp (incluindo oferta de produtos ou serviços para venda)
+* Para obter mais informações sobre as medidas tomadas em relação ao app WhatsApp Business, incluindo como enviar um recurso, consulte a <![CDATA[[**]]>página da Central de Ajuda para Empresas<![CDATA[**](https://www.facebook.com/business/help/692706745267064#:~:text=File%20an%20appeal%20by%20requesting%20a%20review,-Here's%20how%20to&text=Select%20the%20policy%20issue%20that,want%20included%20in%20the%20review)]]>.
+* Para obter mais informações sobre as medidas tomadas em relação à Plataforma do WhatsApp Business, incluindo como enviar um recurso, consulte a página [**Aplicação da política – Plataforma do WhatsApp Business**](https://developers.facebook.com/docs/whatsapp/overview/policy-enforcement).
+* Para obter mais informações sobre contas banidas, leia [**este artigo**](https://faq.whatsapp.com/465883178708358) da nossa Central de Ajuda.
+
+## Política de Recursos Comerciais do WhatsApp (incluindo oferta de produtos ou serviços para venda)
 
 A Política Comercial é usada para determinar se as empresas podem vender seus produtos e serviços usando o WhatsApp Business, como recursos de produtos comerciais do WhatsApp, como catálogo e pagamentos.
 
@@ -365,4 +366,4 @@ A seção a seguir fornece orientações da política sobre o uso político e go
 * Proibimos o uso da Plataforma do WhatsApp Business por autoridades policiais, serviços militares e agências de segurança nacional e inteligência.
 * Proibimos o uso da Plataforma do WhatsApp Business por entidades que prestam serviços relacionados à política, candidatos políticos, estratégia de campanha política, serviços de campanha política, empresas privadas que fornecem soluções e sistemas de votação para eleições, bem como prestadores de serviços exclusivos do governo.
 
-Para obter mais informações sobre uso político e governamental, acesse a página [**Como criar uma comunidade no WhatsApp**](https://www.facebook.com/gpa/blog/building-community-on-whatsapp). Para obter mais informações sobre como usar o WhatsApp de forma responsável, acesse a página [**Sobre o WhatsApp e as eleições**](https://faq.whatsapp.com/518562649771533).**
+Para obter mais informações sobre uso político e governamental, acesse a página [**Como criar uma comunidade no WhatsApp**](https://www.facebook.com/gpa/blog/building-community-on-whatsapp). Para obter mais informações sobre como usar o WhatsApp de forma responsável, acesse a página [**Sobre o WhatsApp e as eleições**](https://faq.whatsapp.com/518562649771533).

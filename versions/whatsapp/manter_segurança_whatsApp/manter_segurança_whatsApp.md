@@ -20,7 +20,7 @@ Saiba mais sobre como usar o WhatsApp de maneira responsável [neste artigo](htt
 
 ## Recursos de segurança
 
-Nós criamos alguns controles básicos no WhatsApp que podem ser ajustados para ajudar você a manter a sua segurança.
+Nós criamos alguns controles básicos no WhatsApp que você pode configurar como desejar para se manter em segurança.
 
 ## Ferramentas de segurança para mensagens
 
