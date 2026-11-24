@@ -5,12 +5,14 @@
 Percepções
 
 * Percepções
-
-  + Segurança do TikTok em ação: Protegendo nossa comunidade global
-  + Centro de Transparência e Responsabilidade
-  + Integridade Eleitoral no Brasil
-  + Integridade e metodologia de dados do TikTok
 * Confiança e Segurança
+
+  + Boas-vindas ao Blog de Transparência do TikTok
+  + Atualizações nas nossas políticas de publicidade política
+  + Como o TikTok combate comportamentos enganosos
+  + Destaques de transparência de janeiro e fevereiro
+  + Reforçando a integridade eleitoral: nosso compromisso permanente até 2024 e além
+  + Aumentando a transparência na forma como promovemos a autenticidade e protegemos a propriedade intelectual
 * Engajamento da Comunidade
 
 O TikTok é baseado na celebração de experiências genuínas, e temos uma política rigorosa contra qualquer tentativa de comprometer a integridade da plataforma, enganar os usuários ou manipular nossos sistemas. Existem várias ações inautênticas que indivíduos desonestos tentam realizar nas plataformas online, e nós proibimos e combatemos ativamente essas práticas para preveni-las. Nesta publicação, destacamos como definimos, removemos e nos antecipamos a esses comportamentos enganosos e às pessoas por trás deles, incluindo:

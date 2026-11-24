@@ -5,14 +5,15 @@
 Nosso compromisso
 
 * Manter as pessoas seguras
-
-  + Nossa abordagem em relação à moderação de conteúdo
-  + Segurança e bem-estar de jovens
-  + Combate ao ódio
-  + Combate ao conteúdo de extremismo violento on-line
-  + Engajamento de nossos conselhos consultivos
-  + Combate à exploração e ao abuso sexual de crianças
 * Apoiar pesquisas independentes e transparência no conteúdo
+
+  + Proteger a integridade das eleições
+  + Combater as informações enganosas prejudiciais
+  + Combatendo as operações de influência
+  + Classificação de entidades midiáticas afiliadas ao Estado
+  + Privacidade e segurança
+  + Apoiando o conteúdo responsável e transparente gerado por IA
+  + Como o TikTok protege a propriedade intelectual
 * Criando com responsabilidade
 * Defender os direitos humanos
 * Incentivo a pesquisas independentes
