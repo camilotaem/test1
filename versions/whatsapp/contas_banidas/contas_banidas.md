@@ -2,7 +2,7 @@
 
 Se você recebeu o aviso "Conta temporariamente banida", é provável que você esteja usando um app não oficial ou esteja coletando dados de usuários, prática conhecida como extração.
 
-Se você recebeu esse aviso, mude para o app oficial ou pare de extrair dados. Caso contrário, sua conta poderá ser banida permanentemente do WhatsApp.
+Caso você continue usando apps não oficiais ou extraindo dados (scraping) após ser temporariamente banido, sua conta poderá ser banida permanentemente do WhatsApp.
 
 ## Sobre apps não oficiais
 
