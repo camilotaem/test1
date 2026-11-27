@@ -2,6 +2,8 @@
 
 A detecção de semelhanças ajuda os criadores de conteúdo a encontrar conteúdo no YouTube em que o rosto deles parece ter sido alterado ou gerado por IA. Quando algum conteúdo relevante é encontrado, os criadores podem analisar e decidir o que fazer, inclusive pedir a remoção pelo [processo para denúncia de violação de privacidade](/youtube/answer/142443). A detecção de semelhanças dá aos criadores mais controle sobre a própria imagem, protege a identidade deles e cuida do público.
 
+[Detecção de Semelhança no YouTube](//www.youtube.com/watch?v=r1yKbMF4GNQ)
+
 ## Requisitos de qualificação
 
 A detecção de semelhanças está disponível para criadores de conteúdo com um canal do YouTube. Além disso, os criadores precisam atender aos seguintes critérios:

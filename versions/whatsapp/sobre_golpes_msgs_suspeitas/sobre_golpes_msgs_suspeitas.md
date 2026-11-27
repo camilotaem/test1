@@ -19,7 +19,9 @@ Existem algumas dicas que podem ajudar você a identificar uma mensagem suspeita
 
 Quando você recebe uma mensagem de alguém que não está na sua lista de contatos pela primeira vez, mostramos algumas informações para ajudar você a decidir como deseja responder. Essas informações indicam se vocês têm grupos em comum e o país em que o número de telefone da pessoa está registrado. Assim, você pode decidir se deseja responder, adicionar a pessoa aos contatos, bloquear ou denunciar a conta.
 
-Em algumas situações, poderemos mostrar mais contexto quando você entrar em contato com alguém pela primeira vez. Exibimos essas ferramentas quando você envia uma mensagem pela primeira vez para alguém que não está na sua lista de contatos e que pode ser um desconhecido. Nesse caso, mostraremos algumas informações para indicar se vocês têm grupos em comum e em qual país o número de telefone da conta está registrado. Com essas informações, você pode decidir se deseja continuar ou cancelar a conversa.
+Em algumas situações, poderemos mostrar mais contexto quando você entrar em contato com alguém pela primeira vez. Exibimos essas ferramentas quando você envia uma mensagem pela primeira vez para alguém que não está na sua lista de contatos e que pode ser um desconhecido. Nesse caso, mostraremos algumas informações para indicar se vocês têm grupos em comum e em qual país o número de telefone da conta está registrado. Com essas informações, você pode tomar uma decisão bem fundamentada sobre se deseja continuar ou cancelar a conversa.
+
+Se o [alerta de golpe](https://faq.whatsapp.com/812297148601315?helpref=faq_content) estiver ativado, você poderá receber um aviso se uma mensagem parecer suspeita. O alerta de golpe fica desativado por padrão e, no momento, ele está disponível somente em alguns países e em inglês.
 
 **Observação**: o WhatsApp é um aplicativo gratuito. Você não precisa pagar para usá-lo. Se alguém exigir um pagamento para o uso do WhatsApp ou se oferecer para suspender o banimento da sua conta do WhatsApp em troca de um pagamento, é provável que essa pessoa esteja tentando acessar seus dados pessoais ou financeiros.
 
@@ -53,3 +55,4 @@ Entender como funcionam os golpes mais comuns pode ajudar você a reconhecer ten
 * [Sobre arquivos suspeitos](https://faq.whatsapp.com/667552568038157/?cms_platform=android&helpref=platform_switcher&locale=en_US)
 * [Como usar o WhatsApp com responsabilidade](https://faq.whatsapp.com/361005896189245?helpref=faq_content)
 * [Como manter a segurança no WhatsApp](https://faq.whatsapp.com/1313491802751163?helpref=faq_content)
+* [Sobre o alerta de golpe](https://faq.whatsapp.com/812297148601315?helpref=faq_content)
